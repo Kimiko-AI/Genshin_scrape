@@ -1,0 +1,201 @@
+ (But it certainly made it smile...)
+ (Is it this one?)
+ Hmm... That didn't seem to work...
+ I think we got it wrong...
+ Mosi mita dada!
+ Mosi mita!
+ Mosi mita! [Happy!]
+ Quest DescriptionYou go with Ella Musk to communicate with the hilichurls. Perhaps this might be the start of a new friendship...?
+ That didn't seem quite right.
+ That didn't seem quite right... Let's try that again.
+ Tomo, valo!
+(Upon giving Crab, Fish, Frog, or Shrimp Meat)
+Hungry Hilichurl: Yeye tomo! Mosi mita! [You guys are allies! I am happy!]
+ Mosi mita! [Happy!]
+Ella Musk: Success!
+Ella Musk: Du odomu tomo dala? [Where is the ally-gathering friend?]
+Hungry Hilichurl: Mi mito nye. Ya zido mito, mi mito! Mi zido! [I don't know. (There is) a guy who knows where, I know! I'll show you where!]
+Ella Musk: It said... it also doesn't know, but it knows someone else who knows. And it marked their location on the Map for us!
+Ella Musk: So let's find them!
+(Upon giving a Butterfly Wings, Crystal Core, Fowl, Luminescent Spine, or Dandelion Seed)
+Skeptical Hilichurl: Yeye mimi tomo! Mosi mita!
+ Mosi mita!
+Ella Musk: Aha! Another lexical entry confirmed...
+Ella Musk: Du odomu tomo dala?
+Skeptical Hilichurl: Du Wei dala? Mito nye! Mi mito ya zido mito, beru ya!
+Ella Musk: It doesn't know either. But, we can try asking one of its friends.
+Ella Musk: I've marked the location of its friend. Shall we pay them a visit?
+(Upon giving a Crab, Fish, Frog, or Shrimp Meat)
+Hungry Hilichurl: Yeye tomo! Mosi mita!
+ Mosi mita!
+Ella Musk: Success!
+Ella Musk: Du odomu tomo dala?
+Hungry Hilichurl: Mi mito nye. Ya zido mito, mi mito! Mi zido!
+Ella Musk: It said... it also doesn't know, but it knows someone else who knows. And it marked their location on the Map for us!
+Ella Musk: So let's find them!
+(Upon giving a Crystal Chunk, Loach Pearl, Luminescent Spine, Magical Crystal Chunk, Small Lamp Grass, Crystal Core, or Electro Crystal)
+Paimon: It must be happy to tell us where the Unusual Hilichurl is now, surely?
+Sleep-Deprived Hilichurl: Yeye dada.
+Sleep-Deprived Hilichurl: Wei? Du odomu tomo zido mi si, du zido unta nunu!
+Paimon: Unta nunu... It's trying to tell us the time, right?
+ Mosi mita dada!
+ Tomo, valo!
+Sleep-Deprived Hilichurl: Valo, mi tomo!
+Paimon: Valo!
+(Upon giving a Crystal Chunk, Loach Pearl, Magical Crystal Chunk, Noctilucous Jade, Starconch, or Starsilver)
+Paimon: Let's ask if it's ever seen the Unusual Hilichurl!
+Pensive Hilichurl: Mosi mita, yoyo tomo, mimi tomo.
+Pensive Hilichurl: Odomu tomo zido mi! Unta mosi dada!
+Paimon: Unta mosi dada... Feels like we've heard this before. Maybe it'll be in the handbook?
+ Mosi mita dada!
+ Tomo, valo!
+Pensive Hilichurl: Valo, mi tomo!
+Paimon: Valo!
+(Upon giving a Dandelion Seed, Wheat, Almond, Pinecone, or Rice)
+Paimon: Hola! ...That is how to say "hello" in Hilichurlian, right?
+Paimon: Seems like it wants to tell us something about the Unusual Hilichurl.
+Diligent Hilichurl: Yeye dada! Mosi mita!
+Diligent Hilichurl: Hahahaha, kucha gusha unu gusha. Unu kucha si!
+Diligent Hilichurl: Wei? Odomu tomo zido mi! Mosi aba nunu!
+Paimon: Mosi aba nunu... Does the handbook say what that phrase means?
+ Mosi mita dada!
+ Tomo, valo!
+Diligent Hilichurl: Valo, mi tomo!
+(Upon giving a Jueyun Chili, Flaming Flower Stamen, Silk Flower, Snapdragon, Valberry, Windwheel Aster, Tomato, or Carrot)
+Restless Hilichurl: Mosi mita! Tomo, valo!
+ Mosi mita!
+Ella Musk: Ah, okay, I see...
+Ella Musk: Du odomu tomo dala?
+Restless Hilichurl: Du Wei dala? Mito nye! Yeye beru mi tomo!
+Ella Musk: It doesn't know either, but we can try asking one of its friends.
+Ella Musk: Alright, then let's head off.
+(Upon giving a Mushroom, Snapdragon, Wheat, Berry, Sweet Flower, or Potato)
+Sleepy Hilichurl: Yeye tomo! Mosi mita!
+ Mosi mita!
+Ella Musk: See? Where there's a will to communicate, there's a way!
+Ella Musk: Du odomu tomo dala?
+Sleepy Hilichurl: Mito nye! Beru ya!
+Ella Musk: It said that its friend knows, and it's marked their location on the Map for us. Let's go find them!
+(Upon giving other items)
+Diligent Hilichurl: Nye nye nye. Kucha, gusha. Hahahaha. Kucha gusha, kucha, gusha. Hahaha.
+Paimon: That didn't seem right.
+ (But it certainly made it smile...)
+(Upon giving other items)
+Hungry Hilichurl: Gusha! Mani nye!
+ I think we got it wrong...
+(Upon giving other items)
+Hungry Hilichurl: Gusha! Mani nye! [No! Don't give me that!]
+ I think we got it wrong...
+(Upon giving other items)
+Pensive Hilichurl: Domu movo si, Eleka nini si, tomo tomo. Tomo dala si?
+Ella Musk: Families change, tribes die out. And friends... Does friendship mean nothing!?
+Paimon: We just gave the wrong item, it's no big deal... No need to give up on the whole world.
+(Upon giving other items)
+Restless Hilichurl: Nye, Mani nye!
+ Hmm... That didn't seem to work...
+(Upon giving other items)
+Skeptical Hilichurl: Biadam! Mani nye!
+ That didn't seem quite right... Let's try that again.
+(Upon giving other items)
+Sleep-Deprived Hilichurl: Nye nye nye!
+ That didn't seem quite right.
+(Upon giving other items)
+Sleepy Hilichurl: Gusha! Mani nye!
+ I think we got it wrong...
+Diligent Hilichurl: Hahahaha, kucha gusha unu gusha. Unu kucha si!
+Diligent Hilichurl: Mani. Mi muhe mani. Unu du mani! Hahahahaha.
+Diligent Hilichurl: Mi muhe kucha gusha. Kucha gusha dada. Unu gusha dada!
+Diligent Hilichurl: Mi muhe unu boya gusha.
+Diligent Hilichurl: Nye nye nye. Kucha, gusha. Hahahaha. Kucha gusha, kucha, gusha. Hahaha.
+Diligent Hilichurl: Valo, mi tomo!
+Diligent Hilichurl: Wei? Odomu tomo zido mi! Mosi aba nunu!
+Diligent Hilichurl: Ya!
+Diligent Hilichurl: Yeye dada! Mosi mita!
+Ella Musk: Ah, okay, I see...
+Ella Musk: Aha! Another lexical entry confirmed...
+Ella Musk: Alright, then let's head off.
+Ella Musk: Du odomu tomo dala?
+Ella Musk: Du odomu tomo dala? [Where is the ally-gathering friend?]
+Ella Musk: Families change, tribes die out. And friends... Does friendship mean nothing!?
+Ella Musk: He wants to... Actually, never mind, you can find everything you need to know inside the handbook.
+Hilichurl's DemandsThis hilichurl would like you to give this to him:Kucha gusha
+Ella Musk: Hmm, it appears that it wants an object of a specific color... Shall we go see what it wants?
+Hilichurl's DemandsThis hilichurl would like you to give this to him:Gusha unu boya
+Ella Musk: Hmm, why don't we try giving it something it wants, to try and make it feel better?
+Hilichurl's DemandsThis hilichurl would like you to give this to him:Celi lata
+Ella Musk: I think it... it wants something from us.
+Hilichurl's DemandsThis hilichurl would like you to give this to him:Upano
+Ella Musk: I've marked the location of its friend. Shall we pay them a visit?
+Ella Musk: It appears to want something... Oh, I think there's something about this in my handbook, why not take a look?
+Hilichurl's DemandsThis hilichurl would like you to give this to him:Lata Boya sada
+Ella Musk: It appears to want... some sort of meat? But I'm not sure what, exactly, so could you please check the handbook?
+Ella Musk: It appears to want... some sort of meat? But I'm not sure what, exactly, so could you please check the handbook?
+Hilichurl's DemandsThis hilichurl would like you to give this to him:Mita movo lata
+Ella Musk: It doesn't know either, but we can try asking one of its friends.
+Ella Musk: It doesn't know either. But, we can try asking one of its friends.
+Ella Musk: It said that its friend knows, and it's marked their location on the Map for us. Let's go find them!
+Ella Musk: It said... it also doesn't know, but it knows someone else who knows. And it marked their location on the Map for us!
+Ella Musk: It says it doesn't want to see the sun. It wants to fall asleep and never wake up again... Goodness knows what could be causing it so much anguish.
+Ella Musk: Mimi ika yaya nye! Mimi tomo, mimi mani ye.
+Ella Musk: Mimi tomo.
+Ella Musk: Mimi tomo. Mimi mani ye.
+Ella Musk: Oh, it's hungry... Let's see what it wants, shall we?
+Ella Musk: See? Where there's a will to communicate, there's a way!
+Ella Musk: So let's find them!
+Ella Musk: Success!
+Ella Musk: This one just told a joke in Hilichurlian, then laughed at its own joke. They must have such a spiritually impoverished existence... Poor things.
+Ella Musk: What does it want from us...? Let's see what it wants, shall we?
+Hilichurl's DemandsThis hilichurl would like you to give this to him:Gusha celi boya
+Ella Musk: Ye muhe dala? Mimi mani ye.
+Hungry Hilichurl: Gusha! Mani nye!
+Hungry Hilichurl: Gusha! Mani nye! [No! Don't give me that!]
+Hungry Hilichurl: Mani mi mita movo lata!
+Hungry Hilichurl: Mani mi mita movo lata! [Give me meat (from the) water!]
+Hungry Hilichurl: Mi mito nye. Ya zido mito, mi mito! Mi zido!
+Hungry Hilichurl: Mi mito nye. Ya zido mito, mi mito! Mi zido! [I don't know. (There is) a guy who knows where, I know! I'll show you where!]
+Hungry Hilichurl: Mi muhe mosi! Mi muhe mita, mita movo lata!
+Hungry Hilichurl: Mi muhe mosi! Mi muhe mita, mita movo lata! [I want to eat! I want meat, meat (from the) water]
+Hungry Hilichurl: Yeye tomo! Mosi mita!
+Hungry Hilichurl: Yeye tomo! Mosi mita! [You guys are allies! I am happy!]
+Paimon: Hola! ...That is how to say "hello" in Hilichurlian, right?
+Paimon: It must be happy to tell us where the Unusual Hilichurl is now, surely?
+Paimon: Let's ask if it's ever seen the Unusual Hilichurl!
+Paimon: Mosi aba nunu... Does the handbook say what that phrase means?
+Paimon: Seems like it wants to tell us something about the Unusual Hilichurl.
+Paimon: That didn't seem right.
+Paimon: This seems to be the place, so... Let's look around for hilichurls to chat with?
+Paimon: Unta mosi dada... Feels like we've heard this before. Maybe it'll be in the handbook?
+Paimon: Unta nunu... It's trying to tell us the time, right?
+Paimon: Valo!
+Paimon: We just gave the wrong item, it's no big deal... No need to give up on the whole world.
+Pensive Hilichurl: Domu movo si, Eleka nini si, tomo tomo. Tomo dala si?
+Pensive Hilichurl: Emmm... Yoyo, ika? Tomo?
+Pensive Hilichurl: Mi muhe du, du lata boya sada si.
+Pensive Hilichurl: Mosi mita, yoyo tomo, mimi tomo.
+Pensive Hilichurl: Odomu tomo zido mi! Unta mosi dada!
+Pensive Hilichurl: Tomo tomo. Tomo dala si? Domu nye, ika nye.
+Pensive Hilichurl: Valo, mi tomo!
+Pensive Hilichurl: Ya tomo mani, mani yaya tome nye... Mi muhe du, du lata boya sada si.
+Restless Hilichurl: Du Wei dala? Mito nye! Yeye beru mi tomo!
+Restless Hilichurl: Gusha celi boya!
+Restless Hilichurl: Mimi muhe gusha, gusha celi boya!
+Restless Hilichurl: Mosi mita! Tomo, valo!
+Restless Hilichurl: Nye, Mani nye!
+Restless Hilichurl: Yaya! Dala!
+Skeptical Hilichurl: Biadam! Mani nye!
+Skeptical Hilichurl: Du Wei dala? Mito nye! Mi mito ya zido mito, beru ya!
+Skeptical Hilichurl: Mi muhe Upano!
+Skeptical Hilichurl: Yeye mimi tomo! Mosi mita!
+Sleep-Deprived Hilichurl: Biat. Mi muhe celi lata. Mi nunu nye.
+Sleep-Deprived Hilichurl: Mi muhe celi lata.
+Sleep-Deprived Hilichurl: Nye nye nye!
+Sleep-Deprived Hilichurl: Valo, mi tomo!
+Sleep-Deprived Hilichurl: Wei? Du odomu tomo zido mi si, du zido unta nunu!
+Sleep-Deprived Hilichurl: Yeye dada.
+Sleep-Deprived Hilichurl: Yoyo dala si?
+Sleep-Deprived Hilichurl: Yoyo mani mi? Mi muhe Upa Celi nini. Mi muhe mi nunu si, mi muhe mi nye.
+Sleepy Hilichurl: Gusha! Mani nye!
+Sleepy Hilichurl: Mani mi gusha unu boya!
+Sleepy Hilichurl: Mimi muhe  gusha unu boya
+Sleepy Hilichurl: Mito nye! Beru ya!
+Sleepy Hilichurl: Yeye tomo! Mosi mita!

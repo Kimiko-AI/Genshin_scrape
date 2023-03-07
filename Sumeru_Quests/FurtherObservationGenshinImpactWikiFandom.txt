@@ -1,0 +1,227 @@
+
+Media:vo xmaq002 6 paimon 01.ogg Paimon: The Dendro Archon's Statue of The Seven is up there, you should try touching it like the other ones we've found on our journey.
+Media:vo xmaq002 6 paimon 02.ogg Paimon: Paimon bets you'll definitely get a response from the Dendro Archon.
+(Unlock the Statue of The Seven and resonate with Dendro)
+
+Media:vo xmaq002 7 paimon 04.ogg Paimon:  Well, anyway, we'll have to figure that out later. For now, let's focus on our job and clean up this—
+A curious little being pops up by the statue, but it soon vanishes into the earth.
+???: ...
+ ...
+Media:vo xmaq002 7 paimon 05.ogg Paimon: Huh? Wait a sec! Is it just Paimon, or was there something moving!?
+ You noticed it too?
+Media:vo xmaq002 7 paimon 06a.ogg Paimon: Yeah! It was kinda small and round... You know, like a vegetable or something.
+ Like a head of cabbage?
+Media:vo xmaq002 7 paimon 06b.ogg Paimon: Yeah, that's it! Small and round like cabbage... but moving!
+Media:vo xmaq002 7 paimon 07.ogg Paimon: It really freaked Paimon out! Whatever it was, we should probably go and investigate.
+Media:vo xmaq002 7 paimon 08.ogg Paimon: Uh actually, on second thought, maybe we should get to cleaning first. Paimon'll fly up and take care of the top, and you clean everything below.
+
+Media:vo xmaq002 7 paimon 12.ogg Paimon: Well, anyway, we'll have to figure that out later.
+Media:vo xmaq002 7 paimon 13.ogg Paimon: Let's get started on cleaning the statue. Paimon'll fly up and take care of the top, and you can clean everything below.
+
+Media:vo xmaq002 9 collei 01.ogg Collei: Welcome back! You must be tired after all that climbing. Let's take a little break.
+Media:vo xmaq002 9 paimon 02.ogg Paimon: Ah, by the way, Collei, have you ever seen any small creatures scurrying around in the forest? You know... that kinda look like a veggie?
+Media:vo xmaq002 9 collei 02.ogg Collei: A creature that looks like a veggie? Hmm... Well, I guess Master would say something like, "All plants are living organisms, so they also fall under the category of creatures."
+You tell Collei about the thing you saw earlier.
+Media:vo xmaq002 9 collei 03.ogg Collei: Wow, fascinating! It almost sounds like an imaginary creature that you hear kids always talking about! I'll be sure to keep an eye out for anything like it.
+Media:vo xmaq002 9 collei 04.ogg Collei: Oh, I almost forgot. Are you two hungry? I packed some food and water for us.
+
+Media:vo xmaq002 9 collei 05.ogg Collei: Welcome back! You must be tired after all that climbing. Let's take a little break now. I brought some food and water for us.
+ (Does it coincide with Khaenri'ah...?)
+ (Sounds exactly like what happened to Raiden Makoto...)
+ ...
+ Amber, Outrider of the Knights of Favonius?
+ Collei, what's the matter?
+ Huh?
+ I saw them.
+ I saw them.
+Paimon: Little round, plantlike things, right? Gone just like that!
+Paimon: We should ask around when we get a chance.
+ Is there something we can help with?
+ Like a head of cabbage?
+Media:vo xmaq002 7 paimon 06b.ogg Paimon: Yeah, that's it! Small and round like cabbage... but moving!
+ Maybe Greater Lord Rukkhadevata?
+Media:vo xmaq002 7 paimon 03a.ogg Paimon: You might be right. The statue does look kinda old, hmm...
+ Maybe Lesser Lord Kusanali?
+Media:vo xmaq002 7 paimon 03b.ogg Paimon: The name does seem to fit the statue somehow. Hmm....
+ No need to worry. I'm a terrific climber.
+ Paimon's right, we're friends.
+ Paimon, some restraint, please...
+ Quest DescriptionYou can't be said to have really settled into rehabilitation at Gandharva Ville yet, but you can still ask Collei for some information.
+ Shouldn't be a problem.
+ Speaking of his ears... I'd really like to pet them!
+Media:vo xmaq002 9 collei 17b.ogg Collei: Hehehe, I know, right! I've always wanted to pet them, too. Ahem...
+Media:vo xmaq002 9 collei 17b 1.ogg Collei: Anyway, Master could have easily left the rainforest to take up a position at the Akademiya. But he chose to stay here instead as a Forest Watcher, helping the locals every day and passing on his knowledge to trainees.
+ That does sound like something Tighnari would say...
+Media:vo xmaq002 9 collei 17a.ogg Collei: Haha, seems you already know him well. Anyway, I'm sure the sages were not happy about his responses.
+Media:vo xmaq002 9 collei 17a 1.ogg Collei: Master could obviously have a bright future in the Akademiya, but he insists on sticking to the path of a Forest Watcher. Every day, he helps the locals of the forest and passes on his extensive knowledge to trainees like me.
+ The avid glider from Mondstadt?
+ What are those...?
+Paimon: Little round, plantlike things, right? Gone just like that!
+Paimon: We should ask around when we get a chance.
+ What are you talking about?
+Paimon: Those little round, plantlike things! Gone just like that!
+ I saw them.
+ You mean cabbages?
+Paimon: No! They're creatures. You know, little fairies or something...
+ You're seeing things, Paimon.
+Paimon: No! They're creatures. You know, little fairies or something...
+Paimon: Stop patronizing Paimon! They were not hallucinations!
+Paimon: Anyway, we should ask around when we get a chance...
+ What did you do?
+ Wow, we've never seen this side of you, Collei...
+ You mean cabbages?
+Paimon: No! They're creatures. You know, little fairies or something...
+ You noticed it too?
+Media:vo xmaq002 7 paimon 06a.ogg Paimon: Yeah! It was kinda small and round... You know, like a vegetable or something.
+ You're seeing things, Paimon.
+Paimon: No! They're creatures. You know, little fairies or something...
+Paimon: Stop patronizing Paimon! They were not hallucinations!
+???: ...
+A curious little being pops up by the statue, but it soon vanishes into the earth.
+Media:vo dialog xmaq002 collei 01.ogg Collei: Uh, I'm not a very good climber, so I'll just let you handle the statue.
+Media:vo dialog xmaq002 collei 02.ogg Collei: I'll go check the facilities up ahead. By the way, once we're done with our work here... would you like to chat some more?
+Media:vo xmaq002 1 paimon 01.ogg Paimon: Rise and shine! C'mon, it's time to go find Collei.
+Media:vo xmaq002 10 nasrin 01.ogg Nasrin: Ah, Traveler, you've returned.
+Media:vo xmaq002 10 nasrin 02.ogg Nasrin: Oh, Collei? Yes, I saw her go into her room just a moment ago.
+Media:vo xmaq002 10 paimon 01.ogg Paimon: Yep, we're back. Uh, have you seen Collei by any chance?
+Media:vo xmaq002 10 paimon 02.ogg Paimon: Oh, okay... Guess we'll just have to wait and talk to her tomorrow then.
+Media:vo xmaq002 2 amir 01.ogg Amir: Tighnari, we're ready to head out!
+Media:vo xmaq002 2 collei 01.ogg Collei: Yes, I will. By the way, Master, I still haven't received the patrol route for today.
+Media:vo xmaq002 2 collei 02.ogg Collei: But I have a Vision, too! Am I useless to everyone now...?
+Media:vo xmaq002 2 collei 03.ogg Collei: Yes, you can count on me!
+Media:vo xmaq002 2 collei 04.ogg Collei: Well, a Forest Ranger's responsibilities can be pretty diverse.
+Media:vo xmaq002 2 collei 05.ogg Collei: We handle a variety of tasks, like checking the condition of outlying roads, maintaining forest facilities, ensuring fire prevention standards are met, and providing assistance to travelers and locals.
+Media:vo xmaq002 2 collei 06.ogg Collei: As for Master, well, he has to handle more dangerous areas of the rainforest.
+Media:vo xmaq002 2 collei 07.ogg Collei: Today we can perform routine checks on the pathway lamps as we make our way to the Statue of The Seven.
+Media:vo xmaq002 2 paimon 01.ogg Paimon: Yeah, since we'll be staying here for now, we thought we might as well try lending a hand around here.
+Media:vo xmaq002 2 paimon 02.ogg Paimon: So Collei, what exactly are we going to be doing today?
+Media:vo xmaq002 2 paimon 03.ogg Paimon: Tighnari mentioned cleaning the statue just now, but uh... that doesn't really sound like a job for a ranger.
+Media:vo xmaq002 2 tighnari 01.ogg Tighnari: Alright, next let's see your right hand... Hmm, yes, not bad.
+Media:vo xmaq002 2 tighnari 02.ogg Tighnari: But please remember that you still need to be careful, understand?
+Media:vo xmaq002 2 tighnari 03.ogg Tighnari: Today's patrol will be a long one, so you won't be coming along this time. Besides, there's a chance we may encounter... Well, you understand.
+Media:vo xmaq002 2 tighnari 04.ogg Tighnari: Don't talk like that, Collei. This is not something you need to be worrying about right now.
+Media:vo xmaq002 2 tighnari 05.ogg Tighnari: Ah, there you are. Feeling any better?
+Media:vo xmaq002 2 tighnari 06.ogg Tighnari: Hehe, seems you're not the type to sit back and take it easy for a while, huh. In that case, perhaps Collei could take you two for a patrol south of Gandharva Ville for the day.
+Media:vo xmaq002 2 tighnari 07.ogg Tighnari: And if you're feeling up to it, you can be responsible for cleaning the Statue of The Seven.
+Media:vo xmaq002 2 tighnari 08.ogg Tighnari: Roger, I'll be right there! Alright, we'll be heading into the forest now. I'll leave any further details to Collei.
+Media:vo xmaq002 3 collei 01.ogg Collei: Paimon, Traveler, this way.
+Media:vo xmaq002 3 collei 02.ogg Collei: You can leave the task of checking the lamps to me. In the meantime, you two can keep an eye out for anything unusual.
+Media:vo xmaq002 3 collei 03.ogg Collei: Nothing wrong with these two lamps. Let's move to the next ones.
+Media:vo xmaq002 3 collei 04.ogg Collei: Oh, this lamp seems to be getting a little wobbly. Let me make a note of it.
+Media:vo xmaq002 3 collei 05.ogg Collei: Hmm, no problems with this lamp. Good.
+Media:vo xmaq002 4 collei 01.ogg Collei: The Statue of The Seven is up on top of that large rock formation. You must have seen it when you came down this road before.
+Media:vo xmaq002 4 collei 02.ogg Collei: It's pretty high up there, isn't it? Don't worry, if you're afraid you can't make it up there, I'm sure Master wouldn't mind if you don't clean the statue.
+Media:vo xmaq002 4 collei 03.ogg Collei: Oh? I guess I'll leave it up to you, then. There's not much footing once you reach the statue, so be careful up there.
+Media:vo xmaq002 4 collei 04.ogg Collei: Uhh, that depends. Are you referring to Greater Lord Rukkhadevata or Lesser Lord Kusanali?
+Media:vo xmaq002 4 collei 05.ogg Collei: Uh-huh. Greater Lord Rukkhadevata was Sumeru's first Dendro Archon. She created the rainforests as well as the Wall of Samiel around the desert. Her works provided a means of peaceful living for everyone.
+Media:vo xmaq002 4 collei 06.ogg Collei: To the people of Sumeru, she is not only a symbol of wisdom but also of power and kindness. Unfortunately, she disappeared in a great calamity that occurred a few hundred years ago.
+Media:vo xmaq002 4 collei 07.ogg Collei: According to what Master has told me, the sages later found the newly born Dendro Archon and whisked her back to Sumeru.
+Media:vo xmaq002 4 collei 08.ogg Collei: To celebrate the reinstatement of their lost deity, the sages dubbed her "Lesser Lord Kusanali" and let her reside in the Sanctuary of Surasthana.
+Media:vo xmaq002 4 collei 09.ogg Collei: Well, and then... uh... I'm not too sure what happened, to be honest.
+Media:vo xmaq002 4 collei 10.ogg Collei: Yeah, I'm from Sumeru, but...
+Media:vo xmaq002 4 collei 11.ogg Collei: No, no, it's not that. I'm not trying to hide something from you. Besides, I don't consider you two strangers.
+Media:vo xmaq002 4 collei 12.ogg Collei: Haha, because you two know Amber, right?
+Media:vo xmaq002 4 collei 13.ogg Collei: Yes, that's her! I once lived in Mondstadt for a while, and she helped me a lot during that time. You could even say that she helped me become a new person.
+Media:vo xmaq002 4 paimon 01.ogg Paimon: (Traveler), Paimon'll fly up with you and help with those hard-to-reach areas.
+Media:vo xmaq002 4 paimon 02.ogg Paimon: Um, by the way, Collei, do you know anything about the Dendro Archon? You know, what's she like?
+Media:vo xmaq002 4 paimon 03.ogg Paimon: Huh? Greater Lord Rukkhadevata?
+Media:vo xmaq002 4 paimon 04.ogg Paimon: Oh, is that the name of the former Dendro Archon?
+Media:vo xmaq002 4 paimon 05.ogg Paimon: Uh-huh, then what happened?
+Media:vo xmaq002 4 paimon 06.ogg Paimon: Huh? You're not too sure? But aren't you from Sumeru?
+Media:vo xmaq002 4 paimon 07.ogg Paimon: Maybe it's difficult to discuss this topic with strangers... If that's the case, then don't worry, we understand.
+Media:vo xmaq002 4 paimon 08.ogg Paimon: Wait, Amber? You mean—
+Media:vo xmaq002 5 collei 01.ogg Collei: There's no one like Amber! She lives life to the fullest while always adhering to her strong sense of justice. She's ready to answer the call for action at any moment, but is also very understanding of others. She's like the spark that lights the fire in everyone's heart around her.
+Media:vo xmaq002 5 collei 02.ogg Collei: If you ask me, she's a prime example of a true Outrider. She's the first person anyone coming to Mondstadt will meet. You can't help but be enthralled by her charm and enthusiasm, causing you to fall in love with the lands of Mondstadt, and...
+Media:vo xmaq002 5 collei 03.ogg Collei: Uhh, hehe... Sorry...
+Media:vo xmaq002 5 collei 04.ogg Collei: Ahem... S—Sorry, I was just rambling on just now. It must have sounded kinda weird.
+Media:vo xmaq002 5 collei 05.ogg Collei: Well, after I returned to Sumeru, Amber and I have stayed in touch by writing each other letters.
+Media:vo xmaq002 5 collei 06.ogg Collei: In one letter, she mentioned that Mondstadt was attacked by a fearsome dragon, but the city was saved by a mysterious blond traveler and their floating companion.
+Media:vo xmaq002 5 collei 07.ogg Collei: I knew you two were the ones she mentioned in the letter the moment I saw you. But, uh, considering everything you'd been through that day, I thought it'd be inappropriate to bring it up...
+Media:vo xmaq002 5 collei 08.ogg Collei: Yep! So please know that you two have my complete trust, really.
+Media:vo xmaq002 5 collei 09.ogg Collei: I wish I could tell you more about the Dendro Archon, but I had been away from Sumeru for some time, and I haven't read any books... Sorry.
+Media:vo xmaq002 5 collei 10.ogg Collei: Oh, I'm happy that was helpful. There is one thing I want to ask, though... Why do you two want to know about the Dendro Archon?
+Media:vo xmaq002 5 collei 11.ogg Collei: So that's why you're here. Thank you for telling me your story.
+Media:vo xmaq002 5 collei 12.ogg Collei: You both have my thanks! While you two are up there cleaning, I'll go ahead and inspect the forest canopy. Let's meet back here shortly.
+Media:vo xmaq002 5 paimon 01.ogg Paimon: Huh, Paimon thought the work of Outriders was a little different from what you just described, but one thing's for sure... you really like Amber.
+Media:vo xmaq002 5 paimon 02.ogg Paimon: Hehe, it's alright, Collei. Knowing that you're a friend of Amber somehow makes Paimon suddenly feel a lot closer to you.
+Media:vo xmaq002 5 paimon 03.ogg Paimon: So, how did you know that we've met Amber?
+Media:vo xmaq002 5 paimon 04.ogg Paimon: Ah, so that's how you knew!
+Media:vo xmaq002 5 paimon 05.ogg Paimon: That's alright! You've already helped us a lot, we had never even heard of Greater Lord Rukkhadevata or the Sanctuary of Surasthana until you mentioned them.
+Media:vo xmaq002 5 paimon 06.ogg Paimon: Don't mention it! We are friends after all, right?
+Media:vo xmaq002 5 paimon 07.ogg Paimon: Hehe! Alright, we have a statue to clean!
+Media:vo xmaq002 6 paimon 01.ogg Paimon: The Dendro Archon's Statue of The Seven is up there, you should try touching it like the other ones we've found on our journey.
+Media:vo xmaq002 6 paimon 02.ogg Paimon: Paimon bets you'll definitely get a response from the Dendro Archon.
+Media:vo xmaq002 7 paimon 01.ogg Paimon: Huh, now that Paimon looks at it, the deity that's carved on the statue is... kinda small.
+Media:vo xmaq002 7 paimon 02.ogg Paimon: Hmm, do you think she's supposed to be Greater Lord Rukkhadevata or Lesser Lord Kusanali?
+Media:vo xmaq002 7 paimon 03a.ogg Paimon: You might be right. The statue does look kinda old, hmm...
+Media:vo xmaq002 7 paimon 03b.ogg Paimon: The name does seem to fit the statue somehow. Hmm....
+Media:vo xmaq002 7 paimon 04.ogg Paimon:  Well, anyway, we'll have to figure that out later. For now, let's focus on our job and clean up this—
+Media:vo xmaq002 7 paimon 05.ogg Paimon: Huh? Wait a sec! Is it just Paimon, or was there something moving!?
+Media:vo xmaq002 7 paimon 06a.ogg Paimon: Yeah! It was kinda small and round... You know, like a vegetable or something.
+Media:vo xmaq002 7 paimon 06b.ogg Paimon: Yeah, that's it! Small and round like cabbage... but moving!
+Media:vo xmaq002 7 paimon 07.ogg Paimon: It really freaked Paimon out! Whatever it was, we should probably go and investigate.
+Media:vo xmaq002 7 paimon 08.ogg Paimon: Uh actually, on second thought, maybe we should get to cleaning first. Paimon'll fly up and take care of the top, and you clean everything below.
+Media:vo xmaq002 7 paimon 12.ogg Paimon: Well, anyway, we'll have to figure that out later.
+Media:vo xmaq002 7 paimon 13.ogg Paimon: Let's get started on cleaning the statue. Paimon'll fly up and take care of the top, and you can clean everything below.
+Media:vo xmaq002 8 paimon 01.ogg Paimon: Nice work, that's one clean statue! Let's head down and meet up with Collei.
+Media:vo xmaq002 9 collei 01.ogg Collei: Welcome back! You must be tired after all that climbing. Let's take a little break.
+Media:vo xmaq002 9 collei 02.ogg Collei: A creature that looks like a veggie? Hmm... Well, I guess Master would say something like, "All plants are living organisms, so they also fall under the category of creatures."
+Media:vo xmaq002 9 collei 03.ogg Collei: Wow, fascinating! It almost sounds like an imaginary creature that you hear kids always talking about! I'll be sure to keep an eye out for anything like it.
+Media:vo xmaq002 9 collei 04.ogg Collei: Oh, I almost forgot. Are you two hungry? I packed some food and water for us.
+Media:vo xmaq002 9 collei 05.ogg Collei: Welcome back! You must be tired after all that climbing. Let's take a little break now. I brought some food and water for us.
+Media:vo xmaq002 9 collei 06.ogg Collei: I prepared a nice, portable dish that Forest Rangers like to eat, called Pita Pockets. I hope you'll like them...
+Media:vo xmaq002 9 collei 07.ogg Collei: Wh—Whoops!
+Media:vo xmaq002 9 collei 08.ogg Collei: Not to worry! I wrapped a few layers of oiled paper around each pita. They should be fine.
+Media:vo xmaq002 9 collei 09.ogg Collei: Haha, you really know how to compliment the chef, Paimon.
+Media:vo xmaq002 9 collei 10.ogg Collei: Since you liked it so much, I'll be sure to give you a copy of the recipe sometime. I'll even include all my personal cooking pointers, so you'll be making your own Pita Pockets in no time.
+Media:vo xmaq002 9 collei 11.ogg Collei: Oh, hehe... I guess it happens from time to time.
+Media:vo xmaq002 9 collei 12.ogg Collei: No no, you've got the wrong idea about Master. Sure, he may seem a bit harsh at first. With some time, you'll see that he's actually very kindhearted.
+Media:vo xmaq002 9 collei 13.ogg Collei: I've heard the veteran rangers say that Master is from some ancient and mysterious race that is known for their cunning wit and reclusive nature. But Master is actually very kind at heart.
+Media:vo xmaq002 9 collei 14.ogg Collei: Oh, by the way, you've heard of the Akademiya, right? Well, there's a group called Am... uh, Amu something...
+Media:vo xmaq002 9 collei 15.ogg Collei: Well, anyway, because Master does a lot of research on plants, sages from the Akademiya have written him many times, inviting him to take up an official position there.
+Media:vo xmaq002 9 collei 16.ogg Collei: But Master declines their offers every time, saying, "Sumeru City is too noisy. It'd be bad for my ears."
+Media:vo xmaq002 9 collei 17a 1.ogg Collei: Master could obviously have a bright future in the Akademiya, but he insists on sticking to the path of a Forest Watcher. Every day, he helps the locals of the forest and passes on his extensive knowledge to trainees like me.
+Media:vo xmaq002 9 collei 17a.ogg Collei: Haha, seems you already know him well. Anyway, I'm sure the sages were not happy about his responses.
+Media:vo xmaq002 9 collei 17b 1.ogg Collei: Anyway, Master could have easily left the rainforest to take up a position at the Akademiya. But he chose to stay here instead as a Forest Watcher, helping the locals every day and passing on his knowledge to trainees.
+Media:vo xmaq002 9 collei 17b.ogg Collei: Hehehe, I know, right! I've always wanted to pet them, too. Ahem...
+Media:vo xmaq002 9 collei 18.ogg Collei: In fact, Master's the one who taught me how to make Pita Pockets.
+Media:vo xmaq002 9 collei 19.ogg Collei: Oh no, I'm sorry. Master might've been overreacting a little...
+Media:vo xmaq002 9 collei 20a.ogg Media:vo xmaq002 9 collei 20b.ogg Collei: But it's mostly because Paimon wouldn't stop yelling, "Why, oh why!? Is (he/she) going to die!?" It probably started to get under Master's skin after a while.
+Media:vo xmaq002 9 collei 21.ogg Collei: Pfft! Hehehe...
+Media:vo xmaq002 9 collei 22.ogg Collei: No! Don't touch me!!!
+Media:vo xmaq002 9 collei 23.ogg Collei: Ah, no I just... I—I didn't mean that...
+Media:vo xmaq002 9 collei 24.ogg Collei: No uh, I—I'm fine. I'm sorry, I must've startled you both reacting like that.
+Media:vo xmaq002 9 collei 25.ogg Collei: Oh, well it's getting late now. Uh, let's hurry back to Gandharva Ville. I think Master and the others should be back by now, too.
+Media:vo xmaq002 9 paimon 01.ogg Paimon: Collei, we're back.
+Media:vo xmaq002 9 paimon 02.ogg Paimon: Ah, by the way, Collei, have you ever seen any small creatures scurrying around in the forest? You know... that kinda look like a veggie?
+Media:vo xmaq002 9 paimon 04.ogg Paimon: Yay, food! What kind of goodies did you bring!?
+Media:vo xmaq002 9 paimon 05.ogg Paimon: Hey, don't be a party pooper! It's not like Collei is a stranger or anything. Besides, the best way to compliment a chef is to show passion for their food! Xiangling taught Paimon that.
+Media:vo xmaq002 9 paimon 06.ogg Paimon: AH! Nooo!!! You dropped it on the ground!
+Media:vo xmaq002 9 paimon 07.ogg Paimon: Oh, whew... Paimon nearly had a heart attack there.
+Media:vo xmaq002 9 paimon 08.ogg Paimon: Those pitas are amazing! You're quite the cook, Collei.
+Media:vo xmaq002 9 paimon 09.ogg Paimon: Thank goodness you wrapped them in paper... Paimon wouldn't be able to sleep at night knowing something so tasty had been wasted.
+Media:vo xmaq002 9 paimon 10.ogg Paimon: Yay thanks, Collei! It's hard to believe someone as diligent as you could have clumsy moments too.
+Media:vo xmaq002 9 paimon 11.ogg Paimon: So uh, Collei... Don't you think that Tighnari's a little too strict with you? He won't let you touch anything without his permission.
+Media:vo xmaq002 9 paimon 12a.ogg Media:vo xmaq002 9 paimon 12b.ogg Paimon: Paimon knocks stuff over all the time flying around the Traveler, but (Traveler)'s never said anything. Everyone has their clumsy moments!
+Media:vo xmaq002 9 paimon 13.ogg Paimon: Really? Paimon would've never guessed that.
+Media:vo xmaq002 9 paimon 14.ogg Paimon: Oh, speaking of Tighnari, he was the one who took care of you after finding you passed out yesterday. He even carried you all the way here.
+Media:vo xmaq002 9 paimon 15.ogg Paimon: Paimon's still kinda upset, though! He kept scolding Paimon the entire way here.
+Media:vo xmaq002 9 paimon 16.ogg Paimon: Hey! Argh, don't laugh!!! Paimon was genuinely concerned about you!
+Media:vo xmaq002 9 paimon 17.ogg Paimon: Hey! Now even Collei's starting to laugh!
+Media:vo xmaq002 9 paimon 18.ogg Paimon: Ughhh! That's it! Paimon won't forget this! It's time for some Paimonial wrath!
+Media:vo xmaq002 9 paimon 19.ogg Paimon: Oh! Sorry, Collei! Paimon didn't mean to scare you...
+Media:vo xmaq002 9 paimon 20.ogg Paimon: Collei, are you okay? What's the matter?
+Media:vo xmaq002 9 paimon 21.ogg Paimon: Huh, what was up with Collei just now? And why's she in such a hurry all of a sudden...? Look, she's practically running back. Paimon can't even see her now!
+Paimon: (Traveler), did you see them?
+Paimon: Anyway, we should ask around when we get a chance...
+Paimon: Eh? What were those?
+Paimon: Little round, plantlike things, right? Gone just like that!
+Paimon: No! They're creatures. You know, little fairies or something...
+Paimon: Stop patronizing Paimon! They were not hallucinations!
+Paimon: Those little round, plantlike things! Gone just like that!
+Paimon: We should ask around when we get a chance.
+You and Paimon meticulously clean the statue.
+You enjoy the pitas together with Collei.
+You explain the purpose of your journey to Collei.
+You tell Collei about the thing you saw earlier.
+You walk upwards along the wooden path and find Collei and Tighnari some distance away.

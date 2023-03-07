@@ -1,0 +1,79 @@
+
+(Requires a photo of Sakura Bloom or Dendrobium)
+The radiant flowers abroad do bloomTheir scent a novel, lovely strain
+
+Ootomo: Hmmm, purple symbolizes Her Excellency. These two lines really do have an Inazuman flavor.
+
+Ootomo: Hmmm, the meaning of these two is that "the wind brings the flowers' fragrance," which is intimately linked to the line that follows immediately after.
+
+Ootomo: The emotions in these two are very strongly felt, and the atmosphere they create is quite ethereal.
+
+Ootomo: These two lines discuss the gains and losses we sustain with the passage of time, and how someone journeying far abroad comes to understand the meaning of home.
+
+Ootomo: These two match the preceding lines the closest, and they are rhythmically fitting when read.
+ (Traveler).
+ I've taken them.
+ Not yet...
+ Quest DescriptionThe Mondstadt bard Lenne is discussing poetry quite passionately with the Inazuma poet Ootomo...
+ So, what can I do for you?
+ Yes, what is it?
+(Requires a photo of Naku Weed or Amakumo Fruit)
+Of distant lands' joys my heart was dissuadedNaught but the slim grass' song remained
+(Requires a photo of Onikabuto)
+In the woods lies armor of a violet hue,'Tis the unspoken blessing from a foreign god
+(Requires a photo of Sango Pearl or Crystal Marrow)
+O Time! You make ancient laments witherYet let dazzling pearls remain
+(Requires a photo of Sea Ganoderma or Fluorescent Fungus)
+The Lamp Grass under distant skies gleamingTo mind the nights abroad did feign
+(missing stanza)
+Gains and Losses
+In the woods lies armor of a violet hue,'Tis the unspoken blessing from a foreign god
+Lenne: A most uncommon name. But it is no crime to stand out from the crowd. I shall remember it.
+Lenne: Ah, it's you. Have you finished taking those pictures?
+Lenne: As for the number of pictures that I will need, I think 4, each showcasing different contents, will do. I will also pay for any travel fees you may incur in the process.
+Lenne: Could you help me take a few pictures from which I can draw some inspiration?
+Lenne: Friend, thank you once again for your aid.
+Lenne: Friend, the theme of the poem I wish to write is "nostalgia."
+Lenne: Friend, your photos are a true inspiration! Many thanks.
+Lenne: I'm quite curious, actually. If it were you, which would you use?
+Gains and Losses
+The day I took my leave of lovingI found I loved all things again
+Lenne: Inazuma should have a great number of unique sights to see, yes? For example, when you speak of Mondstadt, everyone's minds will turn to Dandelions or Windwheel Asters...
+Lenne: Indeed, I would be in your debt if you would! Allow me to also write a copy of my half-done poem manuscript, just for you to use as reference material.
+Lenne: Indeed, indeed. Well then, friend, might I ask what your name is? I believe neither of us are acquainted with it.
+Lenne: Indeed. Unfortunately, my itinerary has been far too tight. I haven't had time to really go around and see the sights.
+Lenne: Now, I have attempted to write several different stanzas according to the pictures you provided me. I'm quite torn as to which to use...
+Lenne: Ootomo speaks the truth. We have only known each other for a few days, but I already have the greatest respect for his great learning.
+Lenne: Ootomo, since both you and our new friend here are both very enamored of these two lines, then let us use them.
+Lenne: Remember, you just need to take 4 pictures of Inazuman regional specialties.
+Lenne: Upon seeing the sights in a distant land, a vagabond cannot help but remember their home. That is why I need to add some things into my poem that symbolize this distant place.
+Lenne: Wonderful! You have my thanks. Let me have a look... Oh my, I've never seen any of these! ...And ah, this picture is wonderful! This one also seems quite noteworthy...
+NostalgiaUpon seeing the sights in a distant land, a vagabond cannot help but remember their home. It would be nice to depict some things that symbolize this distant place...Take pictures of Inazuman regional specialties to get key inspiration material.
+O Time! You make ancient laments witherYet let dazzling pearls remain
+Of distant lands' joys my heart was dissuadedNaught but the slim grass' song remained
+Ootomo: (Mister/Miss), I see that you've been walking back and forth in this area for some time now. I believe you must be someone who appreciates the elegance of the arts.
+Ootomo: (Mister/Miss)... You truly have a good eye.
+Ootomo: (Traveler), mm? I'll remember it as well.
+Ootomo: And since Lenne has gone through all the effort to come to Inazuma, he really wants to add a bit of that Inazuman flavor to his work.
+Ootomo: Hehe, you are too kind, Lenne. In any case, we have made friends through poetry, and we're taking this opportunity to write a few collaborative works.
+Ootomo: Hmmm, purple symbolizes Her Excellency. These two lines really do have an Inazuman flavor.
+Ootomo: Hmmm, the meaning of these two is that "the wind brings the flowers' fragrance," which is intimately linked to the line that follows immediately after.
+Ootomo: I leave the matter of the pictures to you. I am fortunate indeed to have met people of such fine artistic tastes as you and Lenne.
+Ootomo: The emotions in these two are very strongly felt, and the atmosphere they create is quite ethereal.
+Ootomo: There is a question of elegance that I might need your help with. Would you mind lending me your aid?
+Ootomo: These two lines discuss the gains and losses we sustain with the passage of time, and how someone journeying far abroad comes to understand the meaning of home.
+Ootomo: These two match the preceding lines the closest, and they are rhythmically fitting when read.
+Ootomo: Though I have only just met this man, Lenne, a bard from Mondstadt, over here, we have already become fast friends.
+Paimon: But we can always take a few more, who knows, it might give him some more inspiration!
+Paimon: Let's get those pictures back to Lenne.
+Paimon: Looks like we've got all the Inazuman specialties.
+Paimon: Ooh, Paimon gets it now. Well in that case, let's take a few pictures of some of Inazuma's regional specialties! That should do it.
+Paimon: Ooh, this picture looks great. Lenne should get the inspiration he needs like this!
+Paimon: Well, (Traveler), since Lenne's request seems clear, let's head out right now!
+NostalgiaUpon seeing the sights in a distant land, a vagabond cannot help but remember their home. It would be nice to depict some things that symbolize this distant place...Take pictures of Inazuman regional specialties to get key inspiration material.
+Paimon: Well, that's the four pictures that Lenne needs. Let's go back and look for him.
+The Lamp Grass under distant skies gleamingTo mind the nights abroad did feign
+The day I took my leave of lovingI found I loved all things again
+The radiant flowers abroad do bloomTheir scent a novel, lovely strain
+Then suddenly, I sawT'was the unseen breezeThat helped push me from home shores.
+When tired at last of seeking and strivingI heard again freedom's refrain

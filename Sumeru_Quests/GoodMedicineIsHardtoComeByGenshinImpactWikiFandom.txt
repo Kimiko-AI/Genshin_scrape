@@ -1,0 +1,102 @@
+
+Maruf: Hmm, the soup looks nice.
+Maruf: Thank you, Traveler. Here, this is for you.
+Maruf: When I'm finished, I'll try it myself first.
+
+Maruf: Something feels off about this soup...
+Maruf: Anyway, I'll try it first when it's done.
+Maruf: Thank you, Traveler. Here, this is for you.
+
+Zakariya: Um, I remember Maruf is treating a patient with...
+ A headache.
+Zakariya: Ah, I see. To treat headaches, the prescription that I gave him last time will do.
+Zakariya: Brew up a herbal soup out of the ingredients listed in the prescription and add three portions of Mint.
+Zakariya: After that, keep boiling the soup on a high flame for around... Forget it... Boil it until the ingredients float.
+
+Zakariya: Um, I remember Maruf is treating a patient with...
+ A stomachache.
+Zakariya: Ah, I see. To treat stomachaches, the prescription that I gave him last time will do.
+Zakariya: Brew up a herbal soup out of the raw ingredients listed in the prescription and add three Henna Berries.
+Zakariya: After that, keep boiling the soup on a low flame until the ingredients become soft and mushy.
+
+Zakariya: Um, I remember Maruf is treating a patient...
+ Who can't see well.
+Zakariya: Ah, I see. To treat someone with impaired vision, the prescription that I gave him last time would do.
+Zakariya: Brew up a herbal soup out of raw ingredients listed in my prescription and add a Starshroom.
+Zakariya: After that, keep boiling the soup on a high flame. In fact, I'd suggest a brief high flame first before leaving it on a low flame for a bit longer, until the soup deepens in color.
+ A headache.
+ A high flame first, and then a low flame.
+ A stomachache.
+ About Maruf...
+ About Zakariya's prescription...
+ Brew on a high flame throughout.
+ Brew on a low flame throughout.
+ Does Zakariya ever come to the village?
+Maruf: He occasionally has people send herbs and stuff over, but he's too busy to show up in person, really.
+Maruf: Anyway, about that prescription — I'm counting on you, Traveler.
+ Have you tried prescribing other medicine?
+ Henna Berry.
+ Is someone gravely ill?
+ Leave it to me.
+Maruf: I'm counting on you, Traveler.
+ Mint.
+ Quest DescriptionMaruf from Aaru Village seems to be having some trouble...
+ Starshroom.
+ Until the ingredients float.
+ Until the ingredients turn mushy.
+ Until the soup deepens in color.
+ Who can't see well.
+Maruf starts brewing the medicine...
+Maruf: (*sigh* I must do something to reassure my patients...)
+Maruf: *sigh* This condition is tricky. I'd better get Dr. Zakariya's help.
+Maruf: Ah, Traveler, you're back! What did Zakariya say?
+Maruf: Ahem... That would've been far beyond me. You see, with my limited experience, I can only come up with this many prescriptions...
+Maruf: Anyway, I'll try it first when it's done.
+Maruf: Anyway, about that prescription — I'm counting on you, Traveler.
+Maruf: Could you watch my steps? Let me know if I make any mistakes.
+Maruf: Eh? Ah, Traveler! Nobody's gravely ill. It's just that a (patient's got a severe case of headache/patient's got a severe case of stomachache/patient suddenly can't see well).
+Maruf: Eh? His writing is, um, unsurprisingly still so hard to understand.
+Maruf: For how long?
+Maruf: Got it. Allow me to check the prescription one more time, just in case we missed something.
+Maruf: He occasionally has people send herbs and stuff over, but he's too busy to show up in person, really.
+Maruf: Hmm, the soup looks nice.
+Maruf: How do I brew it?
+Maruf: I gave him some medicine, but it didn't really work that well.
+Maruf: I'm counting on you, Traveler.
+Maruf: I've got some patients to attend to, so could you visit Dr. Zakariya in my stead and ask him to prescribe something?
+Maruf: It says to use the soup he prescribed last time as the base? I see... Let me check the instructions more carefully.
+Maruf: Luckily, Dr. Zakariya at Bimarstan has offered to prescribe medicine and get the ingredients ready for me...
+Maruf: Something feels off about this soup...
+Maruf: Thank you, Traveler. Here, this is for you.
+Maruf: The ingredients are... Ugh... Totally unintelligible...
+Maruf: They can treat mild conditions alright, but when it comes to serious ones, they're next to useless.
+Maruf: Traveler, can I ask you a favor?
+Maruf: Traveler, he told you how to brew it and what ingredients are needed, right?
+Maruf: When I'm finished, I'll try it myself first.
+You describe the condition Maruf is treating...
+Zakariya writes down the prescription...
+Zakariya: (Maruf's really carrying a heavy burden...)
+Zakariya: *sigh* Actually, all Maruf had to do was to adjust his original prescription very slightly. Why couldn't he put more trust in himself?
+(Obtain Zakariya's Prescription for Maruf)
+Zakariya: *sigh* How many times have I told him? He's fully capable of handling something this simple on his own — without needing my help!
+Zakariya: After that, keep boiling the soup on a high flame for around... Forget it... Boil it until the ingredients float.
+Zakariya: After that, keep boiling the soup on a high flame. In fact, I'd suggest a brief high flame first before leaving it on a low flame for a bit longer, until the soup deepens in color.
+Zakariya: After that, keep boiling the soup on a low flame until the ingredients become soft and mushy.
+Zakariya: Ah, I see. To treat headaches, the prescription that I gave him last time will do.
+Zakariya: Ah, I see. To treat someone with impaired vision, the prescription that I gave him last time would do.
+Zakariya: Ah, I see. To treat stomachaches, the prescription that I gave him last time will do.
+Zakariya: Brew up a herbal soup out of raw ingredients listed in my prescription and add a Starshroom.
+Zakariya: Brew up a herbal soup out of the ingredients listed in the prescription and add three portions of Mint.
+Zakariya: Brew up a herbal soup out of the raw ingredients listed in the prescription and add three Henna Berries.
+Zakariya: I bet the patients are exaggerating their discomfort again, thinking that a mere village doctor is unable to treat their "serious illness."
+Zakariya: Looking after the villagers for so many years has definitely not been an easy task for Maruf... I'll write up a prescription right away. Please take note, Traveler.
+Zakariya: Maruf? Did he run into some little-understood illness again?
+Zakariya: One can be as creative as they want with the prescription. The worst thing they might end up with is a useless soup, that's all.
+Zakariya: Please deliver the prescription to Maruf.
+Zakariya: That's why Maruf wants my prescription to reassure them.
+Zakariya: To be honest, I wouldn't say what I prescribed is "medicine." Instead, it's more of a... How should I put it...
+Zakariya: Um, I remember Maruf is treating a patient with...
+Zakariya: Um, I remember Maruf is treating a patient...
+Zakariya: Um... Just in case you forget, I'll write it down.
+Zakariya: Well, it's more of a mild, nutritious supplement.
+Zakariya: Why am I having more and more patients lately...

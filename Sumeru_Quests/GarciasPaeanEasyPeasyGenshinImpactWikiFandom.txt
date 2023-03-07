@@ -1,0 +1,69 @@
+ Are you still... cautiously pessimistic?
+ Hammer it around the edges and work your way into the middle.
+ Hammer it in the middle and work your way out to the edges.
+ Hammer it in the middle real hard.
+ Have a good rest here, Mr. Garcia.
+Garcia: Thank you for being willing to help. Ugh... My hands...
+ He's making a weird machine.
+ He's making a wondrous machine.
+ I'm here to ask some questions on Mr. Garcia behalf.
+ Mr. Garcia's hands went numb from all that forging, and he needs rest.
+ Quest DescriptionGarcia seems to be sweating over something at the blacksmith…
+ What are you doing now...
+ When sending the parts into the furnace again, don't add more fuel.
+ When sending the parts into the furnace again, remember to add less fuel.
+ When sending the parts into the furnace again, remember to add more fuel.
+ Who is Kaia?
+Garcia: A business partner! A... Um... very talented and... rich business partner!
+Garcia: We have signed a long-term accounting contract with her! And that is why I've been meeting her often, as I'm certain Lutong can attest to.
+Lutong: That is perfectly right, sir.
+Garcia: S—So that's how things stand... Traveler, do help us find Mr. Ahangar as soon as possible. I shall be waiting here.
+Ahangar: *sigh* I've no idea what this guy has in mind...
+Ahangar: Did you get all that? Alright, go back and tell him if you did.
+Ahangar: Eh, it's probably something strange, whatever it is. You're here to ask about forging skills, right? To be honest, I have nothing much to teach regarding gear forging...
+Ahangar: First, remember to add enough fuels to really heat up the fire when putting it into the furnace for the second time.
+Ahangar: He even brings a ruler to measure the seam between iron tubes, and the distance between threads.
+Ahangar: I have noticed something about the gears he wants, though. They all have sharp edges but are concave in the middle...
+Ahangar: I just can't put up with him, so I told him to do it himself... And you know what? He actually came the next day and asked me to teach him some forging skills.
+Ahangar: I told you! Just wait a sec... Huh. It's you.
+Ahangar: I've been a blacksmith for a great many years. This is the first time I've encountered someone with such strict requirements.
+Ahangar: I've taught him about the techniques in detail. You just need to tell him...
+Ahangar: Molds are not enough for such specially-shaped gears, so he has to reshape the gears afterward.
+Ahangar: Really, there's nothing I can do about him, so I let him be. As long as he pays for the materials, I'll let him use whatever tools he wants.
+Ahangar: So he actually went and did that himself... What a weirdo.
+Ahangar: Then, when you take it out to process it, hammer it from the inside out.
+Ahangar: What a weirdo...
+Garcia begins his work...
+Garcia: ...
+Garcia: A business partner! A... Um... very talented and... rich business partner!
+Garcia: Aha! Success! This gear looks mighty fine, if I should say so myself!
+Garcia: Alright, this gear has been heated up... What next?
+Garcia: Fortunately, I have acquired relevant experience in Fontaine... But some of the techniques Mr. Ahangar spoke of were just so hard to remember. Ouch...
+Garcia: It's okay, we'll start over... Traveler, what should I take into consideration?
+(Return to "Tell me then, how should I process this gear?")
+Garcia: Lutong! This gear is ready for demolding! Come help me!
+Garcia: Moreover, the parts he makes are often ever so slightly different from those that I picture in my mind.
+Garcia: My hands... Ugh! They're both numb...
+Garcia: No! I will do that myself. I am just... I just need to... forge a couple more gears...
+Garcia: Not right now, Lutong! I—I am well aware!
+Garcia: Oh, it's you, Traveler... Ouch... My hands...
+Garcia: Okay, I give up, I just can't continue anymore...
+Garcia: So, to ensure the reliability of these parts, I asked Mr. Ahangar to teach me some forging skills and decided to forge the parts on my own.
+Garcia: S—So that's how things stand... Traveler, do help us find Mr. Ahangar as soon as possible. I shall be waiting here.
+Garcia: Tell me then, how should I process this gear?
+Garcia: Thank you for being willing to help. Ugh... My hands...
+Garcia: The spacing between its teeth... Thickness... Size... Ah, I must fetch a ruler...
+Garcia: Traveler, could you please ask Mr. Ahangar about his forging techniques? I really need some rest...
+Garcia: Traveler, you're back. So, Mr. Ahangar has taught you his tricks, I trust?
+Garcia: Um... The gear doesn't quite... look right.
+Garcia: We have signed a long-term accounting contract with her! And that is why I've been meeting her often, as I'm certain Lutong can attest to.
+Garcia: Well, here's the situation. Mr. Ahangar is also otherwise engaged, and so it is not possible to constantly commission him to make the parts I need...
+Lutong: Hopefully, Mr. Garcia's talents will lead us to the right path...
+Lutong: It's best that we leave Mr. Garcia to his measurements. Traveler, here is your payment. Please take it.
+Lutong: Mr. Garcia and I have been wandering in front of a giant mountain for some time now, and we have only just removed a tiny stone from the foot of this mountain.
+Lutong: Of course, if you can't make it, I will stand in for you.
+Lutong: Or I will have to tell myself that "when your path is blocked by a mountain, there will be a way through."
+Lutong: Sir, you still need to do accounts for Ms. Kaia later. Please don't exhaust yourself.
+Lutong: That is perfectly right, sir.
+Lutong: We have, in truth, not yet found a way up.
+Lutong: Yes, that's how I have always been.

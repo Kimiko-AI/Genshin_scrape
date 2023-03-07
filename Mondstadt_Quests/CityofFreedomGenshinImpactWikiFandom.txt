@@ -1,0 +1,30 @@
+ (I hope she knows something about the God of Anemo)
+ (Sounds like someone pretty impressive...)
+ Quest DescriptionWith your help, the problem was resolved quickly. Led by Amber, you reach the city of freedom — Mondstadt.
+Media:vo mdaq018 1 ambor 01.ogg Amber: Let me officially introduce the city of wind, dandelions, and freedom —
+Media:vo mdaq018 1 ambor 02.ogg Amber: Travelers under the protection of the Knights of Favonius — Welcome to Mondstadt!
+Media:vo mdaq018 1 ambor 03.ogg Amber: Everyone's been put out of place by Stormterror recently.
+Media:vo mdaq018 1 ambor 04.ogg Amber: But everything will turn out fine as long as Jean's with us!
+Media:vo mdaq018 1 ambor 05.ogg Amber: Acting Grand Master of the Knights of Favonius — Jean, Defender of Mondstadt.
+Media:vo mdaq018 1 ambor 06.ogg Amber: With Jean on our side, surely even the vicious Stormterror will be no match for us.
+Media:vo mdaq018 1 ambor 07.ogg Amber: Before I take you guys to the Knights of Favonius Headquarters, I have a present for you, (Traveler).
+Media:vo mdaq018 1 ambor 08.ogg Amber: It's a reward for helping me clear out that hilichurl camp.
+Media:vo mdaq018 1 ambor 09.ogg Amber: Ahh... Because this reward is useless to you, Paimon.
+Media:vo mdaq018 1 ambor 10.ogg Amber: But I'll treat you to a traditional Mondstadt delicacy — Sticky Honey Roast.
+Media:vo mdaq018 1 ambor 11.ogg Amber: Come with me, we'll head to the city's ahh... high ground.
+Media:vo mdaq018 1 paimon 01.ogg Paimon: Finally, no more having to camp outdoors!
+Media:vo mdaq018 1 paimon 02.ogg Paimon: But... the city folk don't look too cheery.
+Media:vo mdaq018 1 paimon 03.ogg Paimon: Jean?
+Media:vo mdaq018 1 paimon 04.ogg Paimon: He-Hey! Why doesn't Paimon get a reward?
+Media:vo mdaq018 1 paimon 05.ogg Paimon: Sticky Honey Roast!
+Media:vo mdaq018 2 ambor 01.ogg Amber: This used to be a bustling street... But with so many Stormterror attacks recently, the usual crowds are nowhere to be seen.
+Media:vo mdaq018 2 ambor 02.ogg Amber: Except for the local tavern near the city wall over there. They haven't been affected. If anything, their business is better than ever.
+Media:vo mdaq019 3 ambor 01.ogg Amber: So, the present I want to give you is...
+Media:vo mdaq019 3 ambor 02.ogg Amber: A Wind Glider!
+Media:vo mdaq019 3 ambor 03.ogg Amber: Outriders use them to ride the wind, and the people of Mondstadt love using them too.
+Media:vo mdaq019 3 ambor 04.ogg Amber: I brought you here to give it to you so you can experience it right away!
+Media:vo mdaq019 3 ambor 05.ogg Amber: Well that's because the wind is the heart and soul of Mondstadt!
+Media:vo mdaq019 3 ambor 06.ogg Amber: Alrighty then, enough talk! Let's give it a whirl!
+Media:vo mdaq019 3 ambor 07.ogg Amber: It's easy to use, but you still need to pay attention to my instructions.
+(The player completes the gliding tutorial)
+Media:vo mdaq019 3 paimon 01.ogg Paimon: Oh, you're really excited about these wind gliders, huh!

@@ -1,0 +1,147 @@
+ ...But maybe one world's trash is another world's treasure.
+ ...You want to turn off the Wisdom Orb?
+ Are you saying you want to have a try at fighting?
+ As you wish, Chief Editor...
+ Bongo-Head is a Floating Hydro Fungus.
+ Bongo-Head is always playing in the water.
+ Buffmon, hmm...
+ Different disciplines, worlds apart...
+ I'm curious about what will happen too.
+ In trying to solve one problem, it's created another...
+ It's worth a try.
+ Looks like she's made up her mind...
+ Quest DescriptionThe Nilotpala Cup qualifiers have started. Time to fight alongside Bongo-Head against other beast tamers!
+ Seems she's had some bad experiences with Fungi.
+ She definitely has her reasons.
+ The tournament's become too popular for its own good...
+ We will keep bonding with our Fungi.
+ We will train harder.
+ Yes, Ma'am...
+ Your signature move will be "Silver Supernova Slap"!
+(Traveler): (Cyno's subordinate? Does that mean he's observing the arena...)
+(Traveler): (Cyno? Has this tournament come to his attention, too?)
+(Traveler): (What makes the Wisdom Orb so effective? Is Kautilya in possession of some great technology unknown to other scholars?)
+Layla and Yae Miko go off to play with their Fungi.
+Media:vo eqpm002 1 paimon 01.ogg Paimon: It's nearly time! Let's get ourselves over to the Nilotpala Cup qualifiers!
+Media:vo eqpm002 2 elchingen 01.ogg Elchingen: Ladies and gentlemen, the Nilotpala Cup Beast Tamers Tournament is about to begin. I genuinely hope that everyone has fun in the competition, and wish you all the very best of luck.
+Media:vo eqpm002 2 elchingen 02.ogg Elchingen: At the same time, I ask that you bear in mind that this tournament is held in the spirit of friendly and fair competition. By all means give everything you've got, but respect your opponents at the same time. Don't lose your head — this is just a sport, not a fight to the death.
+Media:vo eqpm002 2 elchingen 03.ogg Elchingen: I have spent a considerable amount of time in my life searching for a way for humans and dangerous creatures to coexist. The Wisdom Orbs you now hold in your hands show me that it is indeed possible.
+Media:vo eqpm002 2 elchingen 04.ogg Elchingen: I sincerely hope that this event will show the potential of beast-taming to a wider audience. People need a way to avoid conflict and stay safe in the wild, and beast-taming can help us achieve this.
+Media:vo eqpm002 2 elchingen 05.ogg Elchingen: Kautilya... Everyone's eager to try them out for themselves. There's no need to delve into all the details right now.
+Media:vo eqpm002 2 kautlia 01.ogg Kautilya: Thank you for your speech, Mr. Elchingen! I'd like to add a few words of my own, if I may...
+Media:vo eqpm002 2 kautlia 02.ogg Kautilya: Welcome, beast tamers! The Wisdom Orbs in your hands are a truly ground-breaking invention, representing the culmination of centuries of technological innovation at the Akademiya. Actually, there are nine extraordinary technical breakthroughs that make them so exciting...
+Media:vo eqpm002 2 kautlia 03.ogg Kautilya: ...Oh uh... of course! Well, I'll explain everything to you all when I get the chance! I'm sure you'll get a sense of just how advanced this technology is when you start using it in the arena. Trust your Wisdom Orbs and have fun in the competition!
+Media:vo eqpm002 2 paimon 01.ogg Paimon: Looks like the qualifiers are about to kick off... Elchingen's giving an opening speech.
+Media:vo eqpm002 2 paimon 02.ogg Paimon: Ohh! So that's why Elchingen is putting his whole fortune into this. What an inspiring goal! But Kautilya, on the other hand... Eh...
+Media:vo eqpm002 2 paimon 03.ogg Paimon: What a total nerd... Doesn't he know there's a time and a place to talk tech? *sigh* Good thing Elchingen has enough situational awareness for both of them, otherwise this could have dragged on for a looong time...
+Media:vo eqpm002 2 paimon 04.ogg Paimon: The qualifiers have officially started. It's time to face our first opponent.
+Media:vo eqpm002 3 dashpalm 01.ogg Ajilenakh Dash: Hah! Didn't know they put the bar for entry so low.
+Media:vo eqpm002 3 dashpalm 02.ogg Ajilenakh Dash: Let's go! This is gonna be over so fast — don't blink or you'll miss it!
+Media:vo eqpm002 3 dashpalm 03.ogg Ajilenakh Dash: It's okay, we still got this!
+Media:vo eqpm002 3 dashpalm 04.ogg Ajilenakh Dash: Quick attacks will work to our advantage! Everyone, now!
+Media:vo eqpm002 3 paimon 01.ogg Paimon: Don't be nervous, Bongo-Head! It's only the qualifiers, these are teeny-tiny potatoes. Just think of them as stepping stones!
+Media:vo eqpm002 4 dashpalm 01.ogg Ajilenakh Dash: But how... How could my swift fighting style fail... Everyone, retreat, now!
+Media:vo eqpm002 4 paimon 01.ogg Paimon: Great job, Bongo-Head! And everyone else too!
+Media:vo eqpm002 5 fungusvictim 01.ogg ???: Help! Help me!
+Media:vo eqpm002 5 fungusvictim 02.ogg ???: Something's not right! Why are these Fungi so aggressive!
+Media:vo eqpm002 5 layla 01.ogg Layla: Twirly-Whirly and the other shroom buddies were way stronger than I thought. Before I knew it, they'd knocked the opposition out...
+Media:vo eqpm002 5 layla 02.ogg Layla: When I got back to the arena, I saw Miss Yae's opponent running away like they'd just seen a ghost... Miss Yae said she needed to find you and discuss something, so I came with her.
+Media:vo eqpm002 5 layla 03.ogg Layla: Miss Yae is right. Also, I'm curious to see what would happen if the Wisdom Orb is turned off... or malfunctions. I wonder if the Fungi will stay tamed, or not?
+Media:vo eqpm002 5 layla 04.ogg Layla: Yeah. It takes time for friends to get to know each other properly, and come to trust each other.
+Media:vo eqpm002 5 layla 05.ogg Layla: I can't always rely on this gizmo to communicate with Twirly-Whirly. It makes me feel like I'm giving orders...
+Media:vo eqpm002 5 layla 06.ogg Layla: Okay. Is everyone ready? I—I'm gonna do it.
+(Layla deactivates her Wisdom Orb)
+Media:vo eqpm002 5 layla 07.ogg Layla: I'll do my best! I wanna learn all about Twirly-Whirly's likes and dislikes, then buy lots of snacks from the Almighty Merchant...
+Media:vo eqpm002 5 layla 08.ogg Layla: (Traveler), Paimon, Miss Yae, do you and your shroom buddies want to join us? I think Twirly wants to play in the water over there.
+Media:vo eqpm002 5 layla 09.ogg Layla: Oh, okay... Meet you back here later then. Hope you have a good time!
+Media:vo eqpm002 5 paimon 01.ogg Paimon: This Fungi-fighting is unlike anything else we've ever done before... and it's super fun!
+Media:vo eqpm002 5 paimon 02.ogg Paimon: That beast tamer and her Fungi work together pretty well. Almost as well as the two of us!
+Media:vo eqpm002 5 paimon 03.ogg Paimon: That's not what Paimon meant! Paimon just wanted to say that our opponent seems to have developed her own fighting style unique to her and her Fungus!
+Media:vo eqpm002 5 paimon 04.ogg Paimon: It'd be great if we were more tightly in-sync with Bongo-Head... Imagine if we could just look at him and he'd know exactly what to do, that would be amazing!
+Media:vo eqpm002 5 paimon 05.ogg Paimon: Miko! And Layla! How's it going for you so far?
+Media:vo eqpm002 5 paimon 06.ogg Paimon: Well, it's only just started after all. It'd be a bit of a crazy tournament if everyone in the qualifiers was a prize fighter!
+Media:vo eqpm002 5 paimon 07.ogg Paimon: But anyway, what was it you wanted to discuss with us?
+Media:vo eqpm002 5 paimon 08.ogg Paimon: Great idea, stay one step ahead of the game! Alright, guess it's shroom buddies' special training o'clock. Let's get to it!
+Media:vo eqpm002 5 paimon 09.ogg Paimon: Yay! Snack time, snack time!
+Media:vo eqpm002 5 paimon 10.ogg Paimon: Wait a second... Aren't we here for training though? ...Or did you put something in the snacks that'll improve our bonds with our Fungi.
+Media:vo eqpm002 5 paimon 11.ogg Paimon: Why are you looking at Paimon like that? Ohhh, don't you dare try anything like that, or Paimon will... Paimon will ignore you for three days! No, five days!
+Media:vo eqpm002 5 paimon 12.ogg Paimon: Huh... When you put it like that...
+Media:vo eqpm002 5 paimon 13.ogg Paimon: But that would mean giving up control over the Fungi... Is that really a good idea?
+Media:vo eqpm002 5 paimon 14.ogg Paimon: Look at that... Now that it's turned off, Twirly-Whirly's moving around on its own again, but it's not attacking people nearby like it did before.
+Media:vo eqpm002 5 paimon 15.ogg Paimon: Miko's right! Forget fancy-schmancy technology, the real breakthrough here is the power of friendship!
+Media:vo eqpm002 5 paimon 16.ogg Paimon: Paimon wants to get to know the real Bongo-Head too! Let's try deactivating our Wisdom Orb, shall we?
+(The Traveler deactivates their Wisdom Orb)
+Media:vo eqpm002 5 paimon 17.ogg Paimon: Right, Paimon almost forgot... Should we let Bongo-Head try something different? We could climb a tree together and see the view from the top?
+Media:vo eqpm002 5 paimon 18.ogg Paimon: You two go ahead! We want Bongo-Head to try something different since it's probably used to playing near water.
+Media:vo eqpm002 5 paimon 19.ogg Paimon: Bongo-Head, we can do whatever you want to do! Just let us know! Paimon'll probably understand you.
+Media:vo eqpm002 5 paimon 20.ogg Paimon: Ugh! Why isn't it responding? Guess Paimon'll have to try using delicious treats to win its affection!
+Media:vo eqpm002 5 paimon 21.ogg Paimon: Did you hear that? It sounds like someone's calling for help!
+Media:vo eqpm002 5 paimon 22.ogg Paimon: Hurry! Let's go check it out!
+Media:vo eqpm002 5 yaemiko 01.ogg Yae Miko: That's why it's so important to develop close connections with your teammates.
+Media:vo eqpm002 5 yaemiko 02.ogg Yae Miko: Little Layla here breezed through her first battle, Souka won hers by a hair's breadth... but mine was rather disappointing. My opponent was a frightful bore.
+Media:vo eqpm002 5 yaemiko 03.ogg Yae Miko: You're getting smarter, aren't you, Paimon? I thought you'd need me to remind you, but no, you said it yourself: Our opponents will only get stronger as the tournament proceeds, so we mustn't let our guard down.
+Media:vo eqpm002 5 yaemiko 04.ogg Yae Miko: Why don't we keep up the momentum from our respective first-round victories? Let's give our Fungi some special training to strengthen our bonds with them.
+Media:vo eqpm002 5 yaemiko 05.ogg Yae Miko: The view here is wonderful. It smells of the rainforest here, and we're far enough away that no one will bother us.
+Media:vo eqpm002 5 yaemiko 06.ogg Yae Miko: Let's have some fun with our Fungi friends, then take a break to sample some of Sumeru's delectable snacks.
+Media:vo eqpm002 5 yaemiko 07.ogg Yae Miko: Even if I had that kind of power, I wouldn't dream of abusing it. I assure you, the dried fruits and pastries I brought are quite ordinary.
+Media:vo eqpm002 5 yaemiko 08.ogg Yae Miko: Perhaps you thought I'd planned an intensive training session for you? Heh, that won't be necessary. On the contrary, when you're constantly on edge, you miss quite a lot of important things.
+Media:vo eqpm002 5 yaemiko 09.ogg Yae Miko: Since the goal here is to bond with our Fungi, we should treat them as friends and create happy memories with them. Eating and having fun together are vital components of "friendship training."
+Media:vo eqpm002 5 yaemiko 10.ogg Yae Miko: Imagine if all the Traveler ever thought about was making you stronger, forcing you to build rock-hard muscles just to watch you send Mitachurls flying... Would you gladly comply?
+Media:vo eqpm002 5 yaemiko 11a.ogg Media:vo eqpm002 5 yaemiko 11b.ogg Yae Miko: See? You and (he/she) have a very strong bond, but that doesn't mean you'd be happy for (him/her) to inflict a rigorous physical training regimen on you. Do you really think the Fungi would be any more receptive when they've only just met you?
+Media:vo eqpm002 5 yaemiko 12.ogg Yae Miko: Ah, yes: "True love cannot be controlled by external forces"... Little Layla's belief is a classic one.
+Media:vo eqpm002 5 yaemiko 13.ogg Yae Miko: Go ahead and give it a try, Little Layla. Don't worry, the little ones and I will be here to keep you safe.
+Media:vo eqpm002 5 yaemiko 14.ogg Yae Miko: Perhaps the Wisdom Orb's technology doesn't allow people to "control" the Fungi at all... Maybe it simply adjusts the Fungi's temperaments, calming them down so that they're capable of forming connections with people.
+Media:vo eqpm002 5 yaemiko 15.ogg Yae Miko: If this theory is correct, Little Layla's wish may yet come true. Once you've gotten to know each other, you'll be able to freely communicate without using the Wisdom Orb.
+Media:vo eqpm002 5 yaemiko 16.ogg Yae Miko: You'd better be careful. Don't get too close to Blitzara when you're knee-deep in the water, or you might find yourself on the receiving end of a very unique lower-leg massage.
+Media:vo eqpm002 6 haniyyah 01.ogg Haniyyah: What are you doing here?
+Media:vo eqpm002 6 haniyyah 02.ogg Haniyyah: I happened to be nearby. The children were mimicking what they'd seen the contestants doing, and ended up getting surrounded by wild Fungi. Fortunately, I heard the commotion and got here in time to save them.
+Media:vo eqpm002 6 haniyyah 03.ogg Haniyyah: It's hardly their fault. I was almost drawn in by the Fungi's cute appearance once, too... Luckily, I remembered my family's stern warnings, and the suffering that previous generations once endured, so I kept my distance.
+Media:vo eqpm002 6 haniyyah 04.ogg Haniyyah: People never used to be under any illusion about how dangerous the Fungi can be. But this Nilotpala Cup is changing people's perceptions, and now they're letting their guard down against the Fungi... a consequence that Elchingen failed to foresee.
+Media:vo eqpm002 6 haniyyah 05.ogg Haniyyah: I'm putting an end to this debacle, first chance I get.
+Media:vo eqpm002 6 haniyyah 06.ogg Haniyyah: The Wisdom Orb is the perfect tool for exterminating Fungi on a large scale. And once I win the tournament, they'll be mine to do with as I please.
+Media:vo eqpm002 6 haniyyah 07.ogg Haniyyah: I'm quite certain Pyro-1 would back me up if it was capable of realizing the past mistakes of its kind. But regrettably, it is just a pawn controlled by a gadget. It will never understand human sentiments.
+Media:vo eqpm002 6 haniyyah 08.ogg Haniyyah: As for why I taught you guys a few things... Don't you realize? I saw your potential, and wanted you to help me reach my goals.
+Media:vo eqpm002 6 haniyyah 09.ogg Haniyyah: Yet here you are now pleading the Fungi's case! You've gotten too deep in this absurd game. Looks like "Golden Comet" and "Silver Companion" don't deserve such a stellar reputation after all...
+Media:vo eqpm002 6 layla 01.ogg Layla: Fungi can definitely be aggressive and damage their environment, but some research also suggests that they're only acting in accordance with their nature, just like any other wild animals...
+Media:vo eqpm002 6 layla 02.ogg Layla: The Fungi have existed for a long time. No one knows what the ecological implications for the rainforest would be if they all got killed off suddenly.
+Media:vo eqpm002 6 paimon 01.ogg Paimon: Haniyyah? You saved the children?
+Media:vo eqpm002 6 paimon 02.ogg Paimon: That's so dangerous! Why are they trying to approach wild Fungi without a Wisdom Orb!?
+Media:vo eqpm002 6 paimon 03.ogg Paimon: What are you talking about, Haniyyah? "Exterminating Fungi"? Not in front of Pyro-1... Don't you care about its feelings?
+Media:vo eqpm002 6 paimon 04.ogg Paimon: You're taking part in the tournament too, aren't you? You even taught us a few tips and tricks. You're clearly enjoying the event...
+Media:vo eqpm002 6 paimon 05.ogg Paimon: Wait, don't go! We turned off our Wisdom Orb just now, and we were playing with the Fungi and everything!
+Media:vo eqpm002 6 paimon 06.ogg Paimon: Miko? Layla? Oh, you heard the cries for help too, huh...
+Media:vo eqpm002 6 paimon 07.ogg Paimon: Right! We shouldn't resort to extreme measures. No matter what Haniyyah has been through, we can't let her do this just because she wants to!
+Media:vo eqpm002 6 paimon 08.ogg Paimon: That's what you brought us here for, right? To get acquainted with our Fungi friends so we can cooperate better with them?
+Media:vo eqpm002 6 paimon 09.ogg Paimon: Wait... Did you know all this was gonna happen?
+Media:vo eqpm002 6 yaemiko 01.ogg Yae Miko: Ooh my, such a stand-out personality, and with the perfect dose of obstinacy... I sense dramatic events just waiting to unfold.
+Media:vo eqpm002 6 yaemiko 02.ogg Yae Miko: We were just talking about her, as it happens. Little Layla told me that Haniyyah gave you some guidance when you first entered the tournament. But after you met Layla, she very abruptly left.
+Media:vo eqpm002 6 yaemiko 03.ogg Yae Miko: Looking at it now, she seems to be a classic case of a "wrong path" character. Blames the many for the mistakes of a few, and seeks to wipe them all out of existence...
+Media:vo eqpm002 6 yaemiko 04.ogg Yae Miko: She takes the "wrong path" because, in her eyes, it is the most effective and sensible method of achieving her goal.
+Media:vo eqpm002 6 yaemiko 05.ogg Yae Miko: You intend to stop her achieving victory? I can't say I didn't expect that response from you. But I hear she's one of the favorites to win this tournament... Are you prepared to face such a formidable opponent?
+Media:vo eqpm002 6 yaemiko 06.ogg Yae Miko: Hehe, it would be rather boring if I had arranged every last detail in advance. The chance encounter between you and Haniyyah came as quite a pleasant surprise.
+Media:vo eqpm002 6 yaemiko 07.ogg Yae Miko: Today's training ends here. The qualifiers should be over now. We should go and find out what to expect in the later stages.
+Media:vo eqpm002 7 layla 01.ogg Layla: I heard that the organizers set up loads of message boards for the audience to leave comments and interact with each other. It sounds like a good way to encourage discussion about the tournament.
+Media:vo eqpm002 7 layla 02.ogg Layla: I wonder if people will talk about me and Twirly-Whirly? If only I could use this experience in one of my papers somehow...
+Media:vo eqpm002 7 layla 03.ogg Layla: That's a nice idea, Paimon... But I'm from the Rtawahist Darshan. The kind of information I'm gathering now would only be of any use to someone in the Amurta Darshan.
+Media:vo eqpm002 7 layla 04.ogg Layla: Mora is a secondary consideration... But I could make it a fair trade by getting the Amurta students to read through some advanced papers for me and figure out what Twirly-Whirly's kind likes.
+Media:vo eqpm002 7 layla 05.ogg Layla: If I can narrow the search, it'll make my life a whole lot easier. I won't have to buy hundreds of different things and get Twirly-Whirly to try them all...
+Media:vo eqpm002 7 layla 06.ogg Layla: Just thinking about it makes me wanna pass out...
+Media:vo eqpm002 7 layla 07.ogg Layla: I'll do my best... When I get back, I'll write a letter and send it to the Amurta.
+(The Traveler notices a Corps of Thirty nearby)
+Media:vo eqpm002 7 paimon 01.ogg Paimon: There are a lot of people over there. Are they looking for something?
+(Yae Miko sees Souka waving at her in the distance and leaves the group to talk to Souka)
+Media:vo eqpm002 7 paimon 02.ogg Paimon: Paimon thinks that's a great idea! You always need a ton of information to write a paper, and you can't always get the info you need. But this time, you're the one providing yourself with the information! You can write whatever you want!
+Media:vo eqpm002 7 paimon 03.ogg Paimon: Yeah... You could provide the information to Amurta students, maybe sell it to the highest bidder... Wait no, royalties! Charge royalties!
+Media:vo eqpm002 7 paimon 04.ogg Paimon: Layla, that's an amazing idea!
+Media:vo eqpm002 7 paimon 05.ogg Paimon: Please get them to look into what Bongo-Head likes, too!
+Media:vo eqpm002 7 paimon 06.ogg Paimon: Huh? We'll be facing Souka next!
+Media:vo eqpm002 7 paimon 07.ogg Paimon: What're you so excited about! Aren't you worried that we'll knock your budding author out of the competition? If that happens, Yae Publishing House's nice little journey in Sumeru will come to a very abrupt end!
+Media:vo eqpm002 7 yaemiko 01.ogg Yae Miko: Little one, the pairings for the remaining 32 are out.
+(The group arrives at the Nilotpala Cup Official Arena bulletin board)
+Media:vo eqpm002 7 yaemiko 02.ogg Yae Miko: Ohh... I've been looking forward to this a lot...
+Media:vo eqpm002 7 yaemiko 03.ogg Yae Miko: Oh please, do your worst~ I never asked Souka to win in the first place. Besides, maybe suffering a humiliating defeat will give her the epiphany she so desperately needs.
+Media:vo eqpm002 7 yaemiko 04.ogg Yae Miko: After all, a life with no obstacles tends to narrow the mind. People end up believing that only they are on the right path. Sometimes, obstacles are more valuable than smooth sailing.
+Media:vo eqpm002 7 yaemiko 05.ogg Yae Miko: Excellent. Ah, I'm looking forward to the next round... I'll await your good news~
+Media:vo eqpm006 5 paimon 01.ogg Paimon: Oh no! Bongo-Head's getting overwhelmed!
+Media:vo eqpm006 5 paimon 04.ogg Paimon: Time to use your Splish-Splash Waterballoons!
+You and Layla accompany Yae Miko to the "training location."

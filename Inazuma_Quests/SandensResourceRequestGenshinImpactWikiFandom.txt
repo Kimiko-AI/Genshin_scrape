@@ -1,0 +1,21 @@
+
+ Are you the Electro Crystal guy?
+Sanden: Oh, you must be here about the commission I posted?
+Sanden: Do you have 5 Electro Crystals yet?
+ Got them here.
+(Give 5 Electro Crystals)
+Sanden: Thank you! With this, I can now start making some dyes. Please, take these in exchange for your help.
+ Not yet.
+Okay then, just bring them to me once you've got them.
+ Got them here.
+(Give 5 Electro Crystals)
+Sanden: Thank you! With this, I can now start making some dyes. Please, take these in exchange for your help.
+ Not yet.
+Okay then, just bring them to me once you've got them.
+ Quest DescriptionAmakane Island's Sanden requests 5 Electro Crystals.
+Okay then, just bring them to me once you've got them.
+Sanden: Do you have 5 Electro Crystals yet?
+Sanden: Hi there, are you interested in buying a mask?
+Sanden: Oh, you must be here about the commission I posted?
+Sanden: Thank you! With this, I can now start making some dyes. Please, take these in exchange for your help.
+Sanden: We have extraordinarily well crafted masks here that are great for festivals or for your own collection.

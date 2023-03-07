@@ -1,0 +1,103 @@
+ (...Never mind, he can see it from here.)
+ And Grilled Tiger Fish.
+ Are you really not going to see the Mingxiao Lantern?
+ Are you sure you don't want to go with us?
+ Come with us, Xiao.
+ I didn't say you have to go to Liyue Harbor.
+ I think you've missed your true calling! Such expert carpentry...
+ Lantern Rite is meant to include everyone.
+ Nice idea.
+ O Vigilant Yaksha, please escort us safely to the city.
+ Quest DescriptionLantern Rite is still ongoing. With the help of Xiao, Kaeya, and the Millelith, you have foiled a "plot" that has left you not knowing whether to laugh or cry and have succeeded in bringing the foolish criminal behind it to justice and handing them over to the Millelith. Today, you prepare to go to Wangshu Inn to report the results of the matter to Xiao, as you agreed...
+ Sure you'd make it into the city in time to come to the rescue?
+ The Mingxiao Lantern this year is Skybracer.
+ There's even Almond Tofu and Grilled Tiger Fish...
+ This way you can take part in Lantern Rite.
+ Wait a second.
+Media:vo eqhdj003 9 xiao 02a.ogg Xiao: What now?
+ We took care of it, but—
+ We'd like you to come to Lantern Rite with us.
+ What do you think?
+ You know how to make Xiao Lanterns too?
+ You might as well keep us company on the way there.
+ You wouldn't go to the festival, so we brought the festival to you.
+Everyone has a nice, leisurely time over the holiday meal...
+Hui'an starts putting up a simple stall...
+Media:vo dialog eqhdj003 huaian 02.ogg Huai'an: Heh, Smiley Yanxiao's no run-of-the-mill chef, huh? Oh, you should visit the city after our meal. You'll just make it in time to see the Mingxiao Lantern being released.
+Media:vo dialog eqhdj003 verrgoldet 01.ogg Verr Goldet: I can't believe you managed to talk him into dining with us. That's a first! And I've known him for years...
+Media:vo dialog eqhdj003 xiao 01.ogg Xiao: If this short-lived spectacle is one you wish to witness, I suggest you go to the city. I, for one, have no interest in the Lantern Rite.
+Media:vo eqhdj003 1 paimon 01.ogg Paimon: Yeah, it's a super impressive-looking giant deer, let's go take a look together!
+Media:vo eqhdj003 1 paimon 02.ogg Paimon: Aww, he really won't go, unless... Let's go find the boss.
+Media:vo eqhdj003 1 paimon 03.ogg Paimon: She might have a few tricks up her sleeve...
+Media:vo eqhdj003 1 xiao 01.ogg Xiao: So, is the matter resolved?
+Media:vo eqhdj003 1 xiao 02.ogg Xiao: —Good.
+Media:vo eqhdj003 1 xiao 03.ogg Xiao: No. As I said, I am not partial to crowded areas. Especially at this time of the year.
+Media:vo eqhdj003 1 xiao 04.ogg Xiao: "Skybracer..."
+Media:vo eqhdj003 1 xiao 05.ogg Xiao: Huh, a Mingxiao Lantern nonetheless. A fleeting creation of human hand. It means nothing to me.
+Media:vo eqhdj003 1 xiao 06.ogg Xiao: If this short-lived spectacle is one you wish to witness, I suggest you go to the city.
+Media:vo eqhdj003 2 huaian 01.ogg Huai'an: Word certainly got around, the news even reached us here.
+Media:vo eqhdj003 2 huaian 02.ogg Huai'an: *sigh* ...All these long years and I've never seen him attend the Lantern Rite.
+Media:vo eqhdj003 2 huaian 03.ogg Huai'an: I'd go as far as to say, it'd be easier bringing the festival to him than the other way around...
+Media:vo eqhdj003 2 huaian 04.ogg Huai'an: ...Sorry? Surely you realize I was joking... How would you "bring the Lantern Rite to him," exactly?
+Media:vo eqhdj003 2 huaian 05.ogg Huai'an: Now that you mention it, I wonder... We'd need enough space to set up our own stall. Hmm... There might just be enough room below the inn.
+Media:vo eqhdj003 2 huaian 06.ogg Huai'an: Let's take a look and choose a space. I believe I know the kind of stall you're after...
+Media:vo eqhdj003 2 huaian 07.ogg Huai'an: Hmm, there should be a few styles we can reference, let me think...
+Media:vo eqhdj003 2 paimon 01.ogg Paimon: Bring the festival to him... Hmm...
+Media:vo eqhdj003 2 paimon 02.ogg Paimon: Yeah! If Xiao won't go to the Lantern Rite, then let's bring the Lantern Rite to him!
+Media:vo eqhdj003 2 paimon 03.ogg Paimon: When we were in the city checking out the festivities, we learned how to make Xiao Lanterns. We even found a food stall serving local delicacies...
+Media:vo eqhdj003 2 paimon 04.ogg Paimon: So much tasty food, so many pretty Xiao Lanterns, not to mention... um... what else... Oh, the bygone heroes, his old friends.
+Media:vo eqhdj003 2 paimon 05.ogg Paimon: Aren't those the heart and soul of the Lantern Rite?
+Media:vo eqhdj003 2 verrgoldet 01.ogg Verr Goldet: Sounds like you and Xiao took care of business again.
+Media:vo eqhdj003 2 verrgoldet 02.ogg Verr Goldet: *sigh* And yet, another year's Lantern Rite will soon be over, and he still won't go and take a look...
+Media:vo eqhdj003 2 verrgoldet 03.ogg Verr Goldet: You're not wrong, but where would we set all that up...?
+Media:vo eqhdj003 3 huaian 01.ogg Huai'an: Uh... This is too close to the elevator entrance. I think we can do better...
+Media:vo eqhdj003 4 huaian 01.ogg Huai'an: No, here we'd be constantly interrupted by the foot traffic.
+Media:vo eqhdj003 5 huaian 01.ogg Huai'an: Here's not too bad... and it's safely away from all the foot traffic. A fitting choice.
+Media:vo eqhdj003 6 huaian 01.ogg Huai'an: We've got ourselves a nice spot, now we need to build a proper stall. I've thought about it, and I believe I know roughly how to go about it.
+Media:vo eqhdj003 6 huaian 02.ogg Huai'an:  If you'll excuse me for a moment, I'll try to figure out where to start...
+Media:vo eqhdj003 6 huaian 03.ogg Huai'an: And voila! A little rough around the edges, but it should serve us well. What do you think?
+Media:vo eqhdj003 6 huaian 04.ogg Huai'an: It was no big deal! Just a little bit of DIY that I picked up years ago. I've forgotten most of it, actually.
+Media:vo eqhdj003 6 huaian 05.ogg Huai'an: Well, we can check the stall off our to-do list. It looks quite festive decorated with that Xiao Lantern, wouldn't you say?
+Media:vo eqhdj003 6 huaian 06.ogg Huai'an: Well yes, but in my generation, it's just the norm for everyone who grew up in Liyue.
+Media:vo eqhdj003 6 huaian 07.ogg Huai'an: Anyway, speaking of festivities... No celebration is complete without a feast. Do you know what you would like on the menu?
+Media:vo eqhdj003 6 huaian 08.ogg Huai'an: Almond Tofu and Grilled Tiger Fish, hmm... What an interesting combination of flavors! I'll have a word with Smiley Yanxiao.
+Media:vo eqhdj003 6 huaian 09.ogg Huai'an: He should be able to rustle those up in no time. Luckily, the inn's pantry contains all the necessary ingredients.
+Media:vo eqhdj003 6 huaian 10.ogg Huai'an: Oh, it's about time to summon our honored guest. Could you fetch him? The food should be ready by the time you come down.
+Media:vo eqhdj003 6 paimon 01.ogg Paimon: Almond Tofu, that's for sure! We've made it for Xiao before.
+Media:vo eqhdj003 7 paimon 01.ogg Paimon: Okay, so there's a bunch of delicious snacks just laid out below the inn, and a bunch of Xiao lanterns, and there's practically no one else around to have to worry about.
+Media:vo eqhdj003 7 paimon 02.ogg Paimon: Better hurry up of the food's gonna go cold. Come on down!
+Media:vo eqhdj003 7 xiao 01.ogg Xiao: What now?
+Media:vo eqhdj003 7 xiao 02.ogg Xiao: ...We've had the talk about crowded places. Do not make me repeat myself. Best you go alone.
+Media:vo eqhdj003 7 xiao 03.ogg Xiao: ...What is that supposed to mean?
+Media:vo eqhdj003 7 xiao 04.ogg Xiao: You "brought the festival to me"?
+Media:vo eqhdj003 8 paimon 01.ogg Paimon: Ta-da! Your very own, miniature Lantern Rite festival! Well if it doesn't look mouth-watering...
+Media:vo eqhdj003 8 paimon 02.ogg Paimon: Less fathoming, more eating! Come on, dig in, before it gets cold!
+Media:vo eqhdj003 8 paimon 03.ogg Paimon: Mmm-mmm, okay, Paimon's gonna concentrate on eating now.
+Media:vo eqhdj003 8 paimon 04.ogg Paimon: Ahh... Now that we're done with the most important part of the celebration, we should be heading out to see the Mingxiao Lantern.
+Media:vo eqhdj003 8 paimon 05.ogg Paimon: Yeah, the Mingxiao Lantern may not be your thing, but... surely, there's no harm in taking a walk with us.
+Media:vo eqhdj003 8 paimon 06.ogg Paimon: The road from here to Liyue Harbor is long and full of dangers... We need someone to ensure our safety!
+(Paimon turns to the Traveler, who nods)
+Media:vo eqhdj003 8 paimon 07.ogg Paimon: Nobody says you have to enter the city... You can just see us off at the outskirts.
+Media:vo eqhdj003 8 paimon 08.ogg Paimon: There you go! Alright, time to hit the road!
+Media:vo eqhdj003 8 xiao 01.ogg Xiao: So this is what you meant by bringing the festival to me... *sigh* Is there no end to the peculiarities of human behavior?
+Media:vo eqhdj003 8 xiao 02.ogg Xiao: Does this serve any grander purpose?
+Media:vo eqhdj003 8 xiao 03.ogg Xiao: ...Is that so? Hmph, human motives defy my attempts to fathom them.
+Media:vo eqhdj003 8 xiao 04.ogg Xiao: You may take your leave. There's nothing for me over there.
+Media:vo eqhdj003 8 xiao 05.ogg Xiao: ...
+Media:vo eqhdj003 8 xiao 06.ogg Xiao: ...Hmph.
+Media:vo eqhdj003 8 xiao 07.ogg Xiao: So be it. I shall accept your proposal.
+Media:vo eqhdj003 9 paimon 01.ogg Paimon: You are obviously one of the heroes this festival is all about... Why don't you wanna get involved?
+Media:vo eqhdj003 9 paimon 02.ogg Paimon: Hey! This is a legitimate festival, not some trivial amusement!
+Media:vo eqhdj003 9 xiao 01.ogg Xiao: This is as far as I will go. Please see yourselves into the city.
+Media:vo eqhdj003 9 xiao 02a.ogg Xiao: What now?
+Media:vo eqhdj003 9 xiao 03.ogg Xiao: I... detest the rabble.
+Media:vo eqhdj003 9 xiao 04.ogg Xiao: No cares in the world, so peaceful, so joyful... They are nothing like me.
+Media:vo eqhdj003 9 xiao 05.ogg Xiao: Too long have I spent slaughtering, accompanied by the burden of suffering that follows in its wake. Crossing paths with all those jubilant people will only make me...
+Media:vo eqhdj003 9 xiao 06.ogg Xiao: ...That's all I have to say.
+Media:vo eqhdj003 9 xiao 07.ogg Xiao: Farewell.
+Media:vo eqhdj003 9 xiao 08.ogg Xiao: Are you really so enamored with such trivial amusements?
+Media:vo eqhdj003 9 xiao 09.ogg Xiao: ...Legitimate...
+Media:vo eqhdj003 9 xiao 10.ogg Xiao: Enough. Go watch your lanterns.
+Media:vo eqhdj003 9 xiao 11.ogg Xiao: But stay vigilant. Keep your eyes open for any menace. If you find yourself in trouble... speak my name.
+Media:vo eqhdj003 9 xiao 12.ogg Xiao: Anywhere. Anytime.
+Media:vo eqhdj003 9 xiao 13.ogg Xiao: Whether yours or Liyue's, I hear all cries for help, all prayers for peace, and all the wishes carried by the lanterns.

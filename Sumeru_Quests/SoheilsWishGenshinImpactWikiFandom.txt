@@ -1,0 +1,184 @@
+ Any discoveries?
+ He must have his reasons.
+Paimon: True, but Paimon feels these researchers always hide behind the pretense of "pursuing knowledge"...
+Paimon: As if that justifies everything they do and say.
+ Well, that's one thing you shouldn't turn into, Paimon.
+Paimon: Don't worry, Paimon's never been interested in knowledge at all!
+ He sounded like a completely different person.
+ How are they different?
+Soheil: The difference is that they're completely different.
+ It's because your world is too simple, Paimon.
+Paimon: Is it? Paimon thinks her world's pretty complicated. Paimon has to remember what every dish tastes like, and all the ways to get different treasures...
+ It's fair indeed.
+ It's good to remember everything again.
+ It's not very fair...
+Soheil: Oh... Is it not enough? Well, consider it as a greeting gift. I'll have better ones for you later!
+Paimon: Paimon thinks it's pretty fair...
+Soheil: Well, the little hero certainly thinks so. What does the big hero think?
+ Okay...
+ Not yet.
+Soheil: Alright. If you do find anything, please share them with me and quench my thirst for knowledge.
+ Okay...
+ Quest DescriptionSoheil's archaeological notes record his desert adventures in his youth. Some of the ruins mentioned may contain treasures and old documents. Head into the depths of the desert again to look for them.
+ So you've forgotten all about it...
+ Sure.
+ Those are two completely different things.
+Soheil: That's exactly it. They are two different things altogether.
+ We explored the Lamb-Devourer Rock. (If the Record of Lamb-Devourer Rock has been obtained)
+Soheil: You weren't in any danger, were you? Not that I doubt you could handle any situation, even if you did encounter Thutmose.
+ We explored the Tomb of Carouses. (If the Record of the Tomb of Carouses has been obtained)
+Soheil: So you went to the Tomb of Carouses... It's a miniature version of the Mausoleum of King Deshret, just like I said, right? So, any new discoveries?
+ We explored the Transparent Ruins. (If all four Transparent Ruins were explored)
+Soheil: You went to the Transparent Ruins? Did you find anything?
+Paimon: Of course. Be prepared to be thunderstruck!
+ Well, that's one thing you shouldn't turn into, Paimon.
+ What do you need a breakthrough for?
+ Wow, Paimon! You actually understood!
+Paimon: Of course! He was just short of writing "Help me!" all over his face! Hmm, if we help him now, I'm sure we'll get loads of rewards.
+ You scratch our back, we scratch yours.
+Paimon: That's right! We got treasure and you got inspiration for your papers.
+ You should be thanking Tirzad instead.
+Paimon: That's right! If we weren't trying to prove Tirzad correct, we wouldn't have found this slate!
+Soheil: You're right. Tirzad's the one I should be thanking — yes, indeed!
+ You're welcome.
+ You're welcome.
+Paimon: It's nothing, really! Plus, we found lots of treasure based on your notes! So, how's your paper going?
+(The Traveler and Paimon leave)
+Hulwani: (*sigh* It's better to just stay out of trouble. Just pretend that I didn't see anything.)
+Hulwani: Are you trying to... I get it. That isn't against the rules, but I'm afraid your actions would...
+Hulwani: But the sage said...
+Hulwani: I suppose...
+Hulwani: Mr. Soheil, are you thinking...
+Hulwani: Since the sage didn't specifically ban travelers from entering the desert... Yes, you may go ahead...
+Hulwani: The sage prohibits any researcher from going into the desert.
+Paimon: And then he found something a lot smaller than the Mausoleum of King Deshret — the Tomb of Carouses. Finally, he was attacked by a group of mercenaries in a place called Lamb-Devourer Rock.
+Paimon: And we found five stone slates with writings on them. Pretty sure they're what Soheil wants for writing his papers.
+Paimon: And we found several stone slates with writings on them. Pretty sure they're what Soheil wants for writing his papers.
+Paimon: As if that justifies everything they do and say.
+Paimon: But haven't we already been to the Transparent Ruins mentioned in the notes? We even found three stone slates!
+Paimon: But haven't we already been to two of the three places mentioned in the notes?
+Paimon: But haven't we been to the Tomb of Carouses mentioned in the notes before?
+Paimon: But the "Lamb-Devourer Rock" mentioned in the notes is probably behind that secret door we found. You know, the one locked behind a password.
+Paimon: But the three places mentioned in the notes sound so familiar... Haven't we been to all of them?
+Paimon: Don't worry, Paimon's never been interested in knowledge at all!
+Paimon: Eh? How can this be?
+Paimon: From that perspective, it wouldn't be an exaggeration for him to call this a precious gift.
+Paimon: Gifts? What are you going to give us?
+Paimon: Hey, you look pale... Did you discover something terrible?
+Paimon: Hey, you're spending too much time on this! You're not trying to commit the text to memory and skimp on our pay, are you?
+Paimon: Hmm? What's with the sudden frown? Did you run into something difficult to decipher?
+Paimon: Huh? Do you want us to look for more stone slates?
+Paimon: If you ask Paimon, he's just afraid that the big guy over there would rat him out to the sage.
+Paimon: Is it? Paimon thinks her world's pretty complicated. Paimon has to remember what every dish tastes like, and all the ways to get different treasures...
+Paimon: It's hard to remember the password, though. It was like "pashara" or something... We also found a slightly broken stone slate.
+Paimon: It's nothing, really! Plus, we found lots of treasure based on your notes! So, how's your paper going?
+Paimon: Let's just give the slates to Soheil. He'll be speechless in awe!
+Paimon: Let's take a look at what's written in Soheil's gift!
+(Open Soheil's Old Notes)
+Paimon: Let's visit each location mentioned in his notes. If we find something decent, let's bring it back as a gift to him in return!
+(Obtain Soheil's Old Notes)
+Paimon: Mm... Looks like he's been having a pretty hard time. He explored the area around the Mausoleum of King Deshret for a month without obtaining any results. He didn't want to give up, and found the Transparent Ruins.
+Paimon: Never mind, let's just give the slates to Soheil. Paimon would love to see his awestruck face right about now!
+Paimon: No, Paimon thinks (Traveler) would be more like the you in the notes.
+Paimon: Of course! He was just short of writing "Help me!" all over his face! Hmm, if we help him now, I'm sure we'll get loads of rewards.
+Paimon: Of course. Be prepared to be thunderstruck!
+Paimon: Paimon thinks it's pretty fair...
+Paimon: That's right! If we weren't trying to prove Tirzad correct, we wouldn't have found this slate!
+Paimon: That's right! We got treasure and you got inspiration for your papers.
+Paimon: The world of researchers is way too complicated! He could just have come right out and said he needed our help! Instead, we had to go through this whole charade...
+Paimon: True, but Paimon feels these researchers always hide behind the pretense of "pursuing knowledge"...
+Paimon: Wasn't it the one that looked like a smaller version of the Mausoleum of King Deshret, but with easier-to-find treasure and stone slates?
+Paimon: What is it, what is it? It has so many words, so it's got to be valuable, right?
+Paimon: Whoa... Even though he went through all that, he still wrote that "compared to the mockery, having no improvement in knowledge is more painful to endure."
+Paimon: Y'know what, let's just give the slates to Soheil. Paimon would love to see his awestruck face right now!
+Paimon: Yeah! Remember what you wrote in your notes? "Compared to the mockery, having no improvement in knowledge is more painful to endure."
+Paimon: Yeah! Seems like he really was in it for the knowledge back then. Paimon's a little moved.
+Soheil examines the slate, alternating between frowning and marveling.
+Soheil: "On the Relationship Between the Development of Rhetoric and the Progress of Civilization."
+Soheil: "The Retreat of the Sheep: A Preliminary Study of Environmental Change in the Desert."
+Soheil: "Time Out From a Busy Schedule: On the Evolution of the Perception of Off-Days in Different Societies."
+Soheil: (Why didn't I meet such a good guide back then?)
+Soheil: ...
+Soheil: ...(Traveler), Paimon. This is a bit abrupt, but there's one more favor I'd like to ask.
+Soheil: Aha! So King Deshret did indeed withhold a secret behind that unknown force. I shall get to the bottom of it.
+Soheil: Aha! So King Deshret did indeed withhold a secret behind that unknown force. I shall get to the bottom of it.
+Soheil: ...
+Soheil: This is...
+Soheil: How could this be...?
+Paimon: Hey, you look pale... Did you discover something terrible?
+Soheil: Uh... No, sorry, they're not exactly "terrible"... The writings on the stone slates look complicated, but they're actually... Records of leave requests.
+Soheil: In addition, the recorded excuses are not any different from that of the young scholars today...
+Soheil: Phew, it's a good thing I failed to find a way to access the Transparent Ruins back in the day. I imagine that I would have been quite livid.
+Soheil: Anyway, I must thank you for bringing the slates back. Perhaps I should go ask around about the excuses people make in Mondstadt. That could be enough for me to write a paper...
+Soheil: "Time Out From a Busy Schedule: On the Evolution of the Perception of Off-Days in Different Societies."
+Soheil: Alright. If you do find anything, please share them with me and quench my thirst for knowledge.
+Soheil: Also, thanks for reminding me of a time when I was younger. It's a pretty good feeling.
+Soheil: And as for this slate...
+Soheil: Anyway, I must thank you for bringing the slates back. Perhaps I should go ask around about the excuses people make in Mondstadt. That could be enough for me to write a paper...
+Soheil: But that's okay, I can still squeeze a paper out of this, albeit a short one...
+Soheil: But this discovery is certainly worth several pages of writing. Thank you very much. Here, as per our agreement.
+Soheil: From what I can tell, it's an ordinary fable that features some animals.
+Soheil: Hmm... Some of it looks like a construction log... It mentions "Aaru," but there's no way to know if it's in any way connected to Aaru Village. Too bad the records say little more...
+Soheil: Hmm... The experiences I've had are indeed true. But if it weren't for your reminder, I would have never looked at things from that perspective again.
+Soheil: How could this be...?
+Soheil: I believe it's fate that brought me back here to make your acquaintance in these ruins, so I want you to have these notes!
+Soheil: I must thank you on behalf of the Akademiya for getting such a valuable... Uh...
+Soheil: In addition, the recorded excuses are not any different from that of the young scholars today...
+Soheil: In reality, the gap is even greater than the difference between a hilichurl and slime.
+Soheil: It sounds like you didn't find anything special. I guess size isn't the only difference between the two locations.
+Soheil: It sounds like you didn't find anything special. I guess size isn't the only difference between the two locations.
+Soheil: And as for this slate...
+Paimon: What is it, what is it? It has so many words, so it's got to be valuable, right?
+Soheil: From what I can tell, it's an ordinary fable that features some animals.
+Paimon: Eh? How can this be?
+Soheil: But that's okay, I can still squeeze a paper out of this, albeit a short one...
+Soheil: "The Retreat of the Sheep: A Preliminary Study of Environmental Change in the Desert."
+Soheil: It's a breakthrough I'm after... I must still go into the Mausoleum of King Deshret myself.
+Soheil: Just the opposite, really. It's a love poem.
+Soheil: My actions? I am simply presenting a gift as a celebration of my friendship with (Traveler) the big hero and Paimon the little hero. Isn't that more than fair?
+Soheil: My next step would be to find a bigger collection of primary materials, but that's going to be difficult without going into the desert...
+Soheil: No no no, I have enough stone slates... I just... feel like reading my old notes again.
+Soheil: Notes?
+Soheil: Now that the three ruins have been fully explored, I can finally put my thoughts to rest.
+Soheil: Now, I wouldn't dare challenge the sage's authority, but I'm sure he never prohibited the giving of gifts, right?
+Soheil: Oh, I have an idea! If you have the time, please hear me out...
+Soheil: Oh... Is it not enough? Well, consider it as a greeting gift. I'll have better ones for you later!
+Soheil: Perhaps this slate would be more valuable to those from Haravatat. I can already imagine what titles they'll come up with...
+Soheil: Phew, it's a good thing I failed to find a way to access the Transparent Ruins back in the day. I imagine that I would have been quite livid.
+Soheil: Phew, it's a lot cooler here. Mind letting me see the slate?
+Soheil: Please allow me to take back the archaeology notes I gave you. I'll prepare something else as a gift for you.
+Soheil: So many people have labored and fought over papers, some even as old as me. We'd give up our dignity just for a chance to be deemed worthy by the sages.
+Soheil: So there is a secret base after all... No wonder Thutmose still managed to rob me despite all the precautions I took.
+Soheil: So there is a secret base after all... No wonder Thutmose still managed to rob me despite all the precautions I took.
+Soheil: What a bunch of ignorant fools! They claim to worship King Deshret, and yet they randomly throw such important relics around! Inexcusable!
+Soheil: I must thank you on behalf of the Akademiya for getting such a valuable... Uh...
+Paimon: Hmm? What's with the sudden frown? Did you run into something difficult to decipher?
+Soheil: Just the opposite, really. It's a love poem.
+Soheil: Perhaps this slate would be more valuable to those from Haravatat. I can already imagine what titles they'll come up with...
+Soheil: "On the Relationship Between the Development of Rhetoric and the Progress of Civilization."
+Soheil: So you went to the Tomb of Carouses... It's a miniature version of the Mausoleum of King Deshret, just like I said, right? So, any new discoveries?
+Soheil: Something very precious... My archaeology notes.
+Soheil: Sorry, I was just so fascinated. This is my first time seeing writing like this...
+Soheil: Thank you for all your help, and may your travels be smooth.
+Soheil: That's exactly it. They are two different things altogether.
+Soheil: The difference is that they're completely different.
+Soheil: The papers... Yeah, even though I've collected enough materials, I no longer depend on churning out volumes.
+Soheil: The sages, with the power they control, virtually have all of us researchers by our throats. They could make or break us with just one word.
+Soheil: Therefore, I must become a sage myself, or all the suffering I've endured would've been for nothing. I'm sure you'd understand if you were a researcher!
+Soheil: This is...
+Soheil: To be honest, I ventured into the desert more than a dozen years ago, but didn't find anything special other than noting the locations of several potential ruins.
+Soheil: To become a candidate for the next sage, of course.
+Soheil: To outsiders, the difference between a researcher and a sage is that of a small fruit and a larger fruit.
+Soheil: Uh... No, sorry, they're not exactly "terrible"... The writings on the stone slates look complicated, but they're actually... Records of leave requests.
+Soheil: Well then, to celebrate the strengthening of our friendship, I shall prepare more gifts of gratitude for our big hero and little hero.
+Soheil: Well, the little hero certainly thinks so. What does the big hero think?
+Soheil: What a bunch of ignorant fools! They claim to worship King Deshret, and yet they randomly throw such important relics around! Inexcusable!
+Soheil: What? I wrote that?
+Soheil: Yes, I get it, it's always about the sage with you... I'm just griping, that's all.
+Soheil: You went to the Transparent Ruins? Did you find anything?
+Soheil: You weren't in any danger, were you? Not that I doubt you could handle any situation, even if you did encounter Thutmose.
+Soheil: You're back. Did you find anything special in the desert?
+Soheil: You're right. Tirzad's the one I should be thanking — yes, indeed!
+You recount your exploration of Lamb-Devourer Rock to Soheil and give him the stone slate.
+You recount your exploration of the Tomb of Carouses to Soheil and give him the stone slate.
+You recount your exploration of the Transparent Ruins to Soheil and give him the three stone slates.

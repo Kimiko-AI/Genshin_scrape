@@ -1,0 +1,49 @@
+ Eula?
+ Hey, don't think like that.
+ Hmm, maybe.
+ I'm here if you want to talk.
+ Is something troubling you?
+ Others will accept you, Eula...
+ Quest Description"Tsk, why is a Lawrence drinking here too... What bad luck...""Ahem... Better watch your mouth. She is one of the Knights, after all..."
+ There will be many people who accept you one day, Eula...
+ We're learning to become bartenders...
+ What's the matter?
+ Winds always change their course.
+ Would you like me to walk you back?
+ Yes, just be patient.
+ You only just now noticed us?
+Another familiar face has arrived at the tavern.
+Following Paimon's instructions, you mix water into the coffee...
+Media:Vo eqtj002 3 paimon 01.ogg Paimon: Huh, this doesn't look like the drink they ordered. Just give this one to Paimon and try making another.
+Media:vo eqtj006 1 eula 01.ogg Eula: A small Foamy Reef, please... Thank you.
+Media:vo eqtj006 1 eula 02.ogg Eula: I... I'm fine.
+Media:vo eqtj006 1 paimon 01.ogg Paimon: Huh... There's something off about Eula. Was she already drinking before she got here?
+Media:vo eqtj006 1 paimon 02.ogg Paimon: But, Foamy Reef has coffee in it. Would it upset her stomach if she has coffee after liquor?
+Media:vo eqtj006 1 paimon 03.ogg Paimon: For her tummy's sake, let's water it down before serving it to her!
+Media:vo eqtj006 2 eula 01.ogg Eula: This tastes pretty good...
+Media:vo eqtj006 2 eula 02.ogg Eula: One more, bartender... Huh? W—Wait, it's you guys?
+Media:vo eqtj006 2 eula 03.ogg Eula: Ugh...
+Media:vo eqtj006 2 eula 04.ogg Eula: Sorry. I just came here from The Cat's Tail. Perhaps I had a little too much to drink...
+Media:vo eqtj006 2 eula 05.ogg Eula: ...
+Media:vo eqtj006 2 eula 06.ogg Eula: I suppose I always do drink alone.
+Media:vo eqtj006 2 eula 07.ogg Eula: As long as I'm in Mondstadt, I'll never be welcome at taverns. I was actually feeling good today and wanted a drink, but they still wouldn't get off my back...
+Media:vo eqtj006 2 eula 08.ogg Eula: Tell me, (Traveler), how did you manage to make so many friends?
+Media:vo eqtj006 2 eula 09.ogg Eula: People always sound so appreciative and are always smiling when they talk about you.
+Media:vo eqtj006 2 eula 10.ogg Eula: But as for me, just mentioning my family name is enough to make everyone...
+Media:vo eqtj006 2 eula 11.ogg Eula: Hey, who said I was pretending.
+Media:vo eqtj006 2 eula 12.ogg Eula: Do you think so? Heh, it's impossible to imagine, even when I'm this drunk...
+Media:vo eqtj006 2 eula 13.ogg Eula: Even after being a Knight of Favonius for all this time, people still... whatever.
+Media:vo eqtj006 2 eula 14.ogg Eula: Okay, thank you...
+Media:vo eqtj006 2 eula 15.ogg Eula: I... ahem! I should go now.
+Media:vo eqtj006 2 eula 16.ogg Eula: No need. I want to remember what you said, and I won't be able to think about anything else until I write everything down.
+Media:vo eqtj006 2 paimon 01.ogg Paimon: Wow, she didn't even notice how much water we added. She must've had a lot to drink.
+Media:vo eqtj006 2 paimon 02.ogg Paimon: Yeah. It's pretty lonely to drink by yourself. You'll feel better if you talk to us!
+Media:vo eqtj006 2 paimon 03.ogg Paimon: You didn't choose to be born into the Lawrence clan, and we don't care about that kind of thing. The Eula we know is a great person!
+Media:vo eqtj006 2 paimon 04.ogg Paimon: But you don't like being straightforward. You always pretend to hold a grudge, and you try to hide your tenderness away from everyone...
+Media:vo eqtj006 2 paimon 05.ogg Paimon: Oh, right! Tone-Deaf Bard said something wise like that, too.
+Media:vo eqtj006 2 paimon 06.ogg Paimon: Just be yourself, Eula... and keep moving forward.
+Media:vo eqtj006 2 paimon 07.ogg Paimon: Sooner or later you'll change what people think about the Lawrence clan!
+Media:vo eqtj006 2 paimon 08.ogg Paimon: Eula sure is a lot more open after a few drinks.
+Media:vo eqtj006 2 paimon 09.ogg Paimon: But it does feel like something's missing without her signature revenge line.
+Media:vo eqtj006 2 paimon 10.ogg Paimon: Uh-oh... When she wakes up in the morning, do you think she'll come threatening us to forget about what happened today?
+Traveler: (Alright, this drink is looking good.)

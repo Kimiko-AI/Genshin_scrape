@@ -1,0 +1,215 @@
+ (I think I understand...)
+ (I think Jean understands...)
+ About Dvalin...
+Media:vo dialog mdaq077 venti 02a 1.ogg Venti: Up until the end, Dvalin remembered his duty as one of the Four Winds.
+Media:vo dialog mdaq077 venti 02a 2.ogg Venti: As such, I don't intend to forcibly strip him of that duty and force my ideals of freedom onto him.
+Media:vo dialog mdaq077 venti 02a 3.ogg Venti: I just hope that Dvalin will be able to choose for himself and understand what freedom is.
+Media:vo dialog mdaq077 venti 02a 4.ogg Venti: Before I became an archon, I too was taught the meaning of freedom in this way by a friend.
+(Dialogue returns to option selection)
+ About Signora...
+Media:vo dialog mdaq077 paimon 02c 1.ogg Paimon: That Fatui lady didn't hang around, did she? She just grabbed your Gnosis and left!
+Media:vo dialog mdaq077 venti 02c 1.ogg Venti: She wanted to avoid any eyewitnesses from the Knights of Favonius.
+Media:vo dialog mdaq077 venti 02c 2.ogg Venti: The slightest slip-up here would have destroyed the Fatui's diplomatic relations with the Knights.
+Media:vo dialog mdaq077 paimon 02c 2.ogg Paimon: So they're just gonna keep acting like Mondstadt's allies as if nothing happened!?
+Media:vo dialog mdaq077 venti 02c 3.ogg Venti: *sigh* ...If only the seven nations had banded together against the Abyss Order in the first place.
+Media:vo dialog mdaq077 venti 02c 4.ogg Venti: The Fatui possess the strongest military among the seven nations. Yet they've used it to steal the Holy Lyre, covet the power of gods, and use Dvalin as a bargaining chip against the Knights...
+Media:vo dialog mdaq077 paimon 02c 3.ogg Paimon: Speaking of the Lyre... didn't Diluc say something like this before?
+Media:vo dialog mdaq077 paimon 02c 4.ogg Paimon: He said that the Fatui can only run amok across the seven nations and threaten the Knights because of the harbingers.
+Media:vo dialog mdaq077 venti 02c 5.ogg Venti: Yes. As I said earlier, the Cryo Archon has given them authority and strength beyond that of other mortals.
+Media:vo dialog mdaq077 venti 02c 6.ogg Venti: The Tsaritsa... I haven't seen her in five hundred years. What is she thinking? What's her plan?
+Media:vo dialog mdaq077 venti 02c 7.ogg Venti: Whatever the answer is, I have a feeling it's only going to make your search for The Seven all the more difficult...
+(Dialogue returns to option selection)
+ About deities...
+Media:vo dialog mdaq077 venti 02d 1.ogg Venti: As I said before, Vision wielders are known as allogenes and may ascend to Celestia.
+Media:vo dialog mdaq077 venti 02d 2.ogg Venti: A Gnosis is a higher-order nexus of elemental manipulation and is emblematic of an archon's status as one of The Seven.
+Media:vo dialog mdaq077 venti 02d 3a.ogg Media:vo dialog mdaq077 venti 02d 3b.ogg Venti: But as for which of The Seven took your (sister/brother)... I'm sorry, I don't know.
+Media:vo dialog mdaq077 venti 02d 4.ogg Venti: ...Wait, as one of the Seven, I'm not clear of suspicion yet either, am I?
+ You don't look like that god at all.
+Media:vo dialog mdaq077 paimon 02d 1.ogg Paimon: Hang on a hot second! Tone-Deaf Bard is just one of Barbatos' many incarnations, who's to say–
+ We've known you long enough to trust you.
+Media:vo dialog mdaq077 venti 02d 5a.ogg Media:vo dialog mdaq077 venti 02d 5b.ogg Venti: Haha, we're a great team indeed! Say, once you find your (sister/brother), how would you like to become one of the new Four Winds?
+ Perhaps...
+Media:vo dialog mdaq077 paimon 02d 2.ogg Paimon: Hmm, you don't seem too into it, Traveler...
+Media:vo dialog mdaq077 paimon 02d 3.ogg Paimon: Hey, Tone-Deaf Bard... If being one of the Four Winds means free food, you can consider Paimon!
+Media:vo dialog mdaq077 venti 02d 6.ogg Venti: Hahaha...
+(Dialogue returns to option selection)
+ About the Abyss Order...
+Media:vo dialog mdaq077 venti 02b 1.ogg Venti: Kaeya shared some new intelligence, you say?
+Media:vo dialog mdaq077 venti 02b 2a.ogg Media:vo dialog mdaq077 venti 02b 2b.ogg Venti: ...I see. So, the Abyss Order has a (Princess/Prince) who orchestrated the plan to corrupt Dvalin?
+Media:vo dialog mdaq077 venti 02b 3a.ogg Media:vo dialog mdaq077 venti 02b 3b.ogg Venti: They were probably trying to turn Dvalin into a weapon of war for the Abyss. But that said, I have never heard of any such (Princess/Prince) of the Abyss Order.
+ Not an Abyss Order tradition, then...
+ So this is a recent development...
+Media:vo dialog mdaq077 venti 02b 4.ogg Venti: I think so, too...
+Media:vo dialog mdaq077 venti 02b 5a.ogg Media:vo dialog mdaq077 venti 02b 5b.ogg Venti: Apparently, but how does a (Princess/Prince) come out of nowhere and take command over the entire Abyss Order?
+(Dialogue returns to option selection)
+ Huh...
+ I feel cheated... but I guess I'm used to that by now.
+ I understand.
+ Not an Abyss Order tradition, then...
+ Perhaps...
+ Quest DescriptionAmber says that Jean is waiting for you at the Cathedral. Apparently, it's something to do with the Holy Lyre der Himmel...
+ So this is a recent development...
+ So... what is a Gnosis?
+ Sorry for borrowing the statue's Anemo power without asking...
+Media:vo mdaq077 4 venti 24b.ogg Venti: Haha, just use it gratefully — or, better yet, treat me to a glass of dandelion wine.
+ There's nothing else...
+Media:vo dialog mdaq077 venti 02e 1.ogg Venti: Well then, best be off to Liyue. If the descension ritual you fail to tally, then another year you must dally.
+ Venti...
+ Venti... is he alright?
+Media:vo mdaq076 3 barbara 02.ogg Barbara: Um... I wouldn't say he's "alright," exactly.
+Media:vo mdaq076 3 barbara 03.ogg Barbara: I found you lying unconscious outside the Cathedral, and used my elemental powers to heal you...
+ We've known you long enough to trust you.
+ What about the thing hanging off your hip?
+ What planet... are we on?
+Media:vo mdaq076 3 barbara 04.ogg Barbara: Planet?
+Media:vo mdaq076 3 paimon 01a.ogg Media:vo mdaq076 3 paimon 01b.ogg Paimon: Ah! Don't listen to (his/her) nonsense, Miss Barbara!
+Media:vo mdaq076 3 barbara 05.ogg Barbara: Ahh... Um, okay, well basically, I found you lying outside the Cathedral, unconscious, and used my elemental powers to heal you...
+Media:vo mdaq076 3 paimon 02.ogg Paimon: Paimon thinks you could still use a final splash of ice-cold water to the face.
+ What sort of god is the Tsaritsa?
+ You don't look like that god at all.
+ You mean me?
+Media:vo mdaq077 4 venti 24a.ogg Venti: Agreed.
+(Both the Traveler and Venti fall unconscious as the Fatui leave the scene)
+(The Traveler hands her the Damaged Holy Lyre der Himmel. The poor state of the instrument shocks her)
+After much time has passed...
+Cutscene's Travel Log summary:
+The sight of the badly damaged Holy Lyre causes the pious Barbara to panic. Venti sees no choice but to use a magical illusion to "fix" the lyre, and the rest of you quietly leave the Cathedral before Barbara has the chance to see through it. But just outside the Cathedral, Fatui Harbinger Signora appears, steals Venti's Gnosis, knocks you unconscious, and hastily departs.
+La Signora, The Fair Lady — The Eighth of the Eleven Fatui Harbingers
+Media:vo dialog mdaq076 barbara 01.ogg Barbara: The Fatui were the ones who attacked you? That's too much...
+Media:vo dialog mdaq076 barbara 02.ogg Barbara: Master Jean has already returned to the Knights Headquarters. She said that she will look for evidence.
+Media:vo dialog mdaq076 barbara 03.ogg Barbara: But she also said that if no traces were left behind, the Knights might find it difficult to lodge a complaint against the culprit.
+Media:vo dialog mdaq077 paimon 02c 1.ogg Paimon: That Fatui lady didn't hang around, did she? She just grabbed your Gnosis and left!
+Media:vo dialog mdaq077 paimon 02c 2.ogg Paimon: So they're just gonna keep acting like Mondstadt's allies as if nothing happened!?
+Media:vo dialog mdaq077 paimon 02c 3.ogg Paimon: Speaking of the Lyre... didn't Diluc say something like this before?
+Media:vo dialog mdaq077 paimon 02c 4.ogg Paimon: He said that the Fatui can only run amok across the seven nations and threaten the Knights because of the harbingers.
+Media:vo dialog mdaq077 paimon 02d 1.ogg Paimon: Hang on a hot second! Tone-Deaf Bard is just one of Barbatos' many incarnations, who's to say–
+Media:vo dialog mdaq077 paimon 02d 2.ogg Paimon: Hmm, you don't seem too into it, Traveler...
+Media:vo dialog mdaq077 paimon 02d 3.ogg Paimon: Hey, Tone-Deaf Bard... If being one of the Four Winds means free food, you can consider Paimon!
+Media:vo dialog mdaq077 venti 01.ogg Venti: If you want to chat, now's the time — a bard stays not always in a single clime.
+Media:vo dialog mdaq077 venti 02a 1.ogg Venti: Up until the end, Dvalin remembered his duty as one of the Four Winds.
+Media:vo dialog mdaq077 venti 02a 2.ogg Venti: As such, I don't intend to forcibly strip him of that duty and force my ideals of freedom onto him.
+Media:vo dialog mdaq077 venti 02a 3.ogg Venti: I just hope that Dvalin will be able to choose for himself and understand what freedom is.
+Media:vo dialog mdaq077 venti 02a 4.ogg Venti: Before I became an archon, I too was taught the meaning of freedom in this way by a friend.
+Media:vo dialog mdaq077 venti 02b 1.ogg Venti: Kaeya shared some new intelligence, you say?
+Media:vo dialog mdaq077 venti 02b 2a.ogg Media:vo dialog mdaq077 venti 02b 2b.ogg Venti: ...I see. So, the Abyss Order has a (Princess/Prince) who orchestrated the plan to corrupt Dvalin?
+Media:vo dialog mdaq077 venti 02b 3a.ogg Media:vo dialog mdaq077 venti 02b 3b.ogg Venti: They were probably trying to turn Dvalin into a weapon of war for the Abyss. But that said, I have never heard of any such (Princess/Prince) of the Abyss Order.
+Media:vo dialog mdaq077 venti 02b 4.ogg Venti: I think so, too...
+Media:vo dialog mdaq077 venti 02b 5a.ogg Media:vo dialog mdaq077 venti 02b 5b.ogg Venti: Apparently, but how does a (Princess/Prince) come out of nowhere and take command over the entire Abyss Order?
+Media:vo dialog mdaq077 venti 02c 1.ogg Venti: She wanted to avoid any eyewitnesses from the Knights of Favonius.
+Media:vo dialog mdaq077 venti 02c 2.ogg Venti: The slightest slip-up here would have destroyed the Fatui's diplomatic relations with the Knights.
+Media:vo dialog mdaq077 venti 02c 3.ogg Venti: *sigh* ...If only the seven nations had banded together against the Abyss Order in the first place.
+Media:vo dialog mdaq077 venti 02c 4.ogg Venti: The Fatui possess the strongest military among the seven nations. Yet they've used it to steal the Holy Lyre, covet the power of gods, and use Dvalin as a bargaining chip against the Knights...
+Media:vo dialog mdaq077 venti 02c 5.ogg Venti: Yes. As I said earlier, the Cryo Archon has given them authority and strength beyond that of other mortals.
+Media:vo dialog mdaq077 venti 02c 6.ogg Venti: The Tsaritsa... I haven't seen her in five hundred years. What is she thinking? What's her plan?
+Media:vo dialog mdaq077 venti 02c 7.ogg Venti: Whatever the answer is, I have a feeling it's only going to make your search for The Seven all the more difficult...
+Media:vo dialog mdaq077 venti 02d 1.ogg Venti: As I said before, Vision wielders are known as allogenes and may ascend to Celestia.
+Media:vo dialog mdaq077 venti 02d 2.ogg Venti: A Gnosis is a higher-order nexus of elemental manipulation and is emblematic of an archon's status as one of The Seven.
+Media:vo dialog mdaq077 venti 02d 3a.ogg Media:vo dialog mdaq077 venti 02d 3b.ogg Venti: But as for which of The Seven took your (sister/brother)... I'm sorry, I don't know.
+Media:vo dialog mdaq077 venti 02d 4.ogg Venti: ...Wait, as one of the Seven, I'm not clear of suspicion yet either, am I?
+Media:vo dialog mdaq077 venti 02d 5a.ogg Media:vo dialog mdaq077 venti 02d 5b.ogg Venti: Haha, we're a great team indeed! Say, once you find your (sister/brother), how would you like to become one of the new Four Winds?
+Media:vo dialog mdaq077 venti 02d 6.ogg Venti: Hahaha...
+Media:vo dialog mdaq077 venti 02e 1.ogg Venti: Well then, best be off to Liyue. If the descension ritual you fail to tally, then another year you must dally.
+Media:vo mdaq072 2 barbara 01.ogg Barbara: May the Anemo Archon protect you.
+Media:vo mdaq072 2 barbara 02.ogg Barbara: I'm not really in a position to speak compared to our Acting Grand Master...
+Media:vo mdaq072 2 barbara 03.ogg Barbara: But I still want to thank you all on behalf of all of Mondstadt for your assistance!
+Media:vo mdaq072 2 barbara 04.ogg Barbara: Fortunately, everything was resolved peacefully... I can't imagine how an all-out war between the military and the dragon would have ended...
+Media:vo mdaq072 2 barbara 05.ogg Barbara: Sounds like quite the story. So, did you bring the Holy Lyre with you?
+Media:vo mdaq072 2 barbara 06.ogg Barbara: We cannot ask you to keep defending the lyre forever. The Seneschal has been pressing me for a while now...
+Media:vo mdaq072 2 barbara 07.ogg Barbara: Oh, don't worry! I'm not here to collect a rent! The Church has always received special funding...
+Media:vo mdaq072 2 paimon 01.ogg Paimon: We ahh... did bring it with us... Umm... It's just... it's a little...
+Media:vo mdaq072 2 qin 01.ogg Jean: This is Barbara, the Deaconess of the Church. She is here to retrieve the Holy Lyre der Himmel.
+Media:vo mdaq072 2 qin 02.ogg Jean: Now the Fatui have no choice but to keep their mouths shut.
+Media:vo mdaq072 2 qin 03.ogg Jean: They must be annoyed that things didn't turn out as planned for them.
+Media:vo mdaq072 2 qin 04.ogg Jean: This time, they even lost their best excuse to pressure the Knights of Favonius.
+Media:vo mdaq072 2 qin 05.ogg Jean: Diplomatically speaking, they gained nothing, and on the contrary simply proved how vexatious they can be.
+Media:vo mdaq073 2 cs hero 01.ogg Media:vo mdaq073 2 cs heroine 01.ogg (Traveler): Venti...
+Media:vo mdaq073 2 cs signora 01.ogg ???: At last, Mondstadt's rodent ruler in the flesh.
+Media:vo mdaq073 2 cs signora 02.ogg Signora: Scurrying through the streets, looking for leftovers...
+Media:vo mdaq073 2 cs signora 03.ogg Signora: Mondstadt calls this a god?
+Media:vo mdaq073 2 cs signora 04.ogg Signora: Don't you dare speak back to me, insolent bard.
+(Venti summons the wind and dispels some but not all the ice encasing his legs)
+Media:vo mdaq073 2 cs signora 05.ogg Signora: Absentee archon of Mondstadt...
+Media:vo mdaq073 2 cs signora 06.ogg Signora: How impotent you have become...
+Media:vo mdaq073 2 cs signora 07.ogg Signora: Should have held your tongue.
+(Signora forcefully grabs Venti's Gnosis from his chest)
+Media:vo mdaq073 2 cs signora 08.ogg Signora: So. This is a Gnosis?
+Media:vo mdaq073 2 cs signora 09.ogg Signora: Wouldn't be caught dead wearing this ugly thing in public.
+Media:vo mdaq073 2 cs signora 10.ogg Signora: Well, we have what we came here for.
+Media:vo mdaq073 2 cs signora 11.ogg Signora: Come. Before our dear Favonian friends arrive.
+Media:vo mdaq073 2 cs signora 12.ogg Signora: Leave nothing for them to find.
+Media:vo mdaq073 2 cs venti 05.ogg Venti: Resident rodent... beats invasive vermin—
+(Signora slaps Venti)
+Media:vo mdaq073 2 cs venti 06.ogg Venti: That smirk you wear looks out of place.
+Media:vo mdaq073 2 cs venti 07.ogg Venti: Did you steal it from your master's face?
+Media:vo mdaq073 2 cs venti 08.ogg Venti: Beauty is a waste... when the beholder has no taste...
+Media:vo mdaq073 3 cs barbara 01.ogg Barbara: Aah...
+Media:vo mdaq073 3 cs barbara 02.ogg Barbara: AAAAAARGH!!! THE HOLY LYRE!!!
+Media:vo mdaq073 3 cs barbara 03.ogg Barbara: Oh, Lord Barbatos... Even if I atoned for these sins for the rest of my life...
+Media:vo mdaq073 3 cs barbara 04.ogg Barbara: ...it would still not be enough!
+Media:vo mdaq073 3 cs barbara 05.ogg Barbara: How could this—
+Media:vo mdaq073 3 cs barbara 06.ogg Barbara: The Holy Lyre... But how?
+Media:vo mdaq073 3 cs barbara 07.ogg Barbara: No! No!
+Media:vo mdaq073 3 cs barbara 08.ogg Barbara: I don't know how you managed to fix it, but you'll never touch the lyre again!
+(Barbara storms off with the lyre)
+Media:vo mdaq073 3 cs paimon 01.ogg Paimon: Ahh...
+Media:vo mdaq073 3 cs paimon 02.ogg Paimon: Huh? Let Paimon see!
+Media:vo mdaq073 3 cs paimon 03.ogg Paimon: What!?
+Media:vo mdaq073 3 cs paimon 04.ogg Paimon: You— Tone-Deaf Bard!!!
+Media:vo mdaq073 3 cs paimon 05.ogg Paimon: Hey! Don't go!
+(Venti runs out of the Church with the Traveler and Paimon following him. They are ambushed by two Fatui Pyro Agents before a woman, their leader, creates a small ice storm that freezes Venti's legs in place and blows a frozen Paimon away, while the Traveler is subdued by the Pyro Agents)
+Media:vo mdaq073 3 cs venti 01.ogg Venti: Ugh...
+Media:vo mdaq073 3 cs venti 02.ogg Venti: *sigh* ...
+Media:vo mdaq073 3 cs venti 03.ogg Venti: Oh, give it here...
+(Venti repairs the lyre)
+Media:vo mdaq073 3 cs venti 04.ogg Venti: ...We ahh... really should get going...
+Media:vo mdaq073 3 cs venti 05.ogg Venti: That trick I used to "repair" the Holy Lyre...
+Media:vo mdaq073 3 cs venti 06.ogg Venti: Hehe, I mean the magic I used...
+Media:vo mdaq073 3 cs venti 07.ogg Venti: ...Isn't going to hold forever you know.
+Media:vo mdaq076 3 barbara 01.ogg Barbara: Ah! Honorary Knight, you're awake!
+Media:vo mdaq076 3 barbara 02.ogg Barbara: Um... I wouldn't say he's "alright," exactly.
+Media:vo mdaq076 3 barbara 03.ogg Barbara: I found you lying unconscious outside the Cathedral, and used my elemental powers to heal you...
+Media:vo mdaq076 3 barbara 04.ogg Barbara: Planet?
+Media:vo mdaq076 3 barbara 05.ogg Barbara: Ahh... Um, okay, well basically, I found you lying outside the Cathedral, unconscious, and used my elemental powers to heal you...
+Media:vo mdaq076 3 barbara 06.ogg Barbara: That bard awakened first, but strangely, my healing powers had almost no effect on him...
+Media:vo mdaq076 3 barbara 07.ogg Barbara: This is the first time I've encountered such a patient. But he just said "it's completely normal," and then got up and left the Cathedral...
+Media:vo mdaq076 3 barbara 08.ogg Barbara: The Symbol of Mondstadt's Hero, that's what he said.
+Media:vo mdaq076 3 barbara 09.ogg Barbara: I wanted to stop him, but Jean— I mean, Master Jean said to let him leave. How strange.
+Media:vo mdaq076 3 paimon 01a.ogg Media:vo mdaq076 3 paimon 01b.ogg Paimon: Ah! Don't listen to (his/her) nonsense, Miss Barbara!
+Media:vo mdaq076 3 paimon 02.ogg Paimon: Paimon thinks you could still use a final splash of ice-cold water to the face.
+Media:vo mdaq076 3 paimon 03.ogg Paimon: He left? Already? Where'd he go?
+Media:vo mdaq076 3 paimon 04.ogg Paimon: Paimon remembers Venti healing under that tree before...
+Media:vo mdaq076 3 paimon 05.ogg Paimon: (It's probably due to the connection between Windrise and the Anemo Archon. Master Jean has figured it out as well, but we can't tell Barbara...)
+Media:vo mdaq077 4 paimon 01.ogg Paimon: Allogenes? Paimon's never heard of them before.
+Media:vo mdaq077 4 paimon 02.ogg Paimon: So who was that nasty woman who sent Paimon flying and stole your Gnosis?
+Media:vo mdaq077 4 paimon 03.ogg Paimon: The Tsaritsa of Snezhnaya? Isn't that...
+Media:vo mdaq077 4 paimon 04.ogg Paimon: Even so, it sounds like he works much harder than a certain someone.
+Media:vo mdaq077 4 paimon 05.ogg Paimon: WHAT!? Why didn't you tell us before? Well then bye. Traveler, we're going!
+Media:vo mdaq077 4 venti 01.ogg Venti: The wind amongst the branches is good, I love the way it smells...
+Media:vo mdaq077 4 venti 02.ogg Venti: Haha, I said the exact same thing the last time. *sigh* Why do I only say these things when I'm down on my luck?
+Media:vo mdaq077 4 venti 03.ogg Venti: Ah, so you noticed.
+Media:vo mdaq077 4 venti 04.ogg Venti: *sigh* This isn't something I'm meant to discuss with ordinary people. But I suppose I can let you in on the secret.
+Media:vo mdaq077 4 venti 05.ogg Venti: As you know, Visions are external magical foci that only a small minority of people possess. They use these Visions to channel elemental power.
+Media:vo mdaq077 4 venti 06.ogg Venti: In truth, every wielder of a Vision is one who can attain godhood and ascend to Celestia. We call such people allogenes.
+Media:vo mdaq077 4 venti 07.ogg Venti: Hehe, that's because this is a secret that only archons are privy to. We don't need primitive tools like Visions.
+Media:vo mdaq077 4 venti 08.ogg Venti: Instead, each archon has an internal magical focus that resonates directly with Celestia itself... known as a Gnosis.
+Media:vo mdaq077 4 venti 09.ogg Venti: Eh-he. It's just a glowing glass ball I carry around to avoid suspicion.
+Media:vo mdaq077 4 venti 10.ogg Venti: Her name is Signora, No. 8 of the harbingers.
+Media:vo mdaq077 4 venti 11.ogg Venti: She and the rest of the harbingers have been given god-like executive authority by the Tsaritsa of Snezhnaya, and with it, strength surpassing that of other mortals.
+Media:vo mdaq077 4 venti 12.ogg Venti: Indeed. She is one of The Seven, the Tsaritsa who reigns from the Zapolyarny Palace, and the one person that the Fatui Harbingers all answer to.
+Media:vo mdaq077 4 venti 13.ogg Venti: The Seven don't always get along well, but still — I never thought that she would plot to steal another archon's Gnosis...
+Media:vo mdaq077 4 venti 14.ogg Venti: Ah... How should I put this?
+Media:vo mdaq077 4 venti 15.ogg Venti: Five hundred years ago, I knew her well. But I can't say the same is true now.
+Media:vo mdaq077 4 venti 16.ogg Venti: You see, a certain catastrophe happened five hundred years ago, and after that, she cut off all ties with me.
+Media:vo mdaq077 4 venti 17.ogg Venti: But we can save discussion of the Cryo Archon and the Fatui for another day.
+Media:vo mdaq077 4 venti 18.ogg Venti: Traveler, if you seek the rest of The Seven, many difficulties lie ahead of you still.
+Media:vo mdaq077 4 venti 19.ogg Venti: You should head for Mondstadt's neighboring nation of Liyue. The Geo Archon who reigns there, unlike me, administrates his entire region personally.
+Media:vo mdaq077 4 venti 20.ogg Venti: He only descends once every year to give his divine predictions, which set the direction for Liyue for the rest of that year.
+Media:vo mdaq077 4 venti 21.ogg Venti: Eh-he?
+Media:vo mdaq077 4 venti 22.ogg Venti: ...In any case, this year's Rite of Descension is soon to begin. If you miss it, you'll just have to wait another year.
+Media:vo mdaq077 4 venti 23.ogg Venti: One moment, Windborne Outlander.
+Media:vo mdaq077 4 venti 24a.ogg Venti: Agreed.
+Media:vo mdaq077 4 venti 24b.ogg Venti: Haha, just use it gratefully — or, better yet, treat me to a glass of dandelion wine.
+Media:vo mdaq077 4 venti 25.ogg Venti: Traveler, as you set off on your journey once again, you must remember that the journey itself has meaning.
+Media:vo mdaq077 4 venti 26.ogg Venti: The birds of Teyvat, the songs and the cities, the Tsaritsa, her Fatui and the monsters... they all are part of your journey.
+Media:vo mdaq077 4 venti 27.ogg Venti: The destination is not everything. So before you reach the end, keep your eyes open. Use the chance to take in the world around you...
+Media:vo mdaq077 4 venti 28.ogg Venti: Great. So that's that for the Anemo Archon's admonishments! Back to Venti Time!

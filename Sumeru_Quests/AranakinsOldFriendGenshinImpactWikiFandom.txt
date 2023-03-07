@@ -1,0 +1,92 @@
+
+(If played incorrectly)
+Paimon: Hmm... We must have played something wrong! Let's try again.
+(If played incorrectly again)[need to confirm this line occurs in this instance]
+Paimon: Huh... Still not working? Let's try again!
+ Aranakin is a good kid.
+ Don't lose heart now.
+ Here.
+ I played this song, so that I could meet you.
+Paimon: Hehe, how did (Traveler) do? See? We still remember the melody you taught us!
+ It seems that the owner of the notebook knows you.
+ Paimon is a good kid.
+Paimon: Hehe, that's for sure!
+ Quest DescriptionAfter that last adventure, Aranakin really forgot a lot of things. No matter what, how could the new and old friends he made be forgotten so easily?
+ That's a valid idea.
+Paimon: Hee-hee, because Paimon is Paimon!
+ That's finally some helpful advice...
+Paimon: Hey! Stop being so mean to Paimon!
+ We can be friends all over again.
+ You taught us.
+Paimon: Yes, during our last adventure, you taught the song to us!
+Aranakin: "Notebook"...? That's how Nara keep their memories?
+Aranakin: ...I see.
+Aranakin: Ah... Since we're good friends, follow me then!
+Aranakin: Aranakin is not a little thing! You are! You floaty white little thing!
+Aranakin: Aranakin is not clever, but what you said, sounds to be true. Aranakin can't remember, sorry.
+Aranakin: But Aranakin can't remember, just like Aranakin can't remember you.
+Aranakin: Golden Nara and White Floaty! Come to my place, follow me!
+Aranakin: He will be back one day, right? Just like you, even if I can't remember his name...
+Aranakin: Hee-hee, there it is.
+Aranakin: Hehe, Aranakin keeps tidying it... If you want to sleep here, that's okay!
+Aranakin: Hmm... Nara (Traveler) and White Floaty, I am going back to where Aranaga is, planting her, and listening to her songs. If you are not busy, you know where to find us!
+Aranakin: Huh...? Ahh! This flower is very important! Why do you... how did he get it?
+Aranakin: I am taking this flower back, Mawtiyima should know how to wake her up.
+Aranakin: Is that so...? I can't remember...
+Aranakin: Is that... so? Hmph, Aranakin is not clever, but you don't look like those bad sand grains.
+Aranakin: Let me know if you find anything interesting!
+Aranakin: Me? Not at all!
+Aranakin: Nara... Hm, what's the name? Aranakin doesn't sleep with that, so forget the word...
+Aranakin: Ohh? Did I tell you that as well?
+Aranakin: Really...? I can still make friends with you again. But... As for him, I can't even recall his face...
+Aranakin: Right, Nara's instrument... I still keep it. I think I taught my song to him as well, but he didn't come back like you did.
+Aranakin: Speaking of which, golden sand... Nara, why do you know this song?
+Aranakin: That huge tree is the place where I live. But I wasn't the first to live there, nor was it other Aranara.
+Aranakin: The tree was once a Nara's home. Aranakin probably knew him, might helped, or been helped by him...
+Aranakin: There are leaves Nara left upstairs, but... Aranakin can't read them, Aranakin doesn't understand...
+Aranakin: This is Nara instrument, Aranakin is keeping it. But it can't sing now... The strings are not in the right place.
+Aranakin: This is my place, please rest here!
+Aranakin: Those are the leaves Nara use to keep memories... Nara write on the leaves, and put them together. But the words of Nara, Aranakin doesn't understand.
+Aranakin: We're here! Here it is!
+Aranakin: What memories is it keeping? What did you see?
+Aranakin: Yes, White Floaty is right.
+Battered Notebook: "...Aranakin is gone. Vanished into thin air, and without so much as a sign as to when. It's time for me to bid farewell to the oud too. I'll be a craftsman, just like my father had hoped I would..."
+Battered Notebook: "...Farewell, notebook! Farewell, Irfan and Siman, my best friends! I hope that the forest never forgets our story, and I hope we remember each other..."
+Battered Notebook: "...I've been accepted into the Akademiya! Haha, congratulations to me! I don't want to be some warriors wife! I'm going to be Siman, the Great Sage!"
+Battered Notebook: "...I've repaired the oud Uncle Bakr dropped, so stop crying by yourself, alright? You can talk to Khayyam and me if you're unhappy..."
+Battered Notebook: "...To the person reading this notebook, if I by some miracle am allowed to meet Aranakin and the others again, years from now, then please give this flower to him..."
+Battered Notebook: "Hehe... Irfan the 'Great musician' and Khayyam 'the Wise!' Don't forget me! Especially you, Khayyam! Don't you dare forget me!"
+Battered Notebook: (...The rest is a mess and filled with the children's happy and sorrowful memories...)
+Battered Notebook: (There seems to be more, but it's been crossed and blacked out with ink.)
+Old Oud: (An antiquated oud, marked with multiple breaking scars, but seeming to be carefully-repaired and well-maintained.)
+Paimon: Actually, you once gave us the same flower as well... It's just that you forgot everything.
+Paimon: Ah, he's gone... But Paimon understands, he's forgotten our adventures together, after all.
+Paimon: Aranakin taught us a song, right? Let's play it, and maybe he would recognize it!
+Paimon: Do you mean... "notebook"?
+Paimon: Ha, it really is Aranakin! Let's say hi to him!
+Paimon: Haha, here he comes! Hello, little thing!
+Paimon: Haha, that's right! (Traveler), let's tell the stories to him again!
+Paimon: He said... He couldn't see you anymore. Because he grew up, maybe...
+Paimon: Hee-hee, because Paimon is Paimon!
+Paimon: Hehe, how did (Traveler) do? See? We still remember the melody you taught us!
+Paimon: Hehe, that's for sure!
+Paimon: Hey! Stop being so mean to Paimon!
+Paimon: Hey, something fell out of the notebook!
+Paimon: Hey, you hear that? Someone's singing.
+Paimon: Hmm... Growing up is really troubling.
+Paimon: Hmm... We must have played something wrong! Let's try again.
+Paimon: Huh... Still not working? Let's try again!
+Paimon: It looks like... a flower? It looks... exactly like the ones we got.
+Paimon: It's a "bed"! It looks pretty new, indeed... Did someone sleep on it before?
+Paimon: I—It's okay... Don't be sad, we still have this flower. It will bring you more memories, right?
+Paimon: No, no need for that! Y'know, it's pretty normal to forget things... Besides, we can become friends again, right?
+Paimon: No, we don't! You told us that sand is Valuka. So the bad sand grains are a group of bad Nara Valuka, right? But we are good Nara!
+Paimon: Oh right! He also said in the notebook that... This flower is for you!
+Paimon: Oh? But...
+Paimon: That's definitely Aranakin's song!
+Paimon: Well...
+Paimon: Yes, during our last adventure, you taught the song to us!
+Paimon: Yes, see you soon!
+Paimon: Yes, you're right... Oh, Paimon has an idea!
+Paimon: Yup, that's right... Will Aranakin mind if we go upstairs together, and see what it says?
+You recount the adventures to Aranakin, as well as how you neutralized The Withering together.

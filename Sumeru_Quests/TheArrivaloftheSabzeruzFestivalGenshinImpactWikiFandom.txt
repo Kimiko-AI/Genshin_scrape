@@ -1,0 +1,280 @@
+
+
+Quest Name
+
+Steins;Gate Chapter Name
+
+
+English Name
+
+Chinese Name
+
+
+The Coming of the Sabzeruz Festival
+
+终将到来的花神诞祭 The Eventual Coming of the Sabzeruz Festival
+
+始まりと終わりのプロローグ The Beginning and Ending of Prologue
+
+
+The Arrival of the Sabzeruz Festival
+
+已然来临的花神诞祭 The Already Arrival of the Sabzeruz Festival
+
+存在証明のパンドラ The Being Confirmation of Pandora
+
+
+The Continuation of the Sabzeruz Festival
+
+流转存续的花神诞祭 The Circulating Continuation of the Sabzeruz Festival
+
+亡失流転のソリチュード The Circulating Lost of Solitude
+
+
+The Samsara of the Sabzeruz Festival
+
+轮回意志的花神诞祭 The Reincarnated Will of the Sabzeruz Festival
+
+循環座標のアルタイル The Reincarnated Coordinates of Altair
+
+
+The Causality of the Sabzeruz Festival
+
+因果命运的花神诞祭 The Destined Causality of the Sabzeruz Festival
+
+因果律のメルト The Causality Law of Meltdown
+
+
+The Empty Illusions of the Sabzeruz Festival
+
+空幻回响的花神诞祭 The Void Echoes of the Sabzeruz Festival
+
+空理彷徨のランデヴー The Void Hesitation of Rendezvous
+
+
+The End of the Sabzeruz Festival
+
+终将结束的花神诞祭 The Eventual Ending of the Sabzeruz Festival
+
+終わりと始まりのプロローグ The Ending and Beginning of Prologue
+
+
+(Message box) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+Confirm Cancel
+
+(Overlay message) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+
+Media:vo xmaq009 4 paimon 07d.ogg Paimon: Haha, Paimon bet you had incredible luck, and Paimon was right!
+ That just now... I don't think that was luck.
+ I don't know why, but I knew it must have been number four.
+Media:vo xmaq009 4 paimon 07d 1.ogg Paimon: Huh? How's that possible? It's obviously random...
+
+Media:vo xmaq009 4 paimon 08.ogg Paimon: Haha, Paimon bet you had incredible luck, and Paimon was right!
+ Just now... Did I really mean to choose number four?
+ It felt like... my body just subconsciously reached for it?
+Media:vo xmaq009 4 paimon 09.ogg Paimon: Huh? Are you saying that you instinctively chose the right box?
+Media:vo xmaq009 4 paimon 10.ogg Paimon: Hmm, but now that you mention it... Paimon also had the feeling you'd choose the right one... Is that kinda like what you felt?
+ For some reason, I felt like this outcome was inevitable.
+ Have you noticed anything out of the ordinary?
+ Here goes!
+ I couldn't get rid of it after all.
+ I don't know why, but I knew it must have been number four.
+ I feel like I've heard this before...
+ I hadn't thought about it, but my head does feel very heavy.
+ I just experienced a number of strange events...
+ I want to do something I normally never would.
+ I want to see if I can get rid of this déjà vu.
+ I'm feeling pretty groggy...
+ I'm so sorry for leaving you behind earlier.
+ I'm sorry, Dunyarzad, but I need to leave for a moment.
+ I've definitely eaten this before.
+ Is this déjà vu?
+ It felt like... my body just subconsciously reached for it?
+ It's a real shame.
+ It's definitely number five.
+But your body subconsciously reaches for number four.
+(Continue to next section)
+ It's definitely number four.
+(Continue to next section)
+ It's definitely number one.
+But your body subconsciously reaches for number four.
+(Continue to next section)
+ It's definitely number three.
+But your body subconsciously reaches for number four.
+(Continue to next section)
+ It's definitely number two.
+But your body subconsciously reaches for number four.
+(Continue to next section)
+ Just now... Did I really mean to choose number four?
+ Let me give it a little thought...
+(Return to choice selection)
+ Looks like I tried this before.
+ No... It actually tasted really good.
+ Number five.
+ It's definitely number five.
+But your body subconsciously reaches for number four.
+(Continue to next section)
+ Let me give it a little thought...
+(Return to choice selection)
+ Number four.
+ It's definitely number four.
+(Continue to next section)
+ Let me give it a little thought...
+(Return to choice selection)
+ Number one.
+ It's definitely number one.
+But your body subconsciously reaches for number four.
+(Continue to next section)
+ Let me give it a little thought...
+(Return to choice selection)
+ Number three.
+ It's definitely number three.
+But your body subconsciously reaches for number four.
+(Continue to next section)
+ Let me give it a little thought...
+(Return to choice selection)
+ Number two.
+ It's definitely number two.
+But your body subconsciously reaches for number four.
+(Continue to next section)
+ Let me give it a little thought...
+(Return to choice selection)
+ One Charcoal-Baked Ajilenakh Cake, please.
+ Quest DescriptionAs agreed, you go to the festival with Dunyarzad and others... Wait... This feels somewhat familiar...
+ Something feels really familiar...
+ That just now... I don't think that was luck.
+ This flavor...
+ Wait... Starting from just now...
+ What a strange feeling...
+ Why do I keep having this sense of déjà vu...?
+(Message box) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+(Overlay message) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+A plan has been set in motion somewhere unknown to you...
+After some time, the Charcoal-Baked Ajilenakh Cake is served...
+But your body subconsciously reaches for number four.
+Confirm Cancel
+Everything is so familiar that you feel at a loss...
+Media:Akasha Terminal Beep.ogg ???: *beep*
+Media:vo dialog xmaq008 guard 01.ogg Media:vo dialog xmaq008 guard 02.ogg Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Media:vo dialog xmaq008 merchant 01.ogg Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
+Media:vo dialog xmaq008 paimon 01.ogg Media:vo dialog xmaq008 paimon 02.ogg Paimon: Whoa... Ugh, okay.
+(The player is teleported a few steps back into the city)
+Media:vo dialog xmaq009 amal 01.ogg Amal: I picked all of these from the forest yesterday, so their freshness is guaranteed!
+Media:vo dialog xmaq009 kimiya 01.ogg Kimiya: This is divine wisdom.
+Media:vo dialog xmaq009 vihar 01.ogg Vihar: Atten-tion! Any more requests, young soldiers?
+Media:vo xmaq009 1 paimon 01.ogg Paimon: *yawn* Oh! We're gonna be late. It's all because you wouldn't get out of bed!
+Media:vo xmaq009 1 paimon 02.ogg Paimon: We should go meet Dunyarzad right away!
+Media:vo xmaq009 2 dunyarzad 01.ogg Dunyarzad: Not at all. I arrived early.
+Media:vo xmaq009 2 dunyarzad 02.ogg Dunyarzad: I'm doing well. There's no need to worry. Shall we go? Let's start with the stalls over there.
+Media:vo xmaq009 2 paimon 01.ogg Paimon: Good morning, Dunyarzad! Sorry we're late, hehe.
+Media:vo xmaq009 2 paimon 02.ogg Paimon: Uhh... You seem kinda tired... Did you not get enough sleep?
+Media:vo xmaq009 2 paimon 03.ogg Paimon: Sure... Uh? Traveler, why are you just standing there? Let's get going!
+Media:vo xmaq009 3 amal 01.ogg Amal: You are quite well-informed, Miss! I thought most people nowadays wouldn't know.
+Media:vo xmaq009 3 dunyarzad 01.ogg Dunyarzad: This is a stall offering foods from the Haft-Mewa Feast.
+Media:vo xmaq009 3 dunyarzad 02.ogg Dunyarzad: It's one of the Sabzeruz Festival's traditions. People used to set their tables with seven different foods to symbolize the seven virtues of the Dendro Archon.
+Media:vo xmaq009 3 dunyarzad 03.ogg Dunyarzad: Understood. I'll keep that in mind.
+Media:vo xmaq009 3 kimiya 01.ogg Kimiya: ...The remnants appear to be in the form of the Moon.
+Media:vo xmaq009 3 kimiya 02.ogg Kimiya: Hmm... The Moon signifies... Hmm... It's escaping me for now. Wait a moment...
+Media:vo xmaq009 3 kimiya 03.ogg Kimiya: Oh, right, it means illusions and lies.
+Media:vo xmaq009 3 kimiya 04.ogg Kimiya: But if you trust your intuition and overcome your fears, the sun will surely rise.
+Media:vo xmaq009 3 kimiya 05.ogg Kimiya: Oh, it's nothing. I'm just learning as I go, haha... ha...
+Media:vo xmaq009 3 paimon 01.ogg Paimon: Ooh, they're selling food over that way! Let's go take a look!
+Media:vo xmaq009 3 paimon 02.ogg Paimon: They're all plants... Aw, Paimon's a little disappointed...
+Media:vo xmaq009 3 paimon 03.ogg Paimon: Actually, what is the "Haft-Mewa Feast" you mentioned just now?
+Media:vo xmaq009 3 paimon 04.ogg Paimon: Really? Paimon thought it looked like some kind of food.
+Media:vo xmaq009 3 paimon 05.ogg Paimon: Is he really looking it up in a book?
+Media:vo xmaq009 3 paimon 06.ogg Paimon: Guess that was still pretty interesting. Okay, on to the next stall.
+Media:vo xmaq009 4 children 01.ogg Children: Farris! Farris!
+Media:vo xmaq009 4 children 02.ogg Children: Yes, Knight Farris!
+Media:vo xmaq009 4 dunyarzad 01.ogg Dunyarzad: Farris, the Knight of Flowers, is another Sabzeruz Festival icon, and one immensely popular with children.
+Media:vo xmaq009 4 dunyarzad 02.ogg Dunyarzad: Oh, sure.
+Media:vo xmaq009 4 paimon 01.ogg Paimon: So... where to next?
+Media:vo xmaq009 4 paimon 02.ogg Paimon: What's going on? Is this a play?
+Media:vo xmaq009 4 paimon 03.ogg Paimon: Uhh, what's to pick? Don't these boxes all look the same?
+Media:vo xmaq009 4 paimon 04.ogg Paimon: Ooh, how interesting!
+Media:vo xmaq009 4 paimon 05.ogg Paimon: Ugh! Why do those flavors even exist!?
+Media:vo xmaq009 4 paimon 06.ogg Paimon: Hmm... Traveler, help Paimon pick one. Paimon wants to eat the Sunsettia flavor!
+Media:vo xmaq009 4 paimon 07d 1.ogg Paimon: Huh? How's that possible? It's obviously random...
+Media:vo xmaq009 4 paimon 07d.ogg Paimon: Haha, Paimon bet you had incredible luck, and Paimon was right!
+Media:vo xmaq009 4 paimon 08.ogg Paimon: Haha, Paimon bet you had incredible luck, and Paimon was right!
+Media:vo xmaq009 4 paimon 09.ogg Paimon: Huh? Are you saying that you instinctively chose the right box?
+Media:vo xmaq009 4 paimon 10.ogg Paimon: Hmm, but now that you mention it... Paimon also had the feeling you'd choose the right one... Is that kinda like what you felt?
+Media:vo xmaq009 4 paimon 11.ogg Paimon: Maybe we didn't sleep very well last night, or maybe we slept too much.
+Media:vo xmaq009 4 paimon 12.ogg Paimon: Huh? Where are you going? You're just gonna walk off like that?
+Media:vo xmaq009 4 vihar 01.ogg Vihar: Alright soldiers, now that you have your Yalda Candies, don't forget your loyalty to Lesser Lord Kusanali. Dismissed!
+Media:vo xmaq009 4 vihar 02.ogg Vihar: Haha, it's all thanks to Miss Dunyarzad's sponsorship that the children can meet the Knight of Flowers.
+Media:vo xmaq009 4 vihar 03.ogg Vihar: Oh, do you want some Yalda Candies? I happen to have some boxes readied here. Take a look and pick whichever one you want.
+Media:vo xmaq009 4 vihar 04.ogg Vihar: Haha, it's not that simple. Each box contains a random flavor — it's up to the luck of the draw. Flavors include Lavender Melon, Harra Fruit, Sunsettia...
+Media:vo xmaq009 4 vihar 05.ogg Vihar: ...And there's also Lizard Tail and Onikabuto.
+Media:vo xmaq009 4 vihar 06.ogg Vihar: Great. These boxes of candy are numbered one to five from left to right. Which one do you want?
+Media:vo xmaq009 4 vihar 07d.ogg Vihar: Ah, excellently chosen! Number four is indeed Sunsettia.
+(If box number four was chosen)
+
+Media:vo xmaq009 4 paimon 07d.ogg Paimon: Haha, Paimon bet you had incredible luck, and Paimon was right!
+ That just now... I don't think that was luck.
+ I don't know why, but I knew it must have been number four.
+Media:vo xmaq009 4 paimon 07d 1.ogg Paimon: Huh? How's that possible? It's obviously random...
+(If any other box was chosen)
+
+Media:vo xmaq009 4 paimon 08.ogg Paimon: Haha, Paimon bet you had incredible luck, and Paimon was right!
+ Just now... Did I really mean to choose number four?
+ It felt like... my body just subconsciously reached for it?
+Media:vo xmaq009 4 paimon 09.ogg Paimon: Huh? Are you saying that you instinctively chose the right box?
+Media:vo xmaq009 4 paimon 10.ogg Paimon: Hmm, but now that you mention it... Paimon also had the feeling you'd choose the right one... Is that kinda like what you felt?
+Media:vo xmaq009 5 lambad 01.ogg Lambad: Welcome, you two! Are you here for lunch? What would you like to eat?
+Media:vo xmaq009 5 lambad 02.ogg Lambad: Got it. You don't look like you're from these parts, but I gotta say, you've got good taste. I'll give this order to the kitchen.
+Media:vo xmaq009 5 paimon 01.ogg Paimon: A feeling of... déjà vu?
+Media:vo xmaq009 5 paimon 02.ogg Paimon: Paimon knows what that is! It's when you feel like you've already experienced whatever is going on...
+Media:vo xmaq009 5 paimon 03.ogg Paimon: In that case, Paimon also felt something like that today... But that's just our brains playing tricks on us, isn't it?
+Media:vo xmaq009 5 paimon 04.ogg Paimon: So, why'd you run here in such a hurry?
+Media:vo xmaq009 5 paimon 05.ogg Paimon: So that's it! You're intentionally doing things you usually wouldn't, and seeing if you still get that same feeling of déjà vu...
+Media:vo xmaq009 5 paimon 06.ogg Paimon: Charcoal-Baked Ajilenakh Cake! Isn't it that... that burned thing that didn't look tasty at all?
+Media:vo xmaq009 5 paimon 07.ogg Paimon: Oh... Paimon understands what you're trying to do now... You'd never normally order something like this...
+Media:vo xmaq009 5 paimon 08.ogg Paimon: That... thing... Are you really gonna eat it?
+Media:vo xmaq009 5 paimon 09.ogg Paimon: Isn't this... going a bit too far...
+Media:vo xmaq009 5 paimon 10.ogg Paimon: H—How was it? The look on your face is telling Paimon that it tasted awful...
+Media:vo xmaq009 5 paimon 11.ogg Paimon: Then, you mean...
+Media:vo xmaq009 5 paimon 12.ogg Paimon: That's impossible! We were just talking about how gross it looked...
+Media:vo xmaq009 5 paimon 13.ogg Paimon: ...So would this be a case of taste bud déjà vu?
+Media:vo xmaq009 5 paimon 14.ogg Paimon: Paimon also gets the impression that we've been here many times, even though we aren't regulars.
+Media:vo xmaq009 5 paimon 15.ogg Paimon: Umm... How about... we go out again and try something else.
+Media:vo xmaq009 6 dunyarzad 01.ogg Dunyarzad: Oh, I ran into some kidnappers just now, but thankfully, Dehya came to my rescue. I started to feel unwell after that, so I sat down here.
+Media:vo xmaq009 6 dunyarzad 02.ogg Dunyarzad: I'm okay. Dehya's arm got scratched, but it isn't serious.
+Media:vo xmaq009 6 dunyarzad 03.ogg Dunyarzad: Not at all. I've always been like this. Excessive physical exertion or strong emotions tend to aggravate my illness.
+Media:vo xmaq009 6 dunyarzad 04.ogg Dunyarzad: Besides, no matter how amazing today may be, it is but a single day. After however many more days, my time will come to an end.
+Media:vo xmaq009 6 dunyarzad 05.ogg Dunyarzad: It really is fine. I don't mind.
+Media:vo xmaq009 6 dunyarzad 06.ogg Dunyarzad: Huh? Did something happen?
+Media:vo xmaq009 6 dunyarzad 07.ogg Dunyarzad: Déjà vu? No, but my days have been the same for years now. Even if I were feeling déjà vu, I suppose I would already be used to it.
+Media:vo xmaq009 6 dunyarzad 08.ogg Dunyarzad: It's almost time.
+Media:vo xmaq009 6 dunyarzad 09.ogg Dunyarzad: Nilou's Dance of Sabzeruz is about to begin. Let's go.
+Media:vo xmaq009 6 paimon 01.ogg Paimon: Hey, Dunyarzad is sitting by herself on that bench over there...
+Media:vo xmaq009 6 paimon 02.ogg Paimon: What a coincidence, Dunyarzad! We meet again! Uh, why are you sitting here all by yourself?
+Media:vo xmaq009 6 paimon 03.ogg Paimon: Kidnappers? Oh my goodness! Are you hurt?
+Media:vo xmaq009 6 paimon 04.ogg Paimon: Phew... That's a big relief. But Dunyarzad, you seem a little down today... It's the Sabzeruz Festival, and you've been looking forward to it so much.
+Media:vo xmaq009 6 paimon 05.ogg Paimon: Paimon doesn't quite follow you, and Paimon feels like something's really got you down right now....
+Media:vo xmaq009 6 paimon 06.ogg Paimon: Dunyarzad... have you ever felt déjà vu? You know... Like when you've already experienced something that's happening right now?
+Media:vo xmaq009 6 paimon 07.ogg Paimon: Oh, Paimon sees... Then, is it only the two of us...?
+Media:vo xmaq009 6 paimon 08.ogg Paimon: Huh? Time for what?
+Media:vo xmaq009 7 azar 01.ogg Azar: ...With your lack of intellectual credentials, I do not believe you are qualified to debate with me. What you should be doing is finding workers to tear down this ridiculous eyesore.
+Media:vo xmaq009 7 azar 02.ogg Azar: When we return, have the Scribe draft an ordinance before the next Jnagarbha Day that prohibits public art performances. We will to the public announce it later via the Akasha.
+Media:vo xmaq009 7 azar 03.ogg Azar: ...
+Media:vo xmaq009 7 azar 04.ogg Azar: The Sabzeruz Festival... Go celebrate the birth of that god to your heart's content.
+Media:vo xmaq009 7 dunyarzad 01.ogg Dunyarzad: It's okay. There's nothing we can do about it.
+Media:vo xmaq009 7 dunyarzad 02.ogg Dunyarzad: It truly is unfortunate, but I don't wanna cause trouble for anyone. Didn't the Grand Sage say that he might investigate the organizers?
+Media:vo xmaq009 7 dunyarzad 03.ogg Dunyarzad: The next festival... I probably won't be around by then.
+Media:vo xmaq009 7 dunyarzad 04.ogg Dunyarzad: No, nothing. I'll be heading back to rest. Thank you for your help, everyone.
+Media:vo xmaq009 7 nilou 01.ogg Nilou: Oh, Dunyarzad, the Grand Sage ordered us to stop the performance...
+Media:vo xmaq009 7 nilou 02.ogg Nilou: But you've been really looking forward to this. I don't want you to have any regrets...
+Media:vo xmaq009 7 nilou 03.ogg Nilou: True, but... *sigh* Well, okay, we'll just have to try again next year, hehe...
+Media:vo xmaq009 7 nilou 04.ogg Nilou: Wait... What did you just say?
+Media:vo xmaq009 7 paimon 01.ogg Paimon: Nilou, are you okay?
+Media:vo xmaq009 7 paimon 02.ogg Paimon: Paimon can't believe what those heartless geezers did!
+Media:vo xmaq009 7 paimon 03.ogg Paimon: Did Dunyarzad already go back? We should also return and get some sleep.
+Media:vo xmaq009 7 setare 01.ogg Setaria: Understood. I will inform him when I return.
+Media:vo xmaq009 8 azar 01.ogg ???: Continue to monitor for variances in the data, and find the cause as soon as possible.
+Media:vo xmaq009 8 khajeh 01.ogg ???: ...Observing a modest drop in the output of Jnana Energy, but values still remain within normal parameters.
+Media:vo xmaq009 8 paimon 01.ogg Paimon: So in the end, you still couldn't figure out what that déjà vu feeling was all about?
+Media:vo xmaq009 8 paimon 02.ogg Paimon: Hmm... Maybe it really was because of exhaustion...
+Media:vo xmaq009 8 paimon 03.ogg Paimon: Same here! That's why Paimon stopped thinking about it halfway through the day.
+Media:vo xmaq009 8 paimon 04.ogg Paimon: Then how about we settle in and get a good night's sleep. For now, we can chalk things up to exhaustion... We can do more thinking tomorrow!
+The Sabzeruz Festival was forced to come to an unfortunately abrupt end...

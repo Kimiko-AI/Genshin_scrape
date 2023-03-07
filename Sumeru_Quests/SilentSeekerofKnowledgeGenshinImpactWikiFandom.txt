@@ -1,0 +1,296 @@
+
+
+(A scene transition occurs)
+
+(A scene transition with a starry sky occurs, bringing the player back to the tree hollows)
+
+(A scene transition with a starry sky occurs, bringing the player to an Inazuma-styled building)
+
+(A scene transition with a starry sky occurs, bringing the player to another Inazuma-styled building)
+ (It sounds like it's coming from inside the cave...)
+ (What was that sound?)
+ About Collei...
+Media:vo xmaq004 8 tighnari 20a.ogg Tighnari: Don't you worry about Collei, I'll look after her. I'll find a way to understand the relationship between The Withering and her disease.
+(Dialogue returns to option selection)
+ About Irminsul...
+Media:vo xmaq004 7 haypasia 40b.ogg Haypasia: Sumeru researchers use Spirit Borneol to assist them in connecting with Irminsul to extract knowledge from it. Though the process can be risky, we believe that the knowledge gained is worth it.
+Media:vo xmaq004 7 haypasia 40b 1.ogg Haypasia: Unfortunately, I cannot help you understand your dream, at least not yet. I'm still learning how to attune to the depths of Irminsul myself.
+Media:vo xmaq004 7 haypasia 40b 2.ogg Haypasia: I hope that I'll be able to ascend past Satyavada Life and gain deeper insights.
+(Dialogue returns to option selection)
+ About Pita Pockets...
+Media:vo xmaq005 1 collei 02b.ogg Collei: Ha, kinda hard to believe that Master Tighnari can cook, isn't it?
+Media:vo xmaq005 1 collei 02b 1.ogg Collei: His culinary techniques are very polished, but his taste is a little unusual... It's not really his fault, though. He just has a sensitive tongue and nose, so he prefers much lighter flavors.
+Media:vo xmaq005 1 collei 02b 2.ogg Collei: The last time I went a little too heavy on the spices for my Pita Pockets, Master started having a sneezing fit! Of course, I never heard the end of it after that...
+(Dialogue returns to option selection)
+ About dreams...
+Media:vo xmaq004 7 haypasia 40a.ogg Haypasia: Even though that little neighbor of mine was able to induce a state of dreaming, I doubt they were able to control the actual contents of the dream.
+Media:vo xmaq004 7 haypasia 40a 1.ogg Haypasia: The end of your dream seemed quite terrifying. Perhaps there's something that's troubling you deep inside...?
+Media:vo xmaq004 7 haypasia 40a 2.ogg Haypasia: Not to worry, though, I'm sure you'll be able to handle whatever comes your way in the real world.
+Media:vo xmaq004 7 haypasia 40a 3.ogg Haypasia: As someone from Sumeru who cannot dream, I needn't ever worry about nightmares. But lately, I've started to feel that I'm somehow missing something without dreams... Hehe, it's a little hard to explain.
+(Dialogue returns to option selection)
+ About the Akademiya's invitation...
+Media:vo xmaq004 8 tighnari 20b.ogg Tighnari: It seems there's a major project underway at the Akademiya, and my master has also joined the effort.
+Media:vo xmaq004 8 tighnari 20b 1.ogg Tighnari: But I can't afford to leave Gandharva Ville now. Things are not going well here in the rainforest, and Collei needs someone to watch over her. Besides, I never was one for all the pomp and circumstance of life at the Akademiya.
+Media:vo xmaq004 8 tighnari 20b 2.ogg Tighnari: Given that my master hasn't come to give me an earful personally, it seems that my presence is not as sorely needed as they make it out to be. In fact, the letter he sent to me was uncharacteristically polite...
+(Dialogue returns to option selection)
+ About your unusual neighbor...
+Media:vo xmaq004 7 haypasia 40c.ogg Haypasia: I've heard local children here in the rainforest speaking of fairy-like creatures, but I'm from Sumeru City, and I've never heard of such things when I was a child.
+Media:vo xmaq004 7 haypasia 40c 1.ogg Haypasia: Perhaps this is because I had a very strict upbringing. My parents would seldom allow me to play with other children. I doubt they'd ever believe me if I told them about my little neighbor out here.
+Media:vo xmaq004 7 haypasia 40c 2.ogg Haypasia: And speaking of my little neighbor, I think they can somehow sense when Tighnari is coming to visit me.
+Media:vo xmaq004 7 haypasia 40c 3.ogg Haypasia: I've noticed on several occasions that as they're playing under the trees, they'll suddenly tense up and scamper away for no apparent reason. Shortly after they do this, Tighnari always shows up here.
+Media:vo xmaq004 7 haypasia 40c 4.ogg Haypasia: Hmm, perhaps I should ask Tighnari about this the next time I see him...
+(Dialogue returns to option selection)
+ Goodbye, Collei.
+Media:vo xmaq005 1 collei 02c.ogg Collei: See you later. Be sure to come back often. Even though Master didn't admit it, I'm sure he wants to see you again.
+ Goodbye.
+Media:vo xmaq004 7 haypasia 40d.ogg Haypasia: Take care. Do remember to come visit anytime you're in the area. I would be happy to chat with you.
+ How're you feeling now?
+Media:vo xmaq005 1 collei 01a.ogg Collei: I'm much better now. I'll be back on patrol again starting tomorrow.
+Media:vo xmaq005 1 collei 02a 1.ogg Collei: Even though I'm not quite ready to help Master clear the Withering Zones yet, there are still plenty of other tasks for me to handle.
+Media:vo xmaq005 1 collei 02a 2.ogg Collei: Oh, and Traveler? If you ever see Amber again during your travels, please don't mention my illness to her, okay?
+Media:vo xmaq005 1 collei 02a 3.ogg Collei: Amber knows about my case of Eleazar and what's happened in my past, but I haven't told her about my condition getting worse...
+Media:vo xmaq005 1 collei 02a 4.ogg Collei: I guess I just don't want her to worry about me. If the need arises, I'll tell her about it myself.
+Media:vo xmaq005 1 paimon 01a.ogg Paimon: Alright, we understand, Collei.
+(Dialogue returns to option selection)
+ I still must find my (sister/brother)!
+ I think I understand.
+Media:vo xmaq004 7 haypasia 07a.ogg Haypasia: Naturally. Anyone who can establish a connection with Irminsul on their first ever attempt must be a person of great understanding.
+ Is it a little round creature?
+ It was a big, chaotic mess...
+ Kind of like... a cabbage?
+ My journey will not end here!
+ Of course, we will!
+ Please take care of yourself, Collei.
+ Quest DescriptionAccording to Tighnari, the Akademiya researcher Haypasia, who lives alone in the forest, is the real ideal person to direct Irminsul-related queries to.
+ Relax, Paimon.
+ Reminds me of the dream I saw from the Aranara [sic]...
+ See you.
+Media:vo xmaq004 8 tighnari 20c.ogg Tighnari: Farewell, Traveler.
+ She looks famished!
+ She somehow has more energy than I expected.
+ Sorry, I uh... kinda zoned out for a second there.
+Media:vo xmaq004 5 paimon 04a.ogg Paimon: Uh, are you okay? That's really not like you...
+ Sorry, seeing Haypasia must have given me a shock.
+Media:vo xmaq004 5 paimon 04b.ogg Paimon: Oh, guess that makes sense... She does look kinda rough at the moment.
+ Sorry, you lost me there...
+Media:vo xmaq004 7 haypasia 07b.ogg Haypasia: That's alright, I'm sure you'll come to a clearer understanding as you remain in Sumeru.
+ Sounds like a great neighbor.
+ Thanks, Haypasia!
+ There must be a logical explanation for all this.
+ We need to say goodbye to Collei.
+ We wish you luck in your endeavors.
+ We'll be back to see you soon, Collei.
+ What fascinating creatures.
+(Traveler): (It's Haypasia! Is she okay?)
+(Traveler): (What was all that just now? Strange... It feels like I was just dreaming for a moment there, but I can't remember what I saw...)
+(Traveler): Ugh! Huh...
+A Curious Sound: *rumbling*
+After a delicious meal together, you tell Haypasia about connecting with Irminsul...
+After giving the semi-conscious Haypasia some water and fruit juice...
+Faint Sound: Clatter...
+Ghulam, Khajeh, and others take their leave.
+Media:vo dialog xmaq004 haypasia 01.ogg Haypasia: So... hungry...
+Media:vo dialog xmaq004 haypasia 02.ogg Haypasia: Heading out, I see? If there's anything else you'd ever like to ask about, you know where to find me.
+Media:vo dialog xmaq004 tighnari 01.ogg Tighnari: Collei is waiting at the northmost crossing of Gandharva Ville. You should be able to find her there.
+Media:vo dialog xmaq005 collei 01.ogg Collei: I hope you have a safe trip to Sumeru City and get to meet the Dendro Archon there.
+Media:vo xmaq004 2 aranaraa 02.ogg ???: !?
+Media:vo xmaq004 2 paimon 01.ogg Paimon: Hellooo? Haypasia? Hey, there's nobody here...
+Media:vo xmaq004 2 paimon 02.ogg Paimon: Hmm, maybe she went out to look for some food. Let's try looking around the area!
+Media:vo xmaq004 3 haypasia 01.ogg Haypasia: Uh, ughhh... So hungry... *cough* Need... water...
+Media:vo xmaq004 3 paimon 01.ogg Paimon: There you are.
+Media:vo xmaq004 3 paimon 02.ogg Paimon: Haypasia! Are you alright?
+Media:vo xmaq004 3 paimon 03.ogg Paimon: There's no way we can get her to eat in her current condition. Let's try finding some water first.
+Media:vo xmaq004 3 paimon 04.ogg Paimon: Huh? Wait! Why does it look super foggy outside all of a sudden? Anyway, let's go look around!
+Media:vo xmaq004 4 heraldwater 01.ogg Abyss Herald: Hahaha! Well, well, well. Looks like we meet again, Traveler!
+Media:vo xmaq004 4 heraldwater 02.ogg Abyss Herald: Strange place? Plotting? Hehehe... You needn't worry about such things, they don't concern you!
+Media:vo xmaq004 4 heraldwater 03.ogg Abyss Herald: Traveler, though you may have managed to avert countless crises before, your good fortune was bound to end sooner or later. It's time you realize how weak and powerless you really are!
+Media:vo xmaq004 4 heraldwater 04a.ogg Media:vo xmaq004 4 heraldwater 04b.ogg Abyss Herald: Your (sister/brother)? Mwahahaha! Oh, pitiful Traveler, are you really so ignorant? Or are you just living in complete denial?
+Media:vo xmaq004 4 heraldwater 05a.ogg Media:vo xmaq004 4 heraldwater 05b.ogg Abyss Herald: (Her/His) Highness has long since forsaken you. Your meager existence in (her/his) eyes is that of an annoying bug only to be stepped upon!
+Media:vo xmaq004 4 heraldwater 06.ogg Abyss Herald: The bonds of love and family which drive you to find your sibling are utterly gone! Your journey is meaningless!
+Media:vo xmaq004 4 heraldwater 07.ogg Abyss Herald: But don't you fret now. Today will be your last. Now die!
+(A scene transition occurs)
+Media:vo xmaq004 4 paimon 01.ogg Paimon: Huh? How'd things out here end up looking like this?
+Media:vo xmaq004 4 paimon 02.ogg Paimon: Wh—What happened!? And where are we?
+Media:vo xmaq004 4 paimon 03.ogg Paimon: Really? Oh, maybe you're right... Let's go investigate the area.
+Media:vo xmaq004 4 paimon 04.ogg Paimon: Wow, this place is huge!
+Media:vo xmaq004 4 paimon 05.ogg Paimon: Paimon knew there's something off about that cave! Let's think of a way to get over there and have a closer look. Who knows, maybe we'll find a lead of some kind!
+Media:vo xmaq004 4 paimon 06.ogg Paimon: Uh, what happened just now? Why did everything around us suddenly change?
+Media:vo xmaq004 4 paimon 07.ogg Paimon: What in Teyvat is going on here!? This place is getting weirder by the minute!
+Media:vo xmaq004 4 paimon 08.ogg Paimon: Hey, what's the matter? You don't look so good...
+Media:vo xmaq004 4 paimon 09.ogg Paimon: Ah! The Abyss Herald! What are you plotting to do in this strange place?
+Media:vo xmaq004 4 paimon 11.ogg Paimon: Huh? Wh—Why can't we beat this guy...? Paimon doesn't get it. We've faced others like him before — what's wrong this time?
+Media:vo xmaq004 5 haypasia 01.ogg Haypasia: So sweet... Mmm...
+Media:vo xmaq004 5 haypasia 02.ogg Haypasia: Ugh... Who's there!? Tighnari, is that you? Ah!
+Media:vo xmaq004 5 haypasia 03.ogg Haypasia: Huh?
+Media:vo xmaq004 5 haypasia 04.ogg Haypasia: I see, so you're friends of Tighnari. I apologize for all the trouble I've caused you.
+Media:vo xmaq004 5 haypasia 05.ogg Haypasia: I'm grateful that you came so quickly to save me. You even brought all this fruit.
+Media:vo xmaq004 5 haypasia 06.ogg Haypasia: Oh? Really?
+Media:vo xmaq004 5 haypasia 07.ogg Haypasia: Hmm, I seem to understand now. All the fruit was likely from my, uh... neighbor. Must have come by and saw me like this.
+Media:vo xmaq004 5 haypasia 08.ogg Haypasia: Oh? So you're able to see them, too?
+Media:vo xmaq004 5 haypasia 11.ogg Haypasia: No, I actually do believe what the Traveler is saying. I myself had a similar experience once before and ended up scaring my timid, little neighbor here.
+Media:vo xmaq004 5 haypasia 12.ogg Haypasia: You needn't worry — he means you no harm. He only dragged you into the dream because he hoped to buy himself a little time in order to scurry away.
+Media:vo xmaq004 5 haypasia 13.ogg Haypasia: I'm not sure what it's called, to be honest... But I do know that they have some sort of deeper connection with the Dendro Archon.
+Media:vo xmaq004 5 haypasia 14.ogg Haypasia: I know this because the first time I saw them was also the exact day my consciousness was able to form a connection with Irminsul.
+Media:vo xmaq004 5 haypasia 15.ogg Haypasia: Even after I opened my eyes and stopped meditating, my heart was still pounding and my mind was racing with all the knowledge that I had touched.
+Media:vo xmaq004 5 haypasia 16.ogg Haypasia: And at that very moment, I suddenly noticed a small figure at the opening of the cave.
+Media:vo xmaq004 5 haypasia 17.ogg Haypasia: In my curiosity, I began to walk over to the creature. They must have already been used to me living in the cave, because they didn't seem to mind me approaching them. They just kept doing whatever they were up to.
+Media:vo xmaq004 5 haypasia 18.ogg Haypasia: It wasn't until I crouched down next to them that they suddenly realized that I could see them.
+Media:vo xmaq004 5 haypasia 19.ogg Haypasia: And then, I had a dream... By the time I came to, they were nowhere to be seen.
+Media:vo xmaq004 5 haypasia 20.ogg Haypasia: I was convinced they'd never show up again, but sure enough, I saw them nearby a few days later... and they weren't alone.
+Media:vo xmaq004 5 haypasia 24.ogg Haypasia: I feel like they aren't as afraid of me as the first time I approached them, but I never would have expected them to save me.
+Media:vo xmaq004 5 haypasia 25.ogg Haypasia: Yes, no doubt about that. By the way, Tighnari mentioned in his letter that you had questions for me regarding Irminsul...
+Media:vo xmaq004 5 haypasia 27.ogg Haypasia: Ehehe... Sorry about that. Sounds like just drinking juice still isn't quite enough for my stomach.
+Media:vo xmaq004 5 haypasia 28.ogg Haypasia: *drooling* Oh, I've never tried any dishes from other nations before. I certainly look forward to it! It's been so long since I've had a decent meal, too. To be honest, the last time had to be when Tighnari came to visit.
+Media:vo xmaq004 5 paimon 01.ogg Paimon: Hmm, what do we do? We haven't seen Haypasia anywhere out here...
+Media:vo xmaq004 5 paimon 02.ogg Paimon: Oh, there she is! Quick, let's see how she's doing.
+Media:vo xmaq004 5 paimon 03.ogg Paimon: Well, the good news is that she's still conscious. Hey! Why'd you drop her food on the floor like that!?
+Media:vo xmaq004 5 paimon 04a.ogg Paimon: Uh, are you okay? That's really not like you...
+Media:vo xmaq004 5 paimon 04b.ogg Paimon: Oh, guess that makes sense... She does look kinda rough at the moment.
+Media:vo xmaq004 5 paimon 05.ogg Paimon: Anyways, we can talk about this later. We'd better make sure she's alright first.
+Media:vo xmaq004 5 paimon 06.ogg Paimon: Whoa, wait a sec! Look at all this fruit lying around her. We can put that to good use!
+Media:vo xmaq004 5 paimon 07.ogg Paimon: It's okay, you can relax, Haypasia. Tighnari sent us here to bring you some food and water. Here, we have a letter that he asked us to give you.
+Media:vo xmaq004 5 paimon 08.ogg Paimon: Uh well, actually, we didn't bring the fruit. It was already here when we arrived.
+Media:vo xmaq004 5 paimon 09.ogg Paimon: We were kinda wondering about that, actually. When we found you here, there was all this fruit lying around and even some juice dripping from your lips... Uh, how did you end up like this anyway?
+Media:vo xmaq004 5 paimon 10.ogg Paimon: Your neighbor? You mean there's someone else living nearby?
+Media:vo xmaq004 5 paimon 14.ogg Paimon: Wait, hold on a second, Traveler! You say that before we arrived [sic], you saw some mysterious creature and suddenly had a strange dream? Isn't that a little too crazy to believe?
+Media:vo xmaq004 5 paimon 15.ogg Paimon: So Haypasia, just what kind of creature is your neighbor exactly?
+Media:vo xmaq004 5 paimon 16.ogg Paimon: Oh, and then?
+Media:vo xmaq004 5 paimon 20.ogg Paimon: Well, if somebody hadn't dropped the food earlier...! Ugh, anyway, looks like we'll need to prepare something ourselves. Besides, Paimon's getting hungry too! Let's eat first and talk about Irminsul later.
+Media:vo xmaq004 5 paimon 21.ogg Paimon: Alright, we're up, Traveler! Today's menu will feature Sweet Madame and a Radish Veggie Soup! You'll love them, Haypasia. They're our specialties, after all!
+Media:vo xmaq004 6 paimon 01.ogg Paimon: All done! Let's use the empty box that Tighnari gave us since we already washed it.
+Media:vo xmaq004 6 paimon 02.ogg Paimon: Ohhh, it smells amazing! And the box is a nice touch, too. Let's go serve this up and start eating with Haypasia!
+Media:vo xmaq004 7 haypasia 01.ogg Haypasia: Are you already finished cooking? Mmmm, smells delectable! I'm truly thankful whenever I can enjoy a proper meal like this. Cooking really isn't my forte...
+Media:vo xmaq004 7 haypasia 02.ogg Haypasia: Even though everything you mentioned was in Tighnari's letter, it's still hard to believe you were able to connect with Irminsul... immediately after smelling Spirit Borneol for the first time.
+Media:vo xmaq004 7 haypasia 03.ogg Haypasia: It took me nearly three years before I could do so... And everyone at the Akademiya even lauded me as a genius.
+Media:vo xmaq004 7 haypasia 04.ogg Haypasia: You should know that some researchers spend their entire lives without ever successfully connecting with Irminsul as you have.
+Media:vo xmaq004 7 haypasia 05.ogg Haypasia: The ingredients used to make Spirit Borneol primarily consist of plants created by Greater Lord Rukkhadevata. These special ingredients are conducive to heightening our senses to the Dendro Archon's power.
+Media:vo xmaq004 7 haypasia 06.ogg Haypasia: Since the root of the Dendro Archon's power lies within Irminsul, we can occasionally tap into her powers to peer into the depths of the earth.
+Media:vo xmaq004 7 haypasia 07a.ogg Haypasia: Naturally. Anyone who can establish a connection with Irminsul on their first ever attempt must be a person of great understanding.
+Media:vo xmaq004 7 haypasia 07b.ogg Haypasia: That's alright, I'm sure you'll come to a clearer understanding as you remain in Sumeru.
+Media:vo xmaq004 7 haypasia 08a.ogg Media:vo xmaq004 7 haypasia 08b.ogg Haypasia: That was primarily due to (his/her) body's unique constitution. Stimulated by the incense, (he/she) could perceive the Dendro Archon's power and experienced a sensory overload, hence the adverse reactions.
+Media:vo xmaq004 7 haypasia 09.ogg Haypasia: Taking in any scent similar to the ingredients of Spirit Borneol would cause adverse effects.
+Media:vo xmaq004 7 haypasia 10.ogg Haypasia: Not to worry, though. It appears you have already fully recovered.
+Media:vo xmaq004 7 haypasia 11.ogg Haypasia: Technically, your body should still be sensitive to the powers of the Dendro Archon, but unless you are using intentional meditation techniques, the scent of Spirit Borneol should no longer trigger such reactions.
+Media:vo xmaq004 7 haypasia 12.ogg Haypasia: I must admit, I am quite envious of your abilities. Even if it meant suffering from pounding headaches for the rest of my life, I'd consider it worthwhile so long as I could connect with Irminsul at will.
+Media:vo xmaq004 7 haypasia 13.ogg Haypasia: Haha, I am a researcher, after all.
+Media:vo xmaq004 7 haypasia 14.ogg Haypasia: As a member of the Rtawahist Darshan at the Akademiya, my main area of research is the stars and their connection to the fate of living beings. But there is still so much we don't know, especially regarding the mysteries that lie in the starry skies.
+Media:vo xmaq004 7 haypasia 15.ogg Haypasia: Which is why I must turn to the all-knowing Irminsul for answers.
+Media:vo xmaq004 7 haypasia 16.ogg Haypasia: If only my perception wasn't so limited... Unfortunately, I cannot guarantee that my every attempt to attune with Irminsul will be successful, or that doing so will leave my consciousness intact.
+Media:vo xmaq004 7 haypasia 17.ogg Haypasia: I am currently in the stage of training known as "Satyavada Life." Many researchers in Sumeru have lost their minds while seeking to attune with Irminsul during this stage.
+Media:vo xmaq004 7 haypasia 18.ogg Haypasia: Sages have said that Irminsul contains divine knowledge, and touching such knowledge without the proper preparations and abilities will only lead to one's mind caving in on itself.
+Media:vo xmaq004 7 haypasia 19.ogg Haypasia: That's why we meditate alone. We need to ensure that our minds will be calm while minimizing the possibility of involving anyone else.
+Media:vo xmaq004 7 haypasia 20.ogg Haypasia: Of course I do, especially during nights that are pitch black with no moonlight, and dead silent without even the sound of insects.
+Media:vo xmaq004 7 haypasia 21.ogg Haypasia: However, I've been feeling better as of late. I don't get as scared anymore knowing that I have a little neighbor living nearby.
+Media:vo xmaq004 7 haypasia 22.ogg Haypasia: I believe that being able to see them is a sort of blessing from the Dendro Archon.
+Media:vo xmaq004 7 haypasia 23.ogg Haypasia: Heh, but what's strangest of all is that they're clearly an envoy of the God of Wisdom herself, and they have the curious power to make people dream.
+Media:vo xmaq004 7 haypasia 24.ogg Haypasia: Well, it's strange because nearly nobody in Sumeru can ever dream.
+Media:vo xmaq004 7 haypasia 25.ogg Haypasia: Yes... Well, to an extent. Only children can dream in Sumeru. Adults, however, never do.
+Media:vo xmaq004 7 haypasia 26.ogg Haypasia: The sages say that wisdom implies rationality, but that which occurs in dreams is often neither rational nor logical.
+Media:vo xmaq004 7 haypasia 27.ogg Haypasia: Yes, if one struggles with anxieties, those emotions could influence their dreams.
+Media:vo xmaq004 7 haypasia 28.ogg Haypasia: The fact that the people of Sumeru do not have dreams is seen as a blessing by the sages. They believe that Greater Lord Rukkhadevata, the God of Wisdom, is keeping us away from the foolish delusions you encounter in your sleep.
+Media:vo xmaq004 7 haypasia 29.ogg Haypasia: I was born into a family of scholars in Sumeru City. Ever since I was a child, my parents would always tell me that I'll know I've grown up once I stop dreaming.
+Media:vo xmaq004 7 haypasia 30.ogg Haypasia: I studied hard, enrolled as a student in the Akademiya, and went on to become a researcher. *sigh* Sure enough, I never dreamed again.
+Media:vo xmaq004 7 haypasia 31.ogg Haypasia: But then, on the day I scared the little Aranara [sic]... I suddenly saw a dream again.
+Media:vo xmaq004 7 haypasia 32.ogg Haypasia: It was incredible. Though I don't exactly remember what I saw, I clearly recall the feeling... I suddenly felt like I was a child again.
+Media:vo xmaq004 7 haypasia 33.ogg Haypasia: Back then, I was foolish and ignorant as any youth would be, but I was free of fear... Maybe dreaming isn't as bad as we've made it out to be.
+Media:vo xmaq004 7 haypasia 34.ogg Haypasia: Ahem... Just be sure not to speak of this if you travel to Sumeru City. They'll look at you as if you've lost your mind.
+Media:vo xmaq004 7 haypasia 35.ogg Haypasia: Sorry, I'm afraid I don't have any answers as of now. All I can say is that what you saw is a memory contained within Irminsul itself.
+Media:vo xmaq004 7 haypasia 36.ogg Haypasia: Hmm... "world... forget me..." What could that possibly mean?
+Media:vo xmaq004 7 haypasia 37.ogg Haypasia: Agh, if only I could ascend past Satyavada Life and begin Paripurna Life, I might have some more answers for you.
+Media:vo xmaq004 7 haypasia 38.ogg Haypasia: *sigh* If you two are ever in the area again, please be sure to come and see me.
+Media:vo xmaq004 7 haypasia 39.ogg Haypasia: There's no need to be thanking me, you two are my saviors! Besides, I'm already looking forward to tasting some more of your cooking, hehe.
+Media:vo xmaq004 7 haypasia 40a 1.ogg Haypasia: The end of your dream seemed quite terrifying. Perhaps there's something that's troubling you deep inside...?
+Media:vo xmaq004 7 haypasia 40a 2.ogg Haypasia: Not to worry, though, I'm sure you'll be able to handle whatever comes your way in the real world.
+Media:vo xmaq004 7 haypasia 40a 3.ogg Haypasia: As someone from Sumeru who cannot dream, I needn't ever worry about nightmares. But lately, I've started to feel that I'm somehow missing something without dreams... Hehe, it's a little hard to explain.
+Media:vo xmaq004 7 haypasia 40a.ogg Haypasia: Even though that little neighbor of mine was able to induce a state of dreaming, I doubt they were able to control the actual contents of the dream.
+Media:vo xmaq004 7 haypasia 40b 1.ogg Haypasia: Unfortunately, I cannot help you understand your dream, at least not yet. I'm still learning how to attune to the depths of Irminsul myself.
+Media:vo xmaq004 7 haypasia 40b 2.ogg Haypasia: I hope that I'll be able to ascend past Satyavada Life and gain deeper insights.
+Media:vo xmaq004 7 haypasia 40b.ogg Haypasia: Sumeru researchers use Spirit Borneol to assist them in connecting with Irminsul to extract knowledge from it. Though the process can be risky, we believe that the knowledge gained is worth it.
+Media:vo xmaq004 7 haypasia 40c 1.ogg Haypasia: Perhaps this is because I had a very strict upbringing. My parents would seldom allow me to play with other children. I doubt they'd ever believe me if I told them about my little neighbor out here.
+Media:vo xmaq004 7 haypasia 40c 2.ogg Haypasia: And speaking of my little neighbor, I think they can somehow sense when Tighnari is coming to visit me.
+Media:vo xmaq004 7 haypasia 40c 3.ogg Haypasia: I've noticed on several occasions that as they're playing under the trees, they'll suddenly tense up and scamper away for no apparent reason. Shortly after they do this, Tighnari always shows up here.
+Media:vo xmaq004 7 haypasia 40c 4.ogg Haypasia: Hmm, perhaps I should ask Tighnari about this the next time I see him...
+Media:vo xmaq004 7 haypasia 40c.ogg Haypasia: I've heard local children here in the rainforest speaking of fairy-like creatures, but I'm from Sumeru City, and I've never heard of such things when I was a child.
+Media:vo xmaq004 7 haypasia 40d.ogg Haypasia: Take care. Do remember to come visit anytime you're in the area. I would be happy to chat with you.
+Media:vo xmaq004 7 paimon 01.ogg Paimon: So why does this incense allow people to connect to Irminsul?
+Media:vo xmaq004 7 paimon 02a.ogg Media:vo xmaq004 7 paimon 02b.ogg Paimon: Hmm, makes sense... But Paimon's got a question! Why was (he/she) sensitive to the smell of those plants for such a long time?
+Media:vo xmaq004 7 paimon 03.ogg Paimon: Whew, well that's a relief.
+Media:vo xmaq004 7 paimon 04.ogg Paimon: Whoa, you're really serious about this whole thing, aren't you?
+Media:vo xmaq004 7 paimon 05.ogg Paimon: Whoa, so knowledge from Irminsul can be super dangerous! Don't you ever feel afraid of the risk, Haypasia?
+Media:vo xmaq004 7 paimon 06.ogg Paimon: What's so strange about that? It doesn't sound so out of place for a divine being, does it?
+Media:vo xmaq004 7 paimon 07.ogg Paimon: Huh? Is that true?
+Media:vo xmaq004 7 paimon 08a.ogg Media:vo xmaq004 7 paimon 08b.ogg Paimon: So do you have any thoughts about the things (he/she) saw when (he/she) connected with Irminsul?
+Media:vo xmaq004 7 paimon 09.ogg Paimon: Now that we know Haypasia is alright and had the chance to ask her some questions, Paimon thinks it's about time to head back to Gandharva Ville.
+Media:vo xmaq004 8 ghulam 01.ogg Ghulam: Think about it, Tighnari, refusing to join is tantamount to burying your head in the sand!
+Media:vo xmaq004 8 ghulam 02.ogg Ghulam: I understand that you're a Forest Watcher and that it's your duty to combat the effects of Withering Zones, but isn't it evident that such work is not a lasting solution to the problem?
+Media:vo xmaq004 8 ghulam 03.ogg Ghulam: As Sage Khajeh clearly stated, your presence and guidance in Sumeru City is pivotal in finding a cure for Irminsul. How could you possibly refuse!?
+Media:vo xmaq004 8 ghulam 04.ogg Ghulam: Tighnari! But you—
+Media:vo xmaq004 8 khajeh 01.ogg Khajeh: Keep your emotions in check, Ghulam. Let's at least listen to Tighnari's reason for declining. We're here to invite him to the Akademiya, not to cause a scene.
+Media:vo xmaq004 8 khajeh 02.ogg Khajeh: Haha, well it turns out that your refusal letter had some implications on your master's reputation. He is a renowned Sage of the Amurta, after all. So now, I've come here in his stead.
+Media:vo xmaq004 8 khajeh 03.ogg Khajeh: Tighnari, your master is an integral part of this effort, and now he requires your assistance.
+Media:vo xmaq004 8 khajeh 04.ogg Khajeh: You'll know, once you've arrived in Sumeru City, that is.
+Media:vo xmaq004 8 khajeh 05.ogg Khajeh: There's no definite answer as of now.
+Media:vo xmaq004 8 khajeh 06.ogg Khajeh: *sigh* So be it... Come, Ghulam, we're leaving.
+Media:vo xmaq004 8 paimon 01.ogg Paimon: Uh Tighnari, what was that all about?
+Media:vo xmaq004 8 paimon 02.ogg Paimon: It was quite the eventful trip! But the main thing is that she's safe and sound. She answered a bunch of questions for us, too.
+Media:vo xmaq004 8 paimon 03.ogg Paimon: That's right! We want to meet Lesser Lord Kusanali and ask her for advice. Do you have any idea on how we can find her?
+Media:vo xmaq004 8 paimon 04.ogg Paimon: Well, do you at least know anyone we can try asking in Sumeru City?
+Media:vo xmaq004 8 paimon 05.ogg Paimon: Oh? What is it?
+Media:vo xmaq004 8 paimon 06.ogg Paimon: Great! Next stop, Sumeru City! Ah, but wait, before that...
+Media:vo xmaq004 8 paimon 07.ogg Paimon: That's right! Tighnari, we have something important to say to Collei before we leave. Is she doing better now?
+Media:vo xmaq004 8 paimon 08.ogg Paimon: Thanks, Tighnari! Alright, let's go.
+Media:vo xmaq004 8 tighnari 01.ogg Tighnari: Sage Khajeh, I am truly honored that you came here in person, but I'm afraid I must still decline your invitation.
+Media:vo xmaq004 8 tighnari 02.ogg Tighnari: I am merely a Forest Watcher. How could the great minds of the Haravatat have any need of someone like me?
+Media:vo xmaq004 8 tighnari 03.ogg Tighnari: I see. Huh, and I figured that, given his temper, he would come here and berate me personally.
+Media:vo xmaq004 8 tighnari 04.ogg Tighnari: And what exactly does my master need of me, Sage Khajeh?
+Media:vo xmaq004 8 tighnari 05.ogg Tighnari: And how long will I be required to stay?
+Media:vo xmaq004 8 tighnari 06.ogg Tighnari: Do you mean to tell me that despite coming all the way here to Gandharva Ville, you still can't answer the questions I laid out in the letter to my master?
+Media:vo xmaq004 8 tighnari 07.ogg Tighnari: If that's the case, then I'm afraid I cannot give you a definite answer either.
+Media:vo xmaq004 8 tighnari 08.ogg Tighnari: It's nothing. Some people from the Akademiya wanted me to go to Sumeru City to assist them with a project, but I had to refuse on account of all my responsibilities here.
+Media:vo xmaq004 8 tighnari 09.ogg Tighnari: But all that can wait, how did things go with Haypasia?
+Media:vo xmaq004 8 tighnari 10.ogg Tighnari: Very good. Now that (Traveler) has made a full recovery, there shouldn't be any reason for you to tarry here longer. I assume you will be heading to Sumeru City, correct?
+Media:vo xmaq004 8 tighnari 11.ogg Tighnari: Sorry, I'm afraid I don't have any advice for you there.
+Media:vo xmaq004 8 tighnari 12.ogg Tighnari: Hmm, let me think... My trips to Sumeru City have been fairly short, and most of my acquaintances are researchers...
+Media:vo xmaq004 8 tighnari 13.ogg Tighnari: How about this... I'll write you a letter of introduction that you can give to a researcher I know. He's from the Amurta Darshan and is adept at gathering information. Asking him might prove worthwhile.
+Media:vo xmaq004 8 tighnari 14.ogg Tighnari: Also, when you enter Sumeru City, you'll probably end up receiving something like this item here. I'm not sure if it will ever come in handy for you, but maybe you can give it a try.
+Media:vo xmaq004 8 tighnari 15.ogg Tighnari: It's called an Akasha Terminal. It's a tool produced by the Akademiya that utilizes the legacy of Greater Lord Rukkhadevata. Some say that this very item is the basis of Sumeru's reputation as the City of Wisdom.
+Media:vo xmaq004 8 tighnari 16.ogg Tighnari: Needless to say, this device and its usage fall under the Akademiya's expertise, so I'll leave it to them to show you how to use it.
+Media:vo xmaq004 8 tighnari 17.ogg Tighnari: Yes, she's doing much better. After being confined to her bed all this time, I thought a little walk would do her some good. Last I saw her, she was taking the path towards the north crossing.
+Media:vo xmaq004 8 tighnari 18.ogg Tighnari: She knew you two would be leaving soon, so she must have wanted to see you off.
+Media:vo xmaq004 8 tighnari 19.ogg Tighnari: Farewell, and good luck to you both.
+Media:vo xmaq004 8 tighnari 20a.ogg Tighnari: Don't you worry about Collei, I'll look after her. I'll find a way to understand the relationship between The Withering and her disease.
+Media:vo xmaq004 8 tighnari 20b 1.ogg Tighnari: But I can't afford to leave Gandharva Ville now. Things are not going well here in the rainforest, and Collei needs someone to watch over her. Besides, I never was one for all the pomp and circumstance of life at the Akademiya.
+Media:vo xmaq004 8 tighnari 20b 2.ogg Tighnari: Given that my master hasn't come to give me an earful personally, it seems that my presence is not as sorely needed as they make it out to be. In fact, the letter he sent to me was uncharacteristically polite...
+Media:vo xmaq004 8 tighnari 20b.ogg Tighnari: It seems there's a major project underway at the Akademiya, and my master has also joined the effort.
+Media:vo xmaq004 8 tighnari 20c.ogg Tighnari: Farewell, Traveler.
+Media:vo xmaq004 9 collei 01.ogg Collei: Ah, I've been waiting for you two.
+Media:vo xmaq004 9 collei 02.ogg Collei: I, uh... Well... ugh, never mind. I guess I should just wish you two a safe and successful journey.
+Media:vo xmaq004 9 collei 03.ogg Collei: Don't worry about me, I can take care of myself. My condition won't be getting in the way of my duties. I want to be a Forest Ranger, after all! It's up to me and the others to protect the rainforest here.
+Media:vo xmaq004 9 collei 04.ogg Collei: And uh, well I'm sorry... I should have told you both about my condition when we first met. I just wanted you two to treat me as a normal friend, not some girl that needs your sympathy...
+Media:vo xmaq004 9 collei 05.ogg Collei: But I guess now I understand that the most important thing is for friends to be genuine with one another.
+Media:vo xmaq004 9 collei 06.ogg Collei: Thank you, that means a lot... Uh, before you leave, I have something for you.
+Media:vo xmaq004 9 collei 07.ogg Collei: It's my recipe for Pita Pockets! I told you that I'd give you a copy, remember? My handwriting is a little messy, so please don't laugh.
+Media:vo xmaq004 9 collei 08.ogg Collei: I hope that whenever you eat them, you'll both remember your time here in Gandharva Ville.
+Media:vo xmaq004 9 collei 09.ogg Collei: Well then, I, Trainee Forest Ranger Collei, bid you both farewell. Please visit Gandharva Ville again. The rangers will always be ready to assist you here.
+Media:vo xmaq004 9 paimon 01.ogg Paimon: Thanks for waiting here just to see us off, Collei. We're headed to Sumeru City.
+Media:vo xmaq004 9 paimon 02.ogg Paimon: There's no need to apologize, Collei! We should be thanking you for trusting us enough to be your friends and sharing your past with us.
+Media:vo xmaq004 9 paimon 03.ogg Paimon: We're probably still gonna worry about your condition, but that's because we're friends and we care about you!
+Media:vo xmaq004 9 paimon 04.ogg Paimon: Oh? What is it?
+Media:vo xmaq004 9 paimon 05.ogg Paimon: Yay, thanks Collei! Now we can eat those scrumptious little pitas whenever and wherever we like!
+Media:vo xmaq005 1 collei 01a.ogg Collei: I'm much better now. I'll be back on patrol again starting tomorrow.
+Media:vo xmaq005 1 collei 02a 1.ogg Collei: Even though I'm not quite ready to help Master clear the Withering Zones yet, there are still plenty of other tasks for me to handle.
+Media:vo xmaq005 1 collei 02a 2.ogg Collei: Oh, and Traveler? If you ever see Amber again during your travels, please don't mention my illness to her, okay?
+Media:vo xmaq005 1 collei 02a 3.ogg Collei: Amber knows about my case of Eleazar and what's happened in my past, but I haven't told her about my condition getting worse...
+Media:vo xmaq005 1 collei 02a 4.ogg Collei: I guess I just don't want her to worry about me. If the need arises, I'll tell her about it myself.
+Media:vo xmaq005 1 collei 02b 1.ogg Collei: His culinary techniques are very polished, but his taste is a little unusual... It's not really his fault, though. He just has a sensitive tongue and nose, so he prefers much lighter flavors.
+Media:vo xmaq005 1 collei 02b 2.ogg Collei: The last time I went a little too heavy on the spices for my Pita Pockets, Master started having a sneezing fit! Of course, I never heard the end of it after that...
+Media:vo xmaq005 1 collei 02b.ogg Collei: Ha, kinda hard to believe that Master Tighnari can cook, isn't it?
+Media:vo xmaq005 1 collei 02c.ogg Collei: See you later. Be sure to come back often. Even though Master didn't admit it, I'm sure he wants to see you again.
+Media:vo xmaq005 1 paimon 01a.ogg Paimon: Alright, we understand, Collei.
+You continue chatting before settling down for a good night's rest.
+You cook up some dishes over the fire.
+You give Haypasia the letter from Tighnari.
+You run into the curious being again and have given it quite a fright.
+You tell Haypasia and Paimon everything that happened after entering the cave.
+You want to have a word with Collei before setting out.
+You want to have a word with Tighnari before setting out.

@@ -1,0 +1,113 @@
+ ...Paimon has been completely charmed.
+ It was a cakewalk!
+ Listen, Paimon...
+ Low... profile...?
+ Means you'll use a different method next time?
+(If you didn't ask Kaeya for any clues during Mystery of the Arcadian Ruins)
+Media:vo kylq003 5 kaeya 16.ogg Kaeya: What a surprise that you solved the puzzles all by yourself and arrived before me.
+Media:vo kylq003 6 paimon 08.ogg Paimon: So it was you who left all those clues?
+Media:vo kylq003 5 kaeya 17.ogg Kaeya: Indeed. However, even I believed the clues were too vague to be of any help to you.
+Media:vo kylq003 5 kaeya 18.ogg Kaeya: I was prepared to answer your questions...
+Media:vo kylq003 5 kaeya 19.ogg Kaeya: Quite impressive. This was the only thing that I did not anticipate in the entire operation.
+ It was a cakewalk!
+ Uh, actually, I tapped into other sources for help...
+Media:vo kylq003 5 kaeya 20.ogg Kaeya: No matter what you say, I acknowledge your wisdom. After all, wisdom itself does not deceive.
+Media:vo kylq003 6 paimon 10.ogg Paimon: But some people do enjoy deceiving others with their wits!
+Media:vo kylq003 5 kaeya 21.ogg Kaeya: Hahaha...
+ Quest DescriptionAfter much thinking, you finally solved the riddles contained within the intel you were given. The lost Arcadian Ruins are now within your reach!
+ So the intel is fake.
+ The Treasure Hoarders?
+Media:vo kylq003 4 izzard 03.ogg ???: Sharp eye, but too slow.
+ The black market?
+Media:vo kylq003 4 izzard 04.ogg ???: Well, I did have dealings with them.
+Media:vo kylq003 4 izzard 05.ogg ???: But them and their stupid principles... Losers who can't make a fortune.
+ There is no treasure.
+ Uh, actually, I tapped into other sources for help...
+ You didn't even try, did you?
+ You lied to us?
+???: *pitter-patter*
+Media:vo kylq003 2 paimon 01.ogg Paimon: This must be the Arcadian Ruins.
+Media:vo kylq003 2 paimon 02.ogg Paimon: Is it just me, or does it look... plain?
+Media:vo kylq003 2 paimon 03.ogg Paimon: Oh, Paimon gets it! The perfect disguise is always in plain sight!
+Media:vo kylq003 2 paimon 04.ogg Paimon: Kaeya's grandpa sure is impressive.
+Media:vo kylq003 2 paimon 05.ogg Paimon: Oh! Mice.
+Media:vo kylq003 2 paimon 06.ogg Paimon: It's no time to get suspicious. We're close!
+Media:vo kylq003 2 paimon 07.ogg Paimon: Hurry! The treasure is waiting for us!
+Media:vo kylq003 4 izzard 01.ogg ???: Hahaha... I'll save you the trouble.
+Media:vo kylq003 4 izzard 02.ogg ???: How about you let me take over?
+Media:vo kylq003 4 izzard 03.ogg ???: Sharp eye, but too slow.
+Media:vo kylq003 4 izzard 04.ogg ???: Well, I did have dealings with them.
+Media:vo kylq003 4 izzard 05.ogg ???: But them and their stupid principles... Losers who can't make a fortune.
+Media:vo kylq003 4 izzard 06.ogg Izzard: I'm Izzard.
+Media:vo kylq003 4 izzard 07.ogg Izzard: I thank you both on behalf of the Treasure Hoarders.
+Media:vo kylq003 4 izzard 08.ogg Izzard: You would be wise to not underestimate us.
+Media:vo kylq003 4 izzard 09.ogg Izzard: My gang is just outside waiting for my order.
+Media:vo kylq003 4 izzard 10.ogg Izzard: However, they're not as... sociable as me.
+Media:vo kylq003 4 izzard 11.ogg Izzard: The Knights...?
+Media:vo kylq003 4 izzard 12.ogg Izzard: Ugh... almost had it!
+Media:vo kylq003 4 izzard 13.ogg Izzard: Hah. You got me good. Didn't think the Knights would resort to such tactics.
+Media:vo kylq003 4 izzard 14.ogg Izzard: You're not gonna get me!
+(Door unlocks to reveal a Ruin Guard)
+Media:vo kylq003 4 izzard 15.ogg Izzard: Okay... Oh god... Wh—What is this? I didn't mean it!
+Media:vo kylq003 4 izzard 16.ogg Izzard: You! Knight! You're not gonna watch me die, are ya?
+Media:vo kylq003 4 izzard 17.ogg Izzard: Fine! I'll confess and go quietly! Please, just help me!
+Media:vo kylq003 4 izzard 18.ogg Izzard: How embarrassing... Having my life saved by a knight...
+Media:vo kylq003 4 izzard 19.ogg Izzard: Hey... Is this how the Knights of Favonius treat the people they catch?
+Media:vo kylq003 4 kaeya 01.ogg Kaeya: I'm sorry to rain on your parade...
+Media:vo kylq003 4 kaeya 02.ogg Kaeya: But your gang won't be participating in your current plan.
+Media:vo kylq003 4 kaeya 03.ogg Kaeya: If you'd like to ask why, you can go see them... in Mondstadt Prison.
+Media:vo kylq003 4 kaeya 04.ogg Kaeya: Or perhaps you'd prefer to join them permanently?
+Media:vo kylq003 4 kaeya 05.ogg Kaeya: Oh, you mean the treasure?
+Media:vo kylq003 4 kaeya 06.ogg Kaeya: Sorry, but there wasn't any treasure to begin with.
+Media:vo kylq003 4 kaeya 07.ogg Kaeya: You came all the way... for nothing. Just give it up.
+Media:vo kylq003 4 kaeya 08.ogg Kaeya: A thief has no right to criticize the methods of the Knights of Fav— Wait, what are you...
+Media:vo kylq003 4 kaeya 09.ogg Kaeya: Haha... What a troublemaker.
+Media:vo kylq003 4 kaeya 10.ogg Kaeya: Hmm, what an interesting suggestion.
+Media:vo kylq003 4 kaeya 11.ogg Kaeya: Alright then. Guess I will have to do some overtime work after all.
+(After defeating the Ruin Guard)
+Media:vo kylq003 4 paimon 01.ogg Paimon: Ugh... Is this the end?
+Media:vo kylq003 4 paimon 02.ogg Paimon: Where are you, my treasure!?
+Media:vo kylq003 4 paimon 03.ogg Paimon: Let's look around, (Traveler).
+(The suspicious individual reveals himself)
+Media:vo kylq003 4 paimon 04.ogg Paimon: Ugh...
+Media:vo kylq003 4 paimon 05.ogg Paimon: We've been keeping a low profile, how did word get out?
+Media:vo kylq003 4 paimon 06.ogg Paimon: Hmph! Paimon won't let you have the treasure without a fight!
+Media:vo kylq003 4 paimon 07.ogg Paimon: Hey, it's Kaeya!
+Media:vo kylq003 4 paimon 08.ogg Paimon: Kaeya, he wants to steal your treasure! Get him!
+Media:vo kylq003 4 paimon 09.ogg Paimon: What?
+Media:vo kylq003 4 paimon 10.ogg Paimon: No... treasure?
+Media:vo kylq003 4 paimon 11.ogg Paimon: Did Kaeya just say, there isn't any treasure?
+Media:vo kylq003 5 kaeya 01.ogg Kaeya: Don't forget what you promised... or that thing will be the least of your worries.
+Media:vo kylq003 5 kaeya 02.ogg Kaeya: I'm just joking. Alright... Let's take him back.
+Media:vo kylq003 5 kaeya 03.ogg Kaeya: Haha, of course not. They are the ones who made this arrest possible.
+Media:vo kylq003 5 kaeya 04.ogg Kaeya: Without them spreading our fabricated intel, we wouldn't have been able to catch the Treasure Hoarders.
+Media:vo kylq003 5 kaeya 05.ogg Kaeya: Alright, alright... Stop it already.
+Media:vo kylq003 5 kaeya 06.ogg Kaeya: Though the treasure doesn't exist, you did want it for yourself, didn't you?
+Media:vo kylq003 5 kaeya 07.ogg Kaeya: Otherwise, you would have informed me of your intentions, no?
+Media:vo kylq003 5 kaeya 08.ogg Kaeya: Ha. Just a sec.
+Media:vo kylq003 5 kaeya 09.ogg Kaeya: You did help me out, so you do deserve a reward.
+Media:vo kylq003 5 kaeya 10.ogg Kaeya: This is the "Triumphant Harbinger of Dawn That Points Towards Victory." As its name suggests, it symbolizes light and victory.
+Media:vo kylq003 5 kaeya 11.ogg Kaeya: If you don't mind, I would like to present you with this Harbinger of Dawn as a reward.
+Media:vo kylq003 5 kaeya 12.ogg Kaeya: That's right. It suits a well-cultured and disciplined person such as yourself, wouldn't you say, Paimon?
+Media:vo kylq003 5 kaeya 13.ogg Kaeya: You'd forgive me, right?
+Media:vo kylq003 5 kaeya 14.ogg Kaeya: I'm honored to have such an understanding friend.
+Media:vo kylq003 5 kaeya 15.ogg Kaeya: You have my apologies for the deception. I will not use the same method twice.
+Media:vo kylq003 5 kaeya 16.ogg Kaeya: What a surprise that you solved the puzzles all by yourself and arrived before me.
+Media:vo kylq003 5 kaeya 17.ogg Kaeya: Indeed. However, even I believed the clues were too vague to be of any help to you.
+Media:vo kylq003 5 kaeya 18.ogg Kaeya: I was prepared to answer your questions...
+Media:vo kylq003 5 kaeya 19.ogg Kaeya: Quite impressive. This was the only thing that I did not anticipate in the entire operation.
+Media:vo kylq003 5 kaeya 20.ogg Kaeya: No matter what you say, I acknowledge your wisdom. After all, wisdom itself does not deceive.
+Media:vo kylq003 5 kaeya 21.ogg Kaeya: Hahaha...
+Media:vo kylq003 5 kaeya 22.ogg Kaeya: What a wonderful day. Now, I have to go interrogate my suspect...
+Media:vo kylq003 5 kaeya 23.ogg Kaeya: Please excuse me. Do come visit me at our headquarters when you have the chance.
+Media:vo kylq003 5 knight 01.ogg Knight of Favonius: Sir! Yes sir!
+Media:vo kylq003 5 knight 02.ogg Knight of Favonius: Captain, should we take these two in as well?
+Media:vo kylq003 6 paimon 01.ogg Paimon: What!?
+Media:vo kylq003 6 paimon 02.ogg Paimon: *cries* You're a bad man for lying to me... Shame on the Knights!
+Media:vo kylq003 6 paimon 03.ogg Paimon: That... well... ah... Hmph!
+Media:vo kylq003 6 paimon 04.ogg Paimon: Let's go, (Traveler). Paimon's done talking to him!
+Media:vo kylq003 6 paimon 05.ogg Paimon: Harbinger of Dawn?
+Media:vo kylq003 6 paimon 06.ogg Paimon: Well... If the reward is this Harbinger of Dawn...
+Media:vo kylq003 6 paimon 07.ogg Paimon: Yes... yes...
+Media:vo kylq003 6 paimon 08.ogg Paimon: So it was you who left all those clues?
+Media:vo kylq003 6 paimon 10.ogg Paimon: But some people do enjoy deceiving others with their wits!

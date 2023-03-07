@@ -1,0 +1,139 @@
+
+(Obtain Gulabgir's Special Pet Snake Food)
+
+(Obtain Shabby Rack)
+
+(Obtain Strange Bead)
+Paimon: What is this bead used for? Let's take it to Gulabgir.
+
+(Obtain Strange Tiny Hats)
+Paimon: Woah, here's [sic] a whole bunch of tiny hats in here. Let's take them to Gulabgir...
+
+Gulabgir: What's the matter? Anything else on your mind?
+ I found something else in the camp.
+(Give Gulabgir the Strange Bead)
+Gulabgir: Huh? This bead... How... Where did you find this?
+Paimon: Inside a pot in the camp. Did you leave that behind?
+Gulabgir: Ah, it was used in past shows. Whenever I play the flute, my little fellas would carry that bead on their heads and dance with their upper bodies in the air.
+Gulabgir: But tricks of this kind have long ceased being profitable, and I haven't performed for quite some time either. I didn't even notice that it had gone missing...
+Gulabgir: Anyway, thanks for bringing it back. Here's your payment, please take it.
+
+Gulabgir: What's the matter? Anything else on your mind?
+ I found something else in the camp.
+(Give Gulabgir the Strange Tiny Hats)
+Gulabgir: Huh? These hats... Hahaha, I made them for the snakes. How did I even forget these?
+Gulabgir: I made each of them a nightcap so that they could attract children to the show.
+Gulabgir: Red for Jori, green for Amum, yellow for Gana, and blue for Drak...
+Paimon: Sounds cute! The show must've been a hit!
+Gulabgir: It went well at first, but the children would burst into tears whenever the snakes opened their jaws...
+Gulabgir: Oh, forget about it... Please take this as your payment. It's something, at least.
+
+Gulabgir: What's the matter? Anything else on your mind?
+(Traveler): I found something else in the camp.
+(Give Gulabgir the Shabby Rack)
+Gulabgir: Ah! Isn't this the snake climbing tower I made? Wow, this sure brings back some memories! Hahaha!
+Paimon: Snake climbing tower? What even is that?
+Gulabgir: Just a toy for the snakes to climb on. I can't have them hanging on me all the time, you know?
+Gulabgir: Thanks for bringing it back. Please take this as your payment.
+Gulabgir: So I designed it like that? Hah, this sure does bring back some memories...
+ About the camp...
+ Absolutely delicious!
+ Changsheng would get mad at you for saying that.
+ Delicious!
+ Have you been away from the forest for a very long time?
+ How many camps have you got, again?
+Gulabgir: Well, I set up a few while I was living in the rainforest.
+Gulabgir: I've already stopped living in the rainforest, but I still do rest at my campsites if I collect herbs there.
+ I don't think Changsheng counts as a "pet"...
+ I found something else in the camp.
+ Is this what you're looking for?
+(Give Gulabgir the snake food)
+ Leave it to me.
+Gulabgir: Thank you so much. Who knows what accidents we might run into if I were to go there with these little fellas.
+Gulabgir: If they got it into their heads to go playing around in the forest for a few days, I'd be doomed...
+ Quest DescriptionSnake Handler Gulabgir seems to be in trouble...
+ There aren't any other snakes at the campsites, right...?
+Gulabgir: No, not at all. I set all my camps up away from snake lairs precisely so that we could stay away from trouble...
+ Uh huh. Very reasonable of you.
+(Traveler): I found something else in the camp.
+Gulabgir: (Hope the little ones aren't starving...)
+Gulabgir: *sigh* But after that, they haven't been moving much, and have stubbornly refused to eat any other food.
+Gulabgir: ...Sorry, I've said too much. Here is your payment. Please take it.
+Gulabgir: Ah! Isn't this the snake climbing tower I made? Wow, this sure brings back some memories! Hahaha!
+Gulabgir: Ah, it was used in past shows. Whenever I play the flute, my little fellas would carry that bead on their heads and dance with their upper bodies in the air.
+Gulabgir: Ahem! Don't mind me. Thank you very much. Here's your payment.
+Gulabgir: And there weren't that many vines around when I established that camp.
+Gulabgir: Anyway, I'm counting on you, Traveler.
+Gulabgir: Anyway, thanks for bringing it back. Here's your payment, please take it.
+Gulabgir: But I can't really leave, what with all my little fellas to care for and stuff. I don't want them scaring anyone again when they search for food...
+Gulabgir: But ever since they startled several children whilst feeding, I have banned them from going out without me. I've started making food for them.
+Gulabgir: But tricks of this kind have long ceased being profitable, and I haven't performed for quite some time either. I didn't even notice that it had gone missing...
+Gulabgir: Eh, you know what, forget about it... Thanks for your help. Here's your payment.
+Gulabgir: Fungi, huh... Phew, guess I was lucky to have you go instead. Thank you so much, Traveler.
+Gulabgir: Gone again... Um... Traveler! Could you please do me a favor?
+Gulabgir: Guess I should really consider starting a feed-selling business...
+Gulabgir: Hahaha, I'm really rusty when it comes to setting up camps now.
+Gulabgir: Here's your meal, little fellas...
+Gulabgir: How did it go? Did you find the food?
+Gulabgir: Huh? These hats... Hahaha, I made them for the snakes. How did I even forget these?
+Gulabgir: Huh? This bead... How... Where did you find this?
+Gulabgir: I can't thank you enough. Please, accept this as your payment.
+Gulabgir: I made each of them a nightcap so that they could attract children to the show.
+Gulabgir: I must have left their food at one of my camps when I was out picking herbs.
+Gulabgir: I see... Was it the work of wild animals...?
+Gulabgir: I'll mark all the camps I've stayed at on the map for you, so please take a look at those spots.
+Gulabgir: I've already stopped living in the rainforest, but I still do rest at my campsites if I collect herbs there.
+Gulabgir: If that turns out well, I could be making much more money than I do now by putting up performances...
+Gulabgir: If they got it into their heads to go playing around in the forest for a few days, I'd be doomed...
+Gulabgir: Is this stuff so popular with animals? Maybe I should start a business...
+Gulabgir: It went well at first, but the children would burst into tears whenever the snakes opened their jaws...
+Gulabgir: Just a toy for the snakes to climb on. I can't have them hanging on me all the time, you know?
+Gulabgir: Most of the camps I've set up in the past have been abandoned.
+Gulabgir: My food is missing!
+Gulabgir: My snakes were alert and would wake me every time. But I never found anything no matter how many times I checked...
+Gulabgir: Nah, I'm pretty skilled when it comes to living in the wild.
+Gulabgir: No, not at all. I set all my camps up away from snake lairs precisely so that we could stay away from trouble...
+Gulabgir: Now that you mention it, the food I made attracted Fungi and birds... So, attracting wild animals sounds about right...
+Gulabgir: Oh! When I was camping there, I could hear strange sounds at night, and I could feel something scratching at my tent...
+Gulabgir: Oh, forget about it... Please take this as your payment. It's something, at least.
+Gulabgir: Oh, sorry, I'm getting off-topic... Thanks for your help, and please, take your payment.
+Gulabgir: Red for Jori, green for Amum, yellow for Gana, and blue for Drak...
+Gulabgir: Seriously? How could there be a landslide? That spot has never been in any trouble...
+Gulabgir: So I designed it like that? Hah, this sure does bring back some memories...
+Gulabgir: Sort of. I can't remember the details.
+Gulabgir: Thank you so much. Who knows what accidents we might run into if I were to go there with these little fellas.
+Gulabgir: Thanks for bringing it back. Please take this as your payment.
+Gulabgir: Traveler, would you mind visiting that campsite and fetching the food for me?
+Gulabgir: Uh, no, that can't be it! My pet snakes' food — that's what's missing!
+Gulabgir: Well, I set up a few while I was living in the rainforest.
+Gulabgir: Well... Maybe the birds had them stashed away for a rainy day...
+Gulabgir: What kind of life would I be leading had I remained in the rainforest...?
+Gulabgir: What's the matter? Anything else on your mind?
+Gulabgir: Yes! That's it! So I did leave it in the camp after all.
+Gulabgir: Yes, these would do! Thank you so much.
+Gulabgir: Yes, they did hunt by themselves in the past.
+Gulabgir: You are back! I gotta say, that was quick. Did you find the food?
+Paimon: *sigh* Paimon thought "there was no such thing as a free lunch"...
+Paimon: Eh? There are some bottles and pots... Maybe Gulabgir left something else here...?
+Paimon: Enjoying food is Paimon's job!
+Paimon: How is the food under these stones? Was there some kinda landslide? Shall we go up and have another look around?
+Paimon: Inside a pot in the camp. Did you leave that behind?
+Paimon: It was buried under the rocks. Your camp seems to have gotten caught in a landslide that carried your stuff far away. We spent a long while looking, actually.
+Paimon: Look at those Fungi. Why are they gathering over there? They aren't stealing the food, are they? C'mon, you've gotta shoo them away!
+Paimon: Oh! This should be the snake food Gulabgir's looking for!
+Paimon: Paimon doesn't see anything. Let's come closer to take a better look.
+Paimon: Paimon hasn't even asked about the flavor yet, so you can dream on!
+Paimon: Paimon's sure we've met someone with a snake for a pet before... Right! It's that weirdo named Baizhu...
+Paimon: Snake climbing tower? What even is that?
+Paimon: Sounds cute! The show must've been a hit!
+Paimon: There's nothing down there. Maybe we should check out the tree...
+Paimon: There's nothing here...
+Paimon: There's special food for pet snakes? Don't they eat mice and stuff?
+Paimon: Ugh... It's a total mess around here. Where on earth is the food...?
+Paimon: What is this bead used for? Let's take it to Gulabgir.
+Paimon: What's here... Ugh, just some mushrooms...
+Paimon: When we arrived, there were Fungi that were trying to swipe it.
+Paimon: Whoa! Look at all those thorny vines! Be careful!
+Paimon: Why is your camp in the middle of a bunch of thorny vines!? Wouldn't you get hurt sleeping there?
+Paimon: Why weren't these in the camp, but on the nearby tree?
+Paimon: Woah, here's [sic] a whole bunch of tiny hats in here. Let's take them to Gulabgir...

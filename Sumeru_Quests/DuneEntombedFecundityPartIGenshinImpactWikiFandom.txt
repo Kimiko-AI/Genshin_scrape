@@ -1,0 +1,400 @@
+
+(Sand begins to flow into a nearby mechanism and a nearby door opens)
+
+(Sand starts to flow into a mechanism)
+
+(The mechanism activates and opens a large door)
+
+You return to the surface with Jeht...
+ (If the player chose to play Genius Invokation TCG) Not great. I kept thinking about cards every time I closed my eyes.
+Liloupar: And yet you were quite happy to play...
+Paimon: Because if you're gonna play, you should play hard! Paimon was having fun watching from the sides, too!
+ (Return to the surface) Let's go back first.
+Paimon: Alright...
+(The player is teleported to the surface)
+ (Return to the surface) Let's go.
+Jeht: We're going, then. Keep up.
+(The player is teleported to the surface)
+ ...
+ A bit too suspect...
+ About Azariq...
+Azariq: I'll be your guide and help to expel the Wenut, but I won't be heading into the forbidden zone. Sorry.
+Babel: I respect Azariq's considerations. The remains left by a god long past... That is something not lightly disturbed by the likes of us, who yearn only to stand vigil over this tomb. This most unpalatable task must fall to you.
+Jeht: Thanks for this opportunity, Matriarch Babel.
+Babel: Yes... I hope for your safe return.
+ About Azariq...
+Babel: He is my "son." Though not born of my flesh, I trust him very much.
+Babel: Clever, loyal, strong, ethically unbending, and skilled in gaining favor with others. Like a loyal wolf to the pack, he has never failed me.
+Babel: It is a shame that he is... male.
+Babel: If he was a woman, he could take my place... That way, I could finally retire and lead the children in managing our Sumpter Beast caravans.
+Babel: Heh... But at least I still have Jeht.
+ About Jeht...
+Babel: Jeht? She is a good child. She learns our ways quickly and greets trouble with neither grimace nor complaints.
+Babel: Heh. Speaking of her, it's a shame that there was an... incident between us and her father in years prior...
+Babel: But I'm just glad that Jeht has returned to us. Though her father... *sigh* I suppose we can consider this a delayed resolution.
+Babel: She likes you, you know. I can tell.
+Babel: So... Please don't disappoint her and ruin the friendship you have.
+ About the Wenut...
+Babel: Wenut are extremely dangerous creatures. Approach them with caution. They may attack you upon being drawn by the Jinni's presence.
+Liloupar: Speak not of me as if I am some manner of calamity, desert-wench!
+Liloupar: My master, I will be alert on your behalf. If you come under assault by these Wenut... I may yet be able to rally my strength and defend you.
+Jeht: I've got your back too, (Traveler).
+Paimon: Whoa! Suddenly, we've got two handy sidekicks. Hehe.
+ About the traitors...
+Babel: Ah, we have let an outsider see the troubles our traitors have caused us... How shameful.
+Babel: But worry not. With Jeht's aid, Aderfi will soon be delivered unto rightful justice.
+ Is Aderfi truly a traitor?
+Babel: He has already stained the Tanit name... This means that he has cast aside the name of his mother, and must be punished.
+Babel: As with nations or cities, tribes too must enforce their laws. I think you understand this.
+ I'm just concerned that there isn't enough evidence...
+Babel: Well... You are of the city-folk. It is unsurprising that you worry about matters such as "evidence" and "suspicions." This I understand.
+Babel: But for us Tanit, he has already stained the name of the tribe with his dishonor... Forgotten the name of his mother. Punishment must be delivered unto him.
+ Found something?
+ Hmm. Just like Jebrael.
+ I imagine you're looking forward to this too, Jeht.
+Jeht: Of course, and that's because I'm with you guys!
+Jeht: Dad once said that the sands are like our home. I didn't get it at the time, but now I think I'm beginning to understand...
+Jeht: Home isn't perfect. Sometimes, it's downright frustrating, domineering, or even cruel. But you know you belong there.
+Jeht: You'll treasure its atmosphere and fear that it might leave you. You'll do anything to stop anyone from trying to tear it apart and seek care and companionship from its existence.
+Jeht: It took leaving Dad's protection to learn that this is what "home" is.
+Jeht: I know that Dad would never abandon me and that he never lied. But people have to grow up and find new homes for themselves.
+Jeht: To me, the Tanit might just be that home.
+Paimon: Finding a new place to belong to is great, and Paimon's sure Jebrael would be happy for you! Yep!
+ I need to look around some more.
+Liloupar: Your words, my will, my master.
+ I need to stay and explore.
+Jeht: Alright. Be careful. I'll wait for you here.
+ I will.
+ I'm just concerned that there isn't enough evidence...
+Babel: Well... You are of the city-folk. It is unsurprising that you worry about matters such as "evidence" and "suspicions." This I understand.
+Babel: But for us Tanit, he has already stained the name of the tribe with his dishonor... Forgotten the name of his mother. Punishment must be delivered unto him.
+ Is Aderfi truly a traitor?
+Babel: He has already stained the Tanit name... This means that he has cast aside the name of his mother, and must be punished.
+Babel: As with nations or cities, tribes too must enforce their laws. I think you understand this.
+ Is there something wrong with the campsite?
+ It is a little suspect, actually.
+ It was a memory. Someone else's memory...
+Jeht: Huh? I don't... What are you saying?
+ Jebrael would be proud of you.
+Jeht: Him? Ha! I don't care about him! Dad was a real simpleton... This trip was for me to send him to the place where he belongs. It doesn't matter what he feels about this!
+Jeht: ...
+Jeht: Ah... I don't know. Truth be told, I just don't know...
+Jeht: My parents... Will they truly reunite in such a place? The place we're heading to... Is it just a meaningless destination that I want to reach for the sake of... because I want to console myself?
+Paimon: No way! Jebrael would be super happy! You're helping him fulfill his wish after all...
+ Not bad. Thanks for asking.
+Paimon: Ah... Why did Liloupar have to use all those strange metaphors about bugs and scorpions? Took Paimon half a night to get them out of her head!
+ Quest DescriptionWith the help of the Tanit, you prepare to enter Mt. Damavand in search of the secrets that lie buried within the Eternal Oasis...
+ See you.
+Babel: Farewell. I bid you safe travels for your coming adventures.
+ Sorry, I was out of it for a moment...
+Jeht: ("Out of it?" I thought you lost consciousness!/Really? I thought you were seized by something foul within the bottle!)
+Paimon: Yeah! You worried Paimon sick!
+ Step DescriptionThe first impediment to reaching the Eternal Oasis has been overcome, but the road remains long...
+ The Fatui... Their influence spreads even here?
+ This is the song Jebrael liked to sing...
+ What are you thinking about?
+ What did Matriarch Babel want from you?
+ You sing it better than Jebrael did.
+"Sleep, close your eyes;The eternal oasis welcomes the lonely wanderer,Lay upon the pure and flowing streams;For here, memories are forever sweet and pure."
+"Then, mortal... What desire of yours can I make manifest?"
+???: Hey, little wildcat!
+And time sailed ever onward...The children of the Jinni grew to become king and queen, yet fell to the same schemes, to the same curse... Until their kingdom was finally shattered upon reaching calamity's end.Such an ending, then, was that which the Jinni had orchestrated from the very beginning...
+As the shard of light merges with Liloupar's magic bottle, you feel a little of your own power being pulled away...
+Azariq: (...Seems like he was right. This is indeed an exit...)
+Azariq: (...Ugh, my lower back hurts... my back is wounded... agh!)
+Azariq: *cough* And what about me, eh? Cold and alone... Abandoned by the fire...
+Azariq: ...
+Azariq: ...So, that thing was more than just a legend, huh? It really exists...
+Azariq: Anyway, though Jeht is young, she is far more mature than most her age. It's frankly a relief.
+Azariq: Be at ease, I will guide them down a safe path.
+Azariq: But those canals have long run dry. Fortunately, that lends them to our purposes quite well, allowing entry to the foundations of the Oasis within the dunes.
+Azariq: Come with you? You've found a path?
+Azariq: Exploring and scouting, same as always. What, is running into another explorer in the desert strange to you?
+Azariq: Haha, alright! Come over and have some food, drink some water. You all must be tired.
+Azariq: Haha. I think you're the one who needs to worry about that! Keeping your mouth shut works better than anything in stopping that from happening!
+Azariq: Haha... Glad you guys got some rest. I sure didn't.
+Azariq: Hahaha! Indeed. She didn't complain when she fell... and she didn't cry when she was hurt. Her calmness was... frankly terrifying, but her rage... When it comes... "Crash!" She's like thunder.
+Azariq: Heh, never mind that for now. The sky's dimming. We should rest. The path will still be there tomorrow.
+Azariq: Hey, the sun's up. Got something to show you. Follow me!
+Azariq: Hmph! This little wildcat was terrifying when she first arrived, let me tell you. Her face was like a doll. She wouldn't cry, wouldn't talk... But after spending some time messing about with me, she slowly opened up.
+Azariq: Hmph. Wrong way around. She came to find me.
+Azariq: I'll be your guide and help to expel the Wenut, but I won't be heading into the forbidden zone. Sorry.
+Azariq: Indeed, Matriarch Babel.
+Azariq: It's because (Traveler) reclaimed the Jinni. She can serve as our guide. Moreover, my tongue's as clever as that of a mockingbird's, but you should know that by now.
+Azariq: It's fine, Jeht! Don't take this stuff so seriously. It's not like she's that much nicer to me or anything!
+Azariq: Matriarch Babel spoke briefly with me last night. What we must do next is use the tunnels in the dunes to enter the underground portions of the Eternal Oasis.
+Azariq: Next, you can just keep going into the depths of the canyon. The tunnel leading to the foundations of the Eternal Oasis should be right there.
+Azariq: Over here! If this isn't a coincidence!
+Azariq: Some matters concerning the... elders of the tribe, you know?
+Azariq: Speaking of which, what have you all discovered? Tell me — I'm curious.
+Azariq: That was lovely.
+Azariq: That's how it was. No need to be modest!
+Azariq: Then, the Eternal Oasis... was never far from us at all.
+Azariq: Well, I'm gonna split now. You guys stay alert and stay safe.
+Azariq: What's the matter, Jeht? You're looking real distracted right now.
+Azariq: Yeah... Let's talk about something else instead.
+Azariq: You too, be careful! No talking during combat!
+Babel: "And."
+Babel: (...You're still youthful, Azariq. Hehe...)
+Babel: (Traveler), the task I bade of you today... I believe that Azariq has already gone over the broad strokes with you.
+Babel: ...
+Babel: Ah, Jeht. While you're here, I shall entrust the great task of apprehending the traitor Aderfi to you...
+Babel: Ah, we have let an outsider see the troubles our traitors have caused us... How shameful.
+Babel: Ahem. Very well. Do not let me forestall your departure. Leave as soon as you are able.
+Babel: Ahem... However, the Fatui are not the most important segment of today's conversation.
+Babel: Apologies, our business has me distracted... Was there something you needed?
+Babel: As with nations or cities, tribes too must enforce their laws. I think you understand this.
+Babel: But I'm just glad that Jeht has returned to us. Though her father... *sigh* I suppose we can consider this a delayed resolution.
+Babel: But for us Tanit, he has already stained the name of the tribe with his dishonor... Forgotten the name of his mother. Punishment must be delivered unto him.
+Babel: But worry not. With Jeht's aid, Aderfi will soon be delivered unto rightful justice.
+Babel: Clever, loyal, strong, ethically unbending, and skilled in gaining favor with others. Like a loyal wolf to the pack, he has never failed me.
+Babel: Esteemed Liloupar... After entering the foundations of the Eternal Oasis, we must rely on your power to guide the group.
+Babel: Farewell. I bid you safe travels for your coming adventures.
+Babel: Good, but I must warn you still that the path ahead is fraught with dangers... Our scouts have discovered signs that many Wenut may be active in the area.
+Babel: He has already stained the Tanit name... This means that he has cast aside the name of his mother, and must be punished.
+Babel: He is my "son." Though not born of my flesh, I trust him very much.
+Babel: Heh. Speaking of her, it's a shame that there was an... incident between us and her father in years prior...
+Babel: Heh... But at least I still have Jeht.
+Babel: I respect Azariq's considerations. The remains left by a god long past... That is something not lightly disturbed by the likes of us, who yearn only to stand vigil over this tomb. This most unpalatable task must fall to you.
+Babel: I suspect that the recent spike in traitors within the tribe has something to do with the interference of those who hail from the snowlands.
+Babel: If he was a woman, he could take my place... That way, I could finally retire and lead the children in managing our Sumpter Beast caravans.
+Babel: Information, and a newly claimed life.
+Babel: Initially, they approached our merchants under the banner of trade. Then, before long, they started meddling in our affairs... Annoying as it is, the forces behind them are indeed powerful.
+Babel: It is a shame that he is... male.
+Babel: Jeht!
+Babel: Jeht? She is a good child. She learns our ways quickly and greets trouble with neither grimace nor complaints.
+Babel: My apologies, esteemed Liloupar. I understand your misgivings, and will endeavor to win your trust...
+Babel: Prior to the present, we had already pushed the northerners out of our territory, forbidding them from appearing on our hunting grounds to prevent them from further harming our people.
+Babel: She likes you, you know. I can tell.
+Babel: So... Please don't disappoint her and ruin the friendship you have.
+Babel: The ruins of the canals may yet hide your... fragments.
+Babel: Well... You are of the city-folk. It is unsurprising that you worry about matters such as "evidence" and "suspicions." This I understand.
+Babel: Wenut are extremely dangerous creatures. Approach them with caution. They may attack you upon being drawn by the Jinni's presence.
+Babel: Yes... I hope for your safe return.
+Babel: Yet, they continue to circle us in the desert like hyenas. I don't know if they seek treasure or an alliance from us... Regardless, they are dangerous.
+Babel: You've arrived, (Traveler). I hope that our hospitality hasn't disappointed you.
+But as time flowed, the mortal could not break the chains of power and ambition that clung to him, betraying the love of the Jinni...Hence, on the path of revenge, she twisted the fates of her children, wreathing them in a plot to unmake their father and kingdom...
+Jeht: "O stars high above the wasteland, O nightingales weary from the day. It's time to take off the crown of roses; Cleanse yourself with wine made from grapes."
+Jeht: ("Out of it?" I thought you lost consciousness!/Really? I thought you were seized by something foul within the bottle!)
+Jeht: (Ever since I lost Dad... I only feel this free when I'm with you./After Dad... left, the fear of losing my home only leaves me when I'm with you.)
+Jeht: (The scent of spices... *sniff* Mm, just right. It shouldn't attract too much trouble.)
+Jeht: (There's a lot of quicksand on the ground... It's gonna be really hard to traverse...)
+Jeht: (Traveler)! Are you alright? Answer me!
+Jeht: (Traveler), Paimon, how'd you sleep?
+Jeht: (What? Did you find anything new? Heh, care to share?/You know, I actually look forward to exploring together like this, and that's something I haven't felt in while, let me tell you... And there's something new there too.)
+Jeht: *huff* Is that all?
+Jeht: ...
+Jeht: ...I understand.
+Jeht: ...Let's change subjects.
+Jeht: ...We'll ask Matriarch Babel about this once we get back. For now, we keep moving.
+Jeht: ...Yeah.
+Jeht: After Dad... left, I, uh... Heh. Finding my pitch just got that much harder. But I still learned pretty good, didn't I?
+Jeht: Ah... I don't know. Truth be told, I just don't know...
+Jeht: Ah... It was an urgent... thing.
+Jeht: Alright, alright. You're full of it... *sigh* I practically died of embarrassment when I first joined the Tanit...
+Jeht: Alright, you should get some rest. We have lots to do tomorrow. I'll stand watch tonight.
+Jeht: Alright. Be careful. I'll wait for you here.
+Jeht: Alright. Good. Then, we'd best get back to the surface and start plotting a new path. Any objections?
+Jeht: Alright. Let's go and discuss the rest of the details with Matriarch Babel, then.
+Jeht: Aren't you the little one here!?
+Jeht: Azariq! What are you doing here?
+Jeht: Be wary of those things that just burrowed underground. They're a sly lot!
+Jeht: By that logic, seeing that you're both young and small, that makes you the littlest one!
+Jeht: Can Jinn feel pain too?
+Jeht: Dad once said that the sands are like our home. I didn't get it at the time, but now I think I'm beginning to understand...
+Jeht: Ha. You're right about that!
+Jeht: Hah. I knew you'd remember. I spent a long time practicing this one. Couldn't get it down when Dad was still with us.
+Jeht: Hahaha! Stop it! You're my family too! You really showed me how things were done when I first came to the tribe.
+Jeht: He said she was a beauty, that she was a character with countless virtues, like... "O stars high above the wasteland..."
+Jeht: Hey, don't put the blame on US! You're the reason they popped up!
+Jeht: Hey... It's just ahead, right? Look out, (Traveler), and don't let the sand get in your mouth.
+Jeht: Him? Ha! I don't care about him! Dad was a real simpleton... This trip was for me to send him to the place where he belongs. It doesn't matter what he feels about this!
+Jeht: Hmm. You got any plans after this? You wanna come with us?
+Jeht: Hmm... (Traveler), beware of sandstorms. In canyons like these, the wind-flung grains sting worse than those flung by the winds on the open sands.
+Jeht: Hmm... I can't help but wonder what this place looked like back when it was flowing with water...
+Jeht: Hmm... Looks like all we can do is head back to the surface and find another path. Uh... Jinni, can you find another way leading to the other two tunnel entrances?
+Jeht: Home isn't perfect. Sometimes, it's downright frustrating, domineering, or even cruel. But you know you belong there.
+Jeht: Huh. Wait. I... I feel something moving beneath the sand.
+Jeht: Huh... The air outside is crisp!
+Jeht: Huh? And who asked you to get up in the middle of the night to go find Matriarch Babel?
+Jeht: Huh? I don't... What are you saying?
+Jeht: I did understand you! Just... Not completely...
+Jeht: I got it. I'll return with additional information or a newly claimed life.
+Jeht: I know that Dad would never abandon me and that he never lied. But people have to grow up and find new homes for themselves.
+Jeht: I've got your back too, (Traveler).
+Jeht: It took leaving Dad's protection to learn that this is what "home" is.
+Jeht: It was all thanks to Azariq guiding me, teaching me how things worked in the tribe like a big brother that I could recover. It's been slow going...
+Jeht: It worked! Let's keep going!
+Jeht: It's guiding us through this large door. Let's go see where it leads.
+Jeht: Liloupar, what's wrong with you? Matriarch Babel only organized this expedition to ensure that I can lay my parents to rest! How can you just... slander her like this?
+Jeht: Listen... Do you hear that? It feels like something is trembling deeper in the tunnels. Is a door opening?
+Jeht: Look at this door! There must be a temple behind it or something!
+Jeht: Look there. Those tunnels. I'm thinking... of connecting them and clearing the accumulated sand. I think that might open a path for us.
+Jeht: Matriarch Babel must've sent someone here ahead of us.
+Jeht: Mind your own business!
+Jeht: My parents... Will they truly reunite in such a place? The place we're heading to... Is it just a meaningless destination that I want to reach for the sake of... because I want to console myself?
+Jeht: No, Matriarch Babel isn't that kind of person...
+Jeht: Nothing... Just continue...
+Jeht: Of course it does! But I want to know why...
+Jeht: Of course!
+Jeht: Of course, and that's because I'm with you guys!
+Jeht: Oh...
+Jeht: Oh... Incredible...
+Jeht: So Matriarch Babel has finally made her decision.
+Jeht: So, the trembling came from this door... I wonder what's behind it?
+Jeht: So... That was a scary story... horrifying, even. But what does this have to do with my question?
+Jeht: Speaking of which... Liloupar, I'm curious but never got to ask...
+Jeht: Stop it, you know I'm always out of tune!
+Jeht: Stop your heckling, Paimon. Don't listen to him. You too, (Traveler)!
+Jeht: S—Sure...
+Jeht: Thanks for this opportunity, Matriarch Babel.
+Jeht: Thanks. You too.
+Jeht: That's pretty normal. Some people from the various tribes come into the canyon to avoid the sandstorms, and some get unlucky and never make it back out.
+Jeht: That's the only memory I have left of her. Dad always used to sing me this old nursery rhyme.
+Jeht: The ruins here are more intact... Is this an ancient temple?
+Jeht: The time after Dad was gone... was like a haze. Anyway, I thought I would never be able to feel normally again.
+Jeht: Then, we need to go down there and activate that... glass?
+Jeht: There are so many scattered ruins here... I wonder what happened.
+Jeht: There's a mechanism there. Let's go check it out!
+Jeht: This is a Tanit camp... It even has the tribe's markings.
+Jeht: Though I really don't want to act without thinking things through, I have a feeling that if we want to continue, we'll need to activate this thing...
+Jeht: To me, the Tanit might just be that home.
+Jeht: Was that... Something that happened in your time?
+Jeht: We're going, then. Keep up.
+Jeht: Well... I don't really know how to describe it to you. There are countless ancient pipes leading into the temple inside the mountain and... the legendary goblet of Al-Ahmar is there too.
+Jeht: What are you saying? Do you want a beating?
+Jeht: What is this place?
+Jeht: What kind of song is that?
+Jeht: What's the hurry? And what's with the secrecy? Can't you just show us here?
+Jeht: What... Oh, it's been buried... It'll take years for just us few to dig it out.
+Jeht: What... What is this...
+Jeht: What? There are still more camps ahead? Hold on for a second, (Traveler). I'm going to check.
+Jeht: Whatever the case, I have you to thank, (Traveler) and Paimon. Thanks for... coming all this way to accompany me on this adventure. And, y'know, putting up with my... willfulness.
+Jeht: Why do you hate Matriarch Babel so much?
+Jeht: Yeah. Dad also said he was going to tell me more stories about Mom. But now, I'm never going to get a chance to learn who she was.
+Jeht: Yeah. Let's go.
+Jeht: Yeah... Dad always told me that he would one day enter the Eternal Oasis and find Mom again... Never thought I'd be helping him make his dream come true.
+Jeht: Yeah... It looks just like the lights I saw when Matriarch Babel was emerging from Azariq's tent.
+Jeht: Yeah... So, that's what we've seen so far.
+Jeht: You aren't a desert-dweller. Of course you don't get it!
+Jeht: You mean the Fatui?
+Jeht: You'll treasure its atmosphere and fear that it might leave you. You'll do anything to stop anyone from trying to tear it apart and seek care and companionship from its existence.
+Jeht: You're getting on my nerves, Jinni.
+Liloupar: "Canyon of kings, source of all power, does the halo of your radiance yet cast its ring..."
+Liloupar: *sigh* As surely as you are witness, this once was a lush garden, in a time when the flowing springs had yet to become a fleeting rarity amongst the sands.
+Liloupar: *sigh* But look upon it now.
+Liloupar: ...
+Liloupar: ...A heartbeat... draws nearer...
+Liloupar: ...Don't tell...
+Liloupar: A fragment of myself is here, just ahead somewhere... I can sense it.
+Liloupar: A mechanism once built to sustain a dream of eternity, to supply the oasis, forever and always. It was once propelled by water but is now driven only by sand.
+Liloupar: Across the sands, there is still much of me that lies scattered. If you find it within yourself to offer me this generosity, my master, I will be beyond grateful should you collect my fragments and return me to wholeness.
+Liloupar: Ah, a reckless thought, born of ignorance. Still, the plan is worth a try.
+Liloupar: Ah... I am invigorated! Come. Let us delve deeper.
+Liloupar: And should I? To you, who are little more than a slave?
+Liloupar: And those traumas and memories protected the eternal sleep of my mistress, the Lord of Flowers.
+Liloupar: And yet you were quite happy to play...
+Liloupar: Apologies. I did not mean to let you behold a moment so shameful. But as you might understand, I have reclaimed a portion of my memories. Now, I may guard you better.
+Liloupar: As for why she sent people here with regularity prior... It could not just be to sate the desire of young Jeht here... More camps lie ahead, I would warrant.
+Liloupar: Be at ease. I shall protect my master. Let us progress.
+Liloupar: Before the dune was encased in sandstorms, before Al-Ahmar was naught but dust, this place rolled with hills most fecund and verdant.
+Liloupar: But all that unfolded here, all that has not been regarded as a "lesson" by the sages of other nations... It hurts my very being.
+Liloupar: Check the reservoir... The central hall comes next. We must activate that mechanism.
+Liloupar: Do as you will. I seek respite!
+Liloupar: Enough talk. I think I may yet be able to spark function back into this mechanism... allow me to try, my master.
+Liloupar: Fret not. Let us hunt about for mechanisms nearby that might help drain the sand.
+Liloupar: Ha! Worry not! Robbing a few bookish researchers, parting a merchant camp with the maps they have brought with them... These are tricks of an old trade for a desert-dweller! I understand! Ahahaha!
+Liloupar: Ha... Let me tell you a story, child.
+Liloupar: Hah. That's not the actual goblet. It's just a mechanism holding the Eternal Oasis in stasis.
+Liloupar: Hah... How adorable...
+Liloupar: Hm? I suppose, but the details elude my recollection, what with my memories being as scattered as they are...
+Liloupar: Hmm... Why, you ask?
+Liloupar: I dare not claim to be certain. With loose confidence... I believe so.
+Liloupar: I indeed witnessed this occurrence, my master, but I thought there was little need to go into detail about it with you.
+Liloupar: I know my words are beyond your understanding. There is no need for you to placate me.
+Liloupar: If my memories had never come so undone, perhaps I could offer you enlightenment.
+Liloupar: If you were absent, my master... I fear I might even be quite fond of her. But today, things are different... She threatens your safety, and so affability is beyond my sphere of virtues.
+Liloupar: In areas around a Jinni's fragments, a spot of green should flourish...
+Liloupar: Indeed. I believe it is a Wenut.
+Liloupar: Indeed. Of this I am aware... But I am curious as to how this knowledge came unto you.
+Liloupar: Indeed... My Master, Al-Ahmar, once created a most intricate system of canals, shaped to provide irrigation for the soil of the mortal kingdoms...
+Liloupar: It is my acknowledgment you are receiving, little one.
+Liloupar: King Deshret left his glass goblet here, at the center of this place. The tales speak of him bidding farewell to joy, and leaving his cup behind here as a receptacle to contain past traumas and memories...
+Liloupar: My lord, I already see it! It's a fragment of mine, of my divinity and wisdom. Please... Please bring me closer!
+Liloupar: My master, I will be alert on your behalf. If you come under assault by these Wenut... I may yet be able to rally my strength and defend you.
+Liloupar: My words have run dry... Apologies, then, if I have upset you.
+Liloupar: No more idle chatter. Jeht's recommendation is most wise. Please proceed, my master
+Liloupar: No. Alas, it is merely a water supply station.
+Liloupar: Oh, ho? What's this? Someone appears to be less attuned to the traditions they so claim to practice than they'd like...
+Liloupar: Oh... I see we have happened upon some open secret.
+Liloupar: Patience. See how there are still two points of entry? Perhaps there are more mechanisms that we need to disable.
+Liloupar: Perhaps those sordid affairs were just too inconvenient for you to face or consider... But I know your follies, and stupidity does not rank amongst them. Consider these matters yourself.
+Liloupar: Pitiful child... How can one envisage paradise's shape without ever having feasted one's eyes upon it?
+Liloupar: Prithee have faith in my intuition, dear master.
+Liloupar: She dispatched people to comb this area before our arrival. However, I perceive that they never made it out. Perhaps it is because of such that this place was marked as "forbidden."
+Liloupar: Speak not of me as if I am some manner of calamity, desert-wench!
+Liloupar: Thank you for granting me this boon of knowledge. It shall yet lead me to old memories and power both. But I will be watching you, and that lad of yours.
+Liloupar: The Jinn have little need for a vessel, and even less need for senses. But should we begin to connect with others... Then we will take from them their pain... Even should we not comprehend the source of it.
+Liloupar: The Jinni in the story is not so unlike Babel, is she?
+Liloupar: The mortal kingdoms of the oasis drew the water they needed from within this mountain, so they hollowed it and wove an interconnected network of tubes...
+Liloupar: The pain... grows... more pronounced...
+Liloupar: The path ahead lies beneath the sands.
+Liloupar: This is a water-pumping mechanism. It was used to attune to the flow and vectors of water... Though now, water's place in its pipes has been usurped by sand.
+Liloupar: This is because we Jinn always release energy around us to create an environment conducive to our slumber. I hope you shall bear this in mind.
+Liloupar: This place used to be the greenhouse and reservoir where they would cultivate their crops and plants.
+Liloupar: This place, once a pump for water, now only plies its trade in sand.
+Liloupar: To her, be it son or daughter, all children are but instruments for her schemes.
+Liloupar: What difference is there? 'Tis still as dry and hot as before...
+Liloupar: What do you think, my master?
+Liloupar: What of it? Does it displease you that I taunt your "tribe-mother" so?
+Liloupar: What's going on is that we attracted them here.
+Liloupar: Where they differ, however, is the shame and quests for renown that so compel your kind... Babel wears them like a mask, though she too is a creature of deceit. I taste it wafting from her very being.
+Liloupar: Which means that this area was forbidden for matters of practicality, and not terrors wrought of superstition.
+Liloupar: Why? Do you wish to learn? Hehe... A pity. With my memory in tatters, the remainder of this poem no longer greets my recollection.
+Liloupar: Worry not... my master remains unscathed.
+Liloupar: Yes... And I believe I know the direction. Let us proceed.
+Liloupar: You have my thanks.
+Liloupar: You have spent more time with her, and must've taken orders from her. Orders that... "the left hand" must never learn of.
+Liloupar: You learned this from "outsiders," did you not?
+Liloupar: Your words, my will, my master.
+Once, a Jinni and a mortal king found themselves entwined in love, and from their union came children...
+Paimon: (Traveler)! Don't scare Paimon like that! Are you okay?
+Paimon: Aghhh... So, it's worth nothing at all? Now Paimon's depressed.
+Paimon: Ah... Why did Liloupar have to use all those strange metaphors about bugs and scorpions? Took Paimon half a night to get them out of her head!
+Paimon: Ahh! Monsters! And so many of them! What's going on?
+Paimon: Alright...
+Paimon: Azariq! You're the one who should be staying safe, walking through the desert alone and all. Don't get eaten by Wenut!
+Paimon: Because if you're gonna play, you should play hard! Paimon was having fun watching from the sides, too!
+Paimon: Eek—!
+Paimon: Finding a new place to belong to is great, and Paimon's sure Jebrael would be happy for you! Yep!
+Paimon: Hehe, being able to adventure with you again has been great for us, too!
+Paimon: Hmm, but what if it's dangerous?
+Paimon: Hmm... This mechanism looks like it can adjust the direction in which the sand flows...
+Paimon: Huh. The light inside the bottle really does look more sprightly now.
+Paimon: Huh... So, how are we going to get through now?
+Paimon: Huh... What's wrong with the campsite? Paimon's not seeing anything here.
+Paimon: It sure sounds like this place is familiar to Liloupar. (Traveler), let's just let her give it a go!
+Paimon: Jeht's young and Liloupar's small, so the way Paimon sees it, they're both little ones.
+Paimon: Look. Abandoned camps!
+Paimon: No way! Jebrael would be super happy! You're helping him fulfill his wish after all...
+Paimon: Paimon will help too! Paimon's eyesight is second to none! Don't worry about it.
+Paimon: Running into sand and scorpions is normal. Running into the same person all the time is one coincidence too many for Paimon...
+Paimon: So, uh... Maybe... If everyone knew more about each other, we could have a few less misunderstandings... and stuff like that?
+Paimon: Sure! Let's go!
+Paimon: Take a closer look at where both sides lead!
+Paimon: That's Jeht for you, always so swift with whatever she does...
+Paimon: They're just like those... toads or centipedes Liloupar keeps talking about... We keep running into them everywhere we go!
+Paimon: Umm... Maybe we just haven't been together that long? Liloupar was pretty mean to Jeht before, but she seems much nicer now.
+Paimon: What are you talking about? Is that goblet valuable or something?
+Paimon: What? D—Don't bring Paimon into your squabbles! (Traveler)! Paimon's not little, right?
+Paimon: Whoa! Suddenly, we've got two handy sidekicks. Hehe.
+Paimon: Whoa, the wall is gone! Let's check what's hiding behind it!
+Paimon: Whoa. So Jeht has moments of silence too? Paimon never thought that was possible!
+Paimon: Whoa... What a cavern. Was this place full of water too?
+Paimon: Yeah! You worried Paimon sick!
+Paimon: Yeah, that sounded good! Jeht's voice might be a little raspy, but it fits a soft melody like this.
+Paimon: Yeah. Other than (Traveler), you've been mean to everyone... Especially Matriarch Babel. Every word you say is always so harsh...
+Paimon: ?
+The cold of the desert nights bears a heft to its chill, and murmurs of secrets whisper over the midnight dunes basked beneath the silvery fang of a crescent moon...With a low voice, the Jinni breathes life into a tale from an age long past...
+Through the Jinni's entranced eyes, you see a ragged shepherd boy along with a dancing maiden, her presence resplendent like a limpid gem beneath the moon's gaze...Festering hatred assails your senses, before alchemizing into primal, burning love in a sudden instant...Such love cannot be contained by the vessel of a mortal. It is an emotion that can swallow one whole.
+You return to the surface with Jeht...

@@ -1,0 +1,144 @@
+ "Fish out"?
+ ...The salvaging is going pretty smoothly, then?
+ Got it.
+ He couldn't surrender quickly enough.
+ I have my own boat.
+ I miss it all the time.
+Media:vo eqhdj talk 1 ningguang 03a.ogg Ningguang: Is that so? I am delighted to hear it.
+ I'm here to help out.
+ Let me fill you in...
+ My focus is on my mission, my journey.
+Media:vo eqhdj talk 1 ningguang 03b.ogg Ningguang: Ah, naturally.
+ Quest DescriptionNingguang seems to be thinking about something...
+ Things like what?
+ Whoa, Xinyan's here!
+ You pay Beidou to run errands for you?
+Carmen dashes away with the Treasure Hoarders...
+Every time she steps onto her personally-designed stage, loyal fans will come flocking and start to rock to her rhythm.
+Her tunes are well-loved, and the style of her tunes is much like she is: straightforward, generous, confident, and proud.
+If you hear cheers and fireworks go up at any place in Liyue Harbor at the same time, it's most likely Xinyan, so don't miss out!
+Media:vo dialog dleq001 beidou 01.ogg Beidou: I wonder what's taking Sea Drake so long... Could he have run into the Treasure Hoarders, too?
+Media:vo dialog dleq001 ningguang 01.ogg Ningguang:  Beidou is salvaging some of my Jade Chamber collection out of the sea around Guyun Stone Forest. If that sounds like your idea of fun, you should go pay her a visit.
+Media:vo dialog dleq001 xinyan 01.ogg Xinyan: Seems like the Treasure Hoarders are more of a mixed bag than I thought...
+Media:vo dleq001 1 ningguang 01.ogg Ningguang: A great many things are still unaccounted for...
+Media:vo dleq001 1 ningguang 02.ogg Ningguang: The new Jade Chamber is missing many of the contents held by its predecessor.
+Media:vo dleq001 1 ningguang 03.ogg Ningguang: All the literature, furniture, and ornaments I had collected followed the original Jade Chamber to its watery grave...
+Media:vo dleq001 1 ningguang 04.ogg Ningguang: Most of it was destroyed in the process, and the small handful of items that survived intact are strewn across the water's surface. Reclaiming them is taxing work.
+Media:vo dleq001 1 ningguang 05.ogg Ningguang: It takes someone with sturdy sea legs to handle this job, but even then... I just can't tell whether Beidou will be able to fish out everything herself.
+Media:vo dleq001 1 ningguang 06.ogg Ningguang: To claim that I "made" her do anything would be imprecise. We reached a mutually beneficial agreement, as is always the case in our dealings.
+Media:vo dleq001 1 ningguang 07.ogg Ningguang: Payment is one aspect of it. But I also compensate her in other ways... Hehe, let's just say it's a little complicated.
+Media:vo dleq001 1 ningguang 08.ogg Ningguang: Anyway, Beidou is currently in the Guyun Stone Forest area.
+Media:vo dleq001 1 ningguang 09.ogg Ningguang: If you're interested, go pay her a visit. You may be just the help she needs.
+Media:vo dleq001 1 paimon 01.ogg Paimon: Wait, so you made Beidou go and fish your stuff out of the sea for you?
+Media:vo dleq001 10 beidou 01.ogg Beidou: I guess Carmen told all his people to call it off.
+Media:vo dleq001 10 beidou 02.ogg Beidou: Smart choice. He knows who he's up against. Let's keep going.
+Media:vo dleq001 10 xinyan 01.ogg Xinyan: Hey, looks like another Treasure Hoarder raft straight up ahead. But, uh... why's it empty?
+Media:vo dleq001 11 beidou 01.ogg Beidou: Whatever you're about to do — don't. And whatever goods you're holding — they're mine now.
+Media:vo dleq001 11 beidou 02.ogg Beidou: I might ask you the same question.
+Media:vo dleq001 11 beidou 03.ogg Beidou: Is that right? Well, good. I'll take it all.
+Media:vo dleq001 11 beidou 04.ogg Beidou: Lemme make this crystal clear: These things do not belong to you, and they never will. So you're gonna put them down, and then you're gonna get as far away from me as is physically possible.
+Media:vo dleq001 11 beidou 05.ogg Beidou: Huh... sounds a lot like you're stalling to me.
+Media:vo dleq001 11 beidou 06.ogg Beidou: Talk is cheap. Let's settle this the old-fashioned way!
+Media:vo dleq001 11 slippie 01.ogg ???: C'mon, we gotta wrap this up soon! Leave the junk, take anything and everything of value!
+Media:vo dleq001 11 slippie 02.ogg ???: And I need a few of you to go and load the boat up, move it!
+Media:vo dleq001 11 slippie 03.ogg ???: B—Beidou!? Wh—What are you doing here!?
+Media:vo dleq001 11 slippie 04.ogg Liuliu: I mean, what does it look like? We got lucky. Found some treasure floating around in the ocean.
+Media:vo dleq001 11 slippie 05.ogg Liuliu: If you see anything you like, it's yours for the taking! A token of our esteem for the mighty Captain Beidou, hahaha!
+Media:vo dleq001 11 slippie 06.ogg Liuliu: I... But... C'mon, heh, be reasonable here...
+Media:vo dleq001 11 slippie 07.ogg Liuliu: Me and the guys have been busting a gut gathering all this up... you gotta leave us a little something-something, surely?
+Media:vo dleq001 11 slippie 08.ogg Liuliu: That's a little, uh... Heh, why don't we start over, huh? You see, we—
+Media:vo dleq001 12 paimon 01.ogg Paimon: Woah, looks like they're outta here!
+Media:vo dleq001 12 slippie 01.ogg Liuliu: Argh, Captain Beidou pulls no punches... Retreat! Retreeeeat!
+Media:vo dleq001 12 slippie 02.ogg Liuliu: We're sorry we offended you, Captain Beidou! Give us some time, we'll find a way to make it right, I promise!
+Media:vo dleq001 12 treasurehoardera 01.ogg Treasure Hoarder: The boat's loaded and in the water, boss, come take a look...
+Media:vo dleq001 12 treasurehoardera 02.ogg Treasure Hoarder: Uhh, if the captain is bailing... We'd better bail, too!
+Media:vo dleq001 13 beidou 01.ogg Beidou: Eh, who cares. They didn't take anything with them.
+Media:vo dleq001 13 beidou 02.ogg Beidou: The bigger problem here is, there's no way all of this is going to fit onto your boat.
+Media:vo dleq001 13 beidou 03.ogg Beidou: Hmm... Okay, here's what we're gonna do. Unload the boat and put everything here, in one place.
+Media:vo dleq001 13 beidou 04.ogg Beidou: Based on the original plan, Sea Drake's boat should be coming past here at some point. When they get here, we'll hitch a ride with them.
+Media:vo dleq001 13 beidou 05.ogg Beidou: In the meantime, Traveler, head back to the Jade Chamber and deliver a message to Ningguang for me.
+Media:vo dleq001 13 beidou 06.ogg Beidou: Just tell her we're almost done fishing for trinkets here, so she should start getting my compensation ready.
+Media:vo dleq001 13 beidou 07.ogg Beidou: Alright. Thanks, Traveler.
+Media:vo dleq001 13 beidou 08.ogg Beidou: If both Carmen and Liuliu were here... Then I wonder if that other "boss" of theirs, Big Sis, is snooping around?
+Media:vo dleq001 13 beidou 09.ogg Beidou: I've gotta tell Sea Drake and the rest of the crew to stay on high alert...
+Media:vo dleq001 13 paimon 01.ogg Paimon: Boy, they sure ran off quickly...
+Media:vo dleq001 16 ningguang 01.ogg Ningguang: Welcome back. I trust Beidou is making good progress on salvaging the items?
+Media:vo dleq001 16 ningguang 02.ogg Ningguang: Treasure Hoarders, I see... Yes, I can imagine that must have been rather irksome.
+Media:vo dleq001 16 ningguang 03.ogg Ningguang: It sounds like you scared them off on this occasion. But it won't end there. They are not the type to forgive and forget.
+Media:vo dleq001 16 ningguang 04.ogg Ningguang: You needn't concern yourself with them any further, though. Leave them to Beidou — she is well versed in handling Treasure Hoarders. I will be sure to make preparations for her compensation.
+Media:vo dleq001 16 ningguang 05.ogg Ningguang: I also owe you my thanks for coming all this way to deliver Beidou's message. Here, please take this as a token of my appreciation.
+Media:vo dleq001 16 ningguang 06.ogg Ningguang: Now, please excuse me, I have other business that demands my attention. I wish you a fun-filled festival.
+Media:vo dleq001 3 beidou 01.ogg Beidou: Ugh, Ningguang... you're really trying my patience...
+Media:vo dleq001 3 beidou 02.ogg Beidou: I'm sorry, but if the Jade Chamber smashed into smithereens when it hit the sea, then so did everything inside it. Just because I know the ocean doesn't mean I have the power to fish up the past...
+Media:vo dleq001 3 beidou 03.ogg Beidou: Oh, Traveler. What're you doing out this way?
+Media:vo dleq001 3 beidou 04.ogg Beidou: Great! You couldn't have picked a better time. The whole fleet's caught up with other things right now, so I'll take all the help I can get.
+Media:vo dleq001 3 beidou 05.ogg Beidou: Look, I even had to rope Xinyan into this.
+Media:vo dleq001 3 beidou 06.ogg Beidou: I think it was Baiwen, or Baixiao...? Ugh, well it was Bai-something.
+Media:vo dleq001 3 beidou 07.ogg Beidou: Anyway. Ningguang apparently came up with the bright idea of me going out on the sea and salvaging a bunch of her old valuables. She seems pretty willing to shell out for it, too.
+Media:vo dleq001 3 beidou 08.ogg Beidou: Hmph... Well, at the end of the day, the price was right. So yeah, we took the work.
+Media:vo dleq001 3 beidou 09.ogg Beidou: Now, if we're gonna go trawling for trinkets, we're gonna need a smaller vessel.
+Media:vo dleq001 3 beidou 10.ogg Beidou: All the available boats have been dispatched already. But by the looks of it, we're still one short...
+Media:vo dleq001 3 beidou 11.ogg Beidou: So you have your own vessel do ya? Hah! Great, let's take yours, then.
+Media:vo dleq001 3 beidou 12.ogg Beidou: The more people we have on this job the better. 'Cause the sooner we get this wrapped up, the sooner we can get that feast going and actually enjoy the festival!
+Media:vo dleq001 3 paimon 01.ogg Paimon: Yeah, what's the occasion? Did you come all the way out here to do a performance?
+Media:vo dleq001 3 xinyan 01.ogg Xinyan: You bet I did! Nothing official, mind you. Beidou wanted to hold a feast onboard and I agreed to come play a couple o' tunes.
+(If the player has not met Xinyan yet, an introductory note appears on screen)
+Xinyan – Blazing Riff
+Xinyan, a rock musician based in Liyue, uses her music as a form of resistance against societal stereotypes.
+Her tunes are well-loved, and the style of her tunes is much like she is: straightforward, generous, confident, and proud.
+Every time she steps onto her personally-designed stage, loyal fans will come flocking and start to rock to her rhythm.
+If you hear cheers and fireworks go up at any place in Liyue Harbor at the same time, it's most likely Xinyan, so don't miss out!
+Media:vo dleq001 3 xinyan 02.ogg Xinyan: But all that went out the window when someone showed up saying they were one of Ningguang's secretaries. They called Beidou away.
+Media:vo dleq001 4 beidou 01.ogg Beidou: So... this is it? This is your boat?
+Media:vo dleq001 4 beidou 02.ogg Beidou: It's really, uh... compact. But, it works... It's about the right size for sweeping up junk from the water's surface.
+Media:vo dleq001 4 beidou 03.ogg Beidou: Uh, Xinyan, your "axe" is getting a little too close for comfort...
+Media:vo dleq001 4 paimon 01.ogg Paimon: ...Huh? Umm Xinyan, why does your guitar have blades on it?
+Media:vo dleq001 4 paimon 02.ogg Paimon: Whew, this gal really jazzed up her guitar...
+Media:vo dleq001 4 xinyan 01.ogg Xinyan: Only thing is... we're packed in like sardines here. There's nowhere to put my guitar...
+Media:vo dleq001 4 xinyan 02.ogg Xinyan: Oh! Whoops! Lemme try to move that out of your way...
+Media:vo dleq001 4 xinyan 03.ogg Xinyan: Self-defense, of course! It shoots fire, too! ...Oh, but the middle of a big festival probably isn't the best time to give you a demonstration...
+Media:vo dleq001 4 xinyan 04.ogg Xinyan: Also, there's a teeny-tiny chance it might set your boat on fire... That's not a risk worth taking, no matter how small...
+Media:vo dleq001 5 beidou 01.ogg Beidou: We don't usually see these guys out at sea... Could they be here for the same reason as us?
+Media:vo dleq001 5 beidou 02.ogg Beidou: C'mon, Traveler. Steer us a little closer.
+Media:vo dleq001 5 xinyan 01.ogg Xinyan: Hold up, are those... Treasure Hoarders!?
+Media:vo dleq001 6 beidou 01.ogg Beidou: To reconvene with their posse, I'll bet.
+Media:vo dleq001 6 beidou 02.ogg Beidou: Speed it up a notch, Traveler. This is a chase now.
+Media:vo dleq001 6 xinyan 01.ogg Xinyan: Huh? Why're they heading back to shore?
+Media:vo dleq001 7 beidou 01.ogg Beidou: One that I happen to know pretty well. Didn't think we'd be running into him...
+Media:vo dleq001 7 treasurehoardera 01.ogg Treasure Hoarder: Th—They're gaining on us! We can't give 'em the slip!
+Media:vo dleq001 7 treasurehoardera 02.ogg Treasure Hoarder: Call in Carmen!
+Media:vo dleq001 7 xinyan 01.ogg Xinyan: Haha! "Carmen"? What kind of Treasure Hoarder has a name like that?
+Media:vo dleq001 8 beidou 01.ogg Beidou: I guess it has been a while, Carmen. You're looking a little worse for wear.
+Media:vo dleq001 8 beidou 02.ogg Beidou: Maybe if you did your own dirty work rather than dispatching your minions, you wouldn't be so out of breath right now.
+Media:vo dleq001 8 beidou 03.ogg Beidou: To get serious for a second, though — I'm gonna be needing all of this. So put everything down and I won't cause you any more trouble.
+Media:vo dleq001 8 beidou 04.ogg Beidou: Don't waste any more time on them. We've still got salvaging to do.
+Media:vo dleq001 8 beidou 05.ogg Beidou: Ah, but we should load this stash onto the boat first... C'mon, Traveler, help me out here.
+Media:vo dleq001 8 doorhold 01.ogg Carmen: Stop! All of you!
+Media:vo dleq001 8 doorhold 02.ogg Carmen: Are you blind? Can't you see this is Captain Beidou!?
+Media:vo dleq001 8 doorhold 03.ogg Carmen: Hehe... Cap'n Beidou, it's been a while. Still fighting fit, I see.
+Media:vo dleq001 8 doorhold 04.ogg Carmen: Ah, how you jest, Beidou, very amusing... Hahaha...
+Media:vo dleq001 8 doorhold 05.ogg Carmen: Of course, of course, whatever Cap'n Beidou wants... You heard her, people. Drop the goods!
+Media:vo dleq001 8 doorhold 06.ogg Carmen: Here you are, it's all here. So, uh... w—we'll take our leave now.
+Media:vo dleq001 8 paimon 01.ogg Paimon: Wow, he did what we asked without a second thought...
+Media:vo dleq001 8 xinyan 01.ogg Xinyan: Couldn't run off quickly enough, either...
+Media:vo dleq001 9 beidou 01.ogg Beidou: Hmm, I can't quite make out what they are. Let's bring them in and take a look.
+Media:vo dleq001 9 beidou 02.ogg Beidou: I'll take the rudder. Traveler, Xinyan — go reel them in.
+Media:vo dleq001 9 xinyan 01.ogg Xinyan: Hey! There're some things floating on the water...
+Media:vo eqhdj talk 1 ningguang 01.ogg Ningguang: Another Lantern Rite is upon us.
+Media:vo eqhdj talk 1 ningguang 02.ogg Ningguang: Traveler, it seems Liyue has a way of drawing you back every once in a while. Do you miss it here?
+Media:vo eqhdj talk 1 ningguang 03a.ogg Ningguang: Is that so? I am delighted to hear it.
+Media:vo eqhdj talk 1 ningguang 03b.ogg Ningguang: Ah, naturally.
+Media:vo eqhdj talk 1 ningguang 04.ogg Ningguang: Times change. Suddenly, the Lantern Rite of today is a wholly different affair from the past.
+Media:vo eqhdj talk 1 ningguang 05.ogg Ningguang: The preparations were very lengthy this time. I don't know if it is to everyone's tastes, but I, for one, am most satisfied with the way it has turned out.
+Media:vo eqhdj talk 1 ningguang 06.ogg Ningguang: I hope that it might be a highlight of your journey. If you ever grow weary in your travels, know that you can always come back and visit Liyue.
+Media:vo eqhdj talk 2 beidou 01.ogg Beidou: Seems I've caused you all sorts of trouble. Sorry it's been so tough on you.
+Media:vo eqhdj talk 2 beidou 02.ogg Beidou: Haha, not a chance. Just yesterday I got an invitation to play some chess. Said I could head up for a game whenever I'm down to play.
+Media:vo eqhdj talk 2 beidou 03.ogg Beidou: Uh, moving on — when you're feeling better, we should grab some food together.
+Media:vo eqhdj talk 2 beidou 04.ogg Beidou: Lantern Rite only comes once a year, and I, for one, intend to make the most of it.
+Media:vo eqhdj talk 2 xinyan 01.ogg Xinyan: Ahh... Ahh... *cough*! That party was a real blast! You know you had a good time when you ended up singing a little too hard and straining your voice...
+Media:vo eqhdj talk 2 xinyan 02.ogg Xinyan: Are you kidding me!? I got to go out on the ocean with you and celebrate the festival with y'all. Couldn't have asked for more. Best Lantern Rite ever!
+Media:vo eqhdj talk 2 xinyan 03.ogg Xinyan: I was gonna ask, though... Now that your crew is all back home with their families, aren't you gonna get bored on your own?
+Media:vo eqhdj talk 2 xinyan 04.ogg Xinyan: Head up...? Oh, right! You mean to the Jade Chamber.
+Xinyan – Blazing Riff
+Xinyan, a rock musician based in Liyue, uses her music as a form of resistance against societal stereotypes.
+You bring Ningguang up to speed on the events so far...

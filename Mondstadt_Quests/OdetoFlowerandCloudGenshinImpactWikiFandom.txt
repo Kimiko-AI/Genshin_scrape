@@ -1,0 +1,320 @@
+
+(An introductory note for Bennett appears on screen)
+Bennett - Trial by Fire
+Young Bennett is one of the most passionate adventurers in Mondstadt. He is also by far the least fortunate...
+So infamous is his bad luck that other adventurers are rarely willing to team up with him. Yet Bennett has grown used to being alone and doesn't let it discourage him. No matter how many injuries he may suffer, his fiery passion for adventure burns on.
+Come on, there's treasure waiting up ahead in the unknown! Benny's Adventure Team, assemble!
+ A showdown between the pros.
+ Are you serious? You need to put a stop to all of this immediately!
+Media:vo eqfh001 8 paimon 04c 1.ogg Paimon: A level-headed adult? Huh... more like a dunderheaded infant!
+Media:vo eqfh001 8 albert 12c 1.ogg Albert: Huh? But — gifts have to make a lasting impression!
+Media:vo eqfh001 8 paimon 04c 2.ogg Paimon: Oh, it'll create a lasting impression alright! The Knights of Favonius will have you escorted away.
+Media:vo eqfh001 8 albert 12c 2.ogg Albert: Really? B—But...
+Media:vo eqfh001 8 paimon 04c 3.ogg Paimon: But nothing!
+Media:vo eqfh001 8 albert 12c 3.ogg Albert: Okay, okay! *sigh* I've got it.
+ Can you repeat it once more?
+Media:vo eqfh001 5 venti 26b.ogg Venti: Okay... make sure you pay attention this time.
+Venti: (Repeats the previous 5 lines)
+ Give this one some more thought, perhaps.
+Media:vo eqfh001 8 paimon 04b 1.ogg Paimon: A two-story gift? More like a gift out of a horror story!
+Media:vo eqfh001 8 albert 12b 1.ogg Albert: Huh... You think so...?
+Media:vo eqfh001 8 albert 12b 2.ogg Albert: But, how else will she know of our existence?
+Media:vo eqfh001 8 paimon 04b 2.ogg Paimon: Gee, how WILL she know...
+Media:vo eqfh001 8 albert 12b 3.ogg Albert: Umm... well... now that you mention it, um...
+ Got it.
+Media:vo eqfh001 5 venti 26a.ogg Venti: That's decided then!
+ I agree, you should avoid signing it.
+Media:vo eqfh001 7 paimon 04a.ogg Paimon: Jean's definitely the kind of women who'd come looking for you if she saw your name! If you really wanna spare her the effort, best leave it unsigned.
+Media:vo eqfh001 7 ellin 11a.ogg Ellin: Right! Glad you agree! It's not without its risks, but her extreme conscientiousness is what I like about her. So for me, raising a bit of suspicion is a risk worth taking...
+ I disagree, you should definitely sign your name.
+Media:vo eqfh001 7 paimon 04c.ogg Paimon: For sure! A random anonymous gift will definitely get thrown away!
+Media:vo eqfh001 7 ellin 11c.ogg Ellin: R-Really? You sound so sure! Well, I guess I better include my name...
+ I think that's a bad idea. Best not to tell him.
+Media:vo eqfh001 6 paimon 08c.ogg Paimon: Uhh, Paimon thinks so too; you don't wanna get shouted at... Don't make any rash moves!
+ I think you should ponder the matter a while longer.
+Media:vo eqfh001 7 paimon 04b 1.ogg Paimon: No rush, mull it over!
+Media:vo eqfh001 7 paimon 04b 2.ogg Paimon: In any case, it's totally up to you. Is it more important to you for her to remember the person who sent her the flowers, or for her to simply feel respected and loved?
+Media:vo eqfh001 7 ellin 11b.ogg Ellin: Huh... I never thought about it that way... Hmm... The important thing is... how I feel.
+ I think you should take some more time and consider things.
+Media:vo eqfh001 6 paimon 08b 1.ogg Paimon: Yeah, if your father is set in his ways, approaching this head-on might not be the best thing to do...
+Media:vo eqfh001 6 paimon 08b 2.ogg Paimon: Not to mention, the Windblume Festival is too formal an occasion. Why not be more spontaneous about it?
+ I think you should tell him. Be brave and seize the opportunity.
+Media:vo eqfh001 6 paimon 08a.ogg Paimon: Yeah! Tell him what's in your heart. Use the love between you and Marla to move him. Shouldn't it be something to celebrate?
+ I thought Kaeya wouldn't need any help in that department.
+ I'm new here, your local customs are a bit confusing for me.
+ It's certainly buzzing with excitement and happiness.
+ Quest DescriptionWhen you've got some leisure time, how about taking a stroll through Mondstadt's streets and seeing if there's still anything to do?After asking around, you learn that Mondstadt is currently celebrating the Windblume Festival. Unfamiliar with the festival as you are, you catch the festive fever nonetheless, and thus take your first step towards understanding this important event.
+ Still not exactly sure how to celebrate the festival itself.
+ That sounds like it might just cause her some disturbance.
+ What are Windblumes?
+ What does that even mean?
+ Who'd have thought...
+ Yes, better not neglect her.
+ You know what? Go for it.
+Media:vo eqfh001 8 paimon 04a.ogg Paimon: Something that size is bound to be... impressive. She'll Love it!
+Media:vo eqfh001 8 albert 12a.ogg Albert: Right?! I knew it was a great idea, haha.
+(If all choices are correct)
+Media:vo eqfh001 9 venti 03.ogg Venti: You did a great job, hehe! Thank you!
+Media:vo eqfh001 9 paimon 02.ogg Paimon: Eh?! Next time?
+(If any choices are incorrect)
+Media:vo eqfh001 9 venti 01.ogg Venti: Hmm... Seems like my gestures weren't always translated into the advice I wanted to give.
+Media:vo eqfh001 9 venti 02.ogg Venti: I guess I need to work on my communication for next time!
+Bennett - Trial by Fire
+Come on, there's treasure waiting up ahead in the unknown! Benny's Adventure Team, assemble!
+Media:vo dialog eqfh001 bennett 01.ogg Bennett: When's it gonna be my turn... Gah! I'm getting nervous just thinking about writing a love poem...
+Media:vo eqfh001 1 paimon 01.ogg Paimon: *sigh* We're so carefree lately... Let's find something to do!
+Media:vo eqfh001 1 paimon 02.ogg Paimon: Hiiii~! Can we help with anything?
+Media:vo eqfh001 1 paimon 03.ogg Paimon: Uh... nothing?
+Media:vo eqfh001 1 paimon 04.ogg Paimon: Oh... let's go ask someone else then.
+Media:vo eqfh001 1 sara 01.ogg Sara: Sorry, it's the Windblume Festival! There's nothing I can hand off to you.
+Media:vo eqfh001 2 marjorie 01.ogg Marjorie: Ahahaha! That's a good one! You two, helping me during the Windblume Festival? Hahaha...
+Media:vo eqfh001 2 paimon 01.ogg Paimon: Hello, is there anything here you need help with?
+Media:vo eqfh001 2 paimon 02.ogg Paimon: Uhh... Huh?
+Media:vo eqfh001 2 paimon 03.ogg Paimon: Weird... Let's go to the Adventurers' Guild!
+Media:vo eqfh001 3 katheryne 01.ogg Katheryne: My apologies. During the Windblume Festival, there are far fewer commissions available. There's nothing I can give to you at this moment.
+Media:vo eqfh001 3 paimon 01.ogg Paimon: Katheryne! You got any commissions for us?
+Media:vo eqfh001 3 paimon 02.ogg Paimon: Uhh? The Adventurers' Guild too!?
+Media:vo eqfh001 3 paimon 03.ogg Paimon: (Traveler), wh—what do we do now? Have we been... fired?
+Media:vo eqfh001 3 paimon 04.ogg Paimon: No! Paimon's not giving up that easily! We gotta try again!
+Media:vo eqfh001 4 beatrice 01.ogg Beatrice: Oh? Are you sure about that?
+Media:vo eqfh001 4 beatrice 02.ogg Beatrice: Hehe, the Windblume... Isn't that the Cecilia?
+Media:vo eqfh001 4 beatrice 03.ogg Beatrice: What!?
+Media:vo eqfh001 4 beatrice 04.ogg Beatrice: You...! Hmph — whatever, I'm not talking to you.
+Media:vo eqfh001 4 flora 01.ogg Flora: Hee-hee — nope.
+Media:vo eqfh001 4 flora 02.ogg Flora: *gasp* You two haven't heard of the Windblume Festival?
+Media:vo eqfh001 4 flora 03.ogg Flora: The Windblume Festival is a Mondstadt tradition — a festival of love and freedom. It's a time of celebration and partying in the city.
+Media:vo eqfh001 4 flora 04.ogg Flora: At this time of the year, we offer Windblumes to the great Anemo Archon, Barbatos, as a sign of reverence and love. We also give flowers to our beloved... a very important tradition.
+Media:vo eqfh001 4 flora 05.ogg Flora: My shop is bursting with customers every Windblume... I guess it's a nice problem to have! Haha.
+Media:vo eqfh001 4 flora 06.ogg Flora: The Windblume is the symbol of this festival, a flower that represents freedom and the spirit of the wind...
+Media:vo eqfh001 4 flora 07.ogg Flora: Haha... that's a long story...
+Media:vo eqfh001 4 flora 08.ogg Flora: My grandma said that even she hadn't been born when the Windblume first appeared. It must have been hundreds of years ago.
+Media:vo eqfh001 4 flora 09.ogg Flora: I don't know why, exactly, but everyone seems to choose dandelions when they wanna give a gift of "Windblumes."
+Media:vo eqfh001 4 flora 10.ogg Flora: Hehe... something like that anyway. At least, that's what we believe in my family.
+Media:vo eqfh001 4 flora 11.ogg Flora: Greetings to you too, Quinn!
+Media:vo eqfh001 4 flora 12.ogg Flora: Hee-hee, uh-huh!
+Media:vo eqfh001 4 flora 13.ogg Flora: Ehh...
+Media:vo eqfh001 4 flora 14.ogg Flora: Bea, you're here too!
+Media:vo eqfh001 4 flora 15.ogg Flora: Oh? So a Windblume is a Cecilia...? That's the first I've heard of—
+Media:vo eqfh001 4 flora 16.ogg Flora: Haha, stop arguing already!
+Media:vo eqfh001 4 flora 17.ogg Flora: Aww... Seeing them together like that really give me that Windblume feeling.
+Media:vo eqfh001 4 flora 18.ogg Flora: Freedom, the Anemo Archon, sweethearts...
+Media:vo eqfh001 4 flora 19.ogg Flora: You're right, but isn't that typical of us Mondstadt folk?
+Media:vo eqfh001 4 flora 20.ogg Flora: *sigh* Well, between delicious food, exquisite drink, and fresh flowers... Traveler, I hope you get to enjoy yourself during the festival, too.
+Media:vo eqfh001 4 paimon 01.ogg Paimon: Flora, do you have anything you need help with?
+Media:vo eqfh001 4 paimon 02.ogg Paimon: Is that b—because of the Windblume Festival...? Huh... what is that, exactly?
+Media:vo eqfh001 4 paimon 03.ogg Paimon: Windblume... Soooo — some kinda... windy, flower-planting kinda thing...?
+Media:vo eqfh001 4 paimon 04.ogg Paimon: Sooo what does a Windblume look like?
+Media:vo eqfh001 4 paimon 05.ogg Paimon: So in other words, for the people of Mondstadt, Windblume means dandelion?
+Media:vo eqfh001 4 paimon 06.ogg Paimon: It's Quinn from the fruit stall! Wanna join us?
+Media:vo eqfh001 4 paimon 07.ogg Paimon: Huh? Really?
+Media:vo eqfh001 4 paimon 08.ogg Paimon: Um... what?
+Media:vo eqfh001 4 paimon 09.ogg Paimon: Yeah, yeah, that sounds great and all...
+Media:vo eqfh001 4 paimon 10.ogg Paimon: But none of you can even agree over what a Windblume is...
+Media:vo eqfh001 4 paimon 11.ogg Paimon: It sounds like such a happy festival! Even if the whole Windblume thing is still a total mystery...
+Media:vo eqfh001 4 paimon 12.ogg Paimon: Let's look around and see what this is all about!
+Media:vo eqfh001 4 quinn 01.ogg Quinn: Incorrect!
+Media:vo eqfh001 4 quinn 02.ogg Quinn: Ahem... I heard everything you were saying and couldn't help but... You were talking about Windblumes, yes?
+Media:vo eqfh001 4 quinn 03.ogg Quinn: No, no — I'm just here to set the record straight. Windblume doesn't mean the dandelion, but the Windwheel Aster.
+Media:vo eqfh001 4 quinn 04.ogg Quinn: Uh... Flora, surely there must have been plenty of customers buying Windwheel Asters from your shop recently?
+Media:vo eqfh001 4 quinn 05.ogg Quinn: Haha, you see! We loyal Windwheel Aster advocates are upholding our economic duty!
+Media:vo eqfh001 4 quinn 06.ogg Quinn: The Windwheel Aster is both a symbol of Mondstadt and an embodiment of the windmill, representing both wind and freedom. That's what makes it the one, true Windblume!
+Media:vo eqfh001 4 quinn 07.ogg Quinn: Who's with me!? Windwheel Aster! The true Windblume!
+Media:vo eqfh001 4 quinn 08.ogg Quinn: Wh— ...Don't be ridiculous!
+Media:vo eqfh001 4 quinn 09.ogg Quinn: Listen. Yes, there may be some controversy over the definition of Windblume... but it is the widely held belief among the people of Mondstadt, that the Windblume is the Windwheel Aster! Not the dandelion!
+Media:vo eqfh001 4 quinn 10.ogg Quinn: There's history to both flowers, you'd know if you asked around! And as for the Cecilia? Give me a break...
+Media:vo eqfh001 4 quinn 11.ogg Quinn: Just dropping facts over here, no need to look at me like that...
+Media:vo eqfh001 4 quinn 12.ogg Quinn: Huh? Bea? Bea!
+Media:vo eqfh001 4 quinn 13.ogg Quinn: Weird, what's up with her...
+Media:vo eqfh001 4 quinn 14.ogg Quinn: Did I say something wrong? Eh... Windblume is as Windblume does, what can I say...
+Media:vo eqfh001 4 quinn 15.ogg Quinn: Maybe I should... go apologize to her after closing... hmm...
+Media:vo eqfh001 4 quinn 16.ogg Quinn: ...I don't understand why she's upset, but what I do know is that I will have to apologize regardless. *sigh* That's life, I guess.
+Media:vo eqfh001 5 paimon 01.ogg Paimon: Hey, it's the Tone-Deaf Bard!
+Media:vo eqfh001 5 paimon 02.ogg Paimon: Tone-Deaf Bard, what are you up to? What's with all the people?
+Media:vo eqfh001 5 paimon 03.ogg Paimon: Students? Uh...
+Media:vo eqfh001 5 paimon 04.ogg Paimon: You mean the people anxiously scratching their heads?
+Media:vo eqfh001 5 paimon 05.ogg Paimon: Uh-huh... Seems a bit suspicious to Paimon...
+Media:vo eqfh001 5 paimon 06.ogg Paimon: ...Paimon could be persuaded with some delicious food-related bribery!
+Media:vo eqfh001 5 paimon 07.ogg Paimon: Oh yeah? Hey — why do you sound so pleased with yourself!?
+Media:vo eqfh001 5 paimon 08.ogg Paimon: Assistants? What kind of assistants?
+Media:vo eqfh001 5 paimon 09.ogg Paimon: Ugh, save us the nonsense... You just want to speed up your sales. That desperate for Mora, huh?
+Media:vo eqfh001 5 paimon 10.ogg Paimon: Uh-huh... Spoken like a true drunkard...
+Media:vo eqfh001 5 paimon 11.ogg Paimon: You really love the sound of your own voice, don't you!
+Media:vo eqfh001 5 venti 01.ogg Venti: Aha! You're right on time. Take a look at my students. What do you think? Not bad, eh?
+Media:vo eqfh001 5 venti 02.ogg Venti: Anxiously? Why, these people are deep in concentration, diligently searching for heartfelt rhetoric to convey their romantic affections.
+Media:vo eqfh001 5 venti 03.ogg Venti: Hehe, so, I guess you've already found out about the Windblume Festival, then?
+Media:vo eqfh001 5 venti 04.ogg Venti: How are you finding Mondstadt in such a festive mood? Do you like it?
+Media:vo eqfh001 5 venti 05.ogg Venti: Paimon, what about you?
+Media:vo eqfh001 5 venti 06.ogg Venti: Ah, I think you'll come around then. Speaking of which, I'll bet you two don't have a lot on your plate right now.
+Media:vo eqfh001 5 venti 07.ogg Venti: Loafing around all day, no commissions to take or people to help...
+Media:vo eqfh001 5 venti 08.ogg Venti: Hahaha... If you've noticed that, then congratulations — you've taken your first step toward understanding the Windblume Festival!
+Media:vo eqfh001 5 venti 09.ogg Venti: The Windblume Festival doesn't just belong to the Anemo Archon, but to all Mondstadt citizens looking for love. Anyone who wants to find love must do everything for themselves over the festive period.
+Media:vo eqfh001 5 venti 10.ogg Venti: In addition, many people take this period as an opportunity to resolve matters of the heart. It's not surprising that you two haven't been able to find any commissions, that's just the Windblume Festival tradition.
+Media:vo eqfh001 5 venti 11.ogg Venti: But don't you worry, you won't feel lonely while I'm around.
+Media:vo eqfh001 5 venti 12.ogg Venti: On that note, I think it's about time you two got a deeper understanding of Mondstadt's culture and customs. I need a couple of assistants. What do you say?
+Media:vo eqfh001 5 venti 13.ogg Venti: Ahahaha... See these anxious-looking folks here?
+Media:vo eqfh001 5 venti 14.ogg Venti: They're looking to learn the secrets of love, so they came to me to learn how to compose love poems. I accepted, of course, because I was only too happy to charge a tuition fee.
+Media:vo eqfh001 5 venti 15.ogg Venti: Soon, they'll come to me in turn and pour their hearts out, telling me about their romantic trials and tribulations. Then, I'll give them suggestions based on their individual circumstances.
+Media:vo eqfh001 5 venti 16.ogg Venti: At least, that's what I was going to do... But having seen you two suffering with nothing to do... I think I'll let you two handle it instead.
+Media:vo eqfh001 5 venti 17.ogg Venti: You've traveled far and wide and seen so much, it would be a waste not to put those experiences to good use. They could use your help!
+Media:vo eqfh001 5 venti 18.ogg Venti: There are limited-edition wines for sale during the Windblume Festival... I need every last Mora to make sure I get my fill.
+Media:vo eqfh001 5 venti 19.ogg Venti: Alright then, let's get started. I'll be joining you, of course.
+Media:vo eqfh001 5 venti 20.ogg Venti: I'll give you a few prompts, and you can make suggestions based on them. Hehe, not as taxing as you thought, right?
+Media:vo eqfh001 5 venti 21.ogg Venti: Come on now, you're Mondstadt's Honorary Knight, the people trust you! It's only natural for you to have this opportunity to showcase yourself.
+Media:vo eqfh001 5 venti 22.ogg Venti: Now listen up, if you see me make this gesture... it means I think they should forge ahead and seize the opportunity.
+Media:vo eqfh001 5 venti 23.ogg Venti: But if you see me make this gesture... it means I think they should play it safe and avoid being hasty.
+Media:vo eqfh001 5 venti 24.ogg Venti: And if I make this gesture... it means I think they should give up while they're ahead and avoid an emotional over-investment.
+Media:vo eqfh001 5 venti 25.ogg Venti: You got that, Traveler?
+Media:vo eqfh001 5 venti 26a.ogg Venti: That's decided then!
+Media:vo eqfh001 5 venti 26b.ogg Venti: Okay... make sure you pay attention this time.
+Media:vo eqfh001 6 marvin 01.ogg Marvin: Huh...? I—I'd barely plucked up the courage to talk to the bard, is he not available...?
+Media:vo eqfh001 6 marvin 02.ogg Marvin: *sigh* Here goes. Th—There is someone I like...
+Media:vo eqfh001 6 marvin 03.ogg Marvin: Marla... She's cute and hardworking — always helping her family out with farm work. And sometimes, she gets so tired, she takes a nap on the bench by the side of the road.
+Media:vo eqfh001 6 marvin 04.ogg Marvin: N—No, she lives in Springvale, quite a way from me. And... because of my family...
+Media:vo eqfh001 6 marvin 05.ogg Marvin: *sigh* Let's just say that our families are quite different. My father objects to us being together.
+Media:vo eqfh001 6 marvin 06.ogg Marvin: But Marla and I have found a way to work around it! Whenever we want to meet, we go stargazing at Starsnatch Cliff.
+Media:vo eqfh001 6 marvin 07.ogg Marvin: We are... So, what I came to discuss today doesn't so much concern Marla... as my father.
+Media:vo eqfh001 6 marvin 08.ogg Marvin: My father is quite conservative and very strict. Still, it's my fault that I've never told him how I really feel.
+Media:vo eqfh001 6 marvin 09.ogg Marvin: I—I'm thinking, if I use this opportunity to offer a Windblume to my father, and formally ask for his approval at the same time... maybe he'll support us?
+Media:vo eqfh001 6 marvin 10.ogg Marvin: I wanna tell him that, even though Marla doesn't come from a wealthy family, her kind heart and hardworking nature are things that Mora can't buy.
+Media:vo eqfh001 6 marvin 11.ogg Marvin: ...Does that sound to childish? I... I hope he doesn't yell at me... Uhh...
+Media:vo eqfh001 6 marvin 12.ogg Marvin: I see... understood. Thank you.
+Media:vo eqfh001 6 marvin 13.ogg Marvin: Oh! Ah, now that you mention it, I wanted the bard to teach me how to compose a love poem...
+Media:vo eqfh001 6 marvin 14.ogg Marvin: Of course, and I'll give her some flowers too... Yeah, I—I'll pick some later.
+Media:vo eqfh001 6 marvin 15.ogg Marvin: Thank you for your help!
+Media:vo eqfh001 6 paimon 01.ogg Paimon: Paimon heard that you were seeking help from the Bard over there? We're his assistants! Why not talk to us?
+Media:vo eqfh001 6 paimon 02.ogg Paimon: Aw... don't be shy! It doesn't matter who you talk to, at the end of the day you've still gotta talk to your prospective sweetheart, right?
+Media:vo eqfh001 6 paimon 03.ogg Paimon: Be brave! let's hear it!
+Media:vo eqfh001 6 paimon 04.ogg Paimon: Is she from the city?
+Media:vo eqfh001 6 paimon 05.ogg Paimon: Well... sounds like you two are getting along just fine!
+Media:vo eqfh001 6 paimon 06.ogg Paimon: What are you planning to say?
+Media:vo eqfh001 6 paimon 07.ogg Paimon: Awwww... there-there...
+(Venti makes the first gesture)
+Media:vo eqfh001 6 paimon 08a.ogg Paimon: Yeah! Tell him what's in your heart. Use the love between you and Marla to move him. Shouldn't it be something to celebrate?
+Media:vo eqfh001 6 paimon 08b 1.ogg Paimon: Yeah, if your father is set in his ways, approaching this head-on might not be the best thing to do...
+Media:vo eqfh001 6 paimon 08b 2.ogg Paimon: Not to mention, the Windblume Festival is too formal an occasion. Why not be more spontaneous about it?
+Media:vo eqfh001 6 paimon 08c.ogg Paimon: Uhh, Paimon thinks so too; you don't wanna get shouted at... Don't make any rash moves!
+Media:vo eqfh001 6 paimon 09.ogg Paimon: Another thing, didn't you say you were going to give flowers to your father? What about Marla? Don't you wanna give her something?
+Media:vo eqfh001 6 venti 01.ogg Venti: ...
+Media:vo eqfh001 7 ellin 01a.ogg Ellin: It's the Honorary Knight and Paimon!
+Media:vo eqfh001 7 ellin 02.ogg Ellin: I didn't know I'd see you two here. Well then... I won't stand on ceremony.
+Media:vo eqfh001 7 ellin 03.ogg Ellin: I wanna offer some flowers to the Acting Grand Master of the Knights of Favonius, Jean.
+Media:vo eqfh001 7 ellin 04.ogg Ellin: I guess you must be quite close to Master Jean? She's an incredibly upright and diligent woman, talented and always gets the job done. Honest, kind, gentle, not to mention...
+Media:vo eqfh001 7 ellin 05.ogg Ellin: Sorry, once I get talking about Master Jean, I get a bit excited...
+Media:vo eqfh001 7 ellin 06.ogg Ellin: This time tomorrow, I'll finish composing my poem, pick a fresh dandelion bouquet, head over to the office, and hand the flowers to the guard.
+Media:vo eqfh001 7 ellin 07.ogg Ellin: It's just... the bouquet, and the poem... I don't know. Hmm... best not sign them after all.
+Media:vo eqfh001 7 ellin 08.ogg Ellin: Knowing Master Jean's conscientious nature, I'm afraid she'll send a gift in return if she sees my name...
+Media:vo eqfh001 7 ellin 09.ogg Ellin: She's so busy, I wouldn't want my gift to create more work for her. If I can get this bouquet on her desk, that's enough for me.
+Media:vo eqfh001 7 ellin 10.ogg Ellin: But then... won't an untraceable bouquet create suspicion? Oh! What should I do?
+(Venti makes the third gesture)
+Media:vo eqfh001 7 ellin 11a.ogg Ellin: Right! Glad you agree! It's not without its risks, but her extreme conscientiousness is what I like about her. So for me, raising a bit of suspicion is a risk worth taking...
+Media:vo eqfh001 7 ellin 11b.ogg Ellin: Huh... I never thought about it that way... Hmm... The important thing is... how I feel.
+Media:vo eqfh001 7 ellin 11c.ogg Ellin: R-Really? You sound so sure! Well, I guess I better include my name...
+Media:vo eqfh001 7 ellin 12.ogg Ellin: That's taken care of, then. A thousand thanks for your advice, I'll remember it!
+Media:vo eqfh001 7 ellin 13.ogg Ellin: Will do!
+Media:vo eqfh001 7 paimon 01.ogg Paimon: Hi! We heard you had something you wanted to discuss with the bard? We're his assistants, you can talk to us instead!
+Media:vo eqfh001 7 paimon 02.ogg Paimon: Alright, we get it! She's pretty great!
+Media:vo eqfh001 7 paimon 03.ogg Paimon: ...Wait a second, it's only normal to sign them! Why does that bother you so much?
+Media:vo eqfh001 7 paimon 04a.ogg Paimon: Jean's definitely the kind of women who'd come looking for you if she saw your name! If you really wanna spare her the effort, best leave it unsigned.
+Media:vo eqfh001 7 paimon 04b 1.ogg Paimon: No rush, mull it over!
+Media:vo eqfh001 7 paimon 04b 2.ogg Paimon: In any case, it's totally up to you. Is it more important to you for her to remember the person who sent her the flowers, or for her to simply feel respected and loved?
+Media:vo eqfh001 7 paimon 04c.ogg Paimon: For sure! A random anonymous gift will definitely get thrown away!
+Media:vo eqfh001 7 paimon 05.ogg Paimon: You're welcome, chin up!
+Media:vo eqfh001 7 venti 01.ogg Venti: ...
+Media:vo eqfh001 8 albert 01.ogg Albert: Oh! Uh... really? O—Okay then... here goes!
+Media:vo eqfh001 8 albert 02.ogg Albert: I—I'm just such a huge fan of Mondstadt's idol... Barbara-sama...! You must have heard of her? She's the super cute one at the Church of Favonius!
+Media:vo eqfh001 8 albert 03.ogg Albert: Not to mention gentle, and she always lifts the people of Mondstadt's spirits with her smile and songs. I'm such a big fan, I even got a few like-minded friends together, and well... What I mean to say is...
+Media:vo eqfh001 8 albert 04.ogg Albert: ...You guessed it! I'm the head of the Barbara Fan Club!
+Media:vo eqfh001 8 albert 05.ogg Albert: I carry the hopes and expectations of every member of the fan club on my shoulders. At this special time of the year, I've pledged to send our blessings to Barbara-sama herself!
+Media:vo eqfh001 8 albert 06.ogg Albert: Of course, as a level-headed adult, I would never wanna cause any disturbances. I'm just waiting for my time slot with the bard, so I can explain the plan...
+Media:vo eqfh001 8 albert 07.ogg Albert: ...Take all the flowers picked by our members and turn them into a huge, giant flower statue! Then, to give her a huge surprise, place it outside the rear entrance of the Church.
+Media:vo eqfh001 8 albert 08.ogg Albert: As for the love poem, we don't need any help! We're planning to do it on our own and hang it on the statue itself.
+Media:vo eqfh001 8 albert 09.ogg Albert: ...Will be about two stories high...!
+Media:vo eqfh001 8 albert 10.ogg Albert: But it's all in good faith, don't you see? When Barbara-sama catches sight of it, she'll feel the burning flames of our everlasting love!
+Media:vo eqfh001 8 albert 11.ogg Albert: So, what do you think?
+(Venti makes the third gesture)
+Media:vo eqfh001 8 albert 12a.ogg Albert: Right?! I knew it was a great idea, haha.
+Media:vo eqfh001 8 albert 12b 1.ogg Albert: Huh... You think so...?
+Media:vo eqfh001 8 albert 12b 2.ogg Albert: But, how else will she know of our existence?
+Media:vo eqfh001 8 albert 12b 3.ogg Albert: Umm... well... now that you mention it, um...
+Media:vo eqfh001 8 albert 12c 1.ogg Albert: Huh? But — gifts have to make a lasting impression!
+Media:vo eqfh001 8 albert 12c 2.ogg Albert: Really? B—But...
+Media:vo eqfh001 8 albert 12c 3.ogg Albert: Okay, okay! *sigh* I've got it.
+Media:vo eqfh001 8 albert 13.ogg Albert: Thanks for your suggestions, both of you. I gotta go.
+Media:vo eqfh001 8 paimon 01.ogg Paimon: You there, are you looking for help from the bard? We're his assistants, why don't you tell us what's on your mind?
+Media:vo eqfh001 8 paimon 02.ogg Paimon: Huh... pretty pleased by it too... by the sound of things...
+Media:vo eqfh001 8 paimon 03.ogg Paimon: So... this giant statue—
+Media:vo eqfh001 8 paimon 04a.ogg Paimon: Something that size is bound to be... impressive. She'll Love it!
+Media:vo eqfh001 8 paimon 04b 1.ogg Paimon: A two-story gift? More like a gift out of a horror story!
+Media:vo eqfh001 8 paimon 04b 2.ogg Paimon: Gee, how WILL she know...
+Media:vo eqfh001 8 paimon 04c 1.ogg Paimon: A level-headed adult? Huh... more like a dunderheaded infant!
+Media:vo eqfh001 8 paimon 04c 2.ogg Paimon: Oh, it'll create a lasting impression alright! The Knights of Favonius will have you escorted away.
+Media:vo eqfh001 8 paimon 04c 3.ogg Paimon: But nothing!
+Media:vo eqfh001 8 paimon 05.ogg Paimon: He sure left in a hurry!
+Media:vo eqfh001 8 venti 01.ogg Venti: ...
+Media:vo eqfh001 9 bennett 01.ogg Bennett: Oh, uh — present!
+Media:vo eqfh001 9 bennett 02.ogg Bennett: Yes, Sir!
+Media:vo eqfh001 9 kaeya 01.ogg ???: Hmm, what are you three up to? Mind if I get in on the action?
+Media:vo eqfh001 9 kaeya 02.ogg Kaeya: Haha, it's the greatest bard in town. And now, the greatest romantic advisor in town, no doubt.
+Media:vo eqfh001 9 kaeya 03.ogg Kaeya: Still, don't you have other business to attend to?
+Media:vo eqfh001 9 kaeya 04.ogg Kaeya: Exactly that. I heard you were teaching classes in the plaza, so I came right away.
+Media:vo eqfh001 9 kaeya 05.ogg Kaeya: I'm not too shabby. Nevertheless, I'd like to register for the fast-track classes.
+Media:vo eqfh001 9 kaeya 06.ogg Kaeya: The real question is, are you willing to take me on as a student?
+Media:vo eqfh001 9 kaeya 07.ogg Kaeya: Haha... Well then, I guess I'm enrolled.
+Media:vo eqfh001 9 kaeya 08.ogg Kaeya: And as your student, may I make some reasonable demands?
+Media:vo eqfh001 9 kaeya 09.ogg Kaeya: As students, aside from attending class, we also need homework exercises.
+Media:vo eqfh001 9 kaeya 10.ogg Kaeya: Surely a well-designed course would require us to put our knowledge into practice, and then... have our teacher correct the poems we compose.
+Media:vo eqfh001 9 kaeya 11.ogg Kaeya: Precisely. All in exchange for payment, naturally. These are my demands.
+Media:vo eqfh001 9 kaeya 12.ogg Kaeya: Hahaha, is that so bad? I just think that with things like this, you should see them all the way through.
+Media:vo eqfh001 9 kaeya 13.ogg Kaeya: More fun for everyone involved, don't you think? What do you say?
+Media:vo eqfh001 9 kaeya 14.ogg Kaeya: As I expected, a reasonable and down-to-earth teacher.
+Media:vo eqfh001 9 kaeya 15.ogg Kaeya: Haha — steady now, let's not overestimate my abilities. Still, one bottle of the good stuff in exchange for your guidance... Not an opportunity to pass up.
+Media:vo eqfh001 9 kaeya 16.ogg Kaeya: Deal.
+Media:vo eqfh001 9 kaeya 17.ogg Kaeya: Even adventurers want to learn how to write poetry... I see this is going to be a popular class.
+Media:vo eqfh001 9 kaeya 18.ogg Kaeya: A quick question, Sir... Does our special arrangement still stand?
+Media:vo eqfh001 9 paimon 01.ogg Paimon: Tone-Deaf Bard! We dished out some advice, just like you said! How did we do?
+Media:vo eqfh001 9 paimon 02.ogg Paimon: Eh?! Next time?
+Media:vo eqfh001 9 paimon 03.ogg Paimon: Uh, Kaeya? you wanna learn how to compose love poems, too?
+Media:vo eqfh001 9 paimon 04.ogg Paimon: Aha, Paimon knew there was more to it!
+Media:vo eqfh001 9 paimon 05.ogg Paimon: You mean, Venti has to correct the students' homework?
+Media:vo eqfh001 9 paimon 06.ogg Paimon: Cool... a coercion contest....
+Media:vo eqfh001 9 paimon 07.ogg Paimon: Geez! Give him an inch and he'll take a mile!
+Media:vo eqfh001 9 paimon 08.ogg Paimon: What's that paper that Tone-Deaf Bard pulled out of his pocket...? And whose names are those?
+Media:vo eqfh001 9 paimon 09.ogg Paimon: Wow, Bennett's really fired up for this...
+Media:vo eqfh001 9 paimon 10.ogg Paimon: Tone-Deaf Bard's gonna make a fortune...
+Media:vo eqfh001 9 paimon 11.ogg Paimon: Uhh... Does that fall under the assistant's duties? Do we get paid for this?
+Media:vo eqfh001 9 paimon 12.ogg Paimon: Ooh! Sir, yes Sir!
+Media:vo eqfh001 9 venti 01.ogg Venti: Hmm... Seems like my gestures weren't always translated into the advice I wanted to give.
+Media:vo eqfh001 9 venti 02.ogg Venti: I guess I need to work on my communication for next time!
+Media:vo eqfh001 9 venti 03.ogg Venti: You did a great job, hehe! Thank you!
+Media:vo eqfh001 9 venti 04.ogg Venti: So, who else needs some help around here...
+Media:vo eqfh001 9 venti 05.ogg Venti: Kaeya! Are you also here for romantic guidance?
+Media:vo eqfh001 9 venti 06.ogg Venti: Oh! You mean, teaching people how to compose love poems?
+Media:vo eqfh001 9 venti 07.ogg Venti: How come? You're a smooth talker, do you really need my guidance?
+Media:vo eqfh001 9 venti 08.ogg Venti: Of course! When the Mora comes knocking, who am I to keep the door closed?
+Media:vo eqfh001 9 venti 09.ogg Venti: Demands? *sigh* Let's hear them.
+Media:vo eqfh001 9 venti 10.ogg Venti: Or to put it another way, I'm actually gonna have to work for a living!
+Media:vo eqfh001 9 venti 11.ogg Venti: I feel like Kaeya's knack for mischief is at play here...
+Media:vo eqfh001 9 venti 12.ogg Venti: Still, correcting homework... this is indeed a vital step.
+Media:vo eqfh001 9 venti 13.ogg Venti: And I am curious to see the fruit of my students' labor... Hm. Congratulations, Kaeya, your demands have been accepted!
+Media:vo eqfh001 9 venti 14.ogg Venti: Hoooold your horses, I have a demand for you, too!
+Media:vo eqfh001 9 venti 15.ogg Venti: I will pay special attention to your homework and guarantee that you will see improvement in your studies! But as for your tuition fee... some Windblume Festival-exclusive Applebloom Cider should do the trick.
+Media:vo eqfh001 9 venti 16.ogg Venti: Hehe, what with you and Master Diluc being on such good terms and all, that shouldn't be a problem, should it?
+Media:vo eqfh001 9 venti 17.ogg Venti: Whoa, "one" bottle? Make that three!
+Media:vo eqfh001 9 venti 18.ogg Venti: Please? Please, please?
+Media:vo eqfh001 9 venti 19.ogg Venti: Marvelous! Grab some paper and make your way over, Professor Venti's poetry masterclass is now in session!
+Media:vo eqfh001 9 venti 20.ogg Venti: Albert... Ellin... Marvin... Timaeus... Kaeya... Bennett.
+Media:vo eqfh001 9 venti 21.ogg Venti: So you're Bennett? Excellent, I like your enthusiasm. Make sure to channel that vigor into your poetry.
+Media:vo eqfh001 9 venti 22.ogg Venti: My dear students... In a moment, we will gather by the terrace in front of the Cathedral, where I will divulge to you my experiences and techniques in the art of poetic composition.
+Media:vo eqfh001 9 venti 23.ogg Venti: After class, I would like every one of you to compose a love poem and hand it to me for... uh... constructive criticism.
+Media:vo eqfh001 9 venti 24.ogg Venti: As for your tuition fees, by all means, wait until the course is over before paying. But don't even think about vanishing...
+Media:vo eqfh001 9 venti 25.ogg Venti: ...In addition to Mora, payment in alcohol is also warmly welcomed!
+Media:vo eqfh001 9 venti 26.ogg Venti: But of course! And when the time comes, you can hand in your homework first!
+Media:vo eqfh001 9 venti 27.ogg Venti: Traveler, I'd like you and I to collect the homework submissions together.
+Media:vo eqfh001 9 venti 28.ogg Venti: Think of it as an initiation into Mondstadt's traditional culture — an opportunity to immerse yourself in the Windblume Festival! I'm going to great lengths here to make sure you're a part of the festivities.
+Media:vo eqfh001 9 venti 29.ogg Venti: Not to mention, it would entitle you to a share of the remuneration...
+Media:vo eqfh001 9 venti 30.ogg Venti: Good! In that case, when Kaeya's finished with his homework, let's go look for him at the Knights of Favonius Headquarters.
+Media:vo eqfh001 9 venti 31.ogg Venti: But for now, I've got classes to teach! Traveler, why not make the most of it and check things out in the meantime?
+Media:vo eqfh001 9 venti 32.ogg Venti: The vendors in Mondstadt have arranged all sort of festive activities. Don't forget to try them out!
+So infamous is his bad luck that other adventurers are rarely willing to team up with him. Yet Bennett has grown used to being alone and doesn't let it discourage him. No matter how many injuries he may suffer, his fiery passion for adventure burns on.
+Venti: (Repeats the previous 5 lines)
+Young Bennett is one of the most passionate adventurers in Mondstadt. He is also by far the least fortunate...

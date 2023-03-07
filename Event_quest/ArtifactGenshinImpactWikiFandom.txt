@@ -1,0 +1,65 @@
+
+
+Attribute
+Old Drop Rate
+New Drop Rate
+
+
+HP%
+21.25%
+19.25%
+
+
+ATK%
+21.25%
+19.25%
+
+
+DEF%
+20.00%
+19%
+
+
+Pyro DMG Bonus%
+5.00%
+5.00%
+
+
+Electro DMG Bonus%
+5.00%
+5.00%
+
+
+Cryo DMG Bonus%
+5.00%
+5.00%
+
+
+Hydro DMG Bonus%
+5.00%
+5.00%
+
+
+Dendro DMG Bonus%
+Null
+5.00%
+
+
+Anemo DMG Bonus%
+5.00%
+5.00%
+
+
+Geo DMG Bonus%
+5.00%
+5.00%
+
+
+Physical DMG Bonus%
+5.00%
+5.00%
+
+
+Elemental Mastery
+2.50%
+2.50%

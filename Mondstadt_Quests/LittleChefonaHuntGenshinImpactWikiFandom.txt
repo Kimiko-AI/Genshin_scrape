@@ -1,0 +1,72 @@
+ Are you a hunter?
+ Are you an adventurer?
+ Dig in.
+Media:vo xllq001 3 paimon 03b.ogg Paimon: No! For the last time, Paimon is NOT EMERGENCY FOOD!
+ I think the hunter is right.
+ I want to try Slime Condensate!
+Media:vo xllq001 5 paimon 01b.ogg Paimon: Yay! (Traveler) has finally come around to my food preferences.
+ I'm (Traveler).
+ I'm tired just listening to it!
+ Let us come with you.
+ Quest DescriptionOn a clear and sunny day, you go for a walk to Springvale with Paimon.
+ Seems like she's done this a million times before...
+ She's off in her own world...
+Media:vo xllq001 5 paimon 01a.ogg Paimon: Paimon thinks she's forgotten about us...
+ That's not even close to what he meant...
+ That's, uh, one way of understanding it.
+ We're friends.
+Media:vo xllq001 3 xiangling 07a.ogg Xiangling: What a bummer. Can't eat it if it's your friend.
+ What are we going to do?
+ Whose side are you on!?
+ You could always ask me first...
+Media:vo xllq001 3 paimon 01.ogg Paimon: Hello, my name's Paimon!
+Media:vo xllq001 3 paimon 02.ogg Paimon: Why are you looking at me like that?
+Media:vo xllq001 3 paimon 03b.ogg Paimon: No! For the last time, Paimon is NOT EMERGENCY FOOD!
+Media:vo xllq001 3 paimon 04.ogg Paimon: Isn't that the name of a Liyue snack?
+Media:vo xllq001 3 paimon 05.ogg Paimon: Sounds like a bit of an ordeal...
+Media:vo xllq001 3 paimon 06.ogg Paimon: Ooh, you had me at tasty snack! Don't worry, we're the bestest hunters ever!
+Media:vo xllq001 3 xiangling 01.ogg ???: Shh! Keep it down, I'm hunting...
+Media:vo xllq001 3 xiangling 02.ogg ???: I've always heard about the wide range of ingredients you can find in Mondstadt, and it looks like it's true!
+Media:vo xllq001 3 xiangling 03.ogg ???: No — I'm a chef! A chef on a mission to find rare and exotic ingredients from all corners of the world!
+Media:vo xllq001 3 xiangling 04.ogg Xiangling: My name's Xiangling, I'm from Liyue Harbor. And you?
+Media:vo xllq001 3 xiangling 05.ogg Xiangling: Paimon!
+Media:vo xllq001 3 xiangling 06.ogg Xiangling: What an exotic creature, is it edible?
+Media:vo xllq001 3 xiangling 07a.ogg Xiangling: What a bummer. Can't eat it if it's your friend.
+Media:vo xllq001 3 xiangling 08.ogg Xiangling: You seem like good friends. I have a good friend too, called Guoba.
+Media:vo xllq001 3 xiangling 09.ogg Xiangling: Hee-hee... Both the snack and my friend have a special place in my heart.
+Media:vo xllq001 3 xiangling 10.ogg Xiangling: Anyway — can you do some hunting for me?
+Media:vo xllq001 3 xiangling 11.ogg Xiangling: There's lots of game around here that would be amazing to cook with.
+Media:vo xllq001 3 xiangling 12.ogg Xiangling: I can't catch anything to save my life and I don't want to miss out!
+Media:vo xllq001 3 xiangling 13.ogg Xiangling: Don't be like that... C'mon, I'll whip you up a tasty snack later!
+Media:vo xllq001 3 xiangling 14.ogg Xiangling: Hee-hee, don't worry about it, your friend has already given me a response.
+Media:vo xllq001 3 xiangling 15.ogg Xiangling: I don't care how it's done, so long as you bring me back some raw meat.
+Media:vo xllq001 3 xiangling 16.ogg Xiangling: Great, then I'll leave you to it!
+Media:vo xllq001 5 allan 01.ogg Allan: Hey! What do you think you're doing?
+Media:vo xllq001 5 allan 02.ogg Allan: This is the boars' natural habitat, you can't hunt them here! You'll send them all running.
+Media:vo xllq001 5 allan 03.ogg Allan: We hunters know better than to kill the chicken to get at the egg.
+Media:vo xllq001 5 allan 04.ogg Allan: *sigh* You should apologize to Draff.
+Media:vo xllq001 5 allan 05.ogg Allan: As our leader, he always stresses the importance of respecting the rules of the hunt. I'm afraid he is very upset right now.
+Media:vo xllq001 5 paimon 01a.ogg Paimon: Paimon thinks she's forgotten about us...
+Media:vo xllq001 5 paimon 01b.ogg Paimon: Yay! (Traveler) has finally come around to my food preferences.
+Media:vo xllq001 5 paimon 02.ogg Paimon: Are we your food testers now?
+Media:vo xllq001 5 paimon 03.ogg Paimon: Oh gosh, this is... delicious!
+Media:vo xllq001 5 paimon 04.ogg Paimon: Can you tell us how to make it?
+Media:vo xllq001 5 paimon 05.ogg Paimon: This seems pretty hard to make, it'll take more than that to learn how to make it. And we don't have a frying pan or any condiments.
+Media:vo xllq001 5 paimon 06.ogg Paimon: Okay. Don't worry, Paimon'll remember even if you forget.
+Media:vo xllq001 5 paimon 07.ogg Paimon: Draff ought to be in Springvale. Let's go!
+Media:vo xllq001 5 xiangling 01.ogg Xiangling: Wowee! This is great! Some of it I'll shallow fry, some of it I'll deep fry with mushrooms— ooh, and I wonder how well it goes with Slime Condensate...
+Media:vo xllq001 5 xiangling 02.ogg Xiangling: Uh, sorry! I got all excited thinking about new recipes.
+Media:vo xllq001 5 xiangling 03.ogg Xiangling: As promised, a tasty snack! Go on, try it! And tell me what you think.
+Media:vo xllq001 5 xiangling 04.ogg Xiangling: Hee-hee, sure! The only thing is I haven't written down the recipe yet, hmm...
+Media:vo xllq001 5 xiangling 05.ogg Xiangling: I got it! I'll make another one now so you can watch. I'm sure you'll pick it up straight away.
+Media:vo xllq001 5 xiangling 06.ogg Xiangling: Come on, it's simple!
+Media:vo xllq001 5 xiangling 07.ogg Xiangling: We can fry on a slab of stone and cook using some boar fat. Build a stove from rocks, use dry grass for kindling, twigs for firewood...
+Media:vo xllq001 5 xiangling 08.ogg Xiangling: Sweet flowers will do for sugar. As for salt, I found a load of rock salt in a cave the other day, there's still plenty left.
+Media:vo xllq001 5 xiangling 09.ogg Xiangling: Hee-hee, I just can't help myself when there's a chance to try something new. But I can't exactly bring my whole kitchen with me every time I leave the house either.
+Media:vo xllq001 5 xiangling 10.ogg Xiangling: Give me a second while I get everything ready.
+Media:vo xllq001 5 xiangling 11.ogg Xiangling: Oh! I get it.
+Media:vo xllq001 5 xiangling 12.ogg Xiangling: The freshest, best-quality meat comes from free-range boars that grow up in the environment nature intended for them! If they all ran off...
+Media:vo xllq001 5 xiangling 13.ogg Xiangling: ...It would be a major blow to gastronomy— no, to all mankind!
+Media:vo xllq001 5 xiangling 14.ogg Xiangling: I'm sorry. I got excited and didn't think of the impact we'd have.
+Media:vo xllq001 5 xiangling 15.ogg Xiangling: I made a mistake, and I should go and apologize.
+Media:vo xllq001 5 xiangling 16.ogg Xiangling: Hee-hee, thanks guys. I'll cook up some more tasty snacks for you once this is over.

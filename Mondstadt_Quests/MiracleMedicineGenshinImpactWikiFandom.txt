@@ -1,0 +1,129 @@
+ Don't worry, this one might be edible.
+Anthony: And how do you know that? Have you tried it before? ...Um, why aren't you saying anything?
+Anthony: Whatever. Hydro Slimes should be quite easy to find. I've asked around, and others have said that you can get Thick Condensate by defeating Large Slimes.
+Anthony: I've heard Jack say that you can lure Large Slimes out by constantly defeating smaller ones.
+Anthony: I don't have that kind of combat skill, so I'm counting on you!
+ Got it.
+ Hey, hey. You're giving yourself a scare.
+ Hope Anna gets well.
+ How's Anna doing?
+ I could just catch a Dendro Slime for you.
+Anthony: Huh... What? Are you telling me to stuff the berry into the Dendro Slimes's mouth myself?
+Anthony: Spare me, please! The last time I went picking herbs for Anna's medication, a group of Dendro Slimes chased me all the way to Springvale!
+Anthony: I know of a place where you can find both Slimes and berries. Please go have a look for me, will you? I hope you find something...
+Anthony: But... i–if you really can't find anything, then for Anna's sake... J–just catch a Dendro Slime and bring it back here. I can do it. I... I will do it!
+ I know where to get some.
+Anthony: Well, that's good. Looks like you're well-versed in dealing with Slimes.
+Anthony: Thanks for agreeing to help. You should be able to get some Thick Condensate just by defeating Large Slimes
+Anthony: I've heard Jack say that you can lure Large Slimes out by constantly defeating smaller ones.
+Anthony: Well then, best of luck to you!
+ I sure have.
+ I'll just catch an Anemo Slime for you.
+Anthony: You just want to watch me embarrass myself, don't you?
+Anthony: Nonetheless, Windwheel Asters and Anemo Slimes aren't seen together often.
+Anthony: Fortunately, Jack has seen this happen a few times before, and he has related their rough locations to me. Let me mark the latest one out on your map.
+Anthony: If you really can't find it, then bring an Anemo Slime back. I'll do anything for Anna.
+ No, not yet.
+ Not yet, no.
+ Not yet.
+ Quest DescriptionAnthony requested a prescription from a master physician in Liyue Harbor that can be used to heal Anna.
+ That doesn't sound like medicine.
+Anthony: Well, Windwheel Asters are sometimes used in medicine, but it's usually used to heal minor ailments.
+Anthony: Maybe the Anemo Slime is the key, but Windwheel Asters and Anemo Slimes aren't really seen together often.
+Anthony: Luckily, Jack has seen this happen a few times before, and he has related their rough locations to me. Let me mark the latest one out on your map.
+Anthony: I can't deal with Anemo Slimes since they can fly, so I can only turn to you!
+ There's such a thing?
+Anthony: I have no clue either! Do Dendro Slimes really eat berries...
+Anthony: Either way, I'm counting on you! I do know of a place where both Slimes and berries may be found.
+Anthony: Please help me take a look. I hope you'll find it...
+ This doctor's a quack.
+Anthony: So you think so too, huh? But I don't have any other options.
+Anthony: I know of a place where you can find both Slimes and berries. Could you please go have a look for me?
+Anthony: I'll try the medication that we make first. No matter what, I can't let Anna's condition get any worse.
+ This is quite like Mondstadt.
+Anthony: I wouldn't argue with you, but Windwheel Asters and Anemo Slimes aren't seen together often.
+Anthony: Fortunately, Jack has seen this happen a few times before, and he has related their rough locations to me. Let me mark the latest one out on your map.
+Anthony: I really can't fight Anemo Slimes, since they can fly, so I can only count on you!
+ This one sounds normal enough.
+Anthony: Um, really? I actually think the opposite is true.
+Anthony: But at least it's easy to find. I've asked around, and they say that you can get Thick Condensate just by defeating Large Slimes.
+Anthony: I've heard Jack say that you can lure Large Slimes out by constantly defeating smaller ones.
+Anthony: I don't have that kind of combat skill, so I'm counting on you!
+ What's the matter?
+ You look quite well.
+ Yup.
+Anthony: ...and place her in the care of Sister Grace.
+Anthony: All the same, thank you so much. Take this as compensation for your trouble.
+Anthony: And how do you know that? Have you tried it before? ...Um, why aren't you saying anything?
+Anthony: And remember what I said!
+Anthony: Anna's looking better by the day. This doctor really is the real deal.
+Anthony: But I heard that there's an incredible doctor in Liyue Harbor who is especially skilled at curing the incurable. So, I asked someone to help me get a prescription from him.
+Anthony: But at least it's easy to find. I've asked around, and they say that you can get Thick Condensate just by defeating Large Slimes.
+Anthony: But this medicine does look that scary! Whatever the case, take this first.
+Anthony: But... i–if you really can't find anything, then for Anna's sake... J–just catch a Dendro Slime and bring it back here. I can do it. I... I will do it!
+Anthony: Can you really use this to make medicine? I'll try it myself once it's done.
+Anthony: Either way, I'm counting on you! I do know of a place where both Slimes and berries may be found.
+Anthony: Forget it. Since that's the doctor's orders, let's follow the prescription to the letter.
+Anthony: Fortunately, Jack has seen this happen a few times before, and he has related their rough locations to me. Let me mark the latest one out on your map.
+Anthony: Hahaha. Don't ask me why, but I have a feeling that if Anna eats this medicine, she will certainly get well.
+Anthony: Have you found it yet?
+Anthony: Here's the thing. You remember my younger sister, Anna, right? She's always been sickly, and nothing's managed to cure her.
+Anthony: However you look at it, this is just an ordinary berry...
+Anthony: Huh. This Windwheel Aster does feel different from normal.
+Anthony: Huh... What? Are you telling me to stuff the berry into the Dendro Slimes's mouth myself?
+Anthony: I can't deal with Anemo Slimes since they can fly, so I can only turn to you!
+Anthony: I don't have that kind of combat skill, so I'm counting on you!
+Anthony: I have always believed so.
+Anthony: I have no clue either! Do Dendro Slimes really eat berries...
+Anthony: I know of a place where you can find both Slimes and berries. Could you please go have a look for me?
+Anthony: I know of a place where you can find both Slimes and berries. Please go have a look for me, will you? I hope you find something...
+Anthony: I might need to bother you again in the future. When that happens, please don't decline.
+Anthony: I really can't fight Anemo Slimes, since they can fly, so I can only count on you!
+Anthony: I wouldn't argue with you, but Windwheel Asters and Anemo Slimes aren't seen together often.
+Anthony: I'll try the medication that we make first. No matter what, I can't let Anna's condition get any worse.
+Anthony: I've heard Jack say that you can lure Large Slimes out by constantly defeating smaller ones.
+Anthony: If anything happens to me, please take Anna...
+Anthony: If you really can't find it, then bring an Anemo Slime back. I'll do anything for Anna.
+Anthony: If you're willing, could you help me find more ingredients? This time, we need a Wind-Caressed Aster.
+Anthony: Is that it? It really doesn't look any different...
+Anthony: Luckily, Jack has seen this happen a few times before, and he has related their rough locations to me. Let me mark the latest one out on your map.
+Anthony: Maybe her recent improvement's been getting my hopes up.
+Anthony: Maybe the Anemo Slime is the key, but Windwheel Asters and Anemo Slimes aren't really seen together often.
+Anthony: Nonetheless, Windwheel Asters and Anemo Slimes aren't seen together often.
+Anthony: Oh, it's you. Well, it might sound hard to believe, but Anna says that she's been feeling much better.
+Anthony: Perhaps that doctor's prescription is really working? I can scarcely believe it myself.
+Anthony: Please help me take a look. I hope you'll find it...
+Anthony: Please hurry. With Anna's condition, we can't afford to delay...
+Anthony: So you think so too, huh? But I don't have any other options.
+Anthony: Spare me, please! The last time I went picking herbs for Anna's medication, a group of Dendro Slimes chased me all the way to Springvale!
+Anthony: Tell her that I've gone to work somewhere far abroad. Please, that is my final request.
+Anthony: Thank you. She will.
+Anthony: Thank you. This is for your trouble.
+Anthony: Thanks for agreeing to help. You should be able to get some Thick Condensate just by defeating Large Slimes
+Anthony: The ingredients are all very unusual... but I suppose I can only give it a shot.
+Anthony: The prescription this time is... Hmm. Could you help me find "the thick condensate of a Hydro Slime?"
+Anthony: This one looks normal enough...
+Anthony: This prescription's just getting weirder...
+Anthony: This... really does look quite rich.
+Anthony: Traveler! You've got great timing. I was just in a spot of bother.
+Anthony: Um, let me see... Could you help me find a Dendro-Processed Berry?
+Anthony: Um, really? I actually think the opposite is true.
+Anthony: Well then, best of luck to you!
+Anthony: Well, Windwheel Asters are sometimes used in medicine, but it's usually used to heal minor ailments.
+Anthony: Well, it is combat we're talking about. Take some time to prepare, and I'll see you again.
+Anthony: Well, regardless of whether it's true or not, it's best to keep going.
+Anthony: Well, that's good. Looks like you're well-versed in dealing with Slimes.
+Anthony: Well. it is combat we're talking about. Take some time to prepare, and I'll see you again.
+Anthony: Whatever. Hydro Slimes should be quite easy to find. I've asked around, and others have said that you can get Thick Condensate by defeating Large Slimes.
+Anthony: Will this prescription really work...?
+Anthony: Yes, well, I guess I was just giving myself a fright.
+Anthony: You just want to watch me embarrass myself, don't you?
+Paimon: Aha! There's our slime. (Traveler), you know what to do.
+Paimon: Do Dendro slimes really eat berries?
+Paimon: Hmm... Seems like a regular berry to Paimon.
+Paimon: It's an Anemo slime. And a Windwheel Aster...
+Paimon: Let's go grab that Windwheel Aster!
+Paimon: Must be berries. But... some are missing...
+Paimon: Track it down with Elemental Sight!
+Paimon: Whatever, let's take it back to Anthony anyway.
+Paimon: Wow, what a huge Hydro slime! So, whenever you're ready...

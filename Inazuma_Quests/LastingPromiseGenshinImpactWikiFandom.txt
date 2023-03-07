@@ -1,0 +1,146 @@
+  Come with me. Let's go over there.
+ ...
+ Have you finished reading the notebook?
+ I'd love to join you.
+ It does sound a lot like an adeptus, actually.
+ It's not your fault, it's just the way things are.
+ Knock eight times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock five times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock four times
+ Knock six times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock seven times
+Conspicuous Stone Wall: Some strange sounds can be heard coming from within the stone wall.
+(The wall falls away)
+ Knock eight times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock once
+ Knock three times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock four times
+ Knock six times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock seven times
+Conspicuous Stone Wall: Some strange sounds can be heard coming from within the stone wall.
+(The wall falls away)
+ Knock eight times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock five times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock seven times
+Conspicuous Stone Wall: Some strange sounds can be heard coming from within the stone wall.
+(The wall falls away)
+ Knock six times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock three times
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Knock twice
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Leave without doing anything
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+ Maybe Tsubaki really is a fox envoy?
+ Maybe we got it wrong.
+ Psst, Paimon.
+ Quest DescriptionHaving prepared the gifts, you travel together to the place where "Tsubaki" lives.
+ So, you've really never been to a festival?
+ You've already achieved so many things.
+Conspicuous Stone Wall: Some strange sounds can be heard coming from within the stone wall.
+Conspicuous Stone Wall: The Stone Wall does not react at all...
+Conspicuous Stone Wall: This wall looks a bit odd...
+Media:vo aylq004 2 ayaka 01.ogg Kamisato Ayaka: Hmm... I'm asking myself the same question...
+Media:vo aylq004 2 ayaka 02.ogg Kamisato Ayaka: How strange, I'm quite sure that this is the location my mother wrote about, but... surely...
+Media:vo aylq004 2 ayaka 03.ogg Kamisato Ayaka: Hmm... I'm starting to have second thoughts...
+Media:vo aylq004 2 ayaka 04.ogg Kamisato Ayaka: But, since we're here, I still think we should go inside and explore in full.
+Media:vo aylq004 2 ayaka 05.ogg Kamisato Ayaka: Let me think...
+Media:vo aylq004 2 ayaka 06.ogg Kamisato Ayaka: "A crane brings 1 fresh flower in its beak to decorate my hair, while a white rabbit sews a hemline from 4 rays of moonlight. Dressed appropriately, I face eastward and call out Tsubaki's name 7 times. In the blink of an eye, I am standing on the path that leads to her house."
+Media:vo aylq004 2 ayaka 07.ogg Kamisato Ayaka: I have a feeling that it could be some sort of code...
+Media:vo aylq004 2 ayaka 08.ogg Kamisato Ayaka: Let's get a little closer before coming to any conclusions.
+Media:vo aylq004 2 paimon 01.ogg Paimon: So a transcendent being lives here?
+Media:vo aylq004 2 paimon 02.ogg Paimon: Brr... If someone lives here, then why is it so chilly?
+Media:vo aylq004 2 paimon 03.ogg Paimon: Yeah, makes sense. Who knows, maybe there's a surprise waiting in there for us.
+Media:vo aylq004 2 paimon 04.ogg Paimon: So, um... what does the notebook say, exactly?
+Media:vo aylq004 2 paimon 05.ogg Paimon: Sounds like a fairytale... So your mom would do a little ritual and just like that, Tsubaki would come to meet her?
+Media:vo aylq004 2 paimon 06.ogg Paimon: Good idea!
+Media:vo aylq004 3 ayaka 01.ogg Kamisato Ayaka: Strange, there's nothing in here... Let's keep looking around.
+Media:vo aylq004 3 paimon 01.ogg Paimon: There are some bushes on the rocks in here. Could that be anything?
+Media:vo aylq004 3 paimon 02.ogg Paimon: Huh? There's nobody here, just this box... Let's see what's inside!
+Media:vo aylq004 5 ayaka 01.ogg Kamisato Ayaka: "A crane brings 1 fresh flower in its beak to decorate my hair, while a white rabbit sews a hemline from 4 rays of moonlight. Dressed appropriately, I face eastward and call out Tsubaki's name 7 times. In the blink of an eye, I am standing on the path that leads to her house."
+Media:vo aylq004 5 ayaka 02.ogg Kamisato Ayaka: What's this?
+Media:vo aylq004 5 ayaka 03.ogg Kamisato Ayaka: It seems to be another notebook.
+Media:vo aylq004 5 ayaka 04.ogg Kamisato Ayaka: Could it be Tsubaki's notebook...?
+Media:vo aylq004 5 ayaka 05.ogg Kamisato Ayaka: Let's step back outside now. The atmosphere here is different than I'd imagined. Somehow... it makes me a little reluctant to open the notebook.
+Media:vo aylq004 5 paimon 01.ogg Paimon: Let's recap what the notebook says. Maybe it'll give us a hint!
+Media:vo aylq004 5 paimon 02.ogg Paimon: Did it open, did it open? Did our "Inazumadeptus" leave any treasure here?
+Media:vo aylq004 5 paimon 03.ogg Paimon: Huh... Looks like a book.
+Media:vo aylq004 5 paimon 04.ogg Paimon: Paimon knows what you mean — reading in low light is really bad for your eyes. C'mon, let's get back outside!
+Media:vo aylq004 7 ayaka 01.ogg Kamisato Ayaka: *sigh* Here will do just fine.
+Media:vo aylq004 7 ayaka 02.ogg Kamisato Ayaka: ...
+Media:vo aylq004 7 ayaka 03.ogg Kamisato Ayaka: ...
+Media:vo aylq004 7 ayaka 04.ogg Kamisato Ayaka: *long exhale*
+Media:vo aylq004 7 ayaka 05.ogg Kamisato Ayaka: Traveler, Paimon, sorry to keep you waiting so long.
+Media:vo aylq004 7 ayaka 06.ogg Kamisato Ayaka: Yes, I have.
+Media:vo aylq004 7 ayaka 07.ogg Kamisato Ayaka: I think I ought to share the truth of this notebook with you both.
+Media:vo aylq004 7 ayaka 08.ogg Kamisato Ayaka: Even though the contents are completely different than what I was expecting...
+Media:vo aylq004 7 ayaka 09.ogg Kamisato Ayaka: Not a fox envoy, no.
+Media:vo aylq004 7 ayaka 10.ogg Kamisato Ayaka: It turns out that Tsubaki's real identity...
+Media:vo aylq004 7 ayaka 11.ogg Kamisato Ayaka: ...is my mother herself.
+Media:vo aylq004 7 ayaka 12.ogg Kamisato Ayaka: Surprised? M—Me too... But that's what it says at the very beginning of the notebook.
+Media:vo aylq004 7 ayaka 13.ogg Kamisato Ayaka: Ahem... "Tsubaki and I are the same person, and yet we are different. When I become Tsubaki, I stop being Kamisato Kayo and become the most ordinary woman in the world."
+Media:vo aylq004 7 ayaka 14.ogg Kamisato Ayaka: "What follows in these pages is the ordinary, everyday life of a regular person. Nothing more, Nothing less."
+Media:vo aylq004 7 ayaka 15.ogg Kamisato Ayaka: This notebook is, for the most part, a collection of my mother's musings, both private and trivial. All of the things we thought about Tsubaki... were in fact about my mother herself.
+Media:vo aylq004 7 ayaka 16.ogg Kamisato Ayaka: Are things that my mother wished to try, yes.
+Media:vo aylq004 7 ayaka 17.ogg Kamisato Ayaka: I'm sure this all sounds utterly bizarre to you, but to me at least, my mother's behavior is completely understandable.
+Media:vo aylq004 7 ayaka 18.ogg Kamisato Ayaka: Or to put it another way, I... I—I actually have another side to myself as well.
+Media:vo aylq004 7 ayaka 19.ogg Kamisato Ayaka: I was at a loss for words when I started reading the contents of the notebook... It almost felt like... like someone had looked inside my mind, examined my thoughts, and then written them all down on paper...
+Media:vo aylq004 7 ayaka 20.ogg Kamisato Ayaka: From the moment my mother married my father, she became the mother of the Kamisato household, and with that came all sorts of duties. At the same time, the prestige of the Yashiro Commission brought its own share of responsibility.
+Media:vo aylq004 7 ayaka 21.ogg Kamisato Ayaka: On top of that, every action she ever took was seen as representing the Kamisato Clan. People were always watching her. Under such circumstances, she never had much time to do things she really wanted to do.
+Media:vo aylq004 7 ayaka 22.ogg Kamisato Ayaka: After my parents passed away, Ayato and I took over responsibility for the affairs of the clan. We ran into all sorts of difficulties during that time...  I'm not sure if people outside the clan could ever imagine what it was like.
+Media:vo aylq004 7 ayaka 23.ogg Kamisato Ayaka: Every time I found myself up against a difficult issue, I'd ask myself: Did my mother go through this, too? What would she have done in this situation?
+Media:vo aylq004 7 ayaka 24.ogg Kamisato Ayaka: Maybe it's because it'd been so long since I last saw her, but... somehow, all that was left of her in my mind was the side of her that inspired awe and commanded respect...
+Media:vo aylq004 7 ayaka 25.ogg Kamisato Ayaka: But... my image of her was incorrect.
+Media:vo aylq004 7 ayaka 26.ogg Kamisato Ayaka: When I read this notebook, I realized... She was just like me. Underneath whatever position she may have held, she was just an ordinary person.
+Media:vo aylq004 7 ayaka 27.ogg Kamisato Ayaka: She liked pretty kimonos, she wanted to try food from different places, she yearned to see sights she'd never seen before...
+Media:vo aylq004 7 ayaka 28.ogg Kamisato Ayaka: Maybe this all sounds immature to you, but... I feel just the same way. I want to live life not as Kamisato Ayaka, but as an ordinary woman.
+Media:vo aylq004 7 ayaka 29.ogg Kamisato Ayaka: Mother wrote that she'd always wanted to go to a local Inazuman festival. She said that sometimes, on a clear night, if you looked out from our house, you could see lights off in the distance.
+Media:vo aylq004 7 ayaka 30.ogg Kamisato Ayaka: I've seen those lights too! It looks so lively with so many people — and it's so brightly lit it makes the whole sky glow... Of course, sometimes it does make me a bit anxious from a public order perspective.
+Media:vo aylq004 7 ayaka 31.ogg Kamisato Ayaka: But for someone of my position to just show up at a festival with no warning — it could be considered improper etiquette. Especially in my parents' generation, when the Yashiro Commission didn't have a particularly close relationship with the populace...
+Media:vo aylq004 7 ayaka 32.ogg Kamisato Ayaka: Even if no one stopped us, the idea of the Yashiro Commission going out into the crowd... It'd certainly draw some strange looks. People would probably start thinking there was a trouble afoot.
+Media:vo aylq004 7 ayaka 33.ogg Kamisato Ayaka: Mother said that she didn't want to put people on edge — she wanted everyone to enjoy the fun and freedom of the festival... She didn't want to disturb them, and didn't have much free time anyway, so she never went. Not even once.
+Media:vo aylq004 7 ayaka 34.ogg Kamisato Ayaka: That's right. And sometimes, festivals sell international food. She wanted to try that, too.
+Media:vo aylq004 7 ayaka 35.ogg Kamisato Ayaka: I hope this isn't a disrespectful thing to say, but... I never knew my mother was so in touch with her inner child, haha.
+Media:vo aylq004 7 ayaka 36.ogg Kamisato Ayaka: ...
+Media:vo aylq004 7 ayaka 37.ogg Kamisato Ayaka: Without knowing it, I've ended up fulfilling several of my mother's wishes already. *sigh* But going to a festival is the one thing that I cannot do for her.
+Media:vo aylq004 7 ayaka 38.ogg Kamisato Ayaka: Perhaps this is one thing that can simply never be.
+Media:vo aylq004 7 ayaka 39.ogg Kamisato Ayaka: I understand.
+Media:vo aylq004 7 ayaka 40.ogg Kamisato Ayaka: ...Thank you. I think I realize something now.
+Media:vo aylq004 7 ayaka 41.ogg Kamisato Ayaka: Mother and I are so similar in so many ways. The things she faces are things that I too will go on to face.
+Media:vo aylq004 7 ayaka 42.ogg Kamisato Ayaka: She chose to place her unfulfilled wishes onto the identity of Tsubaki. As for me... I've already decided.
+Media:vo aylq004 7 ayaka 43.ogg Kamisato Ayaka: No, um...
+Media:vo aylq004 7 ayaka 44.ogg Kamisato Ayaka: I don't plan to do anything like that. I think... I think I will set myself a new goal: To live each day without regrets.
+Media:vo aylq004 7 ayaka 45.ogg Kamisato Ayaka: So, um... Traveler, I... Ahem...
+Media:vo aylq004 7 ayaka 46.ogg Kamisato Ayaka: Whew, deep breaths, Ayaka, deep breaths...
+Media:vo aylq004 7 ayaka 47.ogg Kamisato Ayaka: *sigh* Would you be at all interested in checking out an Inazuman festival?
+Media:vo aylq004 7 ayaka 48.ogg Kamisato Ayaka: Hey, come on, don't make fun! It's just because I used to have the same concerns that my mother did... but now, I think I don't need to worry about it so much.
+Media:vo aylq004 7 ayaka 49.ogg Kamisato Ayaka: I'm going to be true to myself and fulfill the wish that my mother and I shared. I know that you of all people can understand me going my own way on this...
+Media:vo aylq004 7 ayaka 50.ogg Kamisato Ayaka: So... let's do this, you and me! Let's go to a festival together!
+Media:vo aylq004 7 ayaka 51.ogg Kamisato Ayaka: ...Great! Thanks, you guys!
+Media:vo aylq004 7 ayaka 52.ogg Kamisato Ayaka: If we head over now, we should still make it in time.
+Media:vo aylq004 7 paimon 01.ogg Paimon: Alright, let's see what the notebook says!
+Media:vo aylq004 7 paimon 02.ogg Paimon: Ooh, Paimon bets it's all about mysterious treasure! Ah, so exciting!
+Media:vo aylq004 7 paimon 03.ogg Paimon: Wha is it? Why are you whispering all of a sudden? You're making Paimon nervous...
+Media:vo aylq004 7 paimon 04.ogg Paimon: Ohhhh, you want to let Ayaka read the notebook without distraction. Seems whatever's written in there must be pretty major after all.
+Media:vo aylq004 7 paimon 05.ogg Paimon: But, um, based on her expression... probably not a treasure map.
+Media:vo aylq004 7 paimon 06.ogg Paimon: Hmm, what could it be?
+Media:vo aylq004 7 paimon 07.ogg Paimon: No worries, it wasn't long at all! You're a very fast reader.
+Media:vo aylq004 7 paimon 08.ogg Paimon: Different how? You mean, it wasn't a fox envoy who wrote this?
+Media:vo aylq004 7 paimon 09.ogg Paimon: Huh!?
+Media:vo aylq004 7 paimon 10.ogg Paimon: So... that means that the kimono design, and the international dishes...
+Media:vo aylq004 7 paimon 11.ogg Paimon: Ayaka...
+Media:vo aylq004 7 paimon 12.ogg Paimon: Aw... So the kimono design — that must have been the outfit she planned on wearing if she ever did go to a festival, right?
+Media:vo aylq004 7 paimon 13.ogg Paimon: That's not disrespectful at all! Paimon thinks your mom was the best of both — a big softie on the inside and a big sense of responsibility on the outside!
+Media:vo aylq004 7 paimon 14.ogg Paimon: Oh! So you've decided on an alter ego too?
+Media:vo aylq004 7 paimon 15.ogg Paimon: Paimon's been dying to go ever since we saw that poster! Paimon would love to go with you Ayaka!
+Media:vo aylq004 7 paimon 16.ogg Paimon: Paimon wants to come! Festivals here have loads of tasty snacks too, right? Oh, and fun and games? Hee-hee!
+Media:vo aylq004 7 paimon 17.ogg Paimon: Oh, good point, today's the last day, right? What are we waiting for — let's go!

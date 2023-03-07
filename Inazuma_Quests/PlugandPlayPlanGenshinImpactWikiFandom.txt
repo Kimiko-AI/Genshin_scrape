@@ -1,0 +1,22 @@
+
+ Nobushi: Jintouban ×2
+ Quest DescriptionA band of rogues has appeared out in the wild, threatening the safety of the surrounding area. Head over there and take them out. Who knows — you might make wonderous use out of the nearby Thunder Sakura Boughs and Nimbus Gems.
+ Ruin Cruiser ×2
+ Ruin Defender ×2
+Defeat 10 opponents in 3:00 mins
+Wave 1  Electro Samachurl ×1 Anemo Specter ×1 Crackling Axe Mitachurl ×1
+Wave 2  Pyro Hilichurl Shooter ×1 Cryo Hilichurl Shooter ×1 Crackling Axe Mitachurl ×1 Hydro Specter ×1
+Wave 3  Geo Specter ×2 Electro Abyss Mage ×1
+Defeat 10 opponents in 3:00 mins
+Wave 1  Wooden Shield Hilichurl Guard ×4 Hydro Specter ×1
+Wave 2  Hilichurl Berserker ×2 Electro Hilichurl Grenadier ×1 Hilichurl Grenadier ×1 Anemo Specter ×1
+Defeat 4 opponents in 5:00 mins
+Wave 1
+ Ruin Defender ×2
+Wave 2
+ Ruin Cruiser ×2
+Defeat 5 opponents in 3:00 mins
+Wave 1
+ Nobushi: Jintouban ×2
+Wave 2  Nobushi: Hitsukeban ×1 Nobushi: Jintouban ×1 Nobushi: Kikouban ×1
+The higher the number of connections, the stronger the buffs

@@ -1,0 +1,277 @@
+
+ It does look fascinating, but I can't say I understand how it works...
+Paimon: Yeah, we've seen lots of Ruin Guards before, but an iron ball of this sort and size... Hmm, Paimon really has no idea what it would be for.
+Jeht: I've seen similar machines in the desert before as well. But this is the first time I've seen one that's this intact.
+
+ We've seen one in the rainforest before.
+Paimon: Ah, you mean that giant iron mountain! And we even studied it with Ararycan and Jazari, didn't we?
+Jeht: I've seen similar machines in the desert before as well. But this is the first time I've seen one that's this intact.
+Jeht: Dad once said that these are war machines left over from 500 years ago... I can't help but wonder what actually happened in that era...
+Paimon: But this big guy seems... a little different from the one we saw before.
+
+(A nearby stone slate is repaired)
+
+(Quest ends)
+
+(Sand begins to flow and a nearby mechanism unlocks)
+
+(The Ruin Golem comes to life and delivers a punch)
+
+(The mechanism starts and opens a door)
+ (Return to the surface) Let's go back.
+Azariq: Alright! Jeht, time to go!
+(The player is teleported to the surface)
+ (Return to the surface) Let's go.
+Jeht: Alright! Azariq, time to go!
+(The player is teleported to the surface)
+ About Azariq...
+Jeht: ...What about him?
+Jeht: Well... I know you may have doubts about him, but he's Matriarch Babel's most trusted subordinate, so it does us no good being suspicious all the time.
+Jeht: That said, he does know a little too much, which makes me uneasy... But that's just a gut feeling, you know?
+Liloupar: Ah, but intuition can be quite accurate sometimes...
+ Almost bumped my head...
+ And why don't you operate it yourself?
+ Azariq, how do you know how to activate it?
+Azariq: The blueprints Aderfi left behind recorded the mechanical structure of this thing. It wasn't difficult to understand that structure with the basic knowledge that I have.
+Azariq: Maybe those northerners from the snowy lands gave it to him in a trade... Who knows what he would've wanted this for, though...
+ Could it be "protective interruption"?
+Paimon: Hey, that could be it! Still, how do you know this kind of stuff, anyway...
+ Don't worry, Jeht. I just zoned out for a bit.
+Paimon: Phew, okay... Stop scaring us like that, though!
+ Don't worry, Paimon. I'll be fine.
+Paimon: Ugh, fine, if you say so! Jeht was also really worried about you, you know?
+ Have you found anything?
+Azariq: Hmm... If I were you, I'd start from those pipelines. After all, that's the one thing we've no shortage of.
+ Have you found anything?
+Jeht: Not really... But I think we just need to move along the walls as we search.
+ I'd like to explore here some more.
+Azariq: *sigh* Oh, the curiosity... But, as you wish.
+ I'd like to stay here a little longer.
+Jeht: Please be careful. We'll wait for you here.
+ I'm okay.
+ It does look fascinating, but I can't say I understand how it works...
+ It's a long story...
+ It's a war machine left by the people of Dahri.
+Jeht: I've seen some machines like this in the desert before, but they're not quite the same... This is the first time I've seen one so complete.
+Jeht: Dad also once said that these are war machines left over from 500 years ago... I can't help but wonder what actually happened in that era...
+Azariq: From 500 years ago? Interesting... Almost all records of that period have been destroyed, insofar as I've read.
+ You could put it like that...
+ It's a long story...
+Paimon: Uh, Paimon can't quite explain it... Anyway, it was a long, long time ago!
+Paimon: Come to think of it, this big guy does look different from the one we saw before.
+ Jeht, what's on your mind?
+Jeht: Azariq, you knew all these things... But you never once told me about them.
+Azariq: *sigh* Don't get mad at me, little wildcat.
+Azariq: Relax. You know I won't hide anything from you! I'll tell you the full story once this journey is over.
+Jeht: ...
+ Not really.
+Jeht: Haha, (Traveler) is a veteran adventurer after all. You'd better exercise more, or (he'll/she'll) leave you behind sooner or later.
+Paimon: N—No way! (Traveler) will definitely wait for Paimon, no matter what...
+ On my way.
+ Ooh, I'm beat. Super beat.
+Paimon: See? What did Paimon tell you? We've walked for so long that even (Traveler)'s tired!
+Jeht: Hahaha! (He/She) was just messing with you. This much walking is hardly a challenge for a veteran adventurer, you know?
+Jeht: But if you're really so tired, Paimon, why don't you let me carry you around? Hehehe.
+Paimon: N—No need! That would just be embarrassing...
+ Quest DescriptionYou run into Azariq in the desert and find yourself invited to accept his help in making your way to the next location...
+ Steady yourselves!
+ We've seen one in the rainforest before.
+ Where are we heading?
+ With an arm so massive, the amount of energy it consumes must be absurd...
+Paimon: Hmm, Paimon wonders how much stuff it has to eat to work normally... Hmm. Maybe it can't move anymore because it's been hungry for too long!
+ You could put it like that...
+ You mean I have to, don't you?
+ You sure are knowledgeable, Azariq.
+Azariq: It's completely normal. Like I said, I have many friends on the outside and I've learned a lot from them... Don't you underestimate us tribespeople, alright?
+"Take a bite and use it to quench your thirst. But be careful not to let it burst in your hands..."
+As the shard of light merges with Liloupar's magic bottle, you feel a little of your own power being pulled away...
+Azariq: "The quicksand is starting to flow!" You say that as if it ever does anything else!
+Azariq: (...Good, good. Almost... almost there...)
+Azariq: (...It's about time for some sunshine. It's depressing being here.)
+Azariq: (...Tunnels, tunnels everywhere...)
+Azariq: (Traveler), sorry to trouble you again. After confirming that the energy system has been activated, let's all head to the control cabin.
+Azariq: *huff* Let me see... Energy system, looks fine; engine, fine; weapons... the long-range sub-weapon is out of order, the main one isn't functioning normally; melee weapons and left arm, working...
+Azariq: *sigh* Don't get mad at me, little wildcat.
+Azariq: *sigh* Oh, the curiosity... But, as you wish.
+Azariq: ...Sorry, Jeht. I know I'm being a bit impatient...
+Azariq: Alright! Jeht, time to go!
+Azariq: Alright, alright. I've set the target coordinates. It's ready to be activated at any time!
+Azariq: Alright, let's go and see what's in there first.
+Azariq: At least this shows that there must be an environment deep in this cave that allows plant roots to absorb nutrients.
+Azariq: Autopilot... autopilot... Hmm, looks like it's been dismantled. Can't find that device at all...
+Azariq: Be patient, little wildcat. This one's interior is in perfect condition! We can activate it and use it to cross those dangerous quicksand-filled areas!
+Azariq: But he was also the only one who could figure out how this thing works.
+Azariq: C'mon, I'm here to help! (Traveler), you're a knowledgeable sort. You must have seen this sort of machine before, right?
+Azariq: Careful, the little wildcat is about to bite.
+Azariq: Don't panic. The operating system is working fine, and we've marked the target correctly... It should just be that we have reached our designated location.
+Azariq: Eh, I care more about your safety.
+Azariq: Fascinating... Were these tunnels excavated by humans? I didn't see any steps or paved paths... Everything seems to have been shaped naturally.
+Azariq: From 500 years ago? Interesting... Almost all records of that period have been destroyed, insofar as I've read.
+Azariq: Haha! Finally, my... our robot!
+Azariq: Haha, who knows? Perhaps this wasn't a passage in the first place. It might've been, say, the release pipe for some weapon.
+Azariq: Hmm, it all looks pretty good, to be honest!
+Azariq: Hmm... If I were you, I'd start from those pipelines. After all, that's the one thing we've no shortage of.
+Azariq: Huh... Interesting. Let's just go in through its arm first, shall we?
+Azariq: Huh... Let me see. Weapons, weapons...
+Azariq: I certainly hope that the blueprint Aderfi left behind is reliable enough...
+Azariq: If the blueprint is correct, the generator room should be down there. We need to activate the power system first before we can activate this big guy.
+Azariq: If we can bring this thing back to the tribe, it will definitely be of great use.
+Azariq: It's completely normal. Like I said, I have many friends on the outside and I've learned a lot from them... Don't you underestimate us tribespeople, alright?
+Azariq: It's incredible to think that such a giant thing can even move...
+Azariq: It's the desert creatures, I reckon. Many animals have built their nests here for the longest time, and as their tunnels continued to expand and collapse, they finally formed something like this...
+Azariq: Let's go, (Traveler)! I see the gauges coming to life!
+Azariq: Let's search this place again for energy sources, shall we? It should take... three of them.
+Azariq: Look, this is it!
+Azariq: Looks like we'll need to open that gate up there next. As per our previous experience, the pipelines here will probably have to be connected to let the quicksand drive the gate.
+Azariq: Maybe those northerners from the snowy lands gave it to him in a trade... Who knows what he would've wanted this for, though...
+Azariq: Now you just need to operate it to open the passage.
+Azariq: Oh, so you know the way?
+Azariq: Please allow me some time to focus here... Aderfi did leave those blueprints behind... I just need to recall what those illustrations looked like.
+Azariq: Power's charged, the interlocking mechanism is working. Quick! Press this button on the console...
+Azariq: Relax. You know I won't hide anything from you! I'll tell you the full story once this journey is over.
+Azariq: So the relationship between Gurabad and this place...
+Azariq: Sorry, it seems that we'll have to operate this big guy by ourselves.
+Azariq: The blueprints Aderfi left behind recorded the mechanical structure of this thing. It wasn't difficult to understand that structure with the basic knowledge that I have.
+Azariq: The cabin door here needs to be charged to open... just like the illustration on the blueprint says.
+Azariq: The imitations they made all had this structure, so perhaps this old one will be no exception either.
+Azariq: Then we can only see if there's any way to connect the pipes in other places. Hmm... The pipes are supposed to connect the two sides, right? If the mechanism that controls the gate is on one side, then the other side...
+Azariq: There may be clues to open the gate around here. Let's all keep our eyes peeled.
+Azariq: There should be a backup power source for the weapon system on each side of the control cabin.
+Azariq: There should be a mechanism around here that can help open the gate. Let's all keep our eyes peeled.
+Azariq: They should be somewhere on either side of the control cabin. Once you find one of the mechanisms, trigger it and the energy system should reactivate.
+Azariq: They were originally the guardians of this place... I guess.
+Azariq: Ugh... If only Aderfi were here...
+Azariq: Very good, now come back! The gauges are working again!
+Azariq: Watch your step! There's a big hole here!
+Azariq: We can enter that opening through the passage inside the arm now.
+Azariq: We should leave some people here to stand guard while the rest of us move on.
+Azariq: Well, guess we'll be troubling you to show us the way, then. Let's start this machine in the meantime, shall we?
+Azariq: Well? Do you want to explore here some more or go back to that big iron ball?
+Azariq: What's the matter, (Traveler)? According to the blueprint, the generator room should be right down there. We must activate its energy system first, and I'll leave that to you.
+Azariq: What's the matter? Can't find the backup power sources?
+Azariq: What? I've become more reliable, haven't I? Hahaha.
+Azariq: Whoa...! *huff* Did anyone fall and hurt themselves?
+Azariq: W—Well... There are just some things that have more... ceremony, when you do them.
+Azariq: You are interested in your own fragments, and Jeht is interested in the Eternal Oasis. Never mind who "they" are for now, would you?
+Azariq: You should find a mechanism over there, trigger it and the energy system will be reactivated... if I'm not mistaken, anyway.
+Jeht: (Azariq, Azariq... What are you hiding?)
+Jeht: (Traveler)! Are you alright?
+Jeht: (Traveler), are we leaving now?
+Jeht: (Traveler), are you okay...?
+Jeht: (Traveler), have you found anything?
+Jeht: (Why does Azariq seem so impatient? Could it be...)
+Jeht: ...
+Jeht: ...!
+Jeht: ...What about him?
+Jeht: Ahem, we should go. There're still many mechanisms waiting for us ahead.
+Jeht: Alright! Azariq, time to go!
+Jeht: Alright, the quicksand is starting to flow!
+Jeht: Alright... Now it looks like there's only one passage left for us to open.
+Jeht: And what would you do, take Matriarch Babel out for a joyride?
+Jeht: Azariq feels like a different person. I've never seen him like this before...
+Jeht: Azariq, you knew all these things... But you never once told me about them.
+Jeht: Azariq... No, it's nothing...
+Jeht: But if you're really so tired, Paimon, why don't you let me carry you around? Hehehe.
+Jeht: But the mechanisms next to the pipes seem completely broken...
+Jeht: Dad also once said that these are war machines left over from 500 years ago... I can't help but wonder what actually happened in that era...
+Jeht: Dad once said that these are war machines left over from 500 years ago... I can't help but wonder what actually happened in that era...
+Jeht: Haha, (Traveler) is a veteran adventurer after all. You'd better exercise more, or (he'll/she'll) leave you behind sooner or later.
+Jeht: Hahaha! (He/She) was just messing with you. This much walking is hardly a challenge for a veteran adventurer, you know?
+Jeht: He's a traitor to the tribe.
+Jeht: Hey, check this out! I've never seen flowers like these before... They're so beautiful, but it's kinda unsettling for them to appear like this in the desert.
+Jeht: Hmm... The gate here is closed, and there seems to be no other way.
+Jeht: Hmph! This kind of scrap can be dug up everywhere in the desert. Why did you ask us to come here specifically? Are we gonna play at war inside or something?
+Jeht: H—Hey!
+Jeht: I'm not! I just said we should go!
+Jeht: I've seen similar machines in the desert before as well. But this is the first time I've seen one that's this intact.
+Jeht: I've seen some machines like this in the desert before, but they're not quite the same... This is the first time I've seen one so complete.
+Jeht: Is this it? Just as it stopped, it went off... The left arm seems to be stuck...
+(The screen exits the console)
+Jeht: It was not!
+Jeht: Not really... But I think we just need to move along the walls as we search.
+Jeht: N—No, it's nothing... It's just that I didn't get even half of what he said just now...
+Jeht: Oh? And you know this because you walk on your own two feet?
+Jeht: Perhaps they have all been weathered away... Or perhaps the builders never thought of leaving too many traces of artifice in passages of this kind?
+Jeht: Phew... That should be the last of them.
+Jeht: Please be careful. We'll wait for you here.
+Jeht: Protect the machine! Darn it... Where did they come from?
+Jeht: So the one in whom we Tanit place our faith... Nabu Malikata...
+Jeht: That said, he does know a little too much, which makes me uneasy... But that's just a gut feeling, you know?
+Jeht: The big iron ball stopped! what [sic] happened?
+Jeht: Wait, don't you care about the "taboo" anymore?
+Jeht: Well... I know you may have doubts about him, but he's Matriarch Babel's most trusted subordinate, so it does us no good being suspicious all the time.
+Jeht: What a long tunnel... And those same strange flowers we saw earlier...
+Jeht: Whoa! That was close! I mean, how could there be such a big hole here, anyway!?
+Jeht: Wow... So this iron ball could make such a huge hole...
+Liloupar: "They"? Who's "they"?
+Liloupar: ...
+Liloupar: Ah, but intuition can be quite accurate sometimes...
+Liloupar: But here... There's no opening. It's probably sealed into the sand dunes.
+Liloupar: But the city of Gurabad fell into a gap in the sand, and became shrouded by death and oblivion... Well, that's another story.
+Liloupar: Do not fret, (he/she) is fine.
+Liloupar: Fair enough. I shall ask again later.
+Liloupar: Good. Now, let us move on to the platform ahead. From there, we should be able to unlock the door to the central base.
+Liloupar: Hmm... My memory is gradually coming together. I can now guide you to the next location.
+Liloupar: Hmph, you just can't teach old dogs new tricks. Let's go activate it.
+Liloupar: Hmph... A tribesman who knows the inner workings of machinery? An eye-opener, to be sure.
+Liloupar: How I desire to see the plump arils burst between your teeth, and how the rich juice overflows from your lips...
+Liloupar: I can feel my fragment calling to me. It is just up ahead.
+Liloupar: It's the fragment... It is just up ahead, my master!
+Liloupar: Life is quite wondrous, wouldn't you say?
+Liloupar: My apologies if my troubled memories bothered you. But thanks to your help, my power has been restored... partly, in any case.
+Liloupar: Now, now, little girl, are you sulking again?
+Liloupar: Of course I do. I can sense the vibrations of my fragments, after all.
+Liloupar: Pomegranates... Ah, pomegranates... The sweet fruit made from the congealed blood of the victimized... Should I have the chance to share it with you, my master, I surely will.
+Liloupar: She slumbers in the Eternal Oasis. This tunnel was dug in her memory.
+Liloupar: Such unnerving power... I've never seen a machine like this before...
+Liloupar: That's my mistress, yes. Now show some respect, little lass.
+Liloupar: The Lord charged the mortals' ideal kingdom with guarding his Eternal Oasis. That is why there was a city on the periphery of this dune.
+Liloupar: These flowers belong to the mistress... After she fell into a deep slumber, they were said to have disappeared into the desert... I didn't expect to see them again here...
+Liloupar: This dull aching feeling... We're getting closer...
+Liloupar: This fellow's actions are quite suspicious... not to mention overeager...
+Liloupar: This is the mechanism. Hmph, the entire tunnel no longer bears any traces left by mortals, yet this structure remains intact... How ironic.
+Liloupar: This lumbering giant must have a weapon! Why don't you try using it to throw a punch?
+Liloupar: This place used to be the mistress's greenhouse, but now, perhaps only these flowers survive.
+Liloupar: This smell... How discomforting.
+Liloupar: This was once a sacred place, inaccessible to all save the priests... Or so my broken memories tell, should they serve me correctly.
+Liloupar: Well, have you noticed? "The Three Eternal Companion-Gods" — that's who this oasis commemorates.
+Liloupar: Worry not, my master. I shall guide you from the side.
+Paimon: Ah, the mechanism that controls the pipes seems to be working again...
+Paimon: Ah, you mean that giant iron mountain! And we even studied it with Ararycan and Jazari, didn't we?
+Paimon: Alright, let's keep moving along the pipes.
+Paimon: Alright, the gate's open!
+Paimon: But it hasn't been turned on in quite a while, has it? That might cause some problems...
+Paimon: But this big guy seems... a little different from the one we saw before.
+Paimon: Come to think of it, this big guy does look different from the one we saw before.
+Paimon: Hey, Jeht, what's wrong? You look like something's on your mind...
+Paimon: Hey, look, the door over there seems just about ready to open! W—Well... Paimon's intuition says so, anyway!
+Paimon: Hey, that could be it! Still, how do you know this kind of stuff, anyway...
+Paimon: Hmm, Paimon wonders how much stuff it has to eat to work normally... Hmm. Maybe it can't move anymore because it's been hungry for too long!
+Paimon: Hmm... Paimon doesn't get why anyone would even think of putting a passage in the arm...
+Paimon: Huh...?
+Paimon: It's more like a rift than the entrance to a cave...
+Paimon: Jeht's face was so red just now...
+Paimon: Look, it's a water pump!
+Paimon: Not yet! What about you?
+Paimon: N—No need! That would just be embarrassing...
+Paimon: N—No way! (Traveler) will definitely wait for Paimon, no matter what...
+Paimon: Oh, Paimon thinks it should lead to that room over there!
+Paimon: Phew, okay... Stop scaring us like that, though!
+Paimon: See? What did Paimon tell you? We've walked for so long that even (Traveler)'s tired!
+Paimon: The door over there has opened as well. Shall we go and have a look?
+Paimon: The door's unlocked!
+Paimon: There were red crystals in the first tunnel, and this one has all these large purple flowers...
+Paimon: This will allow the pipes to connect the two sides! Let's go back and see if the gate is moving!
+Paimon: Ugh, another door. How are we going to open this one up?
+Paimon: Ugh, fine, if you say so! Jeht was also really worried about you, you know?
+Paimon: Uh, Paimon can't quite explain it... Anyway, it was a long, long time ago!
+Paimon: Uh... Nah! Paimon was just, uh, speaking for (Traveler)! Yeah! Y—You must be tired, right?
+Paimon: Uh... That does sound delicious, but Paimon doesn't think she's talking about fruit...
+Paimon: What!? There's more!? Paimon's legs are already sore!
+Paimon: Whew, guess none of us were hurt then!
+Paimon: Whoa! It's huge...
+Paimon: Whoa! We have to run around here while it's tilting all over this place? Ugh, Paimon's getting dizzy already...
+Paimon: Whoaaa!
+Paimon: Yeah, we've seen lots of Ruin Guards before, but an iron ball of this sort and size... Hmm, Paimon really has no idea what it would be for.
+Paimon: You suddenly froze up again, and you wouldn't respond to anyone... You really scared us there!
+Through the Jinni's entranced eyes, you see a ravenous shepherd boy and a bright red pomegranate...You see the pomegranate juice flowing freely, like the wine of tyrants, the infatuation of lovers, and the fresh blood of innocent victims...You see the plump pomegranate being handed to the shepherd boy...

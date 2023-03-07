@@ -1,0 +1,385 @@
+
+
+Quest Name
+
+Steins;Gate Chapter Name
+
+
+English Name
+
+Chinese Name
+
+
+The Coming of the Sabzeruz Festival
+
+终将到来的花神诞祭 The Eventual Coming of the Sabzeruz Festival
+
+始まりと終わりのプロローグ The Beginning and Ending of Prologue
+
+
+The Arrival of the Sabzeruz Festival
+
+已然来临的花神诞祭 The Already Arrival of the Sabzeruz Festival
+
+存在証明のパンドラ The Being Confirmation of Pandora
+
+
+The Continuation of the Sabzeruz Festival
+
+流转存续的花神诞祭 The Circulating Continuation of the Sabzeruz Festival
+
+亡失流転のソリチュード The Circulating Lost of Solitude
+
+
+The Samsara of the Sabzeruz Festival
+
+轮回意志的花神诞祭 The Reincarnated Will of the Sabzeruz Festival
+
+循環座標のアルタイル The Reincarnated Coordinates of Altair
+
+
+The Causality of the Sabzeruz Festival
+
+因果命运的花神诞祭 The Destined Causality of the Sabzeruz Festival
+
+因果律のメルト The Causality Law of Meltdown
+
+
+The Empty Illusions of the Sabzeruz Festival
+
+空幻回响的花神诞祭 The Void Echoes of the Sabzeruz Festival
+
+空理彷徨のランデヴー The Void Hesitation of Rendezvous
+
+
+The End of the Sabzeruz Festival
+
+终将结束的花神诞祭 The Eventual Ending of the Sabzeruz Festival
+
+終わりと始まりのプロローグ The Ending and Beginning of Prologue
+
+
+(If the Traveler disconnects)
+
+(Talk to the Merchant again, optional)
+
+Media:vo dialog xmaq013 merchant 01.ogg Merchant: *sigh* Can you understand the feeling of having Mora slip right through your fingers? How can these people be so unreasonable...
+(Approach Nahida)
+
+(Message box) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+Confirm Cancel
+
+(Overlay message) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+
+(Select - Dreams Without Human Presence)
+(Traveler): Those spaces remind me of... dreams. Like the one I had in the Avidya Forest, except these have no sign of human presence.
+
+(Select - Information on the Akasha)
+Media:vo xmaq013 10 hero 08.ogg Media:vo xmaq013 10 heroine 08.ogg (Traveler): Okay, Nahida said, "The Akasha relies on the power of a Gnosis to operate, as it is the manifestation of the God of Wisdom's power. It compiles the wisdom of the entire populace, and it grants knowledge to the people."
+
+(Select - The Grand Sage's Speech)
+Media:vo xmaq013 10 hero 03.ogg Media:vo xmaq013 10 heroine 03.ogg (Traveler): The Grand Sage said, "Go celebrate the birth of that god to your heart's content." Did he mean something more?
+
+(Submit the correct conclusion - The Grand Sage's Speech)
+
+(Submit the wrong conclusion)
+Media:vo xmaq013 10 hero 23.ogg Media:vo xmaq013 10 heroine 23.ogg (Traveler): That doesn't sound right... I need to carefully think things through...
+
+(Talk to the Merchant again, optional)
+
+Media:vo dialog xmaq013 merchant 01.ogg Merchant: *sigh* Can you understand the feeling of having Mora slip right through your fingers? How can these people be so unreasonable...
+(Approach Nahida)
+
+Media:vo dialog xmaq013 merchant 01.ogg Merchant: *sigh* Can you understand the feeling of having Mora slip right through your fingers? How can these people be so unreasonable...
+ A "secret," huh...
+ Give me some time. I need to organize my thoughts.
+ About the side effects of a "mass-produced dream"...
+Media:vo xmaq013 6 paimon 15.ogg Paimon: Can humans really keep dreaming forever like this? Will it ever end? And if so, when?
+Media:vo xmaq013 6 nahida 29.ogg Nahida: You might say your mental fatigue has already answered this question. Eventually, there is only so much that people can tolerate.
+Media:vo xmaq013 6 nahida 30.ogg Nahida: Especially those whose health is compromised to begin with... like Dunyarzad. This relentless exploitation takes an even harder toll on them.
+Media:vo xmaq013 6 paimon 16.ogg Paimon: People's lives are at stake here, and nobody knows a thing... We've gotta put a stop to this!
+(Dialogue returns to option selection)
+ Although I don't remember doing any of this...
+ I won't leave you behind.
+ Another message? From who?
+ Ask away, Miss Nahida.
+ But this doesn't seem like a good time.
+ Can we leave behind something other than memories?
+ Don't worry, Paimon.
+ Give me some time. I need to organize my thoughts.
+ How do the sages manage to keep people from noticing this?
+Media:vo xmaq013 6 nahida 23.ogg Nahida: Firstly, this dream we're in is completely based on reality. People have already experienced this Sabzeruz Festival, so it would be very difficult for them to find anything that strikes them as surreal.
+Media:vo xmaq013 6 nahida 24.ogg Nahida: Secondly, you're probably wondering why people don't have any memories from earlier samsara, right?
+Media:vo xmaq013 6 nahida 25.ogg Nahida: That's because people don't remember their dreams most of the time anyway. And in any case, their actual dreams are being taken away from them by the Akasha...
+Media:vo xmaq013 6 nahida 26.ogg Nahida: So whenever they "wake up" in this dream of the Sabzeruz Festival, they don't remember anything from their previous, identical dream.
+Media:vo xmaq013 6 paimon 14.ogg Paimon: That reminds Paimon. Traveler had a dream when we were in the Avidya Forest, but couldn't say what it was about after waking up. Is that an example of what you mean?
+Media:vo xmaq013 6 nahida 27.ogg Nahida: Yes. Only after receiving the blessing of Dendro can a person gain the Dendro element's dream-enhancing power. That explains the feelings of déjà vu.
+Media:vo xmaq013 6 nahida 28.ogg Nahida: Meanwhile, everyone else has no idea that they are in a Sabzeruz Festival samsara while their dreams are stolen from them over and over again.
+(Dialogue returns to option selection)
+ Huh? Paimon, what do you mean?
+ I don't have any more questions.
+Media:vo xmaq013 6 nahida 36.ogg Nahida: Deceiving the people of Sumeru with no regard for their safety... No matter what they're trying to do, this is unforgivable.
+Media:vo xmaq013 6 nahida 37.ogg Nahida: After we end the Sabzeruz Festival samsara, we have to look into them...
+Media:vo xmaq013 6 paimon 18.ogg Paimon: How can the sages of the Akademiya do this behind their Archon's back? This is ridiculous!
+Media:vo xmaq013 6 nahida 38.ogg Nahida: In the end, I'm just the Moon. The real Sun is long gone.
+Media:vo xmaq013 6 paimon 19.ogg Paimon: A Sun and a Moon... Nahida's talking in riddles again...
+Media:Akasha Terminal Beep.ogg ???: *beep*
+Media:vo xmaq013 6 paimon 20.ogg Paimon: Oh, we're out of time today.
+Media:vo xmaq013 6 nahida 39.ogg Nahida: I'll tell you how to break free of the samsara tomorrow. See you then...
+ I have a lot of questions for you.
+ I still think you should stay.
+ I think I know the answer now.
+ I won't leave you behind.
+ If our memories will be erased...
+ If we leave together, it'll just be the same as before.
+ It's worth a try.
+ Leaving the city might trigger disruptions to our memories...
+ Let's go and try to leave the city today.
+ Of course the Akademiya wouldn't share their plans with a pawn.
+ Okay, okay...
+ Paimon, stay here.
+ Quest DescriptionIn your memory, you never seem to have tried to go outside the city, which is curious.Today you decide to try...
+ See you tomorrow, Paimon.
+ So that message...
+ So the Akademiya doesn't trust you at all.
+ So they didn't just restrict access to Sumeru City...
+ Still... Sorry, Paimon.
+ I won't leave you behind.
+ The Dance of Sabzeruz... It's that time already...
+ They're also erasing the memories of those who leave...
+ This is... my own voice!?
+ Was what I left for myself when I left the city?
+ We need someone to stay and witness events from this side.
+ Why couldn't you simply tell us the truth?
+Media:vo xmaq013 6 nahida 18.ogg Nahida: You asked me this question before. My answer was: "It would literally blow your minds."
+Media:vo xmaq013 6 nahida 19.ogg Nahida: Now that you know this is all a dream, this answer should hopefully make more sense...
+Media:vo xmaq013 6 nahida 20.ogg Nahida: Have you heard the saying "Don't wake a sleepwalker"? Likewise, if someone suddenly had told you all of this instead of you learning it on your own...
+Media:vo xmaq013 6 nahida 21.ogg Nahida: Your notion of reality and dream would be thrown into irreversible confusion. I couldn't expose you to that kind of risk.
+Media:vo xmaq013 6 nahida 22.ogg Nahida: That's why I could only give you very subtle hints and some suggestions. Long story short, I'm really sorry I had to keep you guessing.
+(Dialogue returns to option selection)
+ Why is the dream about the Sabzeruz Festival?
+Media:vo xmaq013 6 nahida 31.ogg Nahida: I know, right? Why did they have to base this dream on my birthday? Could it really just be a coincidence?
+Media:vo xmaq013 6 paimon 17.ogg Paimon: Even you don't know the reason? Wow, now that's strange.
+Media:vo xmaq013 6 nahida 32.ogg Nahida: The Akademiya's sages are determined to harvest lots of dreams in a short time, no matter the cost. They have to be up to no good. Unfortunately, I don't know anything about it.
+Media:vo xmaq013 6 nahida 33.ogg Nahida: Traveler, do you have any information?
+(The Traveler enters Contemplation)
+
+(Select - Dreams Without Human Presence)
+(Traveler): Those spaces remind me of... dreams. Like the one I had in the Avidya Forest, except these have no sign of human presence.
+
+(Select - Information on the Akasha)
+Media:vo xmaq013 10 hero 08.ogg Media:vo xmaq013 10 heroine 08.ogg (Traveler): Okay, Nahida said, "The Akasha relies on the power of a Gnosis to operate, as it is the manifestation of the God of Wisdom's power. It compiles the wisdom of the entire populace, and it grants knowledge to the people."
+
+(Select - The Grand Sage's Speech)
+Media:vo xmaq013 10 hero 03.ogg Media:vo xmaq013 10 heroine 03.ogg (Traveler): The Grand Sage said, "Go celebrate the birth of that god to your heart's content." Did he mean something more?
+
+(Submit the wrong conclusion)
+Media:vo xmaq013 10 hero 23.ogg Media:vo xmaq013 10 heroine 23.ogg (Traveler): That doesn't sound right... I need to carefully think things through...
+
+(Submit the correct conclusion - The Grand Sage's Speech)
+Media:vo xmaq013 6 nahida 34.ogg Nahida: "Celebrate the birth of that god"...
+Media:vo xmaq013 6 nahida 35.ogg Nahida: Could it mean...
+(Dialogue returns to option selection)
+ W—What did I promise?
+ W—What's wrong, Paimon!?
+ Yes, I don't even know that "yesterday" existed.
+ Yes, and they don't intend to stop there.
+ You are Lesser Lord Kusanali.
+ You sure that's what you saw? You weren't zoning out or anything?
+(Message box) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+(Overlay message) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+(Traveler): *buzz*
+(Traveler): Those spaces remind me of... dreams. Like the one I had in the Avidya Forest, except these have no sign of human presence.
+After a long wait.
+After going over what happened in detail, you believe the only plausible explanation is "Mass Production of Dreams."
+After going over what happened in detail, you believe the only plausible explanation is "The Akasha Is a Manifestation of the God of Wisdom's Power."
+After going over what happened in detail, you believe the only plausible explanation is "The Space Where We Were Yesterday."
+After going over what happened in detail, you finally understand what "The Truth Behind Dreams" means.
+Confirm Cancel
+Media:Akasha Terminal Beep.ogg ???: *beep*
+Media:vo dialog xmaq008 guard 01.ogg Media:vo dialog xmaq008 guard 02.ogg Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Media:vo dialog xmaq008 merchant 01.ogg Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
+Media:vo dialog xmaq008 paimon 01.ogg Media:vo dialog xmaq008 paimon 02.ogg Paimon: Whoa... Ugh, okay.
+(The player is teleported a few steps back into the city)
+Media:vo dialog xmaq011 nahida 01.ogg Nahida: We don't have many more festivals to waste. Hurry and find the truth.
+Media:vo dialog xmaq013 merchant 01.ogg Merchant: *sigh* Can you understand the feeling of having Mora slip right through your fingers? How can these people be so unreasonable...
+Media:vo dialog xmaq013 merchant 01.ogg Merchant: *sigh* Can you understand the feeling of having Mora slips right though your fingers? How can these people be so unreasonable.
+Media:vo dialog xmaq013 nahida 02.ogg Nahida: Well, consider this, for all the horrors of the Archon War, at its heart, it was just a game where a bunch of gods fought over seven seats.
+Media:vo dialog xmaq013 nahida 03.ogg Nahida: So no matter how strange or spooky things might look on the surface, maybe all they point to in the end is a small and simple secret.
+Media:vo xmaq013 1 hero 01.ogg Media:vo xmaq013 1 heroine 01.ogg (Traveler): "...Can't go back... There are countless spaces here. Our Sabzeruz Festival in Sumeru City is just one of them..."
+Media:vo xmaq013 1 nahida 01.ogg Nahida: Traveler, aside from your memories that were just restored, I have another message for you.
+Media:vo xmaq013 1 nahida 02.ogg Nahida: Listen to it and you'll understand.
+Media:vo xmaq013 1 paimon 01.ogg Paimon: ...Our memories are back!
+Media:vo xmaq013 1 paimon 02.ogg Paimon: ...About that... Well, where should Paimon begin...
+Media:vo xmaq013 1 paimon 03.ogg Paimon: Traveler, you should be missing two days' worth of memories. Paimon will fill you in...
+Media:vo xmaq013 1 paimon 04.ogg Paimon: ...It's time to carry out our plan from yesterday!
+Media:vo xmaq013 1 paimon 05.ogg Paimon: Okay, let's go!
+Media:vo xmaq013 10 hero 01.ogg Media:vo xmaq013 10 heroine 01.ogg (Traveler): The Moon, illusions, and lies... What do they all mean?
+Media:vo xmaq013 10 hero 03.ogg Media:vo xmaq013 10 heroine 03.ogg (Traveler): The Grand Sage said, "Go celebrate the birth of that god to your heart's content." Did he mean something more?
+Media:vo xmaq013 10 hero 05.ogg Media:vo xmaq013 10 heroine 05.ogg (Traveler): My mind feels exhausted, even though I haven't done too much thinking. What is going on?
+Media:vo xmaq013 10 hero 06.ogg Media:vo xmaq013 10 heroine 06.ogg (Traveler): We've already experienced the Sabzeruz Festival many times. And... the day of the festival seems to be in a perpetual samsara.
+Media:vo xmaq013 10 hero 07.ogg Media:vo xmaq013 10 heroine 07.ogg (Traveler): People in Sumeru don't dream. What a strange phenomenon.
+Media:vo xmaq013 10 hero 08.ogg Media:vo xmaq013 10 heroine 08.ogg (Traveler): Okay, Nahida said, "The Akasha relies on the power of a Gnosis to operate, as it is the manifestation of the God of Wisdom's power. It compiles the wisdom of the entire populace, and it grants knowledge to the people."
+Media:vo xmaq013 10 hero 10.ogg Media:vo xmaq013 10 heroine 10.ogg (Traveler): The beep is a prompt tone for Akasha operations. We still hear it every night, even though we removed our Akasha Terminals.
+Media:vo xmaq013 10 hero 11.ogg Media:vo xmaq013 10 heroine 11.ogg (Traveler): All the bizarre spaces I saw outside the city had one thing in common: a lack of human presence.
+Media:vo xmaq013 10 hero 11.ogg Media:vo xmaq013 10 heroine 11.ogg (Traveler): All the bizarre spaces I saw outside the city had one thing in common: a lack of human presence.
+(Unlocks Dreams Without Human Presence)
+Media:vo xmaq013 10 hero 12.ogg Media:vo xmaq013 10 heroine 12.ogg (Traveler): Those spaces remind me of... dreams. Like the one I had in the Avidya Forest, except these have no sign of human presence.
+Media:vo xmaq013 10 hero 13.ogg Media:vo xmaq013 10 heroine 13.ogg (Traveler): Those spaces kept disappearing before my eyes, but as soon as that beep sounded, many more spaces materialized.
+(Unlocks The Appearance and Disappearance of Dreams)
+Media:vo xmaq013 10 hero 14.ogg Media:vo xmaq013 10 heroine 14.ogg (Traveler): Those dreamscapes kept vanishing, but as soon as that beep sounded, more new spaces appeared.
+Media:vo xmaq013 10 hero 15.ogg Media:vo xmaq013 10 heroine 15.ogg (Traveler): ..Was that space actually the real world? But wouldn't a real space just randomly disappearing like that be catastrophic?
+Media:vo xmaq013 10 hero 16.ogg Media:vo xmaq013 10 heroine 16.ogg (Traveler): My impression is that each day in this samsara only ends at the sound of that beep from the Akasha.
+Media:vo xmaq013 10 hero 19.ogg Media:vo xmaq013 10 heroine 19.ogg (Traveler): We are all in a dream. It isn't that the people of Sumeru don't dream. Rather, the Akasha is taking their dreams from them.
+Media:vo xmaq013 10 hero 20.ogg Media:vo xmaq013 10 heroine 20.ogg (Traveler): They say that alchemical divination is the Dendro Archon's divine revelation. So then, if Nahida has referred to herself as the Moon...
+Media:vo xmaq013 10 hero 21.ogg Media:vo xmaq013 10 heroine 21.ogg (Traveler): Now that I think about it, wasn't "illusions" a hint that we're all dreaming?
+Media:vo xmaq013 10 hero 22.ogg Media:vo xmaq013 10 heroine 22.ogg (Traveler): Now that I think about it, wasn't "illusions" hinting at the Sages' deception of Sumeru's people?
+Media:vo xmaq013 10 hero 23.ogg Media:vo xmaq013 10 heroine 23.ogg (Traveler): That doesn't sound right... I need to carefully think things through...
+Media:vo xmaq013 10 hero 24.ogg Media:vo xmaq013 10 heroine 24.ogg (Traveler): Hmm... I can't seem to cohesively piece everything together.
+Media:vo xmaq013 10 nahida 01.ogg Nahida: The Akasha relies on the power of a Gnosis to operate.
+Media:vo xmaq013 10 nahida 02.ogg Nahida: It is a manifestation of the God of Wisdom's power.
+Media:vo xmaq013 10 nahida 03.ogg Nahida: It compiles the wisdom of the entire populace.
+Media:vo xmaq013 10 nahida 04.ogg Nahida: And it grants knowledge to the people.
+Media:vo xmaq013 2 guard 01.ogg Guard: Don't ask me. It's not like I can tell you anything. This is a direct order from the Grand Sage. Just wait until tomorrow.
+Media:vo xmaq013 2 guard 02.ogg Guard: That's your problem. Make sure you make a request in advance next time.
+Media:vo xmaq013 2 guard 03.ogg Guard: Here we go again... Don't ask me, I don't know either.
+Media:vo xmaq013 2 guard 04.ogg Guard: We just received an order that no one is allowed to enter or exit Sumeru today. They didn't tell us anything else.
+Media:vo xmaq013 2 guard 05.ogg Guard: Hmph, angering me won't get you anywhere. If I had that kind of insider info, I would have left this stupid post a long time ago.
+Media:vo xmaq013 2 merchant 01.ogg Merchant: ...Why can't we leave the city? What is the Akademiya up to now?
+Media:vo xmaq013 2 merchant 02.ogg Merchant: I have a real emergency. My goods have already arrived at Port Ormos. If I don't hurry, they'll be stolen...
+Media:vo xmaq013 2 merchant 03.ogg Merchant: B—But it's not like you can just predict business matters in advance... *sigh*
+Media:vo xmaq013 2 paimon 01.ogg Paimon: It looks like the Akademiya already announced a lockdown for Sumeru City today. How completely unsurprising...
+Media:vo xmaq013 2 paimon 02.ogg Paimon: Let's go and question them.
+Media:vo xmaq013 2 paimon 03.ogg Paimon: Hello sir, why can't we leave the city today?
+Media:vo xmaq013 2 paimon 04.ogg Paimon: It looks like he really doesn't know.
+Media:vo xmaq013 2 paimon 05.ogg Paimon: If we can't get anything out of him, let's take matters into our own hands. Why don't we climb over the walls? Those guards can't be everywhere at once.
+Media:vo xmaq013 2 paimon 06.ogg Paimon: This is a good spot, and the guard hasn't noticed us at all. Let's hurry...
+Media:vo xmaq013 2 paimon 07.ogg Paimon: Huh!? Why? Are you going to leave Paimon behind?
+Media:vo xmaq013 2 paimon 08.ogg Paimon: B—But what if things get really weird out there and you get into some trouble? T—Then Paimon won't be able to help you!
+Media:vo xmaq013 2 paimon 09.ogg Paimon: Ugh... Paimon knows that Paimon can't do much, but we've always been together, haven't we?
+Media:vo xmaq013 2 paimon 10.ogg Paimon: ...
+Media:vo xmaq013 2 paimon 11.ogg Paimon: ...Okay, Paimon will wait for you.
+Media:vo xmaq013 2 paimon 12.ogg Paimon: Promise Paimon that you'll come back as soon as possible. Just a quick look!
+Media:vo xmaq013 2 paimon 13.ogg Paimon: And please be careful!
+Media:vo xmaq013 3 nahida 01a.ogg Media:vo xmaq013 3 nahida 01b.ogg Nahida: Paimon, calm down. (He/She)'s here now. I don't think (he/she) understood what you were saying.
+Media:vo xmaq013 3 nahida 02.ogg Nahida: Okay, Paimon, can you tell us your perspective of what really happened yesterday...
+Media:vo xmaq013 3 nahida 03.ogg Nahida: I see. Using two people's different perspectives...
+Media:vo xmaq013 3 nahida 04.ogg Nahida: What's your perspective, Traveler? You sure you don't have any memory of this?
+Media:vo xmaq013 3 nahida 05.ogg Nahida: I guess that explains everything. You also lost your memories the last two times you tried to leave the city. Those days' memories can't be awoken.
+Media:vo xmaq013 3 nahida 06.ogg Nahida: ...Don't look at me like that. I... I'm not used to being stared at.
+Media:vo xmaq013 3 nahida 07.ogg Nahida: Well... Okay, okay. You want something that can pass on messages, right? Give me some time, and take care of Dunyarzad for me.
+Media:vo xmaq013 3 nahida 08.ogg Nahida: ...I'm done. Here you go.
+Media:vo xmaq013 3 nahida 09.ogg Nahida: I made some little changes. Akasha Terminals are already capable of sending messages. I just tweaked it so that it can connect to any node.
+Media:vo xmaq013 3 nahida 10.ogg Nahida: Yep. I will help you save the messages. It should be pretty easy to use. I just can't guarantee the user's status and signal coverage when they're outside the city...
+Media:vo xmaq013 3 paimon 01.ogg Paimon: Ah... Memories...!
+Media:vo xmaq013 3 paimon 02.ogg Paimon: Traveler! W—W—Waaaaaah!!!
+Media:vo xmaq013 3 paimon 03.ogg Paimon: Paimon thought Paimon would never see you again! Y—You just disappeared!
+Media:vo xmaq013 3 paimon 04.ogg Paimon: Paimon waited for you for hours and hours at the city wall, and you never came back! You promised Paimon that you were only taking a quick look! *sniff*
+Media:vo xmaq013 3 paimon 05.ogg Paimon: *sniff*... Paimon doesn't care. Paimon wanted to go look for you, but you also said that Paimon should stay... Paimon was so worried and so scared the entire day...
+Media:vo xmaq013 3 paimon 06.ogg Paimon: *sniff* ...Okay, Paimon will forgive you. The most important thing is that you didn't actually disappear... Paimon was so scared that you had gone into another world!
+Media:vo xmaq013 3 paimon 07a.ogg Media:vo xmaq013 3 paimon 07b.ogg Paimon: After that, you left the city. Paimon kept her eyes on you the whole time, but then you disappeared in an instant...
+Media:vo xmaq013 3 paimon 08.ogg Paimon: No way! Paimon was watching you with the fullest attention.
+Media:vo xmaq013 3 paimon 09.ogg Paimon: So if we leave the city, our memories will be completely erased?
+Media:vo xmaq013 3 paimon 10.ogg Paimon: It really sounds like something big outside of the city is being hidden on purpose!
+Media:vo xmaq013 3 paimon 11.ogg Paimon: But this way, we'll also never discover what's outside...
+Media:vo xmaq013 3 paimon 12.ogg Paimon: Something like a message? But how can we send it back?
+Media:vo xmaq013 3 paimon 13.ogg Paimon: Yep! Now we're talking!
+Media:vo xmaq013 3 paimon 14.ogg Paimon: What? Isn't this just an Akasha Terminal?
+Media:vo xmaq013 3 paimon 15.ogg Paimon: To make something like this... Nahida, you really know the Akasha like the back of your hand! Anyway, we can use this now to record a message, right?
+Media:vo xmaq013 3 paimon 16.ogg Paimon: We'll never know until we try! At least we're taking the initiative now!
+Media:vo xmaq013 3 paimon 17.ogg Paimon: Let's go then. Let's expose those sages!
+Media:vo xmaq013 3 paimon 18.ogg Paimon: Ahh... Alright. Paimon isn't as worried about being separated since it happened once yesterday, but... Paimon still isn't happy about it...
+Media:vo xmaq013 3 paimon 19.ogg Paimon: Okay! See you tomorrow, Traveler!
+Media:vo xmaq013 4 hero 01.ogg Media:vo xmaq013 4 heroine 01.ogg (Traveler): "...Can't go back... There are countless spaces here. Our Sabzeruz Festival in Sumeru City is just one of them..."
+Media:vo xmaq013 4 hero 02.ogg Media:vo xmaq013 4 heroine 02.ogg (Traveler): "...I've entered another space... Before me are flowing sandstone and howling fish... Impossible and surreal sights..."
+Media:vo xmaq013 4 hero 03.ogg Media:vo xmaq013 4 heroine 03.ogg (Traveler): "...All these spaces are empty except for the occasional ones that contain mute puppets rather than people... I can't sense any human presence..."
+Media:vo xmaq013 4 hero 04.ogg Media:vo xmaq013 4 heroine 04.ogg (Traveler): ...These spaces have been disappearing one after the other... Absorbed by something like a sun in the sky...
+Media:vo xmaq013 4 hero 05.ogg Media:vo xmaq013 4 heroine 05.ogg (Traveler): *beep* ...And now, even the final space has also disappeared...
+Media:vo xmaq013 4 hero 06.ogg Media:vo xmaq013 4 heroine 06.ogg (Traveler): ...Behind me, a lot of spaces just appeared again from thin air... I get it now! Those spaces are actually—
+Media:vo xmaq013 4 nahida 01.ogg Nahida: Yes. Although the signal was choppy and had some interference, we still managed to receive two messages from you when you were outside.
+Media:vo xmaq013 4 nahida 02.ogg Nahida: There's one final part here... I only received it late last night.
+Media:vo xmaq013 4 nahida 03.ogg Nahida: Probably because "yesterday" just happened to end at that moment.
+Media:vo xmaq013 4 nahida 04.ogg Nahida: The message. It should've come from the Traveler's Akasha Terminal.
+Media:vo xmaq013 4 nahida 05.ogg Nahida: Traveler, what do you think that "final space" could have been?
+Media:vo xmaq013 4 nahida 06.ogg Nahida: Well, consider this, for all the horrors of the Archon War, at its heart, it was just a game where a bunch of gods fought over seven seats.
+Media:vo xmaq013 4 nahida 07.ogg Nahida: So no matter how strange or spooky things might look on the surface, maybe all they point to in the end is a small and simple secret.
+Media:vo xmaq013 4 paimon 01.ogg Paimon: ...That covers everything that's happened so far.
+Media:vo xmaq013 4 paimon 02.ogg Paimon: Okay, now that you understand what's going on, let's hear the messages together!
+Media:vo xmaq013 4 paimon 03.ogg Paimon: ...That's one heck of an info dump! It sounds like you left the Sumeru City space when you set foot outside of the walls.
+Media:vo xmaq013 4 paimon 04.ogg Paimon: ...But everything looked completely normal when Paimon was looking out from the inside! That's unbelievable. And if we take your word for it, the other spaces all had very weird contents...
+Media:vo xmaq013 4 paimon 05.ogg Paimon: Ah... Ugh, why did the message end right there? What did the Traveler want to say? What are those spaces?
+Media:vo xmaq013 4 paimon 06.ogg Paimon: Oh, right, Paimon did hear a beep from the Akasha. Did it come from here or from the message?
+Media:vo xmaq013 4 paimon 07.ogg Paimon: After the beep, Traveler said, "Even the final space has also disappeared..."
+Media:vo xmaq013 4 paimon 08.ogg Paimon: Ohh, so that's what it is! After the sound of the beep, the final space — the Sabzeruz Festival — also disappears, and we're taken to the next day.
+Media:vo xmaq013 4 paimon 09.ogg Paimon: Later on, Traveler also mentioned a bunch of new spaces materializing behind them... Do lots of new spaces appear every day?
+Media:vo xmaq013 4 paimon 10.ogg Paimon: Paimon's head is spinning... Just what are these "spaces," anyhow?
+Media:vo xmaq013 4 paimon 11.ogg Paimon: Wow, the Archon War, huh? That's an analogy and a half.
+Media:vo xmaq013 4 paimon 12.ogg Paimon: Hey, where are you going?
+Media:vo xmaq013 5 dunyarzad 01.ogg Dunyarzad: ...The Dance of Sabzeruz is about to begin. I'm going to go watch it.
+Media:vo xmaq013 5 dunyarzad 02.ogg Dunyarzad: Okay then. See you later.
+Media:vo xmaq013 5 paimon 01.ogg Paimon: Do you want some alone time to think? Alright then, Paimon won't disturb you.
+Media:vo xmaq013 5 paimon 02.ogg Paimon: Okay, um... Why don't you go ahead, Dunyarzad? We still have some other stuff to do first.
+Media:vo xmaq013 5 paimon 03.ogg Paimon: Have you figured it out yet, Traveler? Time is ticking away.
+Media:vo xmaq013 5 paimon 04.ogg Paimon: Awesome! What is it? Paimon wants to know! ...Wait, no, let's meet up with Nahida first. You can tell us both together. This time, we're gonna get to the truth!
+Media:vo xmaq013 6 nahida 01.ogg Nahida: You're back. I've been waiting forever for you two. Judging by the looks on your faces...
+Media:vo xmaq013 6 nahida 02.ogg Nahida: Are you ready to take your Sabzeruz Exam and graduate from the festival?
+Media:vo xmaq013 6 nahida 03.ogg Nahida: Hehe, okay, first off... Have you discovered the hidden truth?
+Media:vo xmaq013 6 nahida 04.ogg Nahida: Correct answer. Now, how did you conclude that the Akasha is capable of this?
+Media:vo xmaq013 6 nahida 05.ogg Nahida: Dreams are fantastical, complex, and full of imagination. People's brains are the most active when they're dreaming.
+Media:vo xmaq013 6 nahida 06.ogg Nahida: In other words, dreams are rich bundles of human wisdom.
+Media:vo xmaq013 6 nahida 07.ogg Nahida: Oh? By the sounds of it, you understand the current situation pretty well. So then, what about this samsara?
+Media:vo xmaq013 6 nahida 08.ogg Nahida: Correct. The Akasha is keeping each person's brain in a constant dream state, but also separating their consciousness from their own dream.
+Media:vo xmaq013 6 nahida 09.ogg Nahida: Their disembodied consciousness is placed inside the collective dream of the Sabzeruz Festival along with everyone else's, while their now-vacant dreams are harvested by the Akasha.
+Media:vo xmaq013 6 nahida 10.ogg Nahida: No one is any the wiser as another day passes in the dream, and so begins another samsara cycle...
+Media:vo xmaq013 6 nahida 11.ogg Nahida: People "wake up" to yet another dream about the Sabzeruz Festival, the dreams that belong to them are once again harvested by the Akasha... and so it continues.
+Media:vo xmaq013 6 nahida 12.ogg Nahida: Very good, Paimon. Using analogies well is an excellent habit to get into.
+Media:vo xmaq013 6 nahida 13.ogg Nahida: Alright, last question... Who am I?
+Media:vo xmaq013 6 nahida 14.ogg Nahida: Hehe. So you noticed.
+Media:vo xmaq013 6 nahida 15.ogg Nahida: Aww, I thought that one would be the hardest question. That's why I put it last.
+Media:vo xmaq013 6 nahida 16.ogg Nahida: Yes, those can wait until we're back in real life.
+Media:vo xmaq013 6 nahida 17.ogg Nahida: On the other hand, I'd be happy to answer any more questions you have about here and now.
+Media:vo xmaq013 6 nahida 18.ogg Nahida: You asked me this question before. My answer was: "It would literally blow your minds."
+Media:vo xmaq013 6 nahida 19.ogg Nahida: Now that you know this is all a dream, this answer should hopefully make more sense...
+Media:vo xmaq013 6 nahida 20.ogg Nahida: Have you heard the saying "Don't wake a sleepwalker"? Likewise, if someone suddenly had told you all of this instead of you learning it on your own...
+Media:vo xmaq013 6 nahida 21.ogg Nahida: Your notion of reality and dream would be thrown into irreversible confusion. I couldn't expose you to that kind of risk.
+Media:vo xmaq013 6 nahida 22.ogg Nahida: That's why I could only give you very subtle hints and some suggestions. Long story short, I'm really sorry I had to keep you guessing.
+Media:vo xmaq013 6 nahida 23.ogg Nahida: Firstly, this dream we're in is completely based on reality. People have already experienced this Sabzeruz Festival, so it would be very difficult for them to find anything that strikes them as surreal.
+Media:vo xmaq013 6 nahida 24.ogg Nahida: Secondly, you're probably wondering why people don't have any memories from earlier samsara, right?
+Media:vo xmaq013 6 nahida 25.ogg Nahida: That's because people don't remember their dreams most of the time anyway. And in any case, their actual dreams are being taken away from them by the Akasha...
+Media:vo xmaq013 6 nahida 26.ogg Nahida: So whenever they "wake up" in this dream of the Sabzeruz Festival, they don't remember anything from their previous, identical dream.
+Media:vo xmaq013 6 nahida 27.ogg Nahida: Yes. Only after receiving the blessing of Dendro can a person gain the Dendro element's dream-enhancing power. That explains the feelings of déjà vu.
+Media:vo xmaq013 6 nahida 28.ogg Nahida: Meanwhile, everyone else has no idea that they are in a Sabzeruz Festival samsara while their dreams are stolen from them over and over again.
+Media:vo xmaq013 6 nahida 29.ogg Nahida: You might say your mental fatigue has already answered this question. Eventually, there is only so much that people can tolerate.
+Media:vo xmaq013 6 nahida 30.ogg Nahida: Especially those whose health is compromised to begin with... like Dunyarzad. This relentless exploitation takes an even harder toll on them.
+Media:vo xmaq013 6 nahida 31.ogg Nahida: I know, right? Why did they have to base this dream on my birthday? Could it really just be a coincidence?
+Media:vo xmaq013 6 nahida 32.ogg Nahida: The Akademiya's sages are determined to harvest lots of dreams in a short time, no matter the cost. They have to be up to no good. Unfortunately, I don't know anything about it.
+Media:vo xmaq013 6 nahida 33.ogg Nahida: Traveler, do you have any information?
+(The Traveler enters Contemplation)
+Media:vo xmaq013 6 nahida 34.ogg Nahida: "Celebrate the birth of that god"...
+Media:vo xmaq013 6 nahida 35.ogg Nahida: Could it mean...
+Media:vo xmaq013 6 nahida 36.ogg Nahida: Deceiving the people of Sumeru with no regard for their safety... No matter what they're trying to do, this is unforgivable.
+Media:vo xmaq013 6 nahida 37.ogg Nahida: After we end the Sabzeruz Festival samsara, we have to look into them...
+Media:vo xmaq013 6 nahida 38.ogg Nahida: In the end, I'm just the Moon. The real Sun is long gone.
+Media:vo xmaq013 6 nahida 39.ogg Nahida: I'll tell you how to break free of the samsara tomorrow. See you then...
+Media:vo xmaq013 6 paimon 01.ogg Paimon: People in Sumeru think they don't dream, but the truth is, the Akasha steals their dreams without them knowing it.
+Media:vo xmaq013 6 paimon 02a.ogg Media:vo xmaq013 6 paimon 02b.ogg Paimon: And those spaces with no human presence are stolen dreams without their host? That would explain why they sounded so weird when (he/she) was trying to describe them...
+Media:vo xmaq013 6 paimon 03.ogg Paimon: Huh, so people in Sumeru do dream after all. In fact, we're all in one big dream together right now!
+Media:vo xmaq013 6 paimon 04.ogg Paimon: Ooh, okay. Those dream-controlling creatures in the forest also get their power from the Dendro Archon, right? That would explain why the Akasha has the ability to control people's dreams, too.
+Media:vo xmaq013 6 paimon 05.ogg Paimon: But... is stealing everyone's dreams really how the Akasha compiles their wisdom? Isn't there anything more to it than that?
+Media:vo xmaq013 6 paimon 06.ogg Paimon: So in other words, the complete opposite of how Haypasia understood it...
+Media:vo xmaq013 6 paimon 07.ogg Paimon: Paimon remembers her saying that the sages think dreams are "foolish delusions," and the fact that no one dreams is a blessing from Greater Lord Rukkhadevata... Hmph, so it was all a dirty trick!?
+Media:vo xmaq013 6 paimon 08.ogg Paimon: The real story is that the sages from the Akademiya are using the Akasha to steal people's dreams for their own use, huh?
+Media:vo xmaq013 6 paimon 09.ogg Paimon: So... this is like a dream factory, and the Akasha is... a dream-harvesting machine. Did Paimon get that analogy right?
+Media:vo xmaq013 6 paimon 10.ogg Paimon: Okay, so that beep we keep hearing is actually from our real-life Akasha Terminals... Taking off our terminals in this dream doesn't do anything...
+Media:vo xmaq013 6 paimon 11.ogg Paimon: Pff, that wasn't hard at all. Even Paimon guessed that! Everything about you is different. We just didn't wanna expose you is all.
+Media:vo xmaq013 6 paimon 12.ogg Paimon: Now that you mention it... Nahida, you've been hinting to us since the very beginning...
+Media:vo xmaq013 6 paimon 13.ogg Paimon: It's funny thinking back to when we were asking all over the place for info about Lesser Lord Kusanali. Paimon didn't expect to meet you like this!
+Media:vo xmaq013 6 paimon 14.ogg Paimon: That reminds Paimon. Traveler had a dream when we were in the Avidya Forest, but couldn't say what it was about after waking up. Is that an example of what you mean?
+Media:vo xmaq013 6 paimon 15.ogg Paimon: Can humans really keep dreaming forever like this? Will it ever end? And if so, when?
+Media:vo xmaq013 6 paimon 16.ogg Paimon: People's lives are at stake here, and nobody knows a thing... We've gotta put a stop to this!
+Media:vo xmaq013 6 paimon 17.ogg Paimon: Even you don't know the reason? Wow, now that's strange.
+Media:vo xmaq013 6 paimon 18.ogg Paimon: How can the sages of the Akademiya do this behind their Archon's back? This is ridiculous!
+Media:vo xmaq013 6 paimon 19.ogg Paimon: A Sun and a Moon... Nahida's talking in riddles again...
+Media:vo xmaq013 6 paimon 20.ogg Paimon: Oh, we're out of time today.
+Paimon describes your plan from yesterday...
+Two days ago.

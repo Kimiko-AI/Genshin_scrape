@@ -1,0 +1,75 @@
+ Fumbling Footprints
+ I broke the containers and flowers by accident...
+ I have them all here.
+Flora: All of them? That's great! Here, let me see.
+Flora: Hehe, not bad at all. Hmm... Looks like this method really does work.
+Flora: The only problem is that Dragonspine is really far from Mondstadt. I can't be troubling you every time, either. I have to find some other way in future...
+Flora: Thank you very much, all the same. Here's your compensation, please take it!
+ I only managed to retrieve one of them...
+Flora: The others couldn't be retrieved?  Um...  Well, alright then.  It is quite hard to predict conditions on that mountain, after all.
+Flora: But if we only have one, then we can't make any comparisons.  I suppose we'll just have to wait for an opportunity to have another look...
+Flora: Thank you for taking the trouble, though.  Here, I prepared these as compensation — I might need to call upon your help in the future as well.
+ I'm sorry...
+ No problem.
+Flora: I'm counting on you, then.  I'll be waiting here, so do come back soon.
+ Quest DescriptionTo help Flora ascertain the effectiveness of putting plants in cold storage, you must head to Dragonspine once again to retrieve the flowers buried in the snow...
+ Retrieve
+ Where did I put them, again?
+Flora: You forgot? You put them beside a Statue of The Seven, by a body of water in the mountains, and near a cavern.
+Flora: Let me help you mark them on your map again.
+Flora: *sigh* Maybe I should try the method that Sara suggested after all...
+Flora: All of them? That's great! Here, let me see.
+Flora: But if we only have one, then we can't make any comparisons.  I suppose we'll just have to wait for an opportunity to have another look...
+Flora: B—By accident!?
+Flora: Could you help me go up the mountain and bring those flowers back?
+Flora: Do you still remember the flowers that I asked you to store on Dragonspine?
+Flora: Eh? What happened?
+Flora: Hehe, not bad at all. Hmm... Looks like this method really does work.
+Flora: Here, over here!
+Flora: How are the flowers that we stored away on Dragonspine earlier?
+Flora: How are the flowers?
+Flora: I'm counting on you, then.  I'll be waiting here, so do come back soon.
+Flora: Is Dragonspine so dangerous that even an adventurer like you couldn't keep one container from...
+Flora: It's been a day since then, and I'd like to see the results of our cold storage experiment.
+Flora: Let me help you mark them on your map again.
+Flora: Still, thanks for making that trip for me. Please take these as thanks. Now, if you'll excuse me, I have to go tend to my flowers.
+Flora: Thank you for taking the trouble, though.  Here, I prepared these as compensation — I might need to call upon your help in the future as well.
+Flora: Thank you very much, all the same. Here's your compensation, please take it!
+Flora: The only problem is that Dragonspine is really far from Mondstadt. I can't be troubling you every time, either. I have to find some other way in future...
+Flora: The others couldn't be retrieved?  Um...  Well, alright then.  It is quite hard to predict conditions on that mountain, after all.
+Flora: Ugh... I specifically picked those flowers out. You can't find such good flowers just anywhere...
+Flora: You forgot? You put them beside a Statue of The Seven, by a body of water in the mountains, and near a cavern.
+Paimon: C—Careful, here they come!  Looks like there's no reasoning with them, either!
+Paimon: Did someone steal the flowers we buried here?  Let's give chase, and quick!
+Paimon: Eek, it's the Treasure Hoarders!  Did they take our flowers for some sort of treasure?
+Paimon: Hey! Stop rummaging through the snow like that!
+Paimon: Huh, there are footprints here, and they lead into that mountain cave...
+Paimon: Huh? Where did the container we buried here go? Why's it gone?
+Paimon: Looks like only one out of the three containers is still in one piece.
+Paimon: No sign of the container or the flowers around here...
+Paimon: Oh well, guess we're bringing this one back to Flora, then.
+(Continue to Returning to Flora: Flowers Collected)
+Paimon: That's that, then!  Retrieval complete!
+(Obtain Package of Fresh Flowers ×1)
+(Continue to The Body of Water: Flowers Absent)
+Paimon: That's that, then!  Retrieval complete!
+(Obtain Package of Fresh Flowers ×1)
+(Continue to The Cavern: Flowers Absent)
+Paimon: That's that, then! Retrieval complete!
+(Obtain Package of Fresh Flowers ×1)
+(Continue to Returning to Flora: Flowers Collected)
+Paimon: The snow around here's all churned up, and the container and flowers are gone...
+Paimon: These flowers are irretrievable. Let's go to the next spot.
+(Continue to The Body of Water)
+Paimon: They must have opened the container before tossing both that and the flowers aside once it became clear that they had no value...
+Paimon: This place is a mess... The flower box is gone. Let's go to the next spot.
+(Continue to The Cavern)
+Paimon: Ugh... The container and flowers are ruined.
+Paimon: We only manage to retrieve one!
+Paimon: What's with all the hilichurls? Did they ruin the flowers?
+Paimon: Who did this!?
+Paimon: Wow, we're in trouble now... Best we go back and apologize to Flora...
+(Continue to Returning to Flora: Flowers Melted)
+Paimon: Wow, we're in trouble now... Best we go back and apologize to Flora...
+(Skip to Returning to Flora: Flowers Melted)
+Paimon:Let's return to Flora!

@@ -1,0 +1,34 @@
+Media:vo mdaq066 5 diluc 01.ogg Diluc: Do not underestimate them just because I have beaten one of them before.
+Media:vo mdaq066 5 diluc 02.ogg Diluc: I'm not boasting. I'm simply saying there is more to the Abyss Order than a few mages.
+Media:vo mdaq066 5 paimon 02.ogg Paimon: Hmm... Do you think there will be Abyss Mages hiding in the ruins?
+Media:vo mdaq066 5 paimon 03.ogg Paimon: Either way, if we do run into one, we will let the victorious Master Diluc do the—
+Media:vo mdaq066 5 paimon 04.ogg Paimon: So says the person that made zero effort to search for the dragon tears and drank in the tavern all day!
+Media:vo mdaq066 5 paimon 05.ogg Paimon: Paimon doesn't get it, what part of you is remotely diligent?
+(When approaching the wind current)
+Media:vo mdaq066 5 venti 01.ogg Venti: Correct. That's why I tagged along, after all.
+Media:vo mdaq066 5 venti 02.ogg Venti: Well, that — and also for your safety.
+Media:vo mdaq066 5 venti 03.ogg Venti: Ah, why am I so diligent? Too diligent for a poet, in fact!
+Media:vo mdaq067 1 paimon 01.ogg Paimon: Looks like this is the front gate to Stormterror's Lair.
+Media:vo mdaq067 1 paimon 02.ogg Paimon: The gate is enormous compared to us... But still, Paimon wonders how Dvalin gets in there with a body that huge?
+Media:vo mdaq067 1 paimon 03.ogg Paimon: ...Oh. Hmm, you do have a point.
+(At the entrance)
+Media:vo mdaq067 1 venti 01.ogg Venti: He doesn't walk in, he flies in.
+Media:vo mdaq067 2 paimon 01.ogg Paimon: It's stuck.
+Media:vo mdaq067 2 paimon 02.ogg Paimon: Hey, check out that roof. Is there a giant hole in it?
+Media:vo mdaq067 2 paimon 03.ogg Paimon: Let's make a detour then. Heading up!
+Media:vo mdaq067 2 venti 01.ogg Venti: It's stuck.
+Media:vo mdaq067 2 venti 02.ogg Venti: Hmm... I suppose we could make use of that wind current.
+Media:vo mdaq067 2 venti 03.ogg Venti: Let's make a detour then. Heading up!
+Media:vo mdaq067 3 paimon 01.ogg Paimon: Look! A wind current.
+Media:vo mdaq067 3 paimon 02.ogg Paimon: It might lead us to the top of the tower.
+Media:vo mdaq067b 1 diluc 01.ogg Diluc: The markings on this seal... If my archaeological knowledge is not mistaken, this appears to be a light actuator.
+Media:vo mdaq067b 1 diluc 02.ogg Diluc: If we retrieve and reintegrate all the parts, we should be able to get it working.
+Media:vo mdaq067b 1 paimon 01.ogg Paimon: Is this the work of Dvalin?
+Media:vo mdaq067b 1 qin 01.ogg Jean: We should be close to completing the ceremony for this actuator.
+Media:vo mdaq067b 1 qin 02.ogg Jean: Let's put the last part back and see.
+Media:vo mdaq067b 1 venti 01.ogg Venti: Oh, we can't advance any further. The ruins seem to be guarded by ancient seals.
+Media:vo mdaq067b 1 venti 02.ogg Venti: No. These ruins were once part of an ancient city. Dvalin just happens to be nesting in these ruins for now.
+Media:vo mdaq067b 1 venti 03.ogg Venti: These ruins even predate the existence of The Four Winds.
+Media:vo mdaq067b 1 venti 04.ogg Venti: Mondstadt is a city without a ruler. However, before it was...
+Media:vo mdaq067b 1 venti 05.ogg Venti: It was ruled over by a tyrant.
+Media:vo mdaq067b 1 venti 06.ogg Venti: Anyway... I'll sing you that story when we have a chance in the future.

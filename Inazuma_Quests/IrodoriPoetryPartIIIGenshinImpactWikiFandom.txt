@@ -1,0 +1,69 @@
+
+(Requires a photo of Wolfhook or Valberry)
+'Tis the first bite on a wild berryO the sourness of curiosity you will never forget
+
+Lenne: Connecting a flower to a lover is common to all nations, and this sentence compares remembering the sights of Inazuma to recalling one's first love.
+
+Lenne: Indeed, using "tracing the wind's footsteps" as a metaphor for setting off on a journey is a very Mondstadt-like expression.
+
+Lenne: The wild fruit in here must be alluding to some painful experiences. It is not a purely joyful memory, like the first taste of alcohol or the first reading of a poem, but it nonetheless leaves a deep impression.
+
+Lenne: This line says that though one may leave Inazuma, the things one has seen here will remain in one's heart forever.
+ Have them right here.
+ I haven't finished taking them yet.
+ Leave it to me.
+ Quest DescriptionThis time, it is Ootomo who wants to try his hand at writing Mondstadt-style poetry. Who knows what literary sparks might fly this time?
+'Tis a freshly picked flower, its shape round and plumpLike a throbbing heart when seeing a maiden of love
+'Tis the first bite on a wild berryO the sourness of curiosity you will never forget
+'Tis the first stride in search of the windOn an unknown path a journey unfolds
+'Tis the steep cliff climbed in youthA lonely silhouette lingering in the dream
+(Requires a photo of Cecilia)
+'Tis a freshly picked flower, its shape round and plumpLike a throbbing heart when seeing a maiden of love
+(Requires a photo of Dandelion Seed, Windwheel Aster, or Philanemo Mushroom)
+'Tis the first stride in search of the windOn an unknown path a journey unfolds
+(Requires a photo of Small Lamp Grass or Calla Lily)
+'Tis the steep cliff climbed in youthA lonely silhouette lingering in the dream
+(missing stanza)
+Farewell, Mountain Sakura
+Lenne: Ah, when I think that this journey in Inazuma must end and that we shall not read each other poems again like this, I cannot help but feel a little sad.
+Lenne: Connecting a flower to a lover is common to all nations, and this sentence compares remembering the sights of Inazuma to recalling one's first love.
+Lenne: Haha, it is my honor to accept such a gift!
+Lenne: Inazuman poetry puts some limits on the number of words that may be in any given line. As such, they pay much attention to the length of each word, while the poems that emerge have both a neat look and a unique flavor to them.
+Lenne: Indeed, using "tracing the wind's footsteps" as a metaphor for setting off on a journey is a very Mondstadt-like expression.
+Lenne: Indeed. The trip to Inazuma was a pretty bumpy one, but none of that matters now. Even when I return to Mondstadt, I will remember everything I've seen here in Inazuma.
+Lenne: Is that so? Ah, how I wish I could see that new work of yours right this instant!
+Lenne: Ootomo's poem has really broken through the usual form of the Inazuman poem, yet it also uses its ancient style to depict all manner of unforgettable human experiences.
+Lenne: Perhaps he means to say that although Mondstadt and Inazuma may seem greatly different, they do share some common aesthetics — just as how the two of us, despite being from these different nations, were able to bond as poets.
+Lenne: That would be wonderful!
+Lenne: The wild fruit in here must be alluding to some painful experiences. It is not a purely joyful memory, like the first taste of alcohol or the first reading of a poem, but it nonetheless leaves a deep impression.
+Lenne: This is also thanks to the pictures you brought.
+Lenne: This line says that though one may leave Inazuma, the things one has seen here will remain in one's heart forever.
+Lenne: We will!
+Ootomo: Ah, to think that you were able to grasp the feelings behind this verse so quickly, despite being so young...
+Ootomo: Ah, you're here.
+Ootomo: Although I'm an old man now, after meeting friends from Mondstadt in recent days, I have grown quite interested in the place.
+Ootomo: And you too, learned young (man/lady) — that we three should have met here... There must be some destiny at play.
+Ootomo: Few of them write about freedom or the wind, though.
+Ootomo: For this poem, I wrote in imitation of Mondstadt's bards, and the verse will also mention some of that land's scenery.
+Ootomo: Haha, in that case, I'll be counting on you. Just like in the previous days, 4 pictures will do the trick.
+PartingAll feasts must someday end. The two poets decide to correspond via letters in the future. As a parting gift, they want to pour all their heart and soul into this poem...Take pictures of Mondstadt's regional specialties to get key inspiration material.
+Ootomo: Here's my draft, written according to the pictures you brought back. Why don't you choose the stanzas we should use?
+Farewell, Mountain Sakura
+Ootomo: I didn't believe in the idea of making friends of disparate ages from yourself before, but now I know that it is true. What a joyful truth it is!
+Ootomo: I hope that someday, we three shall meet once again.
+Ootomo: I plan to ponder the matter of expanding the content of our writing. Who knows? I might actually start a new wave in Inazuman poetry like this.
+Ootomo: I'm sorry for troubling you. What we need today are pictures of Mondstadt's regional specialties. Just as before, 4 pictures will do.
+Ootomo: Lenne wrote of our regret that we did not meet sooner yesterday, and so today I wish to gift him a verse as well.
+Ootomo: Other than the lengths of words and phrases, Inazuman poets also love natural sights such as snow, the moon, and flowers.
+Ootomo: Thank you, thank you. Ah, with these, I can finally pen a satisfactory poem down. Now then, let me think...
+Ootomo: Though they say that "all feasts must someday end," it is inevitable that we shall feel sadness. Lenne, shall we correspond via letters in the future?
+Ootomo: Unfortunately, I've never been to Mondstadt... But could you help me take a few pictures of Mondstadt's regional specialties?
+Ootomo: Well then, how are the pictures coming along?
+Paimon: But we can always take a few more. This is his parting gift to Lenne, after all.
+Paimon: Paimon thinks we've taken enough pictures for Ootomo to use.
+Paimon: This picture looks pretty good. Ootomo should be able to use this just fine.
+Paimon: We've taken pictures of all of Mondstadt's regional specialties. Let's head back and look for Ootomo.
+PartingAll feasts must someday end. The two poets decide to correspond via letters in the future. As a parting gift, they want to pour all their heart and soul into this poem...Take pictures of Mondstadt's regional specialties to get key inspiration material.
+So my friend, cast your glance upon the sakura once more
+So my friend, cast your glance upon the sakura once more'Tis a newly written ballad on your lipsBury it in your heartHang it high amidst the starry night
+So my friend, cast your glance upon the sakura once more'Tis the first sip of a sweet sakeSavor its eternal tenderness that renders you in awe

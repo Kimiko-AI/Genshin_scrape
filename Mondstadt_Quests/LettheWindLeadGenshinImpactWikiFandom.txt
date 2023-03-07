@@ -1,0 +1,48 @@
+ Abyss Mage? Never heard such a name.
+Media:vo mdaq043 4 venti 09a.ogg Venti: They are from the Abyss Order, an organization comprised of non-human beings. They despise mankind.
+ I think I've heard of them before in Mondstadt...
+Media:vo mdaq043 4 venti 09b.ogg Venti: Correct. They are from the Abyss Order, an organization comprised of non-human beings. They despise mankind.
+ I want to know more about the Anemo God.
+ Oh, ah... that...
+ Quest DescriptionThe mysterious fellow claimed to be a bard named Venti, but left on his own accord before you could get him to explain his relationship with the dragon. You follow him to the giant tree at Windrise.
+ That was ...me?
+ Yes, someone told me about Dvalin's past.
+Media:vo mdaq042 2 paimon 01.ogg Paimon: Oh... ahhh... it's because gods...
+Media:vo mdaq042 2 venti 01.ogg Venti: Oh? What are you doing here?
+Media:vo mdaq042 2 venti 02.ogg Venti: Though I was just wondering if you would happen to follow me...
+Media:vo mdaq042 2 venti 03.ogg Venti: You speak of the God of Anemo, Barbatos? He already disappeared from Mondstadt a long time ago.
+Media:vo mdaq042 2 venti 04.ogg Venti: Liyue and Inazuma's respective gods of Geo and Electro are still present, but Mondstadt has seen many a moon since they last saw their own god.
+Media:vo mdaq042 2 venti 05.ogg Venti: Why do you wish to know about the God of Anemo? Does it have something to do with Dvalin?
+Media:vo mdaq042 2 venti 06.ogg Venti: Just how is it that everyone sees Stormterror? I'm quite curious.
+Media:vo mdaq042 2 venti 07.ogg Venti: That said, there's no need to rush...
+Media:vo mdaq042 2 venti 08.ogg Venti: I have not been back in a while, it seems there are a few who are unhappy with my arrival.
+Media:vo mdaq043 3 paimon 01.ogg Paimon: The wind... I can't... open my eyes...
+Media:vo mdaq043 3 paimon 02.ogg Paimon: What is a creature like that doing out here in such a calm place?
+Media:vo mdaq043 3 paimon 03.ogg Paimon: You think it was going after that green guy?
+Media:vo mdaq043 3 paimon 04.ogg Paimon: (Traveler)... His relationship with the wind seems even deeper than yours...
+Media:vo mdaq043 4 paimon 01.ogg Paimon: Degra... dation?
+Media:vo mdaq043 4 paimon 02.ogg Paimon: So... how exactly did you get poisoned?
+Media:vo mdaq043 4 paimon 03.ogg Paimon: The Mondstadt Cathedral? To do what exactly?
+Media:vo mdaq043 4 venti 01.ogg Venti: Seems the dragon wasn't the only thing affected by this change in the wind...
+Media:vo mdaq043 4 venti 02.ogg Venti: Now then, you were saying someone had told you about the dragon?
+Media:vo mdaq043 4 venti 03.ogg Venti: Is that so? Quite the scholar I must say, that Lisa.
+Media:vo mdaq043 4 venti 04.ogg Venti: She's not wrong. The conflict has reached this point, only because both sides have resorted to the use of force.
+Media:vo mdaq043 4 venti 05.ogg Venti: His hate, however, did not arise from the people not making tribute to The Four Winds.
+Media:vo mdaq043 4 venti 06.ogg Venti: Nor was it born from his own nature, but instead came about as a product of his degradation.
+Media:vo mdaq043 4 venti 07.ogg Venti: The black blood flowing through his heart has been torturing him for years.
+Media:vo mdaq043 4 venti 08.ogg Venti: That's what has allowed him to be led astray by the lies of the Abyss Mage.
+Media:vo mdaq043 4 venti 09a.ogg Venti: They are from the Abyss Order, an organization comprised of non-human beings. They despise mankind.
+Media:vo mdaq043 4 venti 09b.ogg Venti: Correct. They are from the Abyss Order, an organization comprised of non-human beings. They despise mankind.
+Media:vo mdaq043 4 venti 10.ogg Venti: I don't know where they come from. All I know is that they hold deep hatred towards the human world.
+Media:vo mdaq043 4 venti 11.ogg Venti: Many hilichurls out in the wild take orders from them and act as their weapons.
+Media:vo mdaq043 4 venti 12.ogg Venti: Before arriving here, I too was like Dvalin, cursed and left to waste.
+Media:vo mdaq043 4 venti 13.ogg Venti: But now, before us stands the Symbol of Mondstadt's Hero, the place from which Mondstadt rose.
+Media:vo mdaq043 4 venti 14.ogg Venti: The wind amongst the branches is good, I love the way it smells...
+Media:vo mdaq043 4 venti 15.ogg Venti: Being here with you beneath this great tree feels like when the tear was purified earlier. Like the poison is leaving my body...
+Media:vo mdaq043 4 venti 16.ogg Venti: Mmmmmmm... Feels much better.
+Media:vo mdaq043 4 venti 17.ogg Venti: Ahh... that would be because I tried to communicate with Dvalin earlier, but was... interrupted...
+Media:vo mdaq043 4 venti 18.ogg Venti: As a result, not only did I not manage to help Dvalin break his curse, but instead, was also infected myself!
+Media:vo mdaq043 4 venti 19.ogg Venti: Yes, it was you!
+Media:vo mdaq043 4 venti 20.ogg Venti: So, to make up for it, (Traveler), you're coming with me to the Cathedral!
+Media:vo mdaq043 4 venti 21.ogg Venti: To claim a certain "Holy Lyre der Himmel."
+You tell Venti what Lisa explained to you...

@@ -1,0 +1,30 @@
+ Not yet.
+Soheil: Alright. If you do find anything, please share them with me and quench my thirst for knowledge.
+ Quest DescriptionSoheil's archaeological notes record his desert adventures in his youth. Some of the ruins mentioned may contain treasures and old documents. Head into the depths of the desert again to look for them.
+ Quest DescriptionThe ruins near the Dune of Carouses? You've found some old documents there before, so you can just directly give them to Soheil.
+ We explored the Tomb of Carouses.
+Soheil: So you went to the Tomb of Carouses... It's a miniature version of the Mausoleum of King Deshret, just like I said, right? So, any new discoveries?
+Paimon: Eh? How can this be?
+Paimon: Gah, this mechanism has changed color, but nothing happened at all. Is it damaged or something?
+Paimon: Heh, no wonder Soheil called this place the Lesser Mausoleum of King Deshret. It's a lot like the main tomb!
+Paimon: If our previous experience is anything to go by, something around here should've changed. Let's try to find it.
+Paimon: Paimon wonders which one came first.
+Paimon: What is it, what is it? It has so many words, so it's got to be valuable, right?
+Paimon: What's that noise? Feels like it came from deeper inside that pathway...
+Soheil: "The Retreat of the Sheep: A Preliminary Study of Environmental Change in the Desert."
+Soheil: Alright. If you do find anything, please share them with me and quench my thirst for knowledge.
+Soheil: And as for this slate...
+Soheil: But that's okay, I can still squeeze a paper out of this, albeit a short one...
+Soheil: From what I can tell, it's an ordinary fable that features some animals.
+Soheil: It sounds like you didn't find anything special. I guess size isn't the only difference between the two locations.
+Soheil: It sounds like you didn't find anything special. I guess size isn't the only difference between the two locations.
+Soheil: And as for this slate...
+Paimon: What is it, what is it? It has so many words, so it's got to be valuable, right?
+Soheil: From what I can tell, it's an ordinary fable that features some animals.
+Paimon: Eh? How can this be?
+Soheil: But that's okay, I can still squeeze a paper out of this, albeit a short one...
+Soheil: "The Retreat of the Sheep: A Preliminary Study of Environmental Change in the Desert."
+(Quest completes)
+Soheil: So you went to the Tomb of Carouses... It's a miniature version of the Mausoleum of King Deshret, just like I said, right? So, any new discoveries?
+Soheil: You're back. Did you find anything special in the desert?
+You recount your exploration of the Tomb of Carouses to Soheil and give him the stone slate.

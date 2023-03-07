@@ -1,0 +1,163 @@
+ ...is just a cover-up?
+ Are you sure?
+ Gorou! Hang in there!
+ How was your trip to Ritou?
+ Quest DescriptionThe Irodori Festival is drawing to a close, but the harbor arrival schedule shows that there is still one more ship arriving bearing guests...
+ See you tomorrow night, Gorou.
+ Step DescriptionAccompany Gorou to buy books at the Irodori Festival
+ Step DescriptionBring Gorou to see Onodera and pick up the new issue of "A Legend of Sword" for "Sole of the Deep."
+ Step DescriptionGorou has not only gotten a special edition novel that comes with a review by Miko, but he has also won a raffle opportunity. It seems that his good luck persists...
+ Step DescriptionGorou seems to have hidden for fear of dealing with Miko. To ameliorate his guilt, Kokomi suggests getting him to buy some books. Track him down and give him his new mission.
+ Step DescriptionGorou would like to have the light novel he won changed to scientific texts on agriculture. However, only Miko can decide concerning this matter. Go to The Five Kasen Plaza with Gorou to await her reply.
+ Step DescriptionKokomi and Gorou are about to return to Watatsumi. See them off at the docks.
+ Step DescriptionKokomi and Gorou will be returning to Watatsumi Island tomorrow evening. See them off at the docks then.
+ Step DescriptionKokomi has agreed to meet her pen pal at The Five Kasen Plaza. You're quite curious as to that person's identity yourself, so you might as well tag along.
+ Sure, leave it to me.
+ This so-called meeting of pen pals...
+ We'll see you off at the harbor.
+ What's up?
+Media:vo rcjwq004 1 paimon 01.ogg Paimon: You know, according to the arrival schedule, there should be one last ship arriving in Ritou today.
+Media:vo rcjwq004 1 paimon 02.ogg Paimon: But the Irodori Festival is coming to an end. Who would be showing up now?
+Media:vo rcjwq004 1 paimon 03.ogg Paimon: Oh, it's almost time. Let's go to the harbor and take a look.
+Media:vo rcjwq004 10 gorou 01.ogg Gorou: I may have won the prize, but ultimately it was Yae Miko who gave us all these books for free. If I have the chance in the future, I must thank her properly.
+Media:vo rcjwq004 10 gorou 02.ogg Gorou: Oh, I almost forgot! I'll read it now...
+Media:vo rcjwq004 10 gorou 03.ogg Gorou: Aaaaah!!! I knew it, I knew she was up to something!
+Media:vo rcjwq004 10 kokomi 01.ogg Sangonomiya Kokomi: (Traveler), Paimon, thank you for coming to see us off.
+Media:vo rcjwq004 10 kokomi 02.ogg Sangonomiya Kokomi: Very worthwhile. The book review session was a big success, and I feel very positive about the forthcoming talks.
+Media:vo rcjwq004 10 kokomi 03.ogg Sangonomiya Kokomi: Gorou also made a great contribution. He procured a whole batch of useful books for Watatsumi Island.
+Media:vo rcjwq004 10 kokomi 04.ogg Sangonomiya Kokomi: Speaking of, didn't Yae Miko send you a letter yesterday? What did it say?
+Media:vo rcjwq004 10 yaemiko 01.ogg Yae Miko: Dear Gorou, I suppose you must have been extremely nervous when you heard about the prospect of the award ceremony and the photo.
+Media:vo rcjwq004 10 yaemiko 02.ogg Yae Miko: It came as a surprise indeed to learn that not only did you accept those conditions, you also made your own demands. Your courage has won my respect.
+Media:vo rcjwq004 10 yaemiko 03.ogg Yae Miko: Those books are a token of my goodwill to Watatsumi Island, and also my gift to you. I do hope you like them.
+Media:vo rcjwq004 10 yaemiko 04.ogg Yae Miko: Ah yes, I'm sure that by this point you must be feeling ever so grateful for my kindness and are looking for a way to repay me, yes? Well, here's your chance.
+Media:vo rcjwq004 10 yaemiko 05.ogg Yae Miko: Yae Publishing House will host an event next month, and we are looking for someone to dress up as a character from a light novel and interact with the fans.
+Media:vo rcjwq004 10 yaemiko 06.ogg Yae Miko: Gorou, you are not only patient but also very beautiful. Why don't you come and help us? I'll prepare a tailor-made outfit, just for you.
+Media:vo rcjwq004 10 yaemiko 07.ogg Yae Miko: Oh, and by the way — it'll be a woman's outfit.
+Media:vo rcjwq004 2 gorou 01.ogg Gorou: Her Excellency is traveling outside of Watatsumi Island and also meeting her pen pal today. As her general, it is my duty to ensure her safety at every turn.
+Media:vo rcjwq004 2 kokomi 01.ogg Sangonomiya Kokomi: (Traveler), Paimon, nice to see you again.
+Media:vo rcjwq004 2 kokomi 02.ogg Sangonomiya Kokomi: Yes, but we are not here representing Watatsumi Island's administration. We were invited as individuals.
+Media:vo rcjwq004 2 kokomi 03.ogg Sangonomiya Kokomi: Things are quiet in Watatsumi Island at the moment, and I wanted to buy some books. So, I decided to make the trip here.
+Media:vo rcjwq004 2 kokomi 04.ogg Sangonomiya Kokomi: Gorou was not greatly interested in the Irodori Festival. But he said if I was going to Ritou, he would join me.
+Media:vo rcjwq004 2 kokomi 05.ogg Sangonomiya Kokomi: Yes. We started corresponding just recently.
+Media:vo rcjwq004 2 kokomi 06.ogg Sangonomiya Kokomi: My pen pal and I share very similar tastes in light novels, and we always have a lot of interesting thoughts to share. Of course, there are also times when we fiercely disagree.
+Media:vo rcjwq004 2 kokomi 07.ogg Sangonomiya Kokomi: Since we were both coming to the Irodori Festival this time, we decided to take the opportunity to hold a book review session, and discuss our views on various novels in more depth.
+Media:vo rcjwq004 2 kokomi 08.ogg Sangonomiya Kokomi: Hehe, that's a very interesting idea.
+Media:vo rcjwq004 2 kokomi 09.ogg Sangonomiya Kokomi: It's almost time, (Traveler). Gorou and I must go to meet my pen pal at the agreed upon location.
+Media:vo rcjwq004 2 kokomi 10.ogg Sangonomiya Kokomi: Hmm, let me think... Yes, I think it should be fine for you two to come with me. Alright, let's go together.
+Media:vo rcjwq004 2 paimon 01.ogg Paimon: Wow, it's Kokomi and Gorou. So the Divine Priestess and the general of Watatsumi Island have come to take part in the Irodori Festival.
+Media:vo rcjwq004 2 paimon 02.ogg Paimon: ...Pen pal?
+Media:vo rcjwq004 2 paimon 03.ogg Paimon: Sounds pretty professional! Hey, since you both like novels, why don't you try writing one together? Who knows, maybe you'll shake things up on the Inazuman literary scene.
+Media:vo rcjwq004 2 paimon 04.ogg Paimon: Kokomi, Paimon's super curious about this pen pal of yours. Can Paimon come with you? Don't worry, Paimon will just watch from a distance and won't interrupt anything.
+Media:vo rcjwq004 3 gorou 01.ogg Gorou: There's no one else around. It looks like we're early...
+Media:vo rcjwq004 3 kokomi 01.ogg Sangonomiya Kokomi: This is the meeting spot.
+Media:vo rcjwq004 3 kokomi 02.ogg Sangonomiya Kokomi: Lady Guuji of the Grand Narukami Shrine — no wonder. I was just wondering where that air of superiority was coming from.
+Media:vo rcjwq004 3 kokomi 03.ogg Sangonomiya Kokomi: Hello, nice to meet you, "Fried Tofu With All the Frills."
+Media:vo rcjwq004 3 kokomi 04.ogg Sangonomiya Kokomi: Hehe, Watatsumi Island will soon hold formal talks with the Shogunate on Inazuma's future development. It's essential to have an informal meeting like this one before the formal talks begin.
+Media:vo rcjwq004 3 kokomi 05.ogg Sangonomiya Kokomi: Gorou went to buy some books for me. He won't be attending the book review.
+Media:vo rcjwq004 3 kokomi 06.ogg Sangonomiya Kokomi: (Traveler), I'd like to talk to you for a moment.
+Media:vo rcjwq004 3 kokomi 07.ogg Sangonomiya Kokomi: I have been getting the sense that Gorou does not like having to deal with Guuji Yae, so I was initially reluctant to bring him to Ritou with me this time.
+Media:vo rcjwq004 3 kokomi 08.ogg Sangonomiya Kokomi: I noticed he instinctively hid as soon as he saw her just now. However, Gorou has a strong sense of responsibility, and will feel ashamed when he next sees me.
+Media:vo rcjwq004 3 kokomi 09.ogg Sangonomiya Kokomi: So, I would like to give him the task of buying some books for me to make things easier for him.
+Media:vo rcjwq004 3 kokomi 10.ogg Sangonomiya Kokomi: But Gorou rarely buys anything. So as a favor for me, I'd like to ask you to accompany him.
+Media:vo rcjwq004 3 kokomi 11.ogg Sangonomiya Kokomi: Thank you. I made a list of the books I'd like to buy. Please pass it on to Gorou.
+Media:vo rcjwq004 3 paimon 01.ogg Paimon: M—Miko!
+Media:vo rcjwq004 3 paimon 02.ogg Paimon: (Oh no, Paimon hadn't counted on running into Miko! She and Kokomi are on different sides, and they also believe in different gods...)
+Media:vo rcjwq004 3 paimon 03.ogg Paimon: (Are they gonna end up... having a fight?)
+Media:vo rcjwq004 3 paimon 04.ogg Paimon: Uh oh... this is getting out of control fast...
+Media:vo rcjwq004 3 paimon 05.ogg Paimon: Hey... what's going on here?
+Media:vo rcjwq004 3 paimon 06.ogg Paimon: Miko is Kokomi's pen pal!?
+Media:vo rcjwq004 3 paimon 07.ogg Paimon: No, it can't be. Look at them, clearly they already knew each other! Does that mean...
+Media:vo rcjwq004 3 paimon 08.ogg Paimon: Who holds a book review in the Kanjou Commission? You seriously expect anyone to believe that!?
+Media:vo rcjwq004 3 paimon 09.ogg Paimon: You're not here to talk about shaking up the Inazuman literary scene... You're here to talk about shaking up things in Inazuma as a whole.
+Media:vo rcjwq004 3 paimon 10.ogg Paimon: Huh, okay then.
+Media:vo rcjwq004 3 paimon 11.ogg Paimon: Huh, that's right... Where did Gorou go...?
+Media:vo rcjwq004 3 paimon 12.ogg Paimon: Kokomi, you focus on the meeting with Miko. Leave the books to us and Gorou.
+Media:vo rcjwq004 3 together 01.ogg Miko & Kokomi: Hehehehehe...
+Media:vo rcjwq004 3 yaemiko 01.ogg Yae Miko: My, my, who have we here?
+Media:vo rcjwq004 3 yaemiko 02.ogg Yae Miko: Hehe, if it isn't the leader of Watatsumi Island, who looks as soft as a jellyfish, but whose words sting like one, too.
+Media:vo rcjwq004 3 yaemiko 03.ogg Yae Miko: The pleasure is all mine, "Sole of the Deep."
+Media:vo rcjwq004 3 yaemiko 04.ogg Yae Miko: Hmm? Whatever are you talking about? I don't understand. I'm simply here for the book review session with Miss Sole of the Deep.
+Media:vo rcjwq004 3 yaemiko 05.ogg Yae Miko: Let's go. The venue for this meeting is in the Kanjou Commission headquarters up there. The view is excellent, making it a perfect place to drink tea and discuss creative ideas.
+Media:vo rcjwq004 3 yaemiko 07.ogg Yae Miko: Right. Especially with someone outside of the Shogunate like myself, who is in a good position to test out where each party draws the lines.
+Media:vo rcjwq004 3 yaemiko 08.ogg Yae Miko: But this is just our first meeting. It's a little too early to announce it to the general public.
+Media:vo rcjwq004 3 yaemiko 09.ogg Yae Miko: By the way, where is your general? Didn't you say he would be joining you?
+Media:vo rcjwq004 3 yaemiko 10.ogg Yae Miko: Oh, what a pity. I was rather looking forward to seeing his fluffy ears again.
+Media:vo rcjwq004 4 gorou 01.ogg Gorou: Ah! It's you... *sigh* I wasn't expecting you-know-who to show up — it completely caught me by surprise. I had no idea what to say to her... Next thing I knew, I'd apparently already taken cover.
+Media:vo rcjwq004 4 gorou 02.ogg Gorou: I came here to ensure the safety of Her Excellency, but now I'm useless... I've become a burden instead.
+Media:vo rcjwq004 4 gorou 03.ogg Gorou: Her Excellency's purchase list... Got it, this is how Her Excellency wants me to make up for my mistakes! No problem, just leave it to me.
+Media:vo rcjwq004 4 gorou 04.ogg Gorou: Thank you so much!
+Media:vo rcjwq004 4 paimon 01.ogg Paimon: Gorou, are you alright?
+Media:vo rcjwq004 4 paimon 02.ogg Paimon: Gorou, don't be so hard on yourself. Actually, Kokomi asked us to give you a very important task.
+Media:vo rcjwq004 4 paimon 03.ogg Paimon: Gorou, let us come with you. We can show you around the Irodori Festival while we're at it.
+Media:vo rcjwq004 5 fukumoto 01.ogg Fukumoto: Thank you for your patronage!
+Media:vo rcjwq004 5 fukumoto 02.ogg Fukumoto: Wow, you're a lucky customer! There's a coupon in one of the books you just bought which entitles you to a free gift!
+Media:vo rcjwq004 5 fukumoto 03.ogg Fukumoto: Here you go — a toy fox, it's all yours!
+Media:vo rcjwq004 5 fukumoto 04.ogg Fukumoto: Are you okay? The hair on your tail is standing on end...
+Media:vo rcjwq004 5 gorou 01.ogg Gorou: There is a children's storybook on this list called "Night at Mt. Yougou." I think this is the stand where it's being sold.
+Media:vo rcjwq004 5 gorou 02.ogg Gorou: Yes. It's for the children of Watatsumi Island. Her Excellency says that this book is simply written and very useful for learning new words.
+Media:vo rcjwq004 5 gorou 03.ogg Gorou: Hello, I'll take five copies of "Night at Mt. Yougou," please.
+Media:vo rcjwq004 5 gorou 04.ogg Gorou: What? A—A toy fox?
+Media:vo rcjwq004 5 gorou 05.ogg Gorou: I'm fine, thanks for the gift.
+Media:vo rcjwq004 5 gorou 06.ogg Gorou: (Traveler), could you maybe, uh, look... l— look after the toy for me?
+Media:vo rcjwq004 5 gorou 07.ogg Gorou: Yes. As a thank-you gift for coming with me to buy the books.
+Media:vo rcjwq004 5 gorou 08.ogg Gorou: Okay, next up... Hmm, this isn't the focus of this trip, but let's go buy a light novel.
+Media:vo rcjwq004 5 gorou 09.ogg Gorou: It says on the list that Her Excellency had an editor called Onodera purchase the latest issue of "A Legend of Sword" for her in advance. We'd better not keep him waiting too long.
+Media:vo rcjwq004 5 paimon 01.ogg Paimon: A children's storybook?
+Media:vo rcjwq004 5 paimon 02.ogg Paimon: Wow, Gorou got a free gift! That's amazing.
+Media:vo rcjwq004 5 paimon 03.ogg Paimon: *sigh* Seems like Gorou still hasn't recovered from seeing Miko.
+Media:vo rcjwq004 5 paimon 04.ogg Paimon: Oh, we know him. We'll lead the way.
+Media:vo rcjwq004 6 gorou 01.ogg Gorou: Excuse me, are you Mr. Onodera? I'm here to pick up the new issue of "A Legend of Sword" for "Sole of the Deep."
+Media:vo rcjwq004 6 gorou 02.ogg Gorou: Also, if you have these books available, please give me one of each. Thank you.
+Media:vo rcjwq004 6 gorou 03.ogg Gorou: Ugh... are you serious?
+Media:vo rcjwq004 6 gorou 04.ogg Gorou: I—I'm fine. Thank you for the books.
+Media:vo rcjwq004 6 gorou 05.ogg Gorou: Her Ex.... "Sole of the Deep" asked me to buy this book, after all. I'm sure she'll be very happy to receive a special version with a chief editor's review, hah, haha.
+Media:vo rcjwq004 6 onodera 01.ogg Onodera: Hello there, yes, I have the book right here. I heard "Sole of the Deep" is a VIP of the Irodori Festival, but couldn't make it here in time for the signing event due to the shipping schedule.
+Media:vo rcjwq004 6 onodera 02.ogg Onodera: Alright, let me see...
+Media:vo rcjwq004 6 onodera 03.ogg Onodera: Oh my goodness, it's your lucky day today, sir!
+Media:vo rcjwq004 6 onodera 04.ogg Onodera: You are the 100th reader to buy "The Saga of Hamavaran"! That entitles you to receive a special-edition version with a review personally written by Lady Yae herself!
+Media:vo rcjwq004 6 onodera 05.ogg Onodera: Are you okay? You don't look very well.
+Media:vo rcjwq004 6 onodera 06.ogg Onodera: Oh, one other thing — because of the amount of your purchase, you're able to enter the Yae Publishing House's lucky draw. Please come with me, right this way.
+Media:vo rcjwq004 6 paimon 01.ogg Paimon: Gorou does not look like he's enjoying this at all. Paimon doesn't know if he's lucky or unlucky.
+Media:vo rcjwq004 7 akito 01.ogg Akito: An entire set of all their light novels... That's worth a lot of money!
+Media:vo rcjwq004 7 gorou 01.ogg Gorou: What? Not only do I have to meet her... but I have to shake her hand and take a photo with her, too!?
+Media:vo rcjwq004 7 gorou 02.ogg Gorou: Ugh... Um, excuse me, Ma'am, could we discuss this? I don't actually want the light novels.
+Media:vo rcjwq004 7 gorou 03.ogg Gorou: No, that's not what I meant. I'm not giving up the prize, and I can cope with the ceremony and the picture-taking.
+Media:vo rcjwq004 7 gorou 04.ogg Gorou: But I have a request. I would like to ask Yae Publishing House to change the prize from light novels to books on agricultural science of equivalent value.
+Media:vo rcjwq004 7 gorou 05.ogg Gorou: Yes. The land in Watatsumi Island is quite barren and always yields a poor grain harvest. We've been looking for new ways to improve the residents' lives.
+Media:vo rcjwq004 7 gorou 06.ogg Gorou: One of Her Ex... Sole of the Deep's core objectives for the Irodori Festival was to purchase some works on crop cultivation and aquaculture.
+Media:vo rcjwq004 7 gorou 07.ogg Gorou: If I can get these books as my prize instead, we can save a lot of money, and Sole of the Deep can buy some other useful resources, too.
+Media:vo rcjwq004 7 gorou 08.ogg Gorou: Okay, understood.
+Media:vo rcjwq004 7 murata 01.ogg Murata: Just turn the handle and a prize ball will come out. Maybe today's your lucky day!
+Media:vo rcjwq004 7 murata 02.ogg Murata: Let me see... Wow, incredible! You got the golden ball, that's the grand prize!
+Media:vo rcjwq004 7 murata 03.ogg Murata: The grand prize is a full collection of each light novel published by Yae Publishing House!
+Media:vo rcjwq004 7 murata 04.ogg Murata: Not only is the prize awarded personally by Lady Yae, but you will also have the chance to shake hands and take a photo with her to commemorate the occasion!
+Media:vo rcjwq004 7 murata 05.ogg Murata: Huh? You mean you want to give up the prize?
+Media:vo rcjwq004 7 murata 06.ogg Murata: I see. I understand your request, but I don't have the authority to grant it. Lady Yae will have to have the final say.
+Media:vo rcjwq004 7 murata 07.ogg Murata: I will contact Lady Yae now — please wait for our reply at The Five Kasen Plaza. Depending on the situation, Lady Yae might need to negotiate this matter with you further in person.
+Media:vo rcjwq004 7 onodera 01.ogg Onodera: Sir, please take your lucky draw whenever you are ready.
+Media:vo rcjwq004 7 paimon 01.ogg Paimon: Come on, Gorou, go for it!
+Media:vo rcjwq004 7 paimon 02.ogg Paimon: Gorou, you're a lucky dog today! So what is the grand prize, anyway?
+Media:vo rcjwq004 7 paimon 03.ogg Paimon: Gorou! Don't give up your prize! If you don't want to see Miko, that's fine — we'll figure something out!
+Media:vo rcjwq004 7 paimon 04.ogg Paimon: Agricultural science?
+Media:vo rcjwq004 7 youta 01.ogg Youta: What? This guy won the Yae Publishing House's grand prize? Wow, that's so lucky!
+Media:vo rcjwq004 8 gorou 01.ogg Gorou: You think so? I guess I got a burst of courage when I thought about Her Excellency's orders and the people of Watatsumi Island.
+Media:vo rcjwq004 8 gorou 02.ogg Gorou: I am the general of Watatsumi Island's armed forces. How can I let something like this defeat me?
+Media:vo rcjwq004 8 gorou 03.ogg Gorou: I'm ready now. I feel like I'm back on the battlefield. Even if Yae Miko does come to negotiate with me, I won't let myself be pressured by her.
+Media:vo rcjwq004 8 gorou 04.ogg Gorou: ...
+Media:vo rcjwq004 8 gorou 05.ogg Gorou: Haha... well, probably because I just realized she might make a cunning counter-request just to toy with me.
+Media:vo rcjwq004 8 gorou 06.ogg Gorou: How did it go? What did Guuji Yae say?
+Media:vo rcjwq004 8 gorou 07.ogg Gorou: You'll package the books? Then, what about the ceremony?
+Media:vo rcjwq004 8 gorou 08.ogg Gorou: I didn't think Yae Miko would cancel the ceremony. Huh, I was so convinced that she would try and make a fool out of me. Now it seems like I was overly suspicious of her.
+Media:vo rcjwq004 8 gorou 09.ogg Gorou: Anyway, I'll go with the editor to pick the books now. I won't trouble you guys anymore.
+Media:vo rcjwq004 8 gorou 10.ogg Gorou: Great. See you tomorrow night.
+Media:vo rcjwq004 8 murata 01.ogg Murata: Sorry for keeping you all waiting.
+Media:vo rcjwq004 8 murata 02.ogg Murata: Lady Yae has agreed to your request to swap the light novels for books on agricultural science.
+Media:vo rcjwq004 8 murata 03.ogg Murata: Additionally, Lady Yae says that she will include a few extra works, considering your intended use for those books.
+Media:vo rcjwq004 8 murata 04.ogg Murata: You may accompany me to Yae Publishing House's warehouse to select your preferred books. I believe your return ship leaves tomorrow night? We will package the selected books and take them directly onto the ship for you.
+Media:vo rcjwq004 8 murata 05.ogg Murata: Lady Yae said selecting the books may take up a lot of your time and energy. To ensure you have fond memories of the Irodori Festival, she decided to cancel the ceremony.
+Media:vo rcjwq004 8 murata 06.ogg Murata: Although, she did leave you a letter. You can read it in your own time.
+Media:vo rcjwq004 8 paimon 01.ogg Paimon: Gorou, that was pretty brave of you. You clearly don't like having to deal with Miko, but you still agreed to the ceremony and even made your own demands.
+Media:vo rcjwq004 8 paimon 02.ogg Paimon: You still look pretty nervous, though, Gorou.
+Media:vo rcjwq004 8 paimon 03.ogg Paimon: That's great.
+Media:vo rcjwq004 9 paimon 01.ogg Paimon: Kokomi and Gorou will be boarding their boat home soon. Let's go down to the harbor and see them off.
+You give Kokomi's list of books to Gorou.

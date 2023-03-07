@@ -1,0 +1,57 @@
+
+ Don't sweat it.
+ Let's fertilize them again.
+ Quest DescriptionA rose that once bloomed in Sumeru City may be able to bloom elsewhere, too.
+ Sorry about Paimon's outburst.
+ Watch your manners, Paimon.
+ We can try using Dendro again.
+ We were just lending a hand.
+ We'll be back.
+As you talk to Sabbah, new leaves begin to sprout...
+Bright and beautiful, these pure purple flowers give off a pleasant fragrance that will give any passerby pause. While some like to call this a type of "rambler rose," its relative lack of multiple flowers means that it falls under a different floral classification.
+Paimon: Butter Chicken! How could we refuse? A big plate for Paimon, please!
+Paimon: Okay, sorry...
+Paimon: Piece of cake. We got this!
+Paimon: See, didn't Paimon tell you that Miss Sabbah speaks in a refined way, just like the researchers we've met?
+Paimon: What? You were a researcher?
+Paimon: You planted these because you wanted to continue studying roses, right?
+Paimon: You shouldn't have... You didn't have many to begin with...
+Paimon: You're so nice, Miss Sabbah! Your roses will surely grow and flower, just like you wanted!
+Sabbah picks one and hands it to you and Paimon.
+Sabbah: (I used to plant flowers at the Akademiya together with other scholars... I wonder how's everyone doing...)
+Sabbah: A rose garden is magnificent, but a single rose also has beauty of its own. I've been intrigued by roses ever since my scholarly days.
+Sabbah: And no matter what I said, you never thought it was nonsense or interrupted me.
+Sabbah: Anyway, just take it. To me, this is no loss. I am freely sharing my happiness.
+Sabbah: As for me, I once studied the impact of geographical changes on the evolution of roses.
+Sabbah: Exploring the possibilities is a lot of fun for me. Back then, I would happily collect samples every day.
+Sabbah: Generally speaking, if a germ is in good shape, it should grow quickly enough, but these few have been dormant so far...
+Sabbah: I did this because I love this world and want to understand the life cycle of plants.
+Sabbah: I feel at ease when I talk to you.
+Sabbah: I made some Butter Chicken. You're welcome to dine with me if you're hungry.
+Sabbah: I wouldn't say that. To be honest, I don't think that researchers' interest in their subjects should be cultivated just for research's sake alone.
+Sabbah: I'll have small gifts for you too. Though I have no use for them now, you might like them.
+Sabbah: I'll heat some up and pack it for you. It's the least I could do to show my gratitude for your help.
+Sabbah: I'm not sure if it's because the soil isn't fertile enough. I may have to add more fertilizer if this keeps up.
+Sabbah: If you still feel awkward, just visit me often, and bring some Sumeru Roses with you.
+Sabbah: It's all right. After all, this wouldn't have been possible without your help.
+Sabbah: It's okay, there's no need to be so formal. It's only human nature to love food.
+Sabbah: Just consider this. If the environments in Sumeru had changed in a totally different way, how would these roses have adapted?
+Sabbah: Looking back now, that was a simple and joyful time.
+Sabbah: Maybe they might have even developed a spectrum of colors... White, red, and gold... Brand new species in their own right.
+Sabbah: My only worry is that they are growing slowly.
+Sabbah: Of course, very few people discover new species nowadays, much less develop new species like the top researchers used to do.
+Sabbah: Please do return.
+Sabbah: Right, I haven't told you yet... I'm not a native of Aaru Village. I "moved" here from the Akademiya.
+Sabbah: Supposedly, there are people who can control the elements without a Vision, but such people are of universally ill repute...
+Sabbah: Thank you again. Honestly, it gladdens my heart to see Sumeru Roses grow in this environment.
+Sabbah: There you are. You're very punctual.
+Sabbah: Well, I've been keeping the soil moist, so the sprouts have been coming along.
+Sabbah: What I want to say is that there's a vast amount of potential in every rose.
+Sabbah: Would they have crawled up the walls like ivy? If so, the walls of the Akademiya would now be covered in roses.
+Sabbah: Would they have formed clusters? A natural bouquet! Wouldn't that have been lovely?
+Sabbah: Would you do me this favor, then?
+Sabbah: You don't seem to have a Vision, and yet you can control Dendro. You're no ordinary adventurer, I think.
+Sabbah: You, however, have a good heart. Don't stray onto the wrong path!
+Sumeru Roses Planted by Sabbah: (These are the Sumeru Roses that you and Sabbah planted together. She has gifted one to you. You should leave the rest to keep her company.)
+The flower buds slowly open and blossom into Sumeru Roses.
+The leaves unfold, revealing flower buds.

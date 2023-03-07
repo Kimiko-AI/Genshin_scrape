@@ -1,0 +1,23 @@
+ Quest DescriptionGo near to the reef of Pudding Isle to see if the pirates have left a clue to the treasure's location there.
+ Step DescriptionFollow the treasure map that was left behind and cause both the mountains to the left and right of you to be filled with red trees. Then follow the route on the map to cross the gap between the mountains from where the broken bridge is, and then you may find the clue to the treasure under the red-leafed tree.
+ Step DescriptionFollow the treasure map that was left behind and cause both the mountains to the left and right of you to be filled with trees with mixed red and yellow leaves. Then follow the route on the map to scale the peak, and then you may find the clue to the treasure under a tree growing by the side of the cliff.
+Cross the gap between the two mountains from the broken bridge's location, then go left again...
+Paimon: "Wait until the leaves have turned red and yellow, then dock on the island from the west. You will be able to see a tower."
+Paimon: C'mon, Paimon thought we'd found it at last, but it's just like the last time...
+Route Log: II
+Wait until the leaves have turned red and yellow, then dock on the island from the west. You will be able to see a tower.
+Paimon: Hmm... It's a treasure chest. Could there be a clue in it?
+Paimon: Huh, that looks like a treasure map. Let's see what's written on it...
+Paimon: Let Paimon see. This says...
+Route Log: I
+Wait until the leaves have all turned red, then dock on the island from the east. You will be able to see a broken bridge.
+Cross the gap between the two mountains from the broken bridge's location, then go left again...
+What you seek will be under a red-leafed tree.
+Paimon: Looks like we've gotta change the mountains so they look like that, (Traveler).
+Paimon: Ooh, Paimon's got it! A tower... This can only mean one thing!
+Paimon: Uh... Until the leaves have turned red... This is kinda confusing, (Traveler). Where do they want us to go anyway?
+Route Log: I
+Route Log: II
+Wait until the leaves have all turned red, then dock on the island from the east. You will be able to see a broken bridge.
+Wait until the leaves have turned red and yellow, then dock on the island from the west. You will be able to see a tower.
+What you seek will be under a red-leafed tree.

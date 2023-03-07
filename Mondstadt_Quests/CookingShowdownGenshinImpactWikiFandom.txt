@@ -1,0 +1,176 @@
+ Again, how is this making sense to you!?
+ Allow me!
+Media:vo xllq006 15 xiangling 02a.ogg Xiangling: Are you sure it's no trouble?
+ Did not understand that one bit.
+ He and the boar were both frozen.
+Media:vo xllq006 1 xiangling 02a.ogg Xiangling: Oh! Like the way that you keep food fresh!
+ He's talking about Springvale a long, long time in the past.
+Media:vo xllq006 1 paimon 02b.ogg Paimon: How long? ...Surely not hundreds of years!?
+ I hope I don't cramp your style...
+Media:vo xllq006 15 xiangling 09b 1.ogg Xiangling: Don't be so negative. Cooking is fun! Just relax and enjoy it.
+ I think I see what's going on here.
+ I'll pass on the slime jus though...
+Media:vo xllq006 19 xiangling 08b.ogg Xiangling: How did you know what dish I was thinking of!?
+ Is that really from an obscure Liyue dialect or did you just make it up?
+ It tastes so good I want to weep tears of joy.
+ It's a deal!
+Media:vo xllq006 19 xiangling 08a.ogg Xiangling: You have a deal!
+ Leave it to me.
+Media:vo xllq006 15 xiangling 09a.ogg Xiangling: Confident, I like it!
+ Let me keep looking...
+Media:vo dialog xllq006 xiangling 04.ogg Xiangling: Sorry to keep you running back and forth.
+Media:vo dialog xllq006 xiangling 05.ogg Xiangling: What I need is a living being, one you wouldn't normally cook with.
+Media:vo dialog xllq006 xiangling 06.ogg Xiangling: It can fly, it can crawl, or it can bounce. Even insects are fair game!
+Media:vo dialog xllq006 xiangling 07.ogg Xiangling: It might be a challenge to find... I'm sure you're up to it!
+ Paimon, translate for me!
+ Quest DescriptionAfter obtaining the rare ingredients, Xiangling is finally ready for the cook-off. The showdown between the two head chefs is about to begin.
+ Surely, it couldn't be...
+ The ice kept him fresh all this time, like with your ingredients.
+Media:vo xllq006 1 xiangling 02b.ogg Xiangling: Hee-hee, it all makes sense now that you're speaking my language!
+ They don't look so distantly related.
+ This hunter is also a survivor from 300 years ago.
+Media:vo xllq006 1 paimon 02a.ogg Paimon: Whaaaat!? Can humans really live that long?
+ Ugh, I guess there's no backing out now...
+ Well, I'm going to see this through.
+ Where will you go now?
+ You'd make me do it even if I didn't offer...
+Media:vo xllq006 15 xiangling 02b.ogg Xiangling: Thanks! Hee-hee, you know me too well.
+Media:vo dialog xllq006 brook 01.ogg Brook: What's this? Culinary espionage?
+Media:vo dialog xllq006 brook 02.ogg Brook: Haha, well you don't stand a chance, anyway. I have the winning ingredients right here.
+Media:vo dialog xllq006 draff 01.ogg Draff: Fusion cuisine that blends elements of Mondstadt and Liyue cooking... I am excited.
+Media:vo dialog xllq006 olaf 01.ogg Olaf: I never knew cooking could be so complicated... The roast boar I am used to is quite basic by comparison!
+Media:vo dialog xllq006 siegfria 01.ogg Siegfria: Smells divine! ...One little bite can't hurt, surely?
+Media:vo dialog xllq006 siegfria 02.ogg Siegfria: No, I mustn't... I'm here to help... eyes on the prize, eyes on the prize...
+Media:vo dialog xllq006 xiangling 01.ogg Xiangling: Go fetch me some radishes. And don't forget to wash them in the lake!
+Media:vo dialog xllq006 xiangling 02.ogg Xiangling: Bring the fire down! It's gonna burn to a crisp!
+Media:vo dialog xllq006 xiangling 03.ogg Xiangling: ♪ Ooh la-la-la, cha-ching cha-ching. Ooh la-la-la, cha-ching cha-ching ♪
+Media:vo dialog xllq006 xiangling 04.ogg Xiangling: Sorry to keep you running back and forth.
+Media:vo dialog xllq006 xiangling 05.ogg Xiangling: What I need is a living being, one you wouldn't normally cook with.
+Media:vo dialog xllq006 xiangling 06.ogg Xiangling: It can fly, it can crawl, or it can bounce. Even insects are fair game!
+Media:vo dialog xllq006 xiangling 07.ogg Xiangling: It might be a challenge to find... I'm sure you're up to it!
+Media:vo xllq006 1 draff 01.ogg Draff: Yes. For the millionth time, yes! But I don't know any of the people you're looking for.
+Media:vo xllq006 1 draff 02.ogg Draff: This is strange, what is going on?
+Media:vo xllq006 1 draff 03.ogg Draff: Still, it's hard to believe...
+Media:vo xllq006 1 draff 04.ogg Draff: Okay so... What's your name?
+Media:vo xllq006 1 draff 05.ogg Draff: Olaf? I'm sure I've seen that on my family tree!
+Media:vo xllq006 1 draff 06.ogg Draff: I can't remember which generation it was from... but it was definitely on there.
+Media:vo xllq006 1 draff 07.ogg Draff: Ah yes, that reminds me — Brook told me about the competition, and I've set everything up at the venue.
+Media:vo xllq006 1 draff 08.ogg Draff: You should come with me.
+Media:vo xllq006 1 olaf 01.ogg Olaf: Uh... Are you sure this is Springvale?
+Media:vo xllq006 1 olaf 02.ogg Olaf: That is not possible, they all live in Springvale. They are my neighbors and friends.
+Media:vo xllq006 1 olaf 03.ogg Olaf: Olaf.
+Media:vo xllq006 1 paimon 01.ogg Paimon: What is it?
+Media:vo xllq006 1 paimon 02a.ogg Paimon: Whaaaat!? Can humans really live that long?
+Media:vo xllq006 1 paimon 02b.ogg Paimon: How long? ...Surely not hundreds of years!?
+Media:vo xllq006 1 paimon 03.ogg Paimon: But it doesn't seem like there's any other sensible explanation.
+Media:vo xllq006 1 paimon 04.ogg Paimon: What an unusual turn of events!
+Media:vo xllq006 1 xiangling 01.ogg Xiangling: Er... Does that really make sense?
+Media:vo xllq006 1 xiangling 02a.ogg Xiangling: Oh! Like the way that you keep food fresh!
+Media:vo xllq006 1 xiangling 02b.ogg Xiangling: Hee-hee, it all makes sense now that you're speaking my language!
+Media:vo xllq006 1 xiangling 03.ogg Xiangling: So, a great-great-great-great grandfather, but with a whole load more greats?
+Media:vo xllq006 1 xiangling 04.ogg Xiangling: Hee-hee, reunited at long last! Isn't that just amazing!?
+Media:vo xllq006 1 xiangling 05.ogg Xiangling: Olaf, do you want to come and watch a cooking competition?
+Media:vo xllq006 11 paimon 01.ogg Paimon: A certain what?
+Media:vo xllq006 11 paimon 02.ogg Paimon: Yes! Definitely needs some boom shaka-laka — or perhaps a little shaka-laka boom-pow!
+Media:vo xllq006 11 paimon 03.ogg Paimon: Regional specialty?
+Media:vo xllq006 11 paimon 04.ogg Paimon: Uh, interesting choice...
+Media:vo xllq006 11 paimon 05.ogg Paimon: Alright then...
+Media:vo xllq006 11 xiangling 01.ogg Xiangling: Mmm! (Traveler), you're a natural!
+Media:vo xllq006 11 xiangling 02.ogg Xiangling: The meat is on track, but we're aiming for perfection here and I just think it lacks a certain...
+Media:vo xllq006 11 xiangling 03.ogg Xiangling: A certain... boom shaka-laka!
+Media:vo xllq006 11 xiangling 04.ogg Xiangling: I just mean it would be a waste of such amazing ingredients to just serve this as-is.
+Media:vo xllq006 11 xiangling 05.ogg Xiangling: Let me see... Hmm, what would be ideal is some kind of regional specialty.
+Media:vo xllq006 11 xiangling 06.ogg Xiangling: Yes, something that's native to this area but isn't often used in cooking.
+Media:vo xllq006 11 xiangling 07.ogg Xiangling: I don't care if it flies, crawls, or bounces. Even insects I can work with...
+Media:vo xllq006 11 xiangling 08.ogg Xiangling: Hmm, I'm sure I can make something of it!
+Media:vo xllq006 13 paimon 01.ogg Paimon: Do you really want to add that?
+Media:vo xllq006 13 paimon 02.ogg Paimon: It's a little... odd...
+Media:vo xllq006 13 xiangling 01.ogg Xiangling: Thanks, you guys! Now show me what you got!
+Media:vo xllq006 13 xiangling 02.ogg Xiangling: It'll be fine. This was an excellent find, guys! Now, if you'll excuse me, Chef Xiangling needs to concentrate.
+Media:vo xllq006 13 xiangling 03.ogg Xiangling: But I'll be sure to annoy you again if I need anything else, hee-hee!
+Media:vo xllq006 14 paimon 01.ogg Paimon: It looks like Xiangling's main dish is almost done. Let's go and see.
+Media:vo xllq006 15 paimon 01.ogg Paimon: Is this the recipe for that snack you gave us earlier!?
+Media:vo xllq006 15 paimon 02.ogg Paimon: This is so complicated... How are we supposed to cook this with no experience?
+Media:vo xllq006 15 xiangling 01.ogg Xiangling: I almost forgot — side dish! We need a side dish!
+Media:vo xllq006 15 xiangling 02a.ogg Xiangling: Are you sure it's no trouble?
+Media:vo xllq006 15 xiangling 02b.ogg Xiangling: Thanks! Hee-hee, you know me too well.
+Media:vo xllq006 15 xiangling 03.ogg Xiangling: Here, take this. I just scrawled it down at the last minute.
+Media:vo xllq006 15 xiangling 04.ogg Xiangling: And here are all the ingredients you need.
+Media:vo xllq006 15 xiangling 05.ogg Xiangling: Yes, with some minor improvements so it uses up the leftover ingredients from Liyue.
+Media:vo xllq006 15 xiangling 06.ogg Xiangling: The technique doesn't matter — what matters is that you do it with passion! That's what my father taught me.
+Media:vo xllq006 15 xiangling 07.ogg Xiangling: And you must be passionate about cooking if you've helped me this much already.
+Media:vo xllq006 15 xiangling 08.ogg Xiangling: I trust you guys. I know you'll nail this side dish!
+Media:vo xllq006 15 xiangling 09a.ogg Xiangling: Confident, I like it!
+Media:vo xllq006 15 xiangling 09b 1.ogg Xiangling: Don't be so negative. Cooking is fun! Just relax and enjoy it.
+Media:vo xllq006 15 xiangling 09b 2.ogg Xiangling: Come on, this is the final push!
+Media:vo xllq006 17 xiangling 01.ogg Xiangling: Mmm! They're so fragrant I could smell them coming a mile away.
+Media:vo xllq006 17 xiangling 02.ogg Xiangling: We're all set! And now to serve the meal — this competition is ours!
+Media:vo xllq006 18 brook 01.ogg Brook: *sigh* I thought I was sure to win with pork chops so fresh they were practically still grunting.
+Media:vo xllq006 18 brook 02.ogg Brook: But it turns out that's still no match for the taste of extinct boar.
+Media:vo xllq006 18 brook 03.ogg Brook: This is absolutely delicious... I'll admit it, I was beaten by the best.
+Media:vo xllq006 18 draff 01.ogg Draff: This was a fine feast. I have dined today like I have never dined before.
+Media:vo xllq006 18 draff 02.ogg Draff: Both chefs' dishes today were nothing short of exceptional. They were true masterpieces. And that is what makes this an extremely difficult decision.
+Media:vo xllq006 18 draff 03.ogg Draff: But, this is a competition and there can only be one winner — and that winner is...
+Media:vo xllq006 18 draff 04.ogg Draff: Xiangling!
+Media:vo xllq006 18 draff 05.ogg Draff: Excuse me? Did you say this was cooked from extinct boar!?
+Media:vo xllq006 18 draff 06.ogg Draff: My goodness... A single mouthful must be worth a hundred thousand Mora!
+Media:vo xllq006 18 draff 07.ogg Draff: The amount you'd make if you sold this could support every hunter in town for years to come!
+Media:vo xllq006 18 olaf 01.ogg Olaf: I will have a taste too.
+Media:vo xllq006 18 olaf 02.ogg Olaf: Oh... My oh my... This is...
+Media:vo xllq006 18 olaf 03.ogg Olaf: This is the taste of Springvale! ...Or rather... it used to be.
+Media:vo xllq006 18 olaf 04.ogg Olaf: *sob* This is the last time I will be able to taste the food of my era...
+Media:vo xllq006 18 olaf 05.ogg Olaf: ...Really? But the boar... it's extinct...
+Media:vo xllq006 18 olaf 06.ogg Olaf: Th—Thank you... *sob*
+Media:vo xllq006 18 paimon 01.ogg Paimon: Paimon's turn to eat!
+Media:vo xllq006 18 paimon 02.ogg Paimon: A good time was had by all. But everyone's gone now, let's go and say goodbye to Xiangling.
+Media:vo xllq006 18 siegfria 01.ogg Siegfria: Losing is no fun, but it was worth it for the chance to eat such superb cooking! Please Xiangling, I want some more!
+Media:vo xllq006 18 xiangling 01.ogg Xiangling: Whoopee! I win!
+Media:vo xllq006 18 xiangling 02.ogg Xiangling: Yep, every last bit!
+Media:vo xllq006 18 xiangling 03.ogg Xiangling: Hee-hee, the main thing is that you enjoyed eating it. I don't care about the Mora.
+Media:vo xllq006 18 xiangling 04.ogg Xiangling: Anyway, now that our judge has given his verdict, it's time for everyone else to eat too. I made plenty!
+Media:vo xllq006 18 xiangling 05.ogg Xiangling: Meanwhile, I want to try Brook's dish.
+Media:vo xllq006 18 xiangling 06.ogg Xiangling: This is gorgeous too! Such a perfectly layered texture.
+Media:vo xllq006 18 xiangling 07.ogg Xiangling: Were it not for that exquisite boar and excellent side dish, it's hard to say if I still would have won.
+Media:vo xllq006 18 xiangling 08.ogg Xiangling: Hey now... Cheer up, if you like the taste I can always make you some more!
+Media:vo xllq006 18 xiangling 09.ogg Xiangling: The boar may be, but the taste isn't! I can simply recreate it using different ingredients.
+Media:vo xllq006 18 xiangling 10.ogg Xiangling: Putting a smile on customers' faces is what we chefs are called to do!
+Media:vo xllq006 19 paimon 01.ogg Paimon: And without you, Paimon wouldn't have gotten to try so many new tasty snacks!
+Media:vo xllq006 19 paimon 02.ogg Paimon: Also wouldn't have gotten so full...
+Media:vo xllq006 19 paimon 03.ogg Paimon: Must be nice to be so carefree.
+Media:vo xllq006 19 xiangling 01.ogg Xiangling: Thanks, you guys. Without your help, I don't know how it would have gone today.
+Media:vo xllq006 19 xiangling 02.ogg Xiangling: Not sure. I'll probably start heading back to Liyue, but I might change my plan on the way.
+Media:vo xllq006 19 xiangling 03.ogg Xiangling: I don't like to plan things too thoroughly.
+Media:vo xllq006 19 xiangling 04.ogg Xiangling: Who knows, maybe you'll bump into me out in the wild again!
+Media:vo xllq006 19 xiangling 05.ogg Xiangling: You are a gifted chef, (Traveler). You made an amazing batch of Jade Parcels.
+Media:vo xllq006 19 xiangling 06.ogg Xiangling: Come and visit me at the Wanmin Restaurant some time. I did promise I'd cook for you!
+Media:vo xllq006 19 xiangling 07.ogg Xiangling: And if you want, I'll teach you how to cook some of my latest inventions too.
+Media:vo xllq006 19 xiangling 08a.ogg Xiangling: You have a deal!
+Media:vo xllq006 19 xiangling 08b.ogg Xiangling: How did you know what dish I was thinking of!?
+Media:vo xllq006 19 xiangling 09.ogg Xiangling: Hee-hee, see you again soon, (Traveler)!
+Media:vo xllq006 2 brook 01.ogg Brook: I was born ready. Oh, and Siegfria will be my assistant for the competition.
+Media:vo xllq006 2 draff 01.ogg Draff: Then let the cooking commence! I will be your judge today.
+Media:vo xllq006 2 draff 02.ogg Draff: And don't worry, I may have known Brook for longer, but I will remain entirely impartial.
+Media:vo xllq006 2 paimon 01.ogg Paimon: Wait, we're taking part in this too?
+Media:vo xllq006 2 paimon 02.ogg Paimon: *sigh* Paimon doesn't remember applying for that job...
+Media:vo xllq006 2 paimon 03.ogg Paimon: Okay. Paimon'll do it for the sake of the food.
+Media:vo xllq006 2 xiangling 01.ogg Xiangling: We're ready to cook. Are you?
+Media:vo xllq006 2 xiangling 02.ogg Xiangling: Much appreciated. Well then, (Traveler), Paimon — prepare!
+Media:vo xllq006 2 xiangling 03.ogg Xiangling: Of course! If Brook has an assistant, you guys will have to be mine. I'll need you by my side when the going gets tough!
+Media:vo xllq006 3 xiangling 01.ogg Xiangling: Our first problem is ingredients. We need something special to dress up the steak, but I don't have anything suitable here. Hmm...
+Media:vo xllq006 3 xiangling 02.ogg Xiangling: I've got it! Radish is what we need. Mashed or grated, it'll add a touch of freshness.
+Media:vo xllq006 3 xiangling 03.ogg Xiangling: And we can carve little flowers out of it as a garnish. Two birds, one stone!
+Media:vo xllq006 3 xiangling 04.ogg Xiangling: Go find me a radish — there should be some in the area. Oh, and make sure you wash it because it's going straight into the dish!
+Media:vo xllq006 5 paimon 01.ogg Paimon: Come on! Let's wash the radish in the lake.
+Media:vo xllq006 6 paimon 01.ogg Paimon: Eek! Slimes! Scared the bejeezers out of Paimon!
+Media:vo xllq006 6 paimon 02.ogg Paimon: This is way too close to the venue! What if they stir up trouble during the competition?
+Media:vo xllq006 6 paimon 03.ogg Paimon: Uh... I don't think we should risk it. (Traveler), go get 'em!
+Media:vo xllq006 7 paimon 01.ogg Paimon: ...Xiangling! Look out, the pan's on fire!
+Media:vo xllq006 7 xiangling 01.ogg Xiangling: Wowee! Big and luscious. It's perfect. Thanks, you guys!
+Media:vo xllq006 7 xiangling 02.ogg Xiangling: Now, how about...
+Media:vo xllq006 7 xiangling 03.ogg Xiangling: Oh, no! It's gonna burn, it's gonna burn, it's gonna burn!!!
+Media:vo xllq006 7 xiangling 04.ogg Xiangling: (Traveler), get the fire under control! Without using water though, or this dish is a goner!
+Media:vo xllq006 9 paimon 01.ogg Paimon: Just make it taste friggin' awesome!
+Media:vo xllq006 9 xiangling 01a.ogg Xiangling: Whew, thanks! That was a close call, but I had a little taste and I think we can get away with it.
+Media:vo xllq006 9 xiangling 01b 1.ogg Xiangling: Also, I'm thinking our main is a little weak... We need to mix it up a bit.
+Media:vo xllq006 9 xiangling 01b 2.ogg Xiangling: Make me a Chicken-Mushroom Skewer. And make sure it's got that ooh la-la on the outside, then hits you with a cha-ching in the middle!
+Media:vo xllq006 9 xiangling 01b.ogg Xiangling: Ugh, this is practically charcoal now... Wah, I'm gonna have to start from scratch.

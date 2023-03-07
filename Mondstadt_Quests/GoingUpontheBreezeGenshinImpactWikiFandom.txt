@@ -1,0 +1,19 @@
+ Barely broke a sweat.
+ Quest DescriptionThe girl's name is Amber, and her duty as an Outrider is to escort you to Mondstadt. However, she has another task to attend to first, which is to clean out the hilichurls that have been wandering around outside the city.
+ Those things are tougher than they look.
+Media:vo mdaq017 1 ambor 01.ogg Amber: Quick! Get it!
+(After defeating the hilichurl)
+Media:vo mdaq017 1 paimon 01.ogg Paimon: Ah! A hilichurl!
+Media:vo mdaq017 2 ambor 01.ogg Amber: These monsters have been getting too close to the city recently.
+Media:vo mdaq017 2 ambor 02.ogg Amber: My task this time is to clear out their camp.
+Media:vo mdaq017 3 ambor 01.ogg Amber: Heh, nothing to it.
+Media:vo mdaq017 3 ambor 02.ogg Amber: Though I've gotta say, you surprised me a little with your moves there...
+Media:vo mdaq017 3 ambor 03.ogg Amber: Thanks for the backup. How'd it feel?
+Media:vo mdaq017 3 ambor 04.ogg Amber: Exactly. It's more normal for them to be much further out in the wilderness.
+Media:vo mdaq017 3 ambor 05.ogg Amber: But because the dragon — Stormterror — has been around a lot more recently, our orchards have been destroyed and the local market has been affected as well.
+Media:vo mdaq017 3 ambor 06.ogg Amber: When the storms hit, we usually end up with at least a few injuries, so the Knights of Favonius have been tied up doing the best they can to defend the area.
+Media:vo mdaq017 3 ambor 07.ogg Amber: Exactly. That said, clearing this camp helped make the area a little bit safer.
+Media:vo mdaq017 3 ambor 08.ogg Amber: Come with me! A responsible knight must make sure to see you to the city safely.
+Media:vo mdaq017 3 paimon 01.ogg Paimon: Now that you mention it, how is it the hilichurls ended up here?
+Media:vo mdaq017 3 paimon 02.ogg Paimon: These creatures don't seem like the type to set up camp so close to cities like this.
+Media:vo mdaq017 3 paimon 03.ogg Paimon: So these annoying creatures have been getting closer and closer to the city?

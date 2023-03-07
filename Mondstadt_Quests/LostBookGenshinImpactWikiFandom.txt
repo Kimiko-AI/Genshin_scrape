@@ -1,0 +1,102 @@
+ (How mysterious. I'm so curious...)
+ A LITTLE punishment!?
+ Hilichurls?
+Media:vo lslq002 5 lisa 02a.ogg Lisa: Stealing books is hardly the hilichurls' style.
+Media:vo lslq002 5 lisa 02a 1.ogg Lisa: All they would use books for is to keep their campfire going anyway.
+ I will take extra special care of this book...
+ Lisa is so strong...
+ Lisa is so terrifying...
+ No ma'am!
+ Please don't punish me if I return it late...
+ Quest DescriptionMany people forget to return the library books they've borrowed, leaving Lisa no choice but to chase them and retrieve the books. Marjorie and Sara have agreed to return the books they borrowed as soon as possible, but Donna's seems to have been stolen. You decide to track the missing book down by following the trail left by an elemental marking Lisa made on it.
+ Remuneration!
+Media:vo lslq002 11 lisa 02.ogg Lisa: You are a voracious one, aren't you?
+ So why did the Abyss Order...
+ The Abyss Order?
+Media:vo lslq002 5 lisa 02b.ogg Lisa: It's like you can read my mind.
+ The Adventurers' Guild?
+Media:vo lslq002 5 lisa 02c.ogg Lisa: It's not unlike them, in the sense that they are known for darting around amongst underground ruins.
+Media:vo lslq002 5 lisa 02c 1.ogg Lisa: But Adventurers do not typically take others' belongings... Well, not from the living, anyway.
+ The Teyvat Travel Guide!
+ What's the, um, due date?
+ You didn't let him finish speaking...
+(After defeating the Abyss Mage)
+After using up all of Lisa's patience, the Abyss Mage loses consciousness in the ensuing electrical current...
+Media:vo lslq002 1 lisa 01.ogg Lisa: The elemental traces are strong here, but it seems our thief did not stay for long.
+Media:vo lslq002 1 lisa 02.ogg Lisa: The trail keeps going. Let's keep looking.
+Media:vo lslq002 10 abyss 01.ogg Abyss Mage: How did you find this place!? It's... so well hidden!
+Media:vo lslq002 10 abyss 02.ogg Abyss Mage: ...You— You just want... the book?
+Media:vo lslq002 10 abyss 03.ogg Abyss Mage: I was unaware that anyone in Mondstadt was concerned with unearthing the secret hidden inside this book...
+Media:vo lslq002 10 abyss 04.ogg Abyss Mage: Who... Who are you?
+Media:vo lslq002 10 abyss 05.ogg Abyss Mage: Hmph. Since you insist on concealing your identity...
+Media:vo lslq002 10 abyss 06.ogg Abyss Mage: I have all the less reason to give you that book.
+Media:vo lslq002 10 abyss 07.ogg Abyss Mage: After all, it contains... the secret...
+Media:vo lslq002 10 abyss 08.ogg Abyss Mage: Huh!? Wh—What are you doing!? Such concentrated elemental power! P—Please don't—
+Media:vo lslq002 10 abyss 09.ogg Abyss Mage: *shrieking*
+Media:vo lslq002 10 lisa 01.ogg Lisa: I have no interest in finding out where you little rascals hide yourselves away. But I do want my book back.
+Media:vo lslq002 10 lisa 02.ogg Lisa: Tell me, how is it that you have the time to conceal your stronghold and apply a magic seal – but not to sign out a library book in the proper manner?
+Media:vo lslq002 10 lisa 03.ogg Lisa: You have no respect whatsoever for other people's work.
+Media:vo lslq002 10 lisa 04.ogg Lisa: The librarian. Although, I believe that should be quite clear already.
+Media:vo lslq002 10 lisa 05.ogg Lisa: Return the book. This is an ultimatum.
+Media:vo lslq002 10 lisa 06.ogg Lisa: Hmph. Naughty boys who don't do what they're told need a little punishment to keep them in line.
+Media:vo lslq002 10 lisa 07.ogg Lisa: *sigh* This is why I call it troublesome work.
+Media:vo lslq002 10 lisa 08.ogg Lisa: We'll just need to find the book ourselves. It should be around here somewhere.
+Media:vo lslq002 10 lisa 09.ogg Lisa: That's the one. It's a good thing it isn't damaged, otherwise...
+Media:vo lslq002 10 lisa 10.ogg Lisa: Hehe. I would probably have needed to dish out a little taste of one of my potions in that case.
+Media:vo lslq002 10 lisa 11.ogg Lisa: Then again... As I said, it isn't from the restricted section. Which is the only reason I would let the average citizen borrow it in the first place.
+Media:vo lslq002 10 lisa 12.ogg Lisa: And it doesn't appear to have any abnormal elemental properties, save for the markings I put on it.
+Media:vo lslq002 10 lisa 13.ogg Lisa: As far as my duties as a librarian go, my troublesome work is finished.
+Media:vo lslq002 10 lisa 14.ogg Lisa: Since this book has piqued your interest, why don't I let you borrow it?
+Media:vo lslq002 10 lisa 15.ogg Lisa: There's no time limit for you. I will register you as "custodian" rather than "borrower."
+Media:vo lslq002 10 lisa 16.ogg Lisa: This is an exclusive privilege reserved for trusted citizens only.
+Media:vo lslq002 10 lisa 17.ogg Lisa: Excuse me? Are you in some way dissatisfied with my work?
+Media:vo lslq002 10 lisa 18.ogg Lisa: Good. You are amendable to reason then. I do wish I could keep you by my side as my personal assistant...
+Media:vo lslq002 10 lisa 19.ogg Lisa: My work here is done. I'm going back.
+Media:vo lslq002 10 lisa 20.ogg Lisa: Don't forget to register at the library when you have a spare moment.
+Media:vo lslq002 10 paimon 01.ogg Paimon: It's The Pale Princess and The Six Pygmies! Paimon remembers that name, is this the one you were looking for?
+Media:vo lslq002 10 paimon 02.ogg Paimon: Otherwise what? Are you telling me you have even more crazy punishments up your sleeve!?
+Media:vo lslq002 10 paimon 03.ogg Paimon: Ah!
+Media:vo lslq002 10 paimon 04.ogg Paimon: Yeah... It seems like just an average storybook.
+Media:vo lslq002 10 paimon 05.ogg Paimon: Exclusive privilege? Why does Paimon feel this is just your sneaky way of offloading your troublesome work onto someone else?
+Media:vo lslq002 11 lisa 01.ogg Lisa: Ah, you've returned. The paperwork is done  you are now the custodian of this book.
+Media:vo lslq002 11 lisa 02.ogg Lisa: You are a voracious one, aren't you?
+Media:vo lslq002 11 lisa 03.ogg Lisa: Hehe... The Teyvat Travel Guide is a serial publication. It is not part of the library's formal collection.
+Media:vo lslq002 11 lisa 04.ogg Lisa: Take one. Consider it your compensation for being Lisa's little helper today.
+Media:vo lslq002 11 lisa 05.ogg Lisa: With you by my side, my troublesome work was a little less dull than usual.
+Media:vo lslq002 11 lisa 06.ogg Lisa: I hadn't anticipated that a few routine returns inquiries would take us out of the city let alone down into some underground ruins.
+Media:vo lslq002 11 lisa 07.ogg Lisa: As compensation for dragging you into all this bother, take these souvenirs.
+Media:vo lslq002 11 lisa 08.ogg Lisa: In fact, they were intended for our next routing, but... Never mind, we can discuss next time's activity when the time comes. I hope you are looking forward to it.
+Media:vo lslq002 11 lisa 09.ogg Lisa: *yawn*
+Media:vo lslq002 11 paimon 01.ogg Paimon: Thank you Miss Lisa!
+Media:vo lslq002 11 paimon 02.ogg Paimon: ...But Paimon thinks we're forgetting something.
+Media:vo lslq002 11 paimon 03.ogg Paimon: Look, over there on the shelf! Isn't that the Teyvat Travel Guide?
+Media:vo lslq002 11 paimon 04.ogg Paimon: And look how many copies there are!
+Media:vo lslq002 11 paimon 05.ogg Paimon: Hmph! The Teyvat Travel Guide was just bait to get us to do a day's work!
+Media:vo lslq002 11 paimon 05.ogg Paimon: Oh...
+Media:vo lslq002 11 paimon 07.ogg Paimon: Wow, Lisa went and bought us some special souvenirs!
+Media:vo lslq002 2 lisa 01.ogg Lisa: Hmm, it's further than I thought. Quite the intrepid explorer, our little thief.
+Media:vo lslq002 2 paimon 01.ogg Paimon: Maybe we frightened the turtle back inside his shell?
+Media:vo lslq002 4 lisa 01.ogg Lisa: It must be nearby.
+Media:vo lslq002 4 lisa 02.ogg Lisa: Using Elemental Sight, you can even detect magic.
+Media:vo lslq002 4 lisa 03.ogg Lisa: Follow the flow of magic to find the book.
+Media:vo lslq002 5 lisa 01.ogg Lisa: Please do not jump to such a preposterous conclusion about the living habits of Mondstadt's residents.
+Media:vo lslq002 5 lisa 02.ogg Lisa: This seems far more likely to be the work of some none-too-friendly troublemakers.
+Media:vo lslq002 5 lisa 02a 1.ogg Lisa: All they would use books for is to keep their campfire going anyway.
+Media:vo lslq002 5 lisa 02a.ogg Lisa: Stealing books is hardly the hilichurls' style.
+Media:vo lslq002 5 lisa 02b.ogg Lisa: It's like you can read my mind.
+Media:vo lslq002 5 lisa 02c 1.ogg Lisa: But Adventurers do not typically take others' belongings... Well, not from the living, anyway.
+Media:vo lslq002 5 lisa 02c.ogg Lisa: It's not unlike them, in the sense that they are known for darting around amongst underground ruins.
+Media:vo lslq002 5 lisa 03.ogg Lisa: This is more likely to be the Abyss Order's doing. They do seem to have a way of slipping in and out of places like ghosts, after all.
+Media:vo lslq002 5 lisa 04.ogg Lisa: Also... There is an elemental seal at the entrance. It looks like the result of an Abyss Mage's magic.
+Media:vo lslq002 5 lisa 05.ogg Lisa: Not to worry. If you think a little magic can keep me out, think again!
+Media:vo lslq002 5 lisa 06.ogg Lisa: Come on.
+Media:vo lslq002 5 paimon 01.ogg Paimon: The thief lives inside ruins? Mondstadt people do have some strange quirks.
+Media:vo lslq002 5 paimon 02.ogg Paimon: A seal? How are we gonna break it? Is this gonna turn into another huge ordeal?
+Media:vo lslq002 5 paimon 03.ogg Paimon: Why is that?
+(Lisa casts lightning, breaking the seal and opening an entrance to the ruins)
+Media:vo lslq002 5 paimon 04.ogg Paimon: Whoa...
+Media:vo lslq002 5 paimon 05.ogg Paimon: So this is what Lisa's like when she's hard at work...
+Media:vo lslq002 6 lisa 01.ogg Lisa: If you borrow a book, you have to return it. There will be no exceptions.
+Media:vo lslq002 6 paimon 01.ogg Paimon: It's so much bigger in here than Paimon thought...
+Media:vo lslq002 6 paimon 02.ogg Paimon: Uh... Do we really have to go all the way inside?
+Media:vo lslq002 6 paimon 03.ogg Paimon: Hey, look! It's an Abyss Mage! Lisa was spot on!

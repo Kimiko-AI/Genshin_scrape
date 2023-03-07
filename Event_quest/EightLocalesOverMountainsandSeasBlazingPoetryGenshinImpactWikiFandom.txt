@@ -1,0 +1,132 @@
+
+Paimon: ...He doesn't sound all that sincere. Or do bake-danuki just talk like that?
+
+Paimon: Do all bake-danuki talk like this...
+ A Flaming Flower, you mean?
+ A super special view!
+Paimon: Huh, aren't you using a couple of words too few, (Traveler)?
+ Ah, the two of you possess such splendid vocabularies.
+"Kichiboushi": Mm, splendid, like Paimon!
+Paimon: Uh, Paimon doesn't think that's what (Traveler) means... But whatever! That's a clever boy, Kichiboushi!
+ Battles are bothersome, honestly.
+Paimon: That's true, but sometimes we've just got no choice, eh?
+ Drawing takes a long time, you know. It's pretty tiring.
+ I mean the Pyro Regisvine, of course.
+ I suppose people have a desire to make something that is uniquely theirs.
+Paimon: Huh, that sounds reasonable.
+ Something that you draw yourself has much more sentimental value.
+ I'm so-so.
+ In this steaming hot place?
+ Is this what you're looking for?
+ It's fine. I quite like fights.
+Paimon: Well... That's nice and all, but there's better hobbies out there for sure, right?
+ Kameras are pretty expensive, you know.
+Paimon: Eh!? Are they? Then don't we risk breaking ours by bringing it into battle, to climb mountains, swim, and such?
+Paimon: Um... So, be more careful next time, okay?
+ Something that you draw yourself has much more sentimental value.
+ Know what, Paimon?
+ Let's get going.
+ Let's take the heat source out. The quicker, the better.
+ Like Anemo?
+ Like Cryo...
+ Oh, so that's what you were intending to do.
+ Quest DescriptionYou agreed to Ioroi's request to "bring Kichiboushi out to train."Paimon plans to take him to see Luhua Pool today...
+ Ridiculous...
+ Something that you draw yourself has much more sentimental value.
+ Sorry, who now?
+Paimon: Vermeer! Don't you remember the time we helped him place those glowing pearls into two giant statues?
+ Step Description"Why big flower spout fire?""Uh... It's afraid of the cold! Probably..."
+ Vermeer, you mean?
+Paimon: That's right! That's him! Didn't we help him place those glowing pearls into two giant statues?
+ We could take Kichiboushi to see a "very big Flaming Flower."
+ We've fought this sort of thing enough times by now.
+ When it's self-defense...
+ When you need to protect others...
+ When you need to stand up for what's right...
+ You can draw, Paimon?
+ You two sound like you could be siblings.
+Paimon: But it is very special, isn't it? How would you describe it, (Traveler)?
+ Like Cryo...
+ Like Anemo?
+Paimon: What's that even supposed to mean?
+ You're not wrong, but it's still way too hot in here...
+"Kichiboushi": (Traveler) and Paimon fight often?
+"Kichiboushi": (Traveler), so strong!
+"Kichiboushi": (Traveler), want fire flower. Thanks.
+(Give Flaming Flower Stamen)
+"Kichiboushi": (Traveler), wants! Thank you.
+"Kichiboushi": But Paimon can flip-flap. Legs won't be sore.
+"Kichiboushi": Drawing... But drawing is very hard. Watched Utamarou draw. Took very long for one drawing.
+"Kichiboushi": Eh? But... if people have photo, why drawing?
+"Kichiboushi": If we had a Flaming Flower at Dragonspine, would be good!
+"Kichiboushi": Mm! Very alike! Is it photo?
+"Kichiboushi": Mm, splendid, like Paimon!
+"Kichiboushi": Mm.
+"Kichiboushi": Mm...
+"Kichiboushi": Mm... Not really understanding, but I promise Paimon. No bullying weak people, no picking fights.
+"Kichiboushi": Mm... Okay...
+"Kichiboushi": Mm... Then is taking photos of me easy, not-hard, and not-sentimental?
+"Kichiboushi": Mm?
+"Kichiboushi": Mmmm...
+"Kichiboushi": Ooh, fire flower!
+"Kichiboushi": Ooh.. So hot...
+"Kichiboushi": Paimon, if we had a very big flower, could we make the snowy mountain have no snow?
+"Kichiboushi": So big! So hot! Amazing to have big fire flower!
+"Kichiboushi": So much water, super special colors, mm!
+"Kichiboushi": So warm.
+"Kichiboushi": So when freed from seal, a long time later, legs very sore.
+"Kichiboushi": Then when is fighting okay?
+"Kichiboushi": Understood. Photo, good. So... hot...
+"Kichiboushi": When I become great bake-danuki, will become as strong as (Traveler).
+"Kichiboushi": When I was sealed in stone, always standing.
+"Kichiboushi": Why do people drawing when they have photo?
+"Kichiboushi": Yes! Looks very warming.
+"Kichiboushi": Yes, Paimon?
+Paimon: ...He doesn't sound all that sincere. Or do bake-danuki just talk like that?
+Paimon: Alright then, guess that's Kichiboushi's training for today!
+Paimon: And that's why we chose to take photos instead! It's not that we don't care. It's precisely because we care about you that we decided to save time!
+Paimon: But it is very special, isn't it? How would you describe it, (Traveler)?
+Paimon: But this place really is special. (Traveler), do you still remember that artist from before?
+Paimon: Can you imagine if we had to draw you?
+Paimon: Come to think of it, the goal of our journey is to help you find your lost relative, but we always wind up in fights along the way.
+Paimon: Do all bake-danuki talk like this...
+Paimon: Do you want one, Kichiboushi?
+Paimon: Don't be like that big, fiery, flower that started spewing flames the moment it saw (Traveler)!
+Paimon: Eh!? Are they? Then don't we risk breaking ours by bringing it into battle, to climb mountains, swim, and such?
+Paimon: Eh!? N—No, that's not it, we just...
+Paimon: Eh? Wait, you mean...
+Paimon: Ergh, that sounds very painful...
+Paimon: Hang on a moment, Kichiboushi. Let's take a photo of you!
+Paimon: He even gave us a painting afterward!
+Paimon: He's got a point. We should probably have gone better prepared...
+Paimon: Hehe, guess you know now, eh, Kichiboushi?
+Paimon: Hey now! Floating's a full-body exercise. It's super tiring!
+Paimon: Hey, are you listening, or what?
+Paimon: Huh, aren't you using a couple of words too few, (Traveler)?
+Paimon: Huh, that sounds reasonable.
+Paimon: Huh. Actually, why is that, (Traveler)?
+Paimon: It should be... here! Come have a look, Kichiboushi!
+Paimon: Next up... Huh, this should be the final stop out of the eight that Ioroi set down...
+Paimon: No, someone drew this.
+Paimon: Paimon can learn!
+Paimon: P—Probably not...
+Paimon: Right? Ooh, also...
+Paimon: That's a good boy, Kichiboushi!
+Paimon: That's right! If we spend too long drawing, your legs might fall asleep on you from all that standing still.
+Paimon: That's right! That's him! Didn't we help him place those glowing pearls into two giant statues?
+Paimon: That's the whole point!
+Paimon: That's true, Chinju Forest doesn't have any Flaming Flowers at all...
+Paimon: That's true, but sometimes we've just got no choice, eh?
+Paimon: That's true, drawing something out brushstroke by brushstroke is pretty hard!
+Paimon: Then you'd better ask (Traveler) nicely!
+Paimon: This is a super special view, isn't it?
+Paimon: This place has a great view, though. Really makes Paimon wanna draw!
+Paimon: Uh, Paimon doesn't think that's what (Traveler) means... But whatever! That's a clever boy, Kichiboushi!
+Paimon: Um... So, be more careful next time, okay?
+Paimon: Vermeer! Don't you remember the time we helped him place those glowing pearls into two giant statues?
+Paimon: Well, why don't we bring Kichiboushi to Luhua Pool? It might be nice to have a break.
+Paimon: Well, why don't we bring Kichiboushi to Luhua Pool? It might be nice to have a break. [sic]
+Paimon: Well... Ahem! Even if you become a powerful bake-danuki like Ioroi, promise that you won't bully those weaker than you, or pick fights whenever you want!
+Paimon: Well... That's nice and all, but there's better hobbies out there for sure, right?
+Paimon: What's that even supposed to mean?
+Paimon: You can do it for sure! But you've got to promise Paimon...

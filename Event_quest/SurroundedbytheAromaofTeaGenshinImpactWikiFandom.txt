@@ -1,0 +1,48 @@
+ Bye.
+ Can I get you a drink?
+ Classic Paimon.
+ Enjoy.
+ I learned a lot today.
+ I'd like to know more.
+ I'm flattered.
+ Quest Description"There seems to be a very unusual customer in the tavern...""Well, it isn't everyday that someone piques your interest. How about we go check this person out together?""Forget it... I wouldn't dare to utter a word in front of him even if I went."
+ Wait, about the bill...
+ We can chat over a cup of tea.
+ Well, who knows...
+ You're too kind.
+Another familiar face has arrived at the tavern.
+Media:Vo eqtj002 3 paimon 01.ogg Paimon: Huh, this doesn't look like the drink they ordered. Just give this one to Paimon and try making another.
+Media:vo eqtj005 1 paimon 01.ogg Paimon: Zh—Zhongli!
+Media:vo eqtj005 1 paimon 02.ogg Paimon: W—Wait... Uh, Zhongli, what are you doing here?
+Media:vo eqtj005 1 zhongli 01.ogg Zhongli: Ah, Traveler. Good to see you, I trust you are well?
+Media:vo eqtj005 1 zhongli 02.ogg Zhongli: If I am to roam about the world, then I certainly mustn't limit my destinations. The free and prosperous Land of Wind is as splendid a place to visit as any.
+Media:vo eqtj005 1 zhongli 03.ogg Zhongli: And it's quite a pleasant surprise to run into you here.
+Media:vo eqtj005 1 zhongli 04.ogg Zhongli: One Misty Garden please. I take my tea strong, thank you.
+Media:vo eqtj005 2 paimon 01.ogg Paimon: Sorry to keep you waiting!
+Media:vo eqtj005 2 paimon 02.ogg Paimon: Wow, so Zhongli is even super knowledgeable about tea.
+Media:vo eqtj005 2 paimon 03.ogg Paimon: Paimon usually just gulps down the tea and says something simple like, "Yummy yummy in Paimon's tummy."
+Media:vo eqtj005 2 paimon 04.ogg Paimon: Oh, Paimon gets it now.
+Media:vo eqtj005 2 paimon 05.ogg Paimon: So could you teach Paimon how to savor tea like you do? It seems you smell it first, then drink it, right?
+Media:vo eqtj005 2 paimon 06.ogg Paimon: Oh no, all this time, Paimon's been missing out on her tea...
+Media:vo eqtj005 2 paimon 07.ogg Paimon: Paimon gets it! But whether Paimon can remember it all is another story, hehe...
+Media:vo eqtj005 2 paimon 08.ogg Paimon: Well, we're already pretty busy. I don't think we'll have time to manage a side hustle at a tea house.
+Media:vo eqtj005 2 paimon 09.ogg Paimon: Of course... Take care! Give our regards to the director!
+Media:vo eqtj005 2 zhongli 01.ogg Zhongli: Mmm, the tea is clear and glows with a pleasing hue. Its richness is complemented by a floral and fruity fragrance. Exquisite.
+Media:vo eqtj005 2 zhongli 02.ogg Zhongli: Mindfully savoring the tea shows due respect to the person that brewed it for you.
+Media:vo eqtj005 2 zhongli 03.ogg Zhongli: Tea of good quality is hard to come by, and those capable of brewing tea according to the occasion and emotions even more so.
+Media:vo eqtj005 2 zhongli 04.ogg Zhongli: That's correct.
+Media:vo eqtj005 2 zhongli 05.ogg Zhongli: Every type of tea is unique. The more you drink, the more you will understand the subtle differences. Smelling the aroma will reveal the quality of the tea.
+Media:vo eqtj005 2 zhongli 06.ogg Zhongli: Lower-grade teas emit a musty and seemingly scorched scent, whereas ones with a delicate yet soothing aroma are usually of a higher quality.
+Media:vo eqtj005 2 zhongli 07.ogg Zhongli: If you want to be more particular, according to Liyue ancient tradition, you could acquire a "Vintage Goblet," which is used specifically for examining the aroma.
+Media:vo eqtj005 2 zhongli 08.ogg Zhongli: Not to worry. Knowledge is vast, it's never too late to learn.
+Media:vo eqtj005 2 zhongli 09.ogg Zhongli: As a beginner, you can try this method: first observe the color. Then, smell the fragrance... And finally, take a sip.
+Media:vo eqtj005 2 zhongli 10.ogg Zhongli: Remember, you can understand anything as long as you approach it in the proper order.
+Media:vo eqtj005 2 zhongli 11.ogg Zhongli: Qiaoying Village in northwest Liyue is famous for their tea industry. It would be well worthwhile the visit when you get the chance.
+Media:vo eqtj005 2 zhongli 12.ogg Zhongli: What I shared with you today are mostly my own habits as an old-fashioned Liyue local.
+Media:vo eqtj005 2 zhongli 13.ogg Zhongli: Each region has its own tea traditions and culture. One should always respect the conventions of the local region.
+Media:vo eqtj005 2 zhongli 14.ogg Zhongli: Thank you for such excellent tea, (Traveler). It made my trip out here all the more worthwhile.
+Media:vo eqtj005 2 zhongli 15.ogg Zhongli: If you ever come to manage a tea house, I will certainly be a regular.
+Media:vo eqtj005 2 zhongli 16.ogg Zhongli: Regardless, you have my complete support.
+Media:vo eqtj005 2 zhongli 17.ogg Zhongli: Let's call it a day. I won't take more of your time. All the best with your new pursuit.
+Media:vo eqtj005 2 zhongli 18.ogg Zhongli: Ah yes, the bill... Just put it on Wangsheng Funeral Parlor's tab, as usual.
+Traveler: (Alright, this drink is looking good.)

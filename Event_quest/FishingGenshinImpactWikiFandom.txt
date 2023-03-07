@@ -1,0 +1,17 @@
+Media:vo tips fishing capture 3stars paimon 01.ogg Paimon: Whoa! Nice catch!
+Media:vo tips fishing capture 3stars paimon 02.ogg Paimon: Phew! That was a tough fight...
+Media:vo tips fishing capture 3stars paimon 04.ogg Paimon: Wow, Paimon's stomach is rumbling already!
+Media:vo tips fishing capture 3stars paimon 05.ogg Paimon: What is it, what is it? *gasp* Is it another Paimon?
+Media:vo tips fishing capture 4stars paimon 01.ogg Paimon: Yay! Time to celebrate!
+Media:vo tips fishing capture 4stars paimon 02.ogg Paimon: Phew! Well, you couldn't have done it without Paimon!
+Media:vo tips fishing capture 4stars paimon 03.ogg Paimon: You made that look easy!
+Media:vo tips fishing capture 4stars paimon 04.ogg Paimon: Ooh, look at that! Quick, let's go show it off!
+Media:vo tips fishing capture 4stars paimon 05.ogg Paimon: Paimon thinks you've earned yourself a new title: "Favonius Fish-Catching Extraordinaire"!
+Media:vo tips fishing capture almost paimon 01.ogg Paimon: Yeah! You've nearly got 'em!
+Media:vo tips fishing capture almost paimon 02.ogg Paimon: Steady now! It's the final stretch!
+Media:vo tips fishing capture almost paimon 03.ogg Paimon: So close, so close! Stay cool!
+Media:vo tips fishing capture almost paimon 04.ogg Paimon: You've got it! You've got it!
+Media:vo tips fishing capture almost paimon 05.ogg Paimon: Victory is almost ours!
+Media:vo tips fishing fail paimon 01.ogg Paimon: *sigh* What a shame... Let's try again!
+Media:vo tips fishing fail paimon 02.ogg Paimon: Don't give up! You'll get the hang of it~
+Media:vo tips fishing fail paimon 03.ogg Paimon: Don't worry about it, let's try again!

@@ -1,0 +1,634 @@
+
+(The Millelith changes guard at Liyue Harbor)
+(Yi Zhu and Yi Xian runs among the crowd)
+Baishi: Lady Keqing
+Baishi: The item Lady Ningguang prepared for you
+Baishi: Has arrived
+Keqing: Traveler
+Keqing: Wait here for a moment
+Keqing: Don't go anywhere!
+Paimon: Huh? Must be something important!
+(Vlad joins Nadia at the festival)
+(Keqing calls out to Traveler and Paimon)
+Keqing: Traveler
+Keqing: Paimon
+(Keqing walks out wearing Opulent Splendor)
+Keqing: Ningguang had her personal tailor
+Keqing: Make it for me
+Keqing: Said it's an imported style
+Keqing: Well?
+Keqing: Do you like it?
+Paimon: Wow, it's beauuutiful!
+Keqing: It's time
+Keqing: Traveler
+Keqing: Please enjoy
+Keqing: The grand finale of this year's Lantern Rite
+Keqing: The Fireworks Show!
+(Fireworks shoot into the sky)
+(Xinyan and Yun Jin runs past Ningguang wearing Orchid's Evening Gown)
+Yun Jin: Isn't it beautiful?
+Xinyan: Whoa...!
+Beidou: Hey, check you out...
+Beidou: Looking pretty fancy!
+Ningguang: Only a true treasure catches the eye of Captain Beidou
+Ningguang: Seems I've struck gold
+Ningguang: With this one
+(Fireworks continue)
+(Madame Ping, Yanfei, and Ganyu sits at a table watching the fireworks)
+(Ganyu stands up to join Shenhe at a railing)
+(Xiangling and Guoba runs to join Xingqiu and Chongyun)
+(A hand taps on Zhongli's shoulders)
+Hu Tao: Boo!
+Hu Tao: Did ya see that?
+Hu Tao: Way over there, a firework
+Hu Tao: That looks just like a pig!
+Zhongli: So it does
+(A scene shows the Dragon-Queller and a gravestone with three cups of wine offered)
+(Moon Carver and Mountain Shaper returns to Cloud Retainer)
+Smiley Yanxiao: Hey everyone, time to eat!
+Smiley Yanxiao: Food's ready!
+Huai'an: Ooh!
+Smiley Yanxiao: No better way
+Smiley Yanxiao: To celebrate
+Smiley Yanxiao: Hahaha!
+(Xiao watches the fireworks atop Wangshu Inn)
+(The Millelith sets off fireworks at Qingce Village)
+Granny Ruoxin: Dr. Baizhu
+Granny Ruoxin: Sorry to trouble you
+Granny Ruoxin: Again this year
+Baizhu: No trouble at all
+Qiqi: Lantern Rite...
+Keqing: Happy Lantern Rite
+(Everyone): Happy Lantern Rite!
+  He must be busy with his duties.
+ "Many hands make light work!"
+ (I wouldn't dare reveal his true identity.)
+ (We can't let Keqing try to handle this on her own.)
+ ...
+ ...Are you alright?
+Media:vo eqhdj talk 5 xiangling 03a.ogg Xiangling: Could be worse, could be worse! Festivals are always a little busy, you know how it is.
+ Ah, you're back in the city.
+ And we have something to tell you, Keqing.
+ Are you also busy these days, Xingqiu?
+ Are you doing some reading?
+ Are you enjoying the view?
+ Are you off work today?
+ Because he was too stubborn.
+ Classic Paimon wisdom.
+ Count me in!
+ Do you have time off for the festival?
+ Guilty as charged.
+ Happy Lantern Rite! How are you celebrating?
+ Happy Lantern Rite, Keqing.
+ His food starts getting worse and worse?
+ Hit the nail on the head.
+ Hmm, did they run away?
+ Hmm, let's go find Zhongli.
+ How do you know Granny Ruoxin?
+ How have you been lately?
+ How's Guoba these days?
+Media:vo eqhdj talk 5 xiangling 03b.ogg Xiangling: Hehe, aw, thanks for asking! Well, neither the stove nor the atmosphere are dying down any time soon, so Guoba's as happy as can be.
+ Huh!?
+ I heard a story about the Chi's corpse...
+ I know exactly what you mean.
+ I liked them a lot.
+ I miss it all the time.
+Media:vo eqhdj talk 1 ningguang 03a.ogg Ningguang: Is that so? I am delighted to hear it.
+ I think we can weave them into a story.
+ I was a little worried when I couldn't find you in the city...
+ I'm ready!
+ I've also read one called "Yakshas: The Guardian Adepti."
+ It came from Keqing's location!
+ It seems I still have a lot to learn.
+ It sounds like they had it rough...
+ It sounds like you are talented in forging, too.
+ It's as if "your judgment is clouded," right?
+ It's up to you, it's your story!
+ Just came here to see you.
+ Just for the festival.
+ Just here to chat with you.
+ Keqing!
+ My focus is on my mission, my journey.
+Media:vo eqhdj talk 1 ningguang 03b.ogg Ningguang: Ah, naturally.
+ No wonder Xiao is here so often.
+ Oh, I see.
+ Oof, I can imagine...
+Media:vo eqhdj talk 7 ganyu 06a.ogg Ganyu: Yes... I can handle overtime, but not that...
+ Perfect timing!
+ Please don't laugh at us.
+ Quest DescriptionThe unexpected fireworks theft has caused Keqing to be even busier.
+ Seriously though... Got a crush on anyone at the moment?
+Media:vo eqhdj talk 7 ganyu 06b.ogg Ganyu: What the— Don't you start that as well!
+ She is quite wondrous, even for an adeptus.
+ Simple but deep.
+ So...?
+ Sorry, it's not a very good story.
+ Step DescriptionThe unexpected fireworks theft has caused Keqing to be even busier. But don't forget, you still need to find a way to convince her to adjust her workload!
+ Tell me more about famous Liyue craftspeople.
+ That sounds a bit extreme...
+ That's right.
+ The consequences of not getting enough rest are pretty serious.
+ There's a lot of books in Liyue.
+ There's a series called "Rex Incognito."
+ There's some truth to it.
+ They were lovely.
+ They're just Treasure Hoarders, we can take 'em.
+ They're the thieves who stole the fireworks.
+ This is Cloud Retainer's place, right?
+ Understood, please be careful.
+ Wait, where are the Treasure Hoarders?
+ Wait... Is this the same "Yun" as in "Yun Jin"?
+ We asked around, and...
+ We have a story to tell you.
+ We've met on a couple of occasions.
+ What about you? Do you have any plans?
+ What are you looking at?
+ Xiao.
+ Xiao...
+ Yep, it's so quiet here.
+ Yes, that's the Lantern Rite smile.
+ You told us to walk and have a look around.
+ You're welcome.
+(Everyone): Happy Lantern Rite!
+Baishi: Has arrived
+Baishi: Lady Keqing
+Baishi: The item Lady Ningguang prepared for you
+Baizhu: No trouble at all
+Beidou: Hey, check you out...
+Beidou: Looking pretty fancy!
+Chongyun and Xingqiu leave with others from the guild.
+Granny Ruoxin: Again this year
+Granny Ruoxin: Dr. Baizhu
+Granny Ruoxin: Sorry to trouble you
+Hu Tao: Boo!
+Hu Tao: Did ya see that?
+Hu Tao: That looks just like a pig!
+Hu Tao: Way over there, a firework
+Huai'an: Ooh!
+Keqing leaves...
+Keqing: Do you like it?
+Keqing: Don't go anywhere!
+Keqing: Happy Lantern Rite
+Keqing: It's time
+Keqing: Make it for me
+Keqing: Ningguang had her personal tailor
+Keqing: Paimon
+Keqing: Please enjoy
+Keqing: Said it's an imported style
+Keqing: The Fireworks Show!
+Keqing: The grand finale of this year's Lantern Rite
+Keqing: Traveler
+Keqing: Wait here for a moment
+Keqing: Well?
+Media:Vo eqhdj talk 9 xiao 01.ogg Xiao: ...(Traveler).
+Media:Vo eqhdj talk 9 xiao 02.ogg Xiao: You're here.
+Media:Vo eqhdj talk 9 xiao 03.ogg Xiao: I'm guessing this Lantern Rite is the same as every year.
+Media:Vo eqhdj talk 9 xiao 04.ogg Xiao: The demons have retreated and the humans are safe and well. If Pervases knew... it would be a lifelong wish come true for him.
+Media:Vo eqhdj talk 9 xiao 05.ogg Xiao: I trust you're not here to invite me to watch the fireworks in the city?
+Media:Vo eqhdj talk 9 xiao 06.ogg Xiao: I think I'll be fine right here.
+Media:Vo eqhdj talk 9 xiao 07.ogg Xiao: As long as the fireworks fly high enough, you can see them from wherever you are. Besides, if anyone wishes to see me, I know they'll come and find me.
+Media:Vo eqhdj talk 9 xiao 08.ogg Xiao: So whether I'm here or in the city... it makes no difference.
+Media:vo dialog eqhdj103 jingcheng 01.ogg Jingcheng: Hmph, your hoarding days are over! How dare you cause trouble during Lantern Rite. You'll get what you deserve once we hand you over to the Ministry of Civil Affairs!
+Media:vo dialog eqhdj103 pengyi 01.ogg Pengyi: A burst of fireworks... Could it be the Treasure Hoarders? Oh Lady Keqing, please stay safe! It's up to you to find out what's happening, Traveler. Good luck!
+Media:vo dialog eqhdj103 treasurehoarderb 01.ogg Junming: How did the Millelith find us so fast?
+Media:vo dialog eqhdj103 treasurehoarderboss 01.ogg Xingxiu: *sigh* I guess we're done for...
+Media:vo dialog eqhdj103 xingqiu 01.ogg Xingqiu: Though they are merely a group of irksome bandits, please, exercise caution.
+Media:vo dialog eqhdj103 zhongli 01.ogg Zhongli: I wish you luck, Traveler.
+Media:vo eqhdj talk 1 ningguang 01.ogg Ningguang: Another Lantern Rite is upon us.
+Media:vo eqhdj talk 1 ningguang 02.ogg Ningguang: Traveler, it seems Liyue has a way of drawing you back every once in a while. Do you miss it here?
+Media:vo eqhdj talk 1 ningguang 03a.ogg Ningguang: Is that so? I am delighted to hear it.
+Media:vo eqhdj talk 1 ningguang 03b.ogg Ningguang: Ah, naturally.
+Media:vo eqhdj talk 1 ningguang 04.ogg Ningguang: Times change. Suddenly, the Lantern Rite of today is a wholly different affair from the past.
+Media:vo eqhdj talk 1 ningguang 05.ogg Ningguang: The preparations were very lengthy this time. I don't know if it is to everyone's tastes, but I, for one, am most satisfied with the way it has turned out.
+Media:vo eqhdj talk 1 ningguang 06.ogg Ningguang: I hope that it might be a highlight of your journey. If you ever grow weary in your travels, know that you can always come back and visit Liyue.
+Media:vo eqhdj talk 10 chongyun 01.ogg Chongyun: Hmm... With everything that's happened on the way here, I feel like we're forgetting something...
+Media:vo eqhdj talk 10 chongyun 02.ogg Chongyun: Ah, I remember now! What about the demons?
+Media:vo eqhdj talk 10 chongyun 03.ogg Chongyun: Quick, Xingqiu, get the ancient texts out. There isn't a moment to lose.
+Media:vo eqhdj talk 10 chongyun 04.ogg Chongyun: Hmm... You do have a point. Alright then. I'll take you at your word, again.
+Media:vo eqhdj talk 10 chongyun 05.ogg Chongyun: Uh... I've forgotten too.
+Media:vo eqhdj talk 10 xingqiu 01.ogg Xingqiu: Chongyun, just look at the stunning scenery of the Qingce Village. If I could sum it up in one word... Would you say "exquisite" does it justice? I think that—
+Media:vo eqhdj talk 10 xingqiu 02.ogg Xingqiu: Careful now, Chongyun, let's not rush into this. Just as tea is to be imbibed one sip at a time, these things must be done step by step. If we are too hasty and end up with enemies on all sides, even we, with our level of martial prowess, may find ourselves overpowered.
+Media:vo eqhdj talk 10 xingqiu 03.ogg Xingqiu: Excellent. Now then, what was I talking about? Huh, now I've lost my train of thought. Help me, Chongyun, what was I saying?
+Media:vo eqhdj talk 11 shenhe 01.ogg Shenhe: Liyue Harbor by night is even brighter than Mt. Aocang by day.
+Media:vo eqhdj talk 11 shenhe 02.ogg Shenhe: I couldn't get used to this view at first. But I'm told this is how it always looks at the Lantern Rite. I guess everyone likes brightly lit places, because every time you mention Lantern Rite, people can't help but smile.
+Media:vo eqhdj talk 11 shenhe 03.ogg Shenhe: Like this, look.
+Media:vo eqhdj talk 11 shenhe 04.ogg Shenhe: Will you be staying here for good now, (Traveler)?
+Media:vo eqhdj talk 11 shenhe 05.ogg Shenhe: ...Oh, I see.
+Media:vo eqhdj talk 11 shenhe 06.ogg Shenhe: Well... it's nice to see you.
+Media:vo eqhdj talk 11 shenhe 07.ogg Shenhe: If Lantern Rite could continue indefinitely... that would be even better.
+Media:vo eqhdj talk 12 yunjin 01.ogg Yun Jin: Oh, (Traveler)! I didn't expect to run into you in Qingce Village, of all places.
+Media:vo eqhdj talk 12 yunjin 02.ogg Yun Jin: Thanks for your concern. I'm touched.
+Media:vo eqhdj talk 12 yunjin 03.ogg Yun Jin: A few days ago, Granny Ruoxin invited me to come out here and give a performance. It's mostly old folks and children who live out this way, so I didn't know whether it would be to their tastes. But everyone seemed to enjoy it, so I'm very proud of myself.
+Media:vo eqhdj talk 12 yunjin 04.ogg Yun Jin: She was a famous opera singer in her youth, too. She's still got it, if you ask me.
+Media:vo eqhdj talk 12 yunjin 05.ogg Yun Jin: In show business, while you're onstage, you constantly have to be in control of everything you're doing to manage your image. So when you're offstage, it's a relief to finally loosen up a litte.
+Media:vo eqhdj talk 12 yunjin 06.ogg Yun Jin: I have some excellent tea here. Would you care to stay for some refreshments before you depart?
+Media:vo eqhdj talk 12 yunjin 07.ogg Yun Jin: Watching the Xiao Lanterns from the village is quite a unique experience in its own right. If you'd like, I can tell you all about it.
+Media:vo eqhdj talk 13 zhongli 01.ogg Zhongli: We meet again, Traveler.
+Media:vo eqhdj talk 13 zhongli 02.ogg Zhongli: What a rare opportunity to meet with you here in Liyue during this finest of festivals, as busy as you are on your travels.
+Media:vo eqhdj talk 13 zhongli 03.ogg Zhongli: As you can see, I'm ambling the streets at my leisure, enjoying the sound of people chattering and birds chirping.
+Media:vo eqhdj talk 13 zhongli 04.ogg Zhongli: Wangsheng Funeral Parlor has been somewhat idle as of late, so I am presently unoccupied.
+Media:vo eqhdj talk 13 zhongli 05.ogg Zhongli: When the director is out visiting friends, I take the opportunities to head out myself. Habit dictates that my first port of call is here, where I order myself a pot of tea, and listen to the storyteller.
+Media:vo eqhdj talk 13 zhongli 06.ogg Zhongli: As festival times, the storyteller will always select a few new passages that complement the spirit of the season.
+Media:vo eqhdj talk 13 zhongli 07.ogg Zhongli: Most are variations on existing legends or accounts from folk history. Their historicity is questionable at times, but it is their entertainment value that makes them an excellent choice for the festive period.
+Media:vo eqhdj talk 13 zhongli 08.ogg Zhongli: Hahaha, then it seems you are becoming rather familiar with the storyteller at this establishment.
+Media:vo eqhdj talk 13 zhongli 09.ogg Zhongli: Time marches forward relentlessly... People change, traditions change...
+Media:vo eqhdj talk 13 zhongli 10.ogg Zhongli: Lantern Rite is no exception.
+Media:vo eqhdj talk 13 zhongli 11.ogg Zhongli: In times of old, Liyue was constantly at war. People lit lanterns and sent them into the sky to help guide the warriors on the distant front back to their home.
+Media:vo eqhdj talk 13 zhongli 12.ogg Zhongli: Today, we live in a time of peace, and the custom of releasing lanterns has become ceremonial in nature. For the people of Liyue, the ritual of lighting lanterns every year symbolizes the undying spirit of heroism.
+Media:vo eqhdj talk 13 zhongli 13.ogg Zhongli: The things that refuse to be shaken by the passage of time... those are Liyue's roots.
+Media:vo eqhdj talk 13 zhongli 14.ogg Zhongli: Traveler, I hope that you are able to celebrate the Lantern Rite together with the people of Liyue.
+Media:vo eqhdj talk 13 zhongli 15.ogg Zhongli: Plans... not a notion that can be easily applied to me anymore. I am a man of leisure. I simply go wherever I am inclined, wherever that may be.
+Media:vo eqhdj talk 13 zhongli 16.ogg Zhongli: Although, now that you mention... Yes, I should make the most of this festive period by venturing to parts of Liyue that lie beyond the harbor.
+Media:vo eqhdj talk 13 zhongli 17.ogg Zhongli: I began with tea at Third-Round Knockout today... perhaps tomorrow I shall try somewhere else in the near vicinity.
+Media:vo eqhdj talk 13 zhongli 18.ogg Zhongli: It is quite a joy to be idle and explore this bustling city at my leisure.
+Media:vo eqhdj talk 14 zhongli 01.ogg Zhongli: Oh? You're here.
+Media:vo eqhdj talk 14 zhongli 02.ogg Zhongli: I do apologize, another matter was occupying my mind just now.
+Media:vo eqhdj talk 14 zhongli 03.ogg Zhongli: Hanfeng's Ironmongers has a long history. Ownership has been passed down from generation to generation, and today it is known as the most reputable blacksmith in the land.
+Media:vo eqhdj talk 14 zhongli 04.ogg Zhongli: The art of forging prizes precision and diligence. The tasks of forging weapons and processing ore require a great deal of time and patience.
+Media:vo eqhdj talk 14 zhongli 05.ogg Zhongli: To most, the sound of iron being struck with a hammer is loud and intrusive. But to those who appreciate this art form, it is like the toll of a bell. Breathtaking, and transfixing.
+Media:vo eqhdj talk 14 zhongli 06.ogg Zhongli: The sound of metal clashing with metal causes one to fall quiet, calms one's spirit, focuses one's attention, and then, with a mind emptied of unwanted thoughts, devote oneself fully to the work at hand.
+Media:vo eqhdj talk 14 zhongli 07.ogg Zhongli: Any talent I possess comes not from natural inclination, but out of necessity. In times of war, weapons are indispensable equipment, and highly sought after.
+Media:vo eqhdj talk 14 zhongli 08.ogg Zhongli: The wondrous ley lines of Liyue produce all manner of exquisite ore. It follows naturally that distinguished artisans and prized wares arise in response.
+Media:vo eqhdj talk 14 zhongli 09.ogg Zhongli: But I have always thought that a craftsman's ingenuity is far more valuable than any precious stone. The most accomplished in their craft do not limit themselves to working exclusively with rare ores.
+Media:vo eqhdj talk 14 zhongli 10.ogg Zhongli: Well, Traveler... After your long sojourn in Liyue, I trust you will have heard of the houses of Kun and Yun?
+Media:vo eqhdj talk 14 zhongli 11.ogg Zhongli: The house of Kun is a long-established name in the art of forging. To this day, their descendants continue their craft.
+Media:vo eqhdj talk 14 zhongli 12.ogg Zhongli: The house of Yun did not limit themselves to this craft. They branched out into many different disciplines and districts. Their descendants today still uphold the work ethic taught within their family for generations: "Even ostensible perfection can oft be improved upon through diligence." This has contributed towards their excellence in numerous fields.
+Media:vo eqhdj talk 14 zhongli 13.ogg Zhongli: Ah, so you are acquainted with Miss Yun. Yes, the talented Yun Jin of Liyue operatic fame is indeed a descendant of the historic house of Yun.
+Media:vo eqhdj talk 14 zhongli 14.ogg Zhongli: Her ancestors changed professions long ago. It was her father's generation that dedicated themselves to the performing arts. In this day and age, the Yun family's history has been forgotten, and nobody knows of the connection they once had to the art of forging.
+Media:vo eqhdj talk 14 zhongli 15.ogg Zhongli: The evolution of families over the ages has been a profound force in shaping Liyue's history. While you're here, if you have the time, you may find learning about the human history of Liyue to be illuminating.
+Media:vo eqhdj talk 14 zhongli 16.ogg Zhongli: Much that you might want to know can be found in books.
+Media:vo eqhdj talk 14 zhongli 17.ogg Zhongli: Even books change over the generations, causing discrepancies between their contents and the historical facts. But books can function as a mirror for humanity. Reading is the noblest of pastimes — there is always some benefit to be derived.
+Media:vo eqhdj talk 15 zhongli 01.ogg Zhongli: Ah, I wondered if I might run into you again. This makes the third day in a row... perhaps it is fate rather than coincidence.
+Media:vo eqhdj talk 15 zhongli 02.ogg Zhongli: Yes. After our conversation yesterday, I thought I might visit the bookhouse and see what constitutes popular literature these days.
+Media:vo eqhdj talk 15 zhongli 03.ogg Zhongli: Indeed. Traveler, do you know anything of the origins of books in Liyue?
+Media:vo eqhdj talk 15 zhongli 04.ogg Zhongli: First, people ground wood into pulp to make paper. For ease of reading, they began binding sheets together to make what we now call "books."
+Media:vo eqhdj talk 15 zhongli 05.ogg Zhongli: Later, they developed movable-type printing to improve the speed and quality of production. Eventually, the technology developed to the point where books like those we see here can easily be produced in great quantities.
+Media:vo eqhdj talk 15 zhongli 06.ogg Zhongli: There has been a proliferation of literary genres and works since that time.
+Media:vo eqhdj talk 15 zhongli 07.ogg Zhongli: Traveler, is there any book from Liyue that has made a particularly strong impression on you?
+Media:vo eqhdj talk 15 zhongli 08.ogg Zhongli: Oh? So, you've read it too.
+Media:vo eqhdj talk 15 zhongli 09.ogg Zhongli: The author does not lack for ideas. Sometimes, they move in strange directions, and even I cannot claim to fully understand their meaning. But it makes for fresh and interesting reading material, a lot like reading somebody else's biography.
+Media:vo eqhdj talk 15 zhongli 10.ogg Zhongli: Gods and adepti are far removed from the mortal experience. That they are difficult to portray in writing is no surprise.
+Media:vo eqhdj talk 15 zhongli 11.ogg Zhongli: It is true that the Geo Archon, Morax would journey in the mortal realm from time to time. But there was not quite so much ostentatious shapeshifting as the books would have you believe.
+Media:vo eqhdj talk 15 zhongli 12.ogg Zhongli: When the goal is to wander the streets undetected, donning an overly elaborate disguise is somewhat self-defeating.
+Media:vo eqhdj talk 15 zhongli 13.ogg Zhongli: Such discrepancies illustrate the difference between history as it happened and folk accounts based on hearsay. The value of reading accounts penned by others is in the chance to view the world through their eyes. It is very often an unfamiliar sight, though never an uninteresting one.
+Media:vo eqhdj talk 15 zhongli 14.ogg Zhongli: Ah, yes. A memorable work indeed.
+Media:vo eqhdj talk 15 zhongli 15.ogg Zhongli: I have heard that this is an unpopular book due to its often impenetrable prose. And yet, the yakshas described in it are real historical figures.
+Media:vo eqhdj talk 15 zhongli 16.ogg Zhongli: They were loyal servants of Liyue. They lived through a bitter war and sacrificed much. All of Liyue, from harbor to chasm, is indebted to the yakshas for their protection over the years.
+Media:vo eqhdj talk 15 zhongli 17.ogg Zhongli: I believe you have seen one of these yakshas in the flesh.
+Media:vo eqhdj talk 15 zhongli 18.ogg Zhongli: Yes... These days, he often appears at Dihua Marsh.
+Media:vo eqhdj talk 15 zhongli 19.ogg Zhongli: He is given to solitude. But I suspect that he would not turn away a reliable companion such as yourself.
+Media:vo eqhdj talk 15 zhongli 20.ogg Zhongli: Should you happen to see him, please pass on my season's greetings.
+Media:vo eqhdj talk 16 zhongli 01.ogg Zhongli: "Where the clear blue water runs into the sky, and an ocean of silvergrass stretches out before the eye." That was written about Dihua Marsh.
+Media:vo eqhdj talk 16 zhongli 02.ogg Zhongli: From an altitude, the sight of reeds on the water, rustling gently in the breeze, is indeed a sight beautiful beyond compare.
+Media:vo eqhdj talk 16 zhongli 03.ogg Zhongli: Wangshu Inn is located in the heart of Dihua Marsh, and provides the finest in both food and scenery. It is no wonder that travelers are fond of staying here.
+Media:vo eqhdj talk 16 zhongli 04.ogg Zhongli: But Wangshu Inn is no mere guesthouse.
+Media:vo eqhdj talk 16 zhongli 05.ogg Zhongli: It was built tall to provide superior visibility for surveying the surrounding terrain. And it was built here, on this road, because it is one of the main routes for traffic into the region.
+Media:vo eqhdj talk 16 zhongli 06.ogg Zhongli: This is a strategic location that must be defended at all costs.
+Media:vo eqhdj talk 16 zhongli 07.ogg Zhongli: Yes. That is one of the primary reasons that he frequents the inn.
+Media:vo eqhdj talk 16 zhongli 08.ogg Zhongli: Looking southeast from here, one can see all the way to Guyun Stone Forest.
+Media:vo eqhdj talk 16 zhongli 09.ogg Zhongli: With gods lying sealed beneath those rocks, the area is frequently afflicted with monster activity. Xiao often goes back and forth between here and Guyun.
+Media:vo eqhdj talk 16 zhongli 10.ogg Zhongli: Being constantly on the move must be tiring for him. My purpose in coming here was to give him a few words of comfort, but to my surprise, I did not find him on the roof...
+Media:vo eqhdj talk 16 zhongli 11.ogg Zhongli: Perhaps so. Nevertheless, this trip was by no means a waste. Besides, there shall be no shortage of opportunities to meet in the future.
+Media:vo eqhdj talk 16 zhongli 12.ogg Zhongli: On the subject of Wangshu Inn, the chef here is highly talented.
+Media:vo eqhdj talk 16 zhongli 13.ogg Zhongli: If I recall correctly, there was a cooking competition hosted in Liyue Harbor during the Moonchase Festival. This chef was selected to represent the Dihua Marsh region, entered the finals, and took second prize.
+Media:vo eqhdj talk 16 zhongli 14.ogg Zhongli: Culinary excellence should always be shared far and wide.
+Media:vo eqhdj talk 16 zhongli 15.ogg Zhongli: Hmm... Being up so high reminds me of another lofty location.
+Media:vo eqhdj talk 16 zhongli 16.ogg Zhongli: Yes... one that the adepti once took control of, long ago. It then fell into disuse. Whether anyone tends to it these days, I do not know...
+Media:vo eqhdj talk 16 zhongli 17.ogg Zhongli: Alright then. That is where I shall go tomorrow.
+Media:vo eqhdj talk 17 zhongli 01.ogg Zhongli: Here above the clouds, where the moon sets and the sun rises before your eyes, one's sense of time becomes indistinct.
+Media:vo eqhdj talk 17 zhongli 02.ogg Zhongli: Indeed.
+Media:vo eqhdj talk 17 zhongli 03.ogg Zhongli: You have encountered her several times, correct?
+Media:vo eqhdj talk 17 zhongli 04.ogg Zhongli: You possess a wealth of knowledge and experience, and you have goodness in your heart. Naturally, you are able to have friendly interactions with her.
+Media:vo eqhdj talk 17 zhongli 05.ogg Zhongli: Cloud Retainer is an expert in the mechanical arts, and an avid inventor.
+Media:vo eqhdj talk 17 zhongli 06.ogg Zhongli: Generous and kind, honest and forthright... I treasure her as both a friend and teacher, the likes of whom are hard to come by.
+Media:vo eqhdj talk 17 zhongli 07.ogg Zhongli: An old friend once said to me that if you ever have a question on the most trivial of affairs, two hours conversing with Cloud Retainer will leave you better informed than three days and nights talking to every soul in the harbor.
+Media:vo eqhdj talk 17 zhongli 08.ogg Zhongli: Traveler, would you say you agree?
+Media:vo eqhdj talk 17 zhongli 09.ogg Zhongli: Hahaha. Yes, Cloud Retainer does not waste words, but this is no bad thing. She may say that she prefers to keep her distance from the mortal realm, but in fact she cares deeply for humanity.
+Media:vo eqhdj talk 17 zhongli 10.ogg Zhongli: Ahh... I believe I have gazed at the mountains long enough. Time for a change of scenery.
+Media:vo eqhdj talk 17 zhongli 11.ogg Zhongli: Tomorrow... yes, perhaps I will head further north.
+Media:vo eqhdj talk 17 zhongli 12.ogg Zhongli: Qingce Village is one of the more populated places outside of the harbor. I think I shall go there.
+Media:vo eqhdj talk 18 zhongli 01.ogg Zhongli: Compared to the constant hubbub of Liyue Harbor, it is far more serene here.
+Media:vo eqhdj talk 18 zhongli 02.ogg Zhongli: It is a pleasant and leisurely atmosphere, not unfit for a festival.
+Media:vo eqhdj talk 18 zhongli 03.ogg Zhongli: On the way over, I saw grandparents preparing meals, children learning to make Xiao Lanterns... It was quite nostalgic for me. It took me back to the very earliest days of Liyue's history.
+Media:vo eqhdj talk 18 zhongli 04.ogg Zhongli: Back then, most able-bodied adults were busy supporting the war effort or helping to build the city. Like now, the oldest and youngest supported each other, living humble lives.
+Media:vo eqhdj talk 18 zhongli 05.ogg Zhongli: Indeed, their lives were not easy. But the people of Liyue have tenacity and optimism in their bones.
+Media:vo eqhdj talk 18 zhongli 06.ogg Zhongli: They will never stop striving for progress, no matter how much destitution they face.
+Media:vo eqhdj talk 18 zhongli 07.ogg Zhongli: In ancient times, Qingce Village was once ravaged by the Chi. It is now several thousand years since it was put to rest.
+Media:vo eqhdj talk 18 zhongli 08.ogg Zhongli: Over the millennia, people built dwellings and worked the fertile land, creating the spectacular view we now see today.
+Media:vo eqhdj talk 18 zhongli 09.ogg Zhongli: ...That after it died, its body became the rocky mountains and flowing waters of Qingce. I, too, have heard this story.
+Media:vo eqhdj talk 18 zhongli 10.ogg Zhongli: The idea is captivating. Though, I'm afraid, it is pure fantasy.
+Media:vo eqhdj talk 18 zhongli 11.ogg Zhongli: Lofty mountains have stood and spring water has flowed here since time immemorial. That people now inhabit this place is solely because they have toiled to make it so.
+Media:vo eqhdj talk 18 zhongli 12.ogg Zhongli: Qingce's verdant hills and stunning waters paired with the tranquil atmosphere here make it a place of extraordinary beauty. A rare blessing indeed.
+Media:vo eqhdj talk 18 zhongli 13.ogg Zhongli: Oh, one of the villagers generously gifted me with some fresh Bamboo Shoots. They will add some seasonal flavor to a meal on my return to Liyue Harbor.
+Media:vo eqhdj talk 18 zhongli 14.ogg Zhongli: Seasonal bamboo shoots are yet another rare blessing offered by Qingce Village.
+Media:vo eqhdj talk 19 zhongli 01.ogg Zhongli: This year's Xiao Lanterns and fireworks seem more exquisite than ever.
+Media:vo eqhdj talk 19 zhongli 02.ogg Zhongli: Yes, after a most worthwhile journey.
+Media:vo eqhdj talk 19 zhongli 03.ogg Zhongli: Had I not heeded your advice, I fear I may have missed out on the scenes I saw. Thank you, Traveler.
+Media:vo eqhdj talk 19 zhongli 04.ogg Zhongli: Liyue's beauty always gladdens my heart. There is everything from the graceful to the grandiose, from serenity to splendor. And the ways in which the sights of Liyue stir the heart... They must be seen to be experienced.
+Media:vo eqhdj talk 19 zhongli 05.ogg Zhongli: The people of Liyue today are busier than ever before. Yet still they head home when the festival season comes, no matter how long the journey takes, just for the chance to sit around the stove and share a joyful time with their loved ones.
+Media:vo eqhdj talk 19 zhongli 06.ogg Zhongli: Even a glimpse of Liyue's scenery on their homeward journey can serve to comfort their spirits.
+Media:vo eqhdj talk 19 zhongli 07.ogg Zhongli: Traveler, this view belongs to you as much as to anyone else. Though your journey ahead may be long and much awaits for you to accomplish, I hope that each time you return to Liyue, sights such as these will put your mind at ease.
+Media:vo eqhdj talk 19 zhongli 08.ogg Zhongli: A safe haven between the mountains, a warm glow that guides you out from a dense forest. Like the stars in the sky, may the lights of this city always shine for you, Traveler, even from beyond the clouds.
+Media:vo eqhdj talk 2 beidou 01.ogg Beidou: Seems I've caused you all sorts of trouble. Sorry it's been so tough on you.
+Media:vo eqhdj talk 2 beidou 02.ogg Beidou: Haha, not a chance. Just yesterday I got an invitation to play some chess. Said I could head up for a game whenever I'm down to play.
+Media:vo eqhdj talk 2 beidou 03.ogg Beidou: Uh, moving on — when you're feeling better, we should grab some food together.
+Media:vo eqhdj talk 2 beidou 04.ogg Beidou: Lantern Rite only comes once a year, and I, for one, intend to make the most of it.
+Media:vo eqhdj talk 2 xinyan 01.ogg Xinyan: Ahh... Ahh... *cough*! That party was a real blast! You know you had a good time when you ended up singing a little too hard and straining your voice...
+Media:vo eqhdj talk 2 xinyan 02.ogg Xinyan: Are you kidding me!? I got to go out on the ocean with you and celebrate the festival with y'all. Couldn't have asked for more. Best Lantern Rite ever!
+Media:vo eqhdj talk 2 xinyan 03.ogg Xinyan: I was gonna ask, though... Now that your crew is all back home with their families, aren't you gonna get bored on your own?
+Media:vo eqhdj talk 2 xinyan 04.ogg Xinyan: Head up...? Oh, right! You mean to the Jade Chamber.
+Media:vo eqhdj talk 3 keqing 01.ogg Keqing: What did you think of this year's fireworks display?
+Media:vo eqhdj talk 3 keqing 02.ogg Keqing: I just hope this festival can be everything that people want it to be.
+Media:vo eqhdj talk 3 keqing 03.ogg Keqing: Really? I hope you're not just saying that to reassure me. I want you to be straight with me if you have any suggestions.
+Media:vo eqhdj talk 3 keqing 04.ogg Keqing: Anyway... If you have any time during the festival, take a look around the city. There's a lot to see, but it won't last. So make the most of it.
+Media:vo eqhdj talk 3 keqing 05.ogg Keqing: If only I had a little more free time... I'd love to take you around and show you everything we did to make the city look special during the festival.
+Media:vo eqhdj talk 4 hutao 01.ogg Hu Tao: Well hello there, (Traveler)! A happy and healthy Lantern Rite to you!
+Media:vo eqhdj talk 4 hutao 02.ogg Hu Tao: And what brings you here on this finest of days? Not business, I presume? So what is it? Need my help?
+Media:vo eqhdj talk 4 hutao 03.ogg Hu Tao: Oh, I see! So you just missed me all of a sudden? Oh, you — why'd you have to go and be so thoughtful, hmm? I couldn't possibly bring myself to scare you with a ghost story now!
+Media:vo eqhdj talk 4 hutao 04.ogg Hu Tao: To tell the truth, this Lantern Rite's been a busy one for me. I got Xiangling to give me a few recipes and I've been trying my hand at them. Since you're here, why don't you have a taste...
+Media:vo eqhdj talk 4 hutao 05.ogg Hu Tao: Wh—What's that look for!? ... You're not leaving already are you? C'mon, don't go — I promise they don't taste that bad! And I promise, it's not a prank!
+Media:vo eqhdj talk 5 xiangling 01.ogg Xiangling: Okay, so we have one group booked for two tables for a banquet tomorrow night... and another group who needs their order delivered around the same time... Phew...
+Media:vo eqhdj talk 5 xiangling 02.ogg Xiangling: Oh! Hey, (Traveler)! Happy Lantern Rite!
+Media:vo eqhdj talk 5 xiangling 03a.ogg Xiangling: Could be worse, could be worse! Festivals are always a little busy, you know how it is.
+Media:vo eqhdj talk 5 xiangling 03b.ogg Xiangling: Hehe, aw, thanks for asking! Well, neither the stove nor the atmosphere are dying down any time soon, so Guoba's as happy as can be.
+Media:vo eqhdj talk 5 xiangling 04.ogg Xiangling: If you're craving anything off the Wanmin menu, don't worry about being a burden. However busy it gets, I'll always make time to cook for you.
+Media:vo eqhdj talk 6 yanfei 01.ogg Yanfei: Perfect timing, (Traveler)! Lemme make some space for you... There! Look, isn't that an amazing view? I can never get tired of it.
+Media:vo eqhdj talk 6 yanfei 02.ogg Yanfei: Yep! I got a letter from my dad — he said all is well with him and mom on their travels, and wished me and Granny a Happy Lantern Rite.
+Media:vo eqhdj talk 6 yanfei 03.ogg Yanfei: So typical of my dad. He wrote the exact same thing last year — it's like his go-to Lantern Rite greeting!
+Media:vo eqhdj talk 6 yanfei 04.ogg Yanfei: But hey, I guess he doesn't overthink these things, and that's where I get my carefree side from, too. Look at me, I've taken a few days vacation just so I can enjoy the view.
+Media:vo eqhdj talk 6 yanfei 05.ogg Yanfei: Oh, this reminds me — I should mention you when I write back! When you meet interesting new people, you've gotta share it with your family.
+Media:vo eqhdj talk 7 ganyu 01.ogg Ganyu: Happy Lantern Rite, (Traveler). How have you been recently?
+Media:vo eqhdj talk 7 ganyu 02.ogg Ganyu: I hope everything's going well for you. Don't be like me, worrying all the time...
+Media:vo eqhdj talk 7 ganyu 03.ogg Ganyu: Oh, uh... it's nothing though, just... as you can see, there's a lot going on during the Lantern Rite, and I was originally supposed to head back to Yujing Terrace to assist with the preparations...
+Media:vo eqhdj talk 7 ganyu 04.ogg Ganyu: However, Lady Ningguang urged me to take a proper vacation. She said that there's nothing so urgent that it can't wait, and that this festival is a time to reconnect with friends and family...
+Media:vo eqhdj talk 7 ganyu 05.ogg Ganyu: But if I really spent this vacation with Cloud Retainer, it wouldn't be long before she started asking me "How has your career developed this year?" "Any new crushes one should know about?"...
+Media:vo eqhdj talk 7 ganyu 06a.ogg Ganyu: Yes... I can handle overtime, but not that...
+Media:vo eqhdj talk 7 ganyu 06b.ogg Ganyu: What the— Don't you start that as well!
+Media:vo eqhdj talk 7 ganyu 07.ogg Ganyu: Besides that... I do feel better getting some of this off my chest. So... thank you for being here and listening to me.
+Media:vo eqhdj talk 8 baizhu 01.ogg Baizhu: Don't worry, Qiqi, Finches just fly away as a precaution whenever they hear footsteps approaching. It's not because they're scared.
+Media:vo eqhdj talk 8 baizhu 02.ogg Baizhu: We can't stay here for too long, I'm afraid. We still have patients to visit...
+Media:vo eqhdj talk 8 baizhu 03.ogg Baizhu: The busy period will die down after the festival ends, and then, I'll take you wherever you want to go — promise. Okay, Qiqi?
+Media:vo eqhdj talk 8 baizhu 04.ogg Baizhu: Alright, here's your pen...
+Media:vo eqhdj talk 8 qiqi 01.ogg Qiqi: Baizhu. I want to go on the roof. To watch the fireworks.
+Media:vo eqhdj talk 8 qiqi 02.ogg Qiqi: It's high up there. I don't wanna disturb the Finches down on the ground.
+Media:vo eqhdj talk 8 qiqi 03.ogg Qiqi: Hmm... Okay. Patients are more important. Don't mind Qiqi.
+Media:vo eqhdj talk 8 qiqi 04.ogg Qiqi: Let me write that down. In my notebook.
+Media:vo eqhdj103 1 keqing 01.ogg Keqing: Good. I've made some progress in my investigation as well.
+Media:vo eqhdj103 1 keqing 02.ogg Keqing: Traveler, Paimon, you are just in time.
+Media:vo eqhdj103 1 keqing 03.ogg Keqing: I looked everywhere and I found some clues regarding the Treasure Hoarders. Besides wagon tracks, I also came across bits and pieces of fireworks packaging scattered on the road.
+Media:vo eqhdj103 1 keqing 04.ogg Keqing: Following those clues, I was able to finally locate the missing fireworks. But there was no sign of Treasure Hoarders.
+Media:vo eqhdj103 1 keqing 05.ogg Keqing: No, I think they might be just overly careless. I seem to have found the location where they've been stashing all their stolen goods. They must have thought it was well-hidden and deemed it unnecessary to post any guards.
+Media:vo eqhdj103 1 keqing 06.ogg Keqing: The amount of fireworks they've amassed there is astonishing. Not only did they steal the ones in Qingce Village but also from other locations, too. They've gathered all the stolen goods there.
+Media:vo eqhdj103 1 keqing 07.ogg Keqing: I've asked the Millelith on guard at Qingce Village to report this to the Ministry of Civil Affairs. They will organize a search around that warehouse.
+Media:vo eqhdj103 1 keqing 08.ogg Keqing: The Treasure Hoarders are notoriously cunning, and they may even have lookouts. If they notice anything suspicious, they will move the fireworks and our single lead will be lost. I have to keep an eye on the situation.
+Media:vo eqhdj103 1 keqing 09.ogg Keqing: No, I am not that reckless. I just want to investigate the case thoroughly.
+Media:vo eqhdj103 1 keqing 10.ogg Keqing: But now that I have your help, the idea is feasible...
+Media:vo eqhdj103 1 keqing 11.ogg Keqing: Okay, then there's no time to lose. Let's go.
+Media:vo eqhdj103 1 paimon 01.ogg Paimon: Let's go!
+Media:vo eqhdj103 1 paimon 02.ogg Paimon: Now that the Millelith is involved, you don't need to handle this yourself anymore!
+Media:vo eqhdj103 1 paimon 03.ogg Paimon: Uh, you're not really thinking that you can take all of them yourself, are you?
+Media:vo eqhdj103 1 paimon 04.ogg Paimon: So you really are considering it!
+Media:vo eqhdj103 1 xingqiu 01.ogg Xingqiu: Rest assured, all is quiet here in Qingce Village. Chongyun is guarding the outside, and I'm guarding the inside. Not a problem in sight.
+Media:vo eqhdj103 1 xingqiu 02.ogg Xingqiu: Oh? What are you planning? Is it time to strike?
+Media:vo eqhdj103 11 keqing 01.ogg Keqing: Oops, what did I do?
+Media:vo eqhdj103 11 keqing 02.ogg Keqing: Huh? What Treasure Hoarders?
+Media:vo eqhdj103 11 keqing 03.ogg Keqing: Ah, I see. Sorry, that's not the case. I saw a few sticks of fireworks on the ground, so I fiddled with them and...
+Media:vo eqhdj103 11 keqing 04.ogg Keqing: Sure enough, it seems I accidentally lit the fuse. Before I could react, the fireworks were... *ahem* already up in the air.
+Media:vo eqhdj103 11 keqing 05.ogg Keqing: I apologize, I didn't mean to alarm you. Fortunately, there are no more Treasure Hoarders in the area. It seems this matter has finally come to an end.
+Media:vo eqhdj103 11 keqing 06.ogg Keqing: Yes, of course. The best view should be from the Jade Chamber.
+Media:vo eqhdj103 11 keqing 07.ogg Keqing: Don't worry, I haven't forgotten my promise. But first, I have to drop by the Ministry of Civil Affairs and close this case.
+Media:vo eqhdj103 11 keqing 08.ogg Keqing: Leave the rest of this to me, you've already been a great help. Why don't you go for a walk around the city and I'll meet you when I am done?
+Media:vo eqhdj103 11 keqing 09.ogg Keqing: Yes, I'll be there.
+Media:vo eqhdj103 11 paimon 01.ogg Paimon: Hey! Keqing!
+Media:vo eqhdj103 11 paimon 02.ogg Paimon: We heard an explosion and thought it might be Treasure Hoarders sending signals to one another again.
+Media:vo eqhdj103 11 paimon 03.ogg Paimon: So, no enemies? Well, that's good... We thought you might've been surrounded by bad guys!
+Media:vo eqhdj103 11 paimon 04.ogg Paimon: Great! The case of the stolen fireworks is finally solved, good thing we were able to get to the bottom of it!
+Media:vo eqhdj103 11 paimon 05.ogg Paimon: Otherwise, those beautiful fireworks would have gone to waste and the whole show would be ruined.
+Media:vo eqhdj103 11 paimon 06.ogg Paimon: By the way, Keqing, you're the one in charge of the fireworks show, which means you know the best viewing spot, right?
+Media:vo eqhdj103 11 paimon 07.ogg Paimon: Okay... But we'll be waiting for you!
+Media:vo eqhdj103 11 paimon 08.ogg Paimon: *sigh* Keqing really is super busy.
+Media:vo eqhdj103 11 paimon 09.ogg Paimon: "I'll meet you when I am done." How many times have we heard that already?
+Media:vo eqhdj103 11 paimon 10.ogg Paimon: Now Paimon gets why Lady Ningguang is so worried about Keqing. If she keeps working like this, she really will miss the Lantern Rite.
+Media:vo eqhdj103 11 paimon 11.ogg Paimon: Oh yeah, we said we would meet him! And we've even collected a few opinions about taking a rest from work.
+Media:vo eqhdj103 11 paimon 12.ogg Paimon: Zhongli said he'd wait for us at Third-Round Knockout. Let's go find him!
+Media:vo eqhdj103 12 paimon 01.ogg Paimon: Hey, is that who Paimon thinks it is...
+Media:vo eqhdj103 12 paimon 02.ogg Paimon: Zhongli! We're back!
+Media:vo eqhdj103 12 paimon 03.ogg Paimon: Yes, we sure are!
+Media:vo eqhdj103 12 paimon 04.ogg Paimon: Whoa, did he really just say that...
+Media:vo eqhdj103 12 paimon 05.ogg Paimon: See you around, Yun Jin!
+Media:vo eqhdj103 12 paimon 06.ogg Paimon: Yeah! Paimon already started creating her own story on the way here. The goal is to convince Keqing to rest more with just a simple story, right?
+Media:vo eqhdj103 12 paimon 07.ogg Paimon: If that's the case, then Paimon thinks we can use food as our theme!
+Media:vo eqhdj103 12 paimon 08.ogg Paimon: Think about it, who doesn't like delicious food? And when it comes to eating, everyone has an opinion. It's the perfect angle for our story!
+Media:vo eqhdj103 12 paimon 09.ogg Paimon: Hehe, Paimon knows just what to write!
+Media:vo eqhdj103 12 paimon 10.ogg Paimon: Let's say there's a chef in Liyue who's very talented at cooking.
+Media:vo eqhdj103 12 paimon 11.ogg Paimon: He opens a massive restaurant in Liyue Harbor, and lots of customers come every day, so he's always super busy.
+Media:vo eqhdj103 12 paimon 12.ogg Paimon: Then, well... hmm... How should the story go from there?
+Media:vo eqhdj103 12 paimon 13.ogg Paimon: Oh, that's good! But wait, didn't we say he's really good at cooking? That wouldn't make sense...
+Media:vo eqhdj103 12 paimon 14.ogg Paimon: More about the chef... You mean both good and bad things?
+Media:vo eqhdj103 12 paimon 15.ogg Paimon: Hmm, Paimon didn't think this far... Why don't you take it from here, (Traveler)?
+Media:vo eqhdj103 12 paimon 16.ogg Paimon: Okay! Let Paimon think... What did Cloud Retainer say?
+Media:vo eqhdj103 12 paimon 17.ogg Paimon: "As one sows, so do they reap, and the joy of reaping is what one yearns for."
+Media:vo eqhdj103 12 paimon 18.ogg Paimon: Hehe! Oh! Now Paimon remembers! Cloud Retainer said that if she spends all her efforts working on a machine with no time to test the outcome...
+Media:vo eqhdj103 12 paimon 19.ogg Paimon: Then she'd be like a chef who doesn't get to try their own food. Problems are bound to pop up.
+Media:vo eqhdj103 12 paimon 20.ogg Paimon: Uh-huh, that's exactly what she said! So let's make that happen to the chef in the story... He's great at cooking, but he can't enjoy his own food.
+Media:vo eqhdj103 12 paimon 21.ogg Paimon: Right, it's because he's super busy! He receives the customers, he takes the orders, and he does all the cooking himself...
+Media:vo eqhdj103 12 paimon 22.ogg Paimon: Hehe, that should keep him busy enough. He's so busy every day that he doesn't even have time to take a break, which obviously also means he doesn't have time to eat.
+Media:vo eqhdj103 12 paimon 23.ogg Paimon: Hey, it's just a story! Besides, it's supposed to leave a powerful impression, kinda like fireworks!
+Media:vo eqhdj103 12 paimon 24.ogg Paimon: Paimon already kinda feels sorry for him.
+Media:vo eqhdj103 12 paimon 25.ogg Paimon: Oh, right! That's what the chef doesn't understand!
+Media:vo eqhdj103 12 paimon 26.ogg Paimon: And there's another saying... erm... What was it, again?
+Media:vo eqhdj103 12 paimon 27.ogg Paimon: Oh yeah, "A rested worker is an efficient worker!" That's what Yanfei said.
+Media:vo eqhdj103 12 paimon 28.ogg Paimon: So the chef gets busier and busier. To the point where he can't stand up straight anymore and has big dark circles under his eyes. The customers tell him to take a few days off to get some rest, but the chef won't listen.
+Media:vo eqhdj103 12 paimon 29.ogg Paimon: Eventually, the chef falls ill and his cooking becomes far worse than when he started. The customers can't convince him to rest and they don't like his cooking anymore, so they stop coming to his restaurant.
+Media:vo eqhdj103 12 paimon 30.ogg Paimon: You're saying... Paimon made a good story!?
+Media:vo eqhdj103 12 paimon 31.ogg Paimon: Really? Score one for Paimon!
+Media:vo eqhdj103 12 paimon 32.ogg Paimon: Hear that? Zhongli says Paimon's story has what it takes! If anyone knows a good story, he does!
+Media:vo eqhdj103 12 paimon 33.ogg Paimon: Quick, let's go find Keqing!
+Media:vo eqhdj103 12 yunjin 01.ogg Yun Jin: Yes, you are quite right, I shall take your wise words to heart, sir. They will certainly be most helpful in my next performance.
+Media:vo eqhdj103 12 yunjin 02.ogg Yun Jin: No, I'm afraid that's not always the case. Though I am still young, I can be quite arrogant at times. I do not always accept advice so readily, but your wisdom has spoken to me.
+Media:vo eqhdj103 12 yunjin 03.ogg Yun Jin: Hmm? You are also acquaintances?
+Media:vo eqhdj103 12 yunjin 04.ogg Yun Jin: Not everyone gets the privilege of meeting someone so knowledgeable and discreet as Mr. Zhongli.
+Media:vo eqhdj103 12 yunjin 05.ogg Yun Jin: You are indeed well-connected, Traveler.
+Media:vo eqhdj103 12 yunjin 06.ogg Yun Jin: I'm sure you must have matters to discuss. I have an appointment with Xinyan, so if you'll excuse me, I'll take my leave.
+Media:vo eqhdj103 12 zhongli 01.ogg Zhongli: You are welcome, Ms. Yun. Your willingness to hear suggestions is indeed impressive. It's no wonder your opera performance has only been getting better.
+Media:vo eqhdj103 12 zhongli 02.ogg Zhongli: Ah, you've returned.
+Media:vo eqhdj103 12 zhongli 03.ogg Zhongli: I am flattered, Ms. Yun. It is an honor for an ordinary person like myself to have met the Traveler.
+Media:vo eqhdj103 12 zhongli 04.ogg Zhongli: Very well. Goodbye, Ms. Yun.
+Media:vo eqhdj103 12 zhongli 05.ogg Zhongli: So, tell me, what have you learned from your trip?
+Media:vo eqhdj103 12 zhongli 06.ogg Zhongli: Hmm, I see. Well, Traveler, what do you make of all their opinions?
+Media:vo eqhdj103 12 zhongli 07.ogg Zhongli: There's no need to jump to the conclusion. Why don't you elaborate more on the chef?
+Media:vo eqhdj103 12 zhongli 08.ogg Zhongli: Yes. To gain one's empathy, there must be familiarity. I would like to understand this chef character of ours a little deeper.
+Media:vo eqhdj103 12 zhongli 09.ogg Zhongli: Since you've spoken with others familiar with Keqing, why don't we integrate their thoughts into your story? That will allow it to become all the more convincing.
+Media:vo eqhdj103 12 zhongli 10.ogg Zhongli: That was quite poetic, Paimon. Bravo.
+Media:vo eqhdj103 12 zhongli 11.ogg Zhongli: Yes, it is most unwise to put the cart before the horse.
+Media:vo eqhdj103 12 zhongli 12.ogg Zhongli: Hmm, but there must be a reason why he doesn't partake in the delicacies he makes.
+Media:vo eqhdj103 12 zhongli 13.ogg Zhongli: Yes, the chef is unwilling to delegate tasks to others. He's overconfident about his own cooking abilities, and tries to accomplish everything on his own.
+Media:vo eqhdj103 12 zhongli 14.ogg Zhongli: His judgment is clouded by the chores before him. He is oblivious to mountains in the distance, the bigger picture.
+Media:vo eqhdj103 12 zhongli 15.ogg Zhongli: Rest is always of great importance. Although we may come across various difficulties in our lives, pushing ourselves is never a good modus operandi.
+Media:vo eqhdj103 12 zhongli 16.ogg Zhongli: The story is simple without embellishment, yet deeply meaningful. If our listener is sensible, then she should quickly grasp the meaning contained within.
+Media:vo eqhdj103 12 zhongli 17.ogg Zhongli: Sincerity can allow one to see clearly, and earnest advice can provide sound direction. The story is indeed good.
+Media:vo eqhdj103 12 zhongli 18.ogg Zhongli: The Yuheng is an adroit leader. I am certain she will understand the message you are trying to convey.
+Media:vo eqhdj103 12 zhongli 19.ogg Zhongli: Given that the case involving the Treasure Hoarders has come to an end, she is inevitably tired. Now will be the ideal moment to speak with her.
+Media:vo eqhdj103 12 zhongli 20.ogg Zhongli: If all goes well, I think your story will be a success.
+Media:vo eqhdj103 14 jingcheng 01.ogg Jingcheng: Yes, Lady Keqing.
+Media:vo eqhdj103 14 jingcheng 02.ogg Jingcheng: It's all been taken care of. However, due to various reasons, there are still some blind spots in the city.
+Media:vo eqhdj103 14 jingcheng 03.ogg Jingcheng: Understood! The patrol map is still being drafted, but it will be ready soon.
+Media:vo eqhdj103 14 jingcheng 04.ogg Jingcheng: Oh, excuse me, Lady Keqing... Your friends are here.
+Media:vo eqhdj103 14 jingcheng 05.ogg Jingcheng: You can leave it to us, Lady Keqing. You've been working hard for a long time, so you should get some rest. If I'm not mistaken, the Traveler is here to remind you to take a break.
+Media:vo eqhdj103 14 jingcheng 06.ogg Jingcheng: Understood, I'll handle things from here.
+Media:vo eqhdj103 14 keqing 01.ogg Keqing: The matter has finally come to an end, but we mustn't lower our guard. Increase patrols around Qingce Village and coordinate our people at other fireworks locations to prevent any further theft.
+Media:vo eqhdj103 14 keqing 02.ogg Keqing: And by the way, the Ministry has requested the Millelith to increase security along travel routes. How is that proceeding?
+Media:vo eqhdj103 14 keqing 03.ogg Keqing: Have we drafted a new patrol map? Please give me a copy and I'll look it over when I have time.
+Media:vo eqhdj103 14 keqing 04.ogg Keqing: Okay. Also, I...
+Media:vo eqhdj103 14 keqing 05.ogg Keqing: Oh, yes, but I thought we'd meet at the Jade Chamber. Why have you come here?
+Media:vo eqhdj103 14 keqing 06.ogg Keqing: It's nothing urgent, really, just some trivial matters. But I wish to get it done as soon as possible...
+Media:vo eqhdj103 14 keqing 07.ogg Keqing: Oh, really? In that case... Jingcheng, I'll let you take charge, thank you.
+Media:vo eqhdj103 14 keqing 08.ogg Keqing: Traveler and Paimon, let's go to the Jade Chamber. The view there is nicer and it's much more private, perfect for talking.
+Media:vo eqhdj103 14 paimon 01.ogg Paimon: Hi Keqing, still working? Aren't we going to see the fireworks?
+Media:vo eqhdj103 14 paimon 02.ogg Paimon: Yeah, we walked around the city just like you told us to, it's very nice. But, it would be even nicer if you could join us! Do you still have work to do?
+Media:vo eqhdj103 14 paimon 03.ogg Paimon: That's right! Something so important that we must speak with you personally, right now!
+Media:vo eqhdj103 16 keqing 01.ogg Keqing: Well, here we are.
+Media:vo eqhdj103 16 keqing 02.ogg Keqing: What was it you wanted to talk about?
+Media:vo eqhdj103 16 keqing 03.ogg Keqing: Alright, I'm listening.
+Media:vo eqhdj103 16 keqing 04.ogg Keqing: Oh? Is the chef from Liyue? From Liuli Pavilion or Xinyue Kiosk, perhaps?
+Media:vo eqhdj103 16 keqing 05.ogg Keqing: Hmm. Well, confidence is an essential trait for a good chef. He must be an excellent cook.
+Media:vo eqhdj103 16 keqing 06.ogg Keqing: Oh?
+Media:vo eqhdj103 16 keqing 07.ogg Keqing: Hmm. Maybe the chef had fallen ill, or...
+Media:vo eqhdj103 16 keqing 08.ogg Keqing: Oh...
+Media:vo eqhdj103 16 keqing 09.ogg Keqing: I see. He's overly confident, which disappoints the people around him, and he's so impatient that he ends up losing sight of his original purpose.
+Media:vo eqhdj103 16 keqing 10.ogg Keqing: *sigh*...
+Media:vo eqhdj103 16 keqing 11.ogg Keqing: So, that's the whole story?
+Media:vo eqhdj103 16 keqing 12.ogg Keqing: Hmm? Did you come up with that story?
+Media:vo eqhdj103 16 keqing 13.ogg Keqing: Heh...
+Media:vo eqhdj103 16 keqing 14.ogg Keqing: Hmm, how should I describe it... The story is very simple, and I suppose the ending isn't really surprising.
+Media:vo eqhdj103 16 keqing 15.ogg Keqing: Think before you act and don't overexert yourself. Of course, I understand these concepts in theory, but when tasks come to me personally, it is easy to lose sight of the bigger picture.
+Media:vo eqhdj103 16 keqing 16.ogg Keqing: Yes. Up in the mountains, we can see the mist in the clouds. Out in the ocean, we can see fog on the sea. That's why from time to time, we need to examine where we are, remove the fog, and feel our heart.
+Media:vo eqhdj103 16 keqing 17.ogg Keqing: How do I feel?
+Media:vo eqhdj103 16 keqing 18.ogg Keqing: Hmm...
+Media:vo eqhdj103 16 keqing 19.ogg Keqing: Deep down inside, I wish I could slow down time. That way, I could finally take the opportunity to walk around the city, see the people I wish to see, and watch the fireworks.
+Media:vo eqhdj103 16 keqing 20.ogg Keqing: And I did make a promise with you, didn't I?
+Media:vo eqhdj103 16 keqing 21.ogg Keqing: We agreed to enjoy the fireworks show together this year. So...
+Media:vo eqhdj103 16 keqing 22.ogg Keqing: Happy Lantern Rite, Traveler and Paimon, I'm very happy to be here and enjoy this moment together with you.
+Media:vo eqhdj103 16 keqing 23.ogg Keqing: I've poured all my best effort into this fireworks show. And now that we're here, I sincerely hope you will enjoy it.
+Media:vo eqhdj103 16 keqing 24.ogg Keqing: I feel very fortunate to be right here, enjoying the fireworks, and enjoying the view of Liyue Harbor.
+Media:vo eqhdj103 16 keqing 25.ogg Keqing: Happy Lantern Rite. And... thank you.
+Media:vo eqhdj103 16 keqing 26.ogg Keqing: Thinking back, I used to be even more impatient. My colleagues would resign after just three months of working with me.
+Media:vo eqhdj103 16 keqing 27.ogg Keqing: You're completely right. It's important to know your boundaries.
+Media:vo eqhdj103 16 keqing 28.ogg Keqing: But, I am getting better! You can tell, can't you?
+Media:vo eqhdj103 16 paimon 01.ogg Paimon: Yeah! We want to tell you a story from this beautiful view. Whaddya say?
+Media:vo eqhdj103 16 paimon 02.ogg Paimon: So, it turns out we just heard some big news in Teyvat! A very talented chef is in trouble!
+Media:vo eqhdj103 16 paimon 03.ogg Paimon: No, no. Uh, the chef is from... Mondstadt! Yeah, and he's really, really good!
+Media:vo eqhdj103 16 paimon 04.ogg Paimon: He had a restaurant right next to the city gate. He was super efficient and his cooking was really delicious, so his restaurant had been getting more and more popular.
+Media:vo eqhdj103 16 paimon 05.ogg Paimon: In fact, he became so busy that the worker from the florist next door asked him, "Sir, why don't you find someone to help you in the restaurant?"
+Media:vo eqhdj103 16 paimon 06.ogg Paimon: But the chef brushed the idea aside, saying that he's the only one that can turn top-quality ingredients into world-class dishes, no one could help him.
+Media:vo eqhdj103 16 paimon 07.ogg Paimon: That's what everyone was saying... But surprisingly, after just six months, no one would dine in his restaurant anymore.
+Media:vo eqhdj103 16 paimon 08.ogg Paimon: Shocking, right? Do you have any guess why?
+Media:vo eqhdj103 16 paimon 09.ogg Paimon: Wrong answer! You tell her, (Traveler)!
+Media:vo eqhdj103 16 paimon 10.ogg Paimon: Ding ding ding! Yep, it's because the chef was too stubborn!
+Media:vo eqhdj103 16 paimon 11.ogg Paimon: He would keep himself busy every day, and try to make the most delicious dishes for all his guests. But, he forgot that he's only human and needs time to eat and rest.
+Media:vo eqhdj103 16 paimon 12.ogg Paimon: He was so busy that he didn't even have time to eat and couldn't even taste his own cooking.
+Media:vo eqhdj103 16 paimon 13.ogg Paimon: He was unwilling to seek help even when he's tired, because he thought he's the only one capable of cooking the best dishes.
+Media:vo eqhdj103 16 paimon 14.ogg Paimon: Eventually, the people around him felt like they couldn't help him anyway, so they just left. And because he had forgotten the original taste of his dishes, he was no longer a good chef.
+Media:vo eqhdj103 16 paimon 15.ogg Paimon: In the end, his restaurant had no choice but to close for good.
+Media:vo eqhdj103 16 paimon 16.ogg Paimon: Oh, umm... Yep, that's the whole thing.
+Media:vo eqhdj103 16 paimon 17.ogg Paimon: Hey! Didn't you just say that Paimon made a great story!?
+Media:vo eqhdj103 16 paimon 18.ogg Paimon: Oh! N—No, we just, uh...
+Media:vo eqhdj103 16 paimon 19.ogg Paimon: So, how do you feel now, Keqing?
+Media:vo eqhdj103 16 paimon 20.ogg Paimon: Happy Lantern Rite!
+Media:vo eqhdj103 3 keqing 01.ogg Keqing: These Treasure Hoarders must have returned to check on the stolen fireworks.
+Media:vo eqhdj103 3 keqing 02.ogg Keqing: Please hide yourselves. Let's wait and see what happens.
+Media:vo eqhdj103 3 keqing 03.ogg Keqing: It's time to make our move! Ready?
+Media:vo eqhdj103 3 paimon 01.ogg Paimon: Let's go!
+Media:vo eqhdj103 3 treasurehoarderb 01.ogg Xiuyong: Hey Boss, you think we have enough fireworks now?
+Media:vo eqhdj103 3 treasurehoarderb 02.ogg Xiuyong: Uh, but Boss, if we want more fireworks, we'll have to steal 'em in the city! Ain't gonna be easy...
+Media:vo eqhdj103 3 treasurehoarderb 03.ogg Xiuyong: Got it, Boss! Hehe, I gotta hand it to ya, we're gonna hit the jackpot this time!
+Media:vo eqhdj103 3 treasurehoarderb 04.ogg Xiuyong: But, uh Boss... All our boys are out scouting around. Don't ya think we need a few more to guard the stash?
+Media:vo eqhdj103 3 treasurehoarderb 05.ogg Junming: Uh-oh! Hey, Boss! We've got trouble!
+Media:vo eqhdj103 3 treasurehoarderb 06.ogg Junming: The jig is up, Boss! Th—The Millelith are coming! And it seems they've already caught our scouts!
+Media:vo eqhdj103 3 treasurehoarderb 07.ogg Junming: If one of the boys hadn't set off a firework to warn us, we would've been completely blindsided! Boss, let's run!
+Media:vo eqhdj103 3 treasurehoarderboss 01.ogg Xingxiu: Hah! Are you kidding? This ain't nowhere near enough!
+Media:vo eqhdj103 3 treasurehoarderboss 02.ogg Xingxiu: Hmm... You got a point. Alright, then we steal those things that make a real loud bang but don't light up real pretty... What do they call 'em? Ah yeah, firecrackers! Those'll do the job!
+Media:vo eqhdj103 3 treasurehoarderboss 03.ogg Xingxiu: All we need to do is make some real ruckus.
+Media:vo eqhdj103 3 treasurehoarderboss 04.ogg Xingxiu: As long as we distract the Millelith, the other hoarders can do their end of the job. You get it?
+Media:vo eqhdj103 3 treasurehoarderboss 05.ogg Xingxiu: Hey, don't worry about it. The Millelith are swamped with Lantern Rite, they won't have time to come out here. Alright, move it boys! Just a few more batches and we'll be...
+Media:vo eqhdj103 3 treasurehoarderboss 06.ogg Xingxiu: Huh!? What happened?
+Media:vo eqhdj103 3 treasurehoarderboss 07.ogg Xingxiu: But how did the Millelith find out about us? And so quickly too!?
+Media:vo eqhdj103 3 treasurehoarderboss 08.ogg Xingxiu: Arg, fine! Leave the fireworks and let's split! They won't be catching us!
+Media:vo eqhdj103 4 keqing 01.ogg Keqing: Drop your weapons and surrender immediately!
+Media:vo eqhdj103 4 keqing 02.ogg Keqing: Hmph. So you do recognize me, then.
+Media:vo eqhdj103 4 keqing 03.ogg Keqing: I'll say it one more time. Drop your weapon and surrender, now!
+Media:vo eqhdj103 4 treasurehoarderboss 01.ogg Xingxiu: Hah! Get outta my way, you got a death wish or something? I'll show you...
+Media:vo eqhdj103 4 treasurehoarderboss 02.ogg Xingxiu: Huh? Wait a second...
+Media:vo eqhdj103 4 treasurehoarderboss 03.ogg Xingxiu: Y—You're... Lady Keqing, the Yuheng!
+Media:vo eqhdj103 4 treasurehoarderboss 04.ogg Xingxiu: Who woulda thought we'd run into the Yuheng all the way out here...
+Media:vo eqhdj103 4 treasurehoarderboss 05.ogg Xingxiu: Alright, hoarders! Looks like the Yuheng wants to play, we'll show you! Get 'em!
+Media:vo eqhdj103 5 keqing 01.ogg Keqing: Alright, so you want to do this the hard way.
+Media:vo eqhdj103 5 keqing 02.ogg Keqing: Now, I want some answers. What were you planning to do with the stockpile of fireworks?
+Media:vo eqhdj103 5 keqing 03.ogg Keqing: Tell the truth and I might go easy on you.
+Media:vo eqhdj103 5 keqing 04.ogg Keqing: Oh? So you mean you had more than one group of thieves stealing fireworks?
+Media:vo eqhdj103 5 keqing 05.ogg Keqing: It appears that the Millelith managed to get the captured Treasure Hoarder to talk.
+Media:vo eqhdj103 5 keqing 06.ogg Keqing: There may still be other Treasure Hoarders in the area. We should head elsewhere, just to be safe.
+Media:vo eqhdj103 5 keqing 07.ogg Keqing: Traveler, please escort the Treasure Hoarders back to Qingce Village and hand them over to the Millelith stationed there.
+Media:vo eqhdj103 5 keqing 08.ogg Keqing: I'll be there once I am finished inspecting this place.
+Media:vo eqhdj103 5 keqing 09.ogg Keqing: Yes, you too. I'll see you in Qingce Village.
+Media:vo eqhdj103 5 paimon 01.ogg Paimon: Hey! Didn't one of you just say that the Millelith were coming, too?
+Media:vo eqhdj103 5 paimon 02.ogg Paimon: Well, you did get caught.
+Media:vo eqhdj103 5 treasurehoarderb 01.ogg Junming: Yeah, that's right... I wonder how the Millelith found out we had dispatched scouts.
+Media:vo eqhdj103 5 treasurehoarderb 02.ogg Junming: They somehow captured almost all of them... If someone hadn't alerted us, we would all have been caught.
+Media:vo eqhdj103 5 treasurehoarderb 03.ogg Junming: Well... uh, yeah...
+Media:vo eqhdj103 5 treasurehoarderboss 01.ogg Xingxiu: W—We surrender, Yuheng.
+Media:vo eqhdj103 5 treasurehoarderboss 02.ogg Xingxiu: Uh, w—we just...
+Media:vo eqhdj103 5 treasurehoarderboss 03.ogg Xingxiu: We... *sigh* Fine.
+Media:vo eqhdj103 5 treasurehoarderboss 04.ogg Xingxiu: We were gonna smuggle these fireworks into the city and ignite them during the Lantern Rite's opening ceremony.
+Media:vo eqhdj103 5 treasurehoarderboss 05.ogg Xingxiu: The fireworks are really bright and loud, and would definitely raise some havoc. We were gonna rob the city while everyone's distracted by the explosions.
+Media:vo eqhdj103 5 treasurehoarderboss 06.ogg Xingxiu: But, uh... We didn't seem to have enough fireworks, so...
+Media:vo eqhdj103 5 treasurehoarderboss 07.ogg Xingxiu: Yeah, that's right... originally I had all the hoarders out stealing fireworks, but then one of them got caught by the Feiyun Commerce Guild and was arrested.
+Media:vo eqhdj103 5 treasurehoarderboss 08.ogg Xingxiu: I really didn't get it! Why did the Feiyun Commerce Guild get involved? We were only stealing from the government...
+Media:vo eqhdj103 5 treasurehoarderboss 09.ogg Xingxiu: No, what I meant is, uh... Well, I was worried that the guy who got arrested would rat us out.
+Media:vo eqhdj103 5 treasurehoarderboss 10.ogg Xingxiu: If word got out, we could lose everything. So I ordered most of our boys to come back.
+Media:vo eqhdj103 5 treasurehoarderboss 11.ogg Xingxiu: Who woulda guessed we'd end up runnin' into you like that...
+Media:vo eqhdj103 6 chongyun 01.ogg Chongyun: It's definitely dangerous to infiltrate an enemy area like that. If only I was there to fight alongside you...
+Media:vo eqhdj103 6 chongyun 02.ogg Chongyun: Huh? You mean you're assigning more work to me?
+Media:vo eqhdj103 6 chongyun 03.ogg Chongyun: Oh alright, I suppose...
+Media:vo eqhdj103 6 chongyun 04.ogg Chongyun: If you ask me, I think speaking eloquently is just a guise for assigning work to everybody else.
+Media:vo eqhdj103 6 jingcheng 01.ogg Jingcheng: Don't worry, the Yuheng will be taking care of this personally. And with us on guard, I assure you it'll be safe.
+Media:vo eqhdj103 6 jingcheng 02.ogg Jingcheng: Please, calm down. I doubt they'll be causing any more trouble now that they're in custody. Thank you very much, Traveler. But may I ask, why has Lady Keqing not returned with you?
+Media:vo eqhdj103 6 jingcheng 03.ogg Jingcheng: Oh, I see... Yes, Lady Keqing is quite thorough. A squad of Millelith came by just now. I believe they were sent by the Ministry of Civil Affairs.
+Media:vo eqhdj103 6 jingcheng 04.ogg Jingcheng: I also heard that most of the fleeing Treasure Hoarders have already been apprehended, hopefully that will be the end of this matter.
+Media:vo eqhdj103 6 jingcheng 05.ogg Jingcheng: Anyway, you may leave these Treasure Hoarders to us. I will escort them back to the city and make sure they stand trial with the others.
+Media:vo eqhdj103 6 paimon 01.ogg Paimon: Yeah! Talk about a coincidence!
+Media:vo eqhdj103 6 paimon 02.ogg Paimon: Lady Keqing was worried there'd be more Treasure Hoarders lurking about. She wanted to conduct a full search of the area.
+Media:vo eqhdj103 6 paimon 03.ogg Paimon: Huh? Why the hurry to get back to the Feiyun Commerce Guild? Don't tell us you have work to do, too...
+Media:vo eqhdj103 6 paimon 04.ogg Paimon: Hey, did you hear that explosion!? Maybe it was fireworks? *gasp* Or maybe more Treasure Hoarders!
+Media:vo eqhdj103 6 paimon 05.ogg Paimon: Oh no, maybe she ran into trouble! Let's go and help her!
+Media:vo eqhdj103 6 pengyi 01.ogg Pengyi: *sigh* This is the last batch of fireworks that I can get. Please ensure that there will be no further problems.
+Media:vo eqhdj103 6 pengyi 02.ogg Pengyi: So it was you! You horrible brutes are the ones who stole the fireworks!? Just the sight of you two makes my blood boil...
+Media:vo eqhdj103 6 pengyi 03.ogg Pengyi: By the way, do you know when Lady Keqing will be back, Traveler?
+Media:vo eqhdj103 6 pengyi 04.ogg Pengyi: There are not many fireworks in the second batch that I brought, so I'm worried that we can't achieve the show's desired effect. I was hoping we could somehow retrieve the stolen fireworks.
+Media:vo eqhdj103 6 xingqiu 01.ogg Xingqiu: Yes, indeed. Oh? It appears the Traveler has returned.
+Media:vo eqhdj103 6 xingqiu 02.ogg Xingqiu: And with two others, no doubt.
+Media:vo eqhdj103 6 xingqiu 03.ogg Xingqiu: Come now, we both know the Traveler is most capable. Hehe, but who would've known we performed such a noble deed... We had arrested the Treasure Hoarder earlier by mere happenstance.
+Media:vo eqhdj103 6 xingqiu 04.ogg Xingqiu: It seems that justice always finds its way into the world. It is in fateful moments that miracles are born.
+Media:vo eqhdj103 6 xingqiu 05.ogg Xingqiu: And thus our chapter has finally reached its timely conclusion. I am partial to fireworks myself, but I'm afraid we must also be leaving now.
+Media:vo eqhdj103 6 xingqiu 06.ogg Xingqiu: Inevitably, affairs do become busier around festive seasons. But no need to worry, we have many attendants to assist us... And there's always Chongyun, too.
+Media:vo eqhdj103 6 xingqiu 07.ogg Xingqiu: 'Tis only my duty as your dearest friend. Work before play, as they say. I am sure you understand.
+Media:vo eqhdj103 6 xingqiu 08.ogg Xingqiu: As the saying goes, "Many hands make light work." As long as work is assigned to the right people, everything will proceed without a hitch.
+Media:vo eqhdj103 6 xingqiu 09.ogg Xingqiu: Alright, alright. I shall treat you to a meal after the work is done!
+Media:vo eqhdj103 6 xingqiu 10.ogg Xingqiu: Farewell, Traveler.
+Ningguang: Only a true treasure catches the eye of Captain Beidou
+Ningguang: Seems I've struck gold
+Ningguang: With this one
+Paimon: Huh? Must be something important!
+Paimon: Wow, it's beauuutiful!
+Qiqi: Lantern Rite...
+Smiley Yanxiao: Food's ready!
+Smiley Yanxiao: Hahaha!
+Smiley Yanxiao: Hey everyone, time to eat!
+Smiley Yanxiao: No better way
+Smiley Yanxiao: To celebrate
+Xinyan: Whoa...!
+You go up to the Jade Chamber with Keqing...
+You tell Zhongli about everyone's views on work-life balance...
+You tell everyone how the thieves were caught...
+Yun Jin: Isn't it beautiful?
+Zhongli: So it does

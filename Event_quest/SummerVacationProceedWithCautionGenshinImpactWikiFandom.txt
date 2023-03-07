@@ -1,0 +1,203 @@
+
+(The group return to shore)
+ About summer...
+Media:vo eqyq002 4 klee 02a.ogg Klee: I like summer! But not just summer.
+Media:vo eqyq002 4 klee 02a 1.ogg Klee: I also like fall. Oh yes, and I also like spring and winter!
+Media:vo eqyq002 4 klee 02a 2.ogg Klee: Even though winter's very cold, I have Jumpy Dumpty. Whenever I feel cold, I blow something up.
+ About the buoys...
+Media:vo eqyq002 4 klee 02b.ogg Klee: Dodo-King must have placed those things in the ocean! He's a bad guy!
+Media:vo eqyq002 4 klee 02b 1.ogg Klee: But I will bravely face him and do my best for Dodoco.
+Media:vo eqyq002 4 klee 02b 2a.ogg Media:vo eqyq002 4 klee 02b 2b.ogg Klee: (Mr./Miss) Honorary Knight, thank you for helping me.
+ About this archipelago...
+Media:vo eqyq002 2 qin 02a.ogg Jean: These islands are isolated from the outside world, like a secret Domain crafted by nature itself.
+Media:vo eqyq002 2 qin 02a 1.ogg Jean: We were guided here by the letter and with the assistance of Venti and Dvalin... Everything seems a bit too serendipitous. I'm a little concerned.
+Media:vo eqyq002 2 qin 02a 2.ogg Jean: But I'm here to protect you all, so please don't worry. Come what may, I will face it head-on.
+ About this archipelago...
+Media:vo eqyq002 3 barbara 02a.ogg Barbara: I just want to say that the ocean here is beautiful!
+Media:vo eqyq002 3 barbara 02a 1.ogg Barbara: Sea and sun — a summer dream come true!
+Media:vo eqyq002 3 barbara 02a 2.ogg Barbara: I really want to have a seaside performance! It would be amazing, I just know it!
+ About your summer clothes...
+Media:vo eqyq002 2 qin 02b.ogg Jean: Ah... Su—Summer clothes, they're, uh... They were a surprise that Lisa prepared for me. My guess is that it was originally Barbara's suggestion.
+Media:vo eqyq002 2 qin 02b 1.ogg Jean: Barbara said that it's so rare for us to get a chance to come to an island, we should change into summer clothing to set the atmosphere.
+Media:vo eqyq002 2 qin 02b 2.ogg Jean: However, I'm not used to this style of clothing. *sigh* I hope wearing this doesn't look too odd.
+ About your summer clothes...
+Media:vo eqyq002 3 barbara 02b.ogg Barbara: How do I look? Not bad, right?
+Media:vo eqyq002 3 barbara 02b 1.ogg Barbara: I wanted to surprise everyone, so I specifically chose an outfit complementing an island atmosphere.
+Media:vo eqyq002 3 barbara 02b 2.ogg Barbara: Oh, but please don't worry! Even if I'm wearing summer clothes, I'm still just as reliable in battle!
+ How many secrets do these islands hold?
+ I agree with Jean.
+ I'm ready.
+Media:vo eqyq002 5 qin 02b.ogg Jean: Great, then let's head to the boat.
+ Let's double our efforts. We have to find him.
+ Let's take a closer look and find out.
+ No, not at all.
+ Not yet.
+Media:vo eqyq002 5 qin 02a.ogg Jean: There is no need to rush. Take your time organizing your things. I will wait for you all here.
+ Paimon and I will also exercise increased caution.
+ Quest DescriptionThough these islands seem completely cut off from the rest of the world, they are somehow chock-full of hidden secrets and mysterious mechanisms. The party settles here for now and starts to get a taste of island life in the summer...
+ She's reliable even in summer wear.
+ So this machine isn't from around here?
+ That's a deaconess's intuition, alright!
+ That's our Master Jean!
+ The kindness of a deaconess...
+ You look marvelous!
+ You're very perceptive.
+Barbara: Whoa, an earthquake!
+Jean: This sound...
+Klee: There's one, let's blow it up!
+Klee: What's happening!?
+Media:vo eqyq002 1 barbara 01.ogg Barbara: Hehe! So, how do we look?
+Media:vo eqyq002 1 barbara 02.ogg Barbara: We changed into summer clothes! Although we didn't come here to have fun, we don't want to miss out on a beautiful summer day by the sea!
+Media:vo eqyq002 1 barbara 03.ogg Barbara: Oh no, my big sister would never pack these herself. Lisa and I picked them out for her.
+Media:vo eqyq002 1 barbara 04.ogg Barbara: But we didn't see anything when we arrived here yesterday...
+Media:vo eqyq002 1 barbara 05.ogg Barbara: So could that be why these buoys have suddenly appeared?
+Media:vo eqyq002 1 barbara 06.ogg Barbara: Is it okay to go out there though?
+Media:vo eqyq002 1 klee 01.ogg ???: Everyone, come over here!
+Media:vo eqyq002 1 klee 02.ogg Klee: I saw something weird.
+Media:vo eqyq002 1 klee 03.ogg Klee: Look at the ocean!
+Media:vo eqyq002 1 klee 04.ogg Klee: See? There's something weird floating on the water!
+Media:vo eqyq002 1 klee 05.ogg Klee: Dodo-King must have put them there!
+Media:vo eqyq002 1 klee 06.ogg Klee: Well, since he hasn't revealed himself to us, does that mean he's changed his mind? Or maybe...
+Media:vo eqyq002 1 klee 07.ogg Klee: Maybe these buoys are a clue and he's waiting for me to find him!
+Media:vo eqyq002 1 paimon 01.ogg Paimon: Ahh... The weather's so nice. Still feels like Paimon's dreaming.
+Media:vo eqyq002 1 paimon 02.ogg Paimon: Good morning! Wh—Wha, what's with everyone's clothes!?
+Media:vo eqyq002 1 paimon 03.ogg Paimon: It's surprising that Master Jean would specially pack summer clothes.
+Media:vo eqyq002 1 paimon 04.ogg Paimon: Blurting out "big sister" and not even realizing it... Barbara's drunk on summer already!
+Media:vo eqyq002 1 paimon 05.ogg Paimon: All these accessories, too... Definitely Lisa's handiwork.
+Media:vo eqyq002 1 paimon 06.ogg Paimon: Huh? What's going on? What do you mean by something weird?
+Media:vo eqyq002 1 paimon 07.ogg Paimon: Strange devices that just appear overnight... Something doesn't add up.
+Media:vo eqyq002 1 paimon 08.ogg Paimon: Right, we won't solve anything by guessing on-shore.
+Media:vo eqyq002 1 qin 01.ogg Jean: Th—This doesn't look weird, does it?
+Media:vo eqyq002 1 qin 02.ogg Jean: Such light and summery clothing definitely doesn't suit me... Ah, hehe... pardon me.
+Media:vo eqyq002 1 qin 03.ogg Jean: Really...? Thank you, Traveler.
+Media:vo eqyq002 1 qin 04.ogg Jean: There's quite a story behind these summer clothes...
+Media:vo eqyq002 1 qin 05.ogg Jean: I thought Lisa's pouch was to be used for an emergency. I didn't expect it to contain a set of summer clothing.
+Media:vo eqyq002 1 qin 06.ogg Jean: Everyone in the Knights of Favonius is always trying to have me take leave. I suppose I do push myself too much...
+Media:vo eqyq002 1 qin 07.ogg Jean: That's Klee's voice!
+Media:vo eqyq002 1 qin 08.ogg Jean: That narrow device... It seems to be a buoy.
+Media:vo eqyq002 1 qin 09.ogg Jean: Perhaps, but we must investigate the buoys regardless.
+Media:vo eqyq002 1 qin 10.ogg Jean: It's hard to say what will be waiting for us at sea. Just in case, prepare yourselves for combat.
+Media:vo eqyq002 1 qin 11.ogg Jean: Once you are ready, please assemble here, and we'll head over on the boat together.
+Media:vo eqyq002 1 qin 12.ogg Jean: N—Not at all. This is... just my duty.
+Media:vo eqyq002 1 qin 13.ogg Jean: Now then, I'll entrust the preparation efforts to all of you.
+Media:vo eqyq002 2 qin 01.ogg Jean: What could those buoys possibly mean...?
+Media:vo eqyq002 2 qin 02a 1.ogg Jean: We were guided here by the letter and with the assistance of Venti and Dvalin... Everything seems a bit too serendipitous. I'm a little concerned.
+Media:vo eqyq002 2 qin 02a 2.ogg Jean: But I'm here to protect you all, so please don't worry. Come what may, I will face it head-on.
+Media:vo eqyq002 2 qin 02a.ogg Jean: These islands are isolated from the outside world, like a secret Domain crafted by nature itself.
+Media:vo eqyq002 2 qin 02b 1.ogg Jean: Barbara said that it's so rare for us to get a chance to come to an island, we should change into summer clothing to set the atmosphere.
+Media:vo eqyq002 2 qin 02b 2.ogg Jean: However, I'm not used to this style of clothing. *sigh* I hope wearing this doesn't look too odd.
+Media:vo eqyq002 2 qin 02b.ogg Jean: Ah... Su—Summer clothes, they're, uh... They were a surprise that Lisa prepared for me. My guess is that it was originally Barbara's suggestion.
+Media:vo eqyq002 3 barbara 01.ogg Barbara: Hmm? Is there anything I can do?
+Media:vo eqyq002 3 barbara 02a 1.ogg Barbara: Sea and sun — a summer dream come true!
+Media:vo eqyq002 3 barbara 02a 2.ogg Barbara: I really want to have a seaside performance! It would be amazing, I just know it!
+Media:vo eqyq002 3 barbara 02a.ogg Barbara: I just want to say that the ocean here is beautiful!
+Media:vo eqyq002 3 barbara 02b 1.ogg Barbara: I wanted to surprise everyone, so I specifically chose an outfit complementing an island atmosphere.
+Media:vo eqyq002 3 barbara 02b 2.ogg Barbara: Oh, but please don't worry! Even if I'm wearing summer clothes, I'm still just as reliable in battle!
+Media:vo eqyq002 3 barbara 02b.ogg Barbara: How do I look? Not bad, right?
+Media:vo eqyq002 4 klee 01.ogg Klee: Hmm, I need to bring Jumpy Dumpties, Dodoco, and... myself!
+Media:vo eqyq002 4 klee 02a 1.ogg Klee: I also like fall. Oh yes, and I also like spring and winter!
+Media:vo eqyq002 4 klee 02a 2.ogg Klee: Even though winter's very cold, I have Jumpy Dumpty. Whenever I feel cold, I blow something up.
+Media:vo eqyq002 4 klee 02a.ogg Klee: I like summer! But not just summer.
+Media:vo eqyq002 4 klee 02b 1.ogg Klee: But I will bravely face him and do my best for Dodoco.
+Media:vo eqyq002 4 klee 02b 2a.ogg Media:vo eqyq002 4 klee 02b 2b.ogg Klee: (Mr./Miss) Honorary Knight, thank you for helping me.
+Media:vo eqyq002 4 klee 02b.ogg Klee: Dodo-King must have placed those things in the ocean! He's a bad guy!
+Media:vo eqyq002 5 qin 01.ogg Jean: Have you finished your preparations?
+Media:vo eqyq002 5 qin 02a.ogg Jean: There is no need to rush. Take your time organizing your things. I will wait for you all here.
+Media:vo eqyq002 5 qin 02b.ogg Jean: Great, then let's head to the boat.
+Media:vo eqyq002 6 klee 01.ogg Klee: So they really were set up by Dodo-King! Let's keep going!
+Media:vo eqyq002 6 klee 02.ogg Klee: We got the second one! Will Dodo-King appear after we break them all?
+Media:vo eqyq002 6 klee 03.ogg Klee: That's the last of them!
+Media:vo eqyq002 6 klee 04.ogg Klee: Huh? Is the shaking getting stronger?
+Media:vo eqyq002 6 paimon 01.ogg Paimon: It looks like something sunk down to the seabed. Maybe it's the buoy's energy that released when it was destroyed?
+Media:vo eqyq002 6 qin 01.ogg Jean: Hurry! Back to shore!
+Media:vo eqyq002 7 barbara 01.ogg Barbara: This whole stretch of land just rose out of the water!
+Media:vo eqyq002 7 barbara 02.ogg Barbara: Something like that would nothing be short of a miracle... Could it be the power of the Anemo Archon, Barbatos?
+Media:vo eqyq002 7 barbara 03.ogg Barbara: Aw, there goes the holiday mood...
+Media:vo eqyq002 7 barbara 04.ogg Barbara: Is that... a platform in the middle of the ocean?
+Media:vo eqyq002 7 klee 01.ogg Klee: Dodo-King, Dodo-King, I'm gonna catch you! Hehe!
+Media:vo eqyq002 7 klee 02.ogg Klee: I found him! It's Dodo-King!
+Media:vo eqyq002 7 klee 03.ogg Klee: He's over there on that island! Hee-hee, gotcha!
+Media:vo eqyq002 7 klee 04.ogg Klee: You wanted Klee to come find you, so here Klee comes! Jumpy Dumpties, get ready~! Let's go!
+Media:vo eqyq002 7 paimon 01.ogg Paimon: Ah, what's going on here? This part of the ocean is way too mysterious!
+Media:vo eqyq002 7 paimon 02.ogg Paimon: Looks like Klee's as energetic as ever.
+Media:vo eqyq002 7 paimon 03.ogg Paimon: Hmm, probably not. Paimon feels like this is more likely a deliberate set-up...
+Media:vo eqyq002 7 paimon 04.ogg Paimon: Wow! Master Jean's so cool when she's determined!
+Media:vo eqyq002 7 qin 01.ogg Jean: Before the ground started shaking, I heard the sound of machinery. I believe there may be an immense mechanical structure under this region of the ocean.
+Media:vo eqyq002 7 qin 02.ogg Jean: With the entire archipelago situated on a mechanical framework, it could be activated to raise each island from beneath the water.
+Media:vo eqyq002 7 qin 03.ogg Jean: It's incredible, no matter how you think of it. Using a letter to draw us here and these challenges involving various mechanisms... This so-called Dodo-King is no amateur.
+Media:vo eqyq002 7 qin 04.ogg Jean: ...
+Media:vo eqyq002 7 qin 05.ogg Jean: Well, either way, I will do my best to remain vigilant.
+Media:vo eqyq002 7 qin 06.ogg Jean: Thank you for your understanding.
+Media:vo eqyq002 7 qin 07.ogg Jean: Something has appeared. Everyone, we can take a closer look, but please be on guard.
+Media:vo eqyq002 8 barbara 01.ogg Barbara: It resembles a human, but something's not quite right.
+Media:vo eqyq002 8 barbara 02.ogg Barbara: Huh, and now she's apologizing? I didn't see that coming...
+Media:vo eqyq002 8 barbara 03.ogg Barbara: It looks like they're not interested in Klee at all.
+Media:vo eqyq002 8 barbara 04.ogg Barbara: Oh, do you recognize it?
+Media:vo eqyq002 8 barbara 05.ogg Barbara: Let's go with Klee to play elsewhere and come back once Dodo-King wakes up.
+Media:vo eqyq002 8 barbara 06.ogg Barbara: Of course!
+Media:vo eqyq002 8 barbara 07.ogg Barbara: Klee, wait for us!
+Media:vo eqyq002 8 klee 01.ogg Klee: Dodo-King, I see you! You can, uh, Arb... Arbi...
+Media:vo eqyq002 8 klee 02.ogg Klee: Right! You can arbitrate Klee!
+Media:vo eqyq002 8 klee 03.ogg Klee: Hey, Dodo-King! Why are you ignoring me?
+Media:vo eqyq002 8 klee 04.ogg Klee: Is it because I took too long and made you angry? Then... I'm sorry!
+Media:vo eqyq002 8 klee 05.ogg Klee: Hello! Dodo-King!
+Media:vo eqyq002 8 klee 06.ogg Klee: Oh no! Dodo-King isn't moving anymore!
+Media:vo eqyq002 8 klee 07.ogg Klee: Really?
+Media:vo eqyq002 8 klee 08.ogg Klee: Hm... No, I get it now!
+Media:vo eqyq002 8 klee 09.ogg Klee: This isn't Dodo-King. The real Dodo-King is somewhere else.
+Media:vo eqyq002 8 klee 10.ogg Klee: I won't give up. Dodo-King, just wait! We'll find you!
+Media:vo eqyq002 8 paimon 01.ogg Paimon: Huh? Is that a really tall person?
+Media:vo eqyq002 8 paimon 02.ogg Paimon: Arbitrate!
+Media:vo eqyq002 8 paimon 03.ogg Paimon: Ugh! What is this kid saying!?
+Media:vo eqyq002 8 paimon 04.ogg Paimon: Inazuma? But isn't that really far away?
+Media:vo eqyq002 8 paimon 05.ogg Paimon: An abandoned machine... Weird! Did someone bring it here?
+Media:vo eqyq002 8 paimon 06.ogg Paimon: Right, right, Dodo-King is probably asleep. He was waiting so patiently for you and then *yawn* — nap time!
+Media:vo eqyq002 8 paimon 07.ogg Paimon: And there she goes again... Whew, she's got a lot of spirit.
+Media:vo eqyq002 8 qin 01.ogg Jean: Everyone, please be careful!
+Media:vo eqyq002 8 qin 02.ogg Jean: She obviously doesn't understand what that word means...
+Media:vo eqyq002 8 qin 03.ogg Jean: It's some kind of humanoid machine. No response... It must be damaged.
+Media:vo eqyq002 8 qin 04.ogg Jean: No, I can only guess. It looks completely out of place on this island... Look at its clothes. It appears like it came from Inazuma.
+Media:vo eqyq002 8 qin 05.ogg Jean: It would appear so. This area of the sea is independent and does not border any country, so it certainly seems out of place here.
+Media:vo eqyq002 8 qin 06.ogg Jean: But given Inazuma's current situation, how could something like this occur...?
+Media:vo eqyq002 8 qin 07.ogg Jean: Klee, maybe Dodo-King is tired.
+Media:vo eqyq002 8 qin 08.ogg Jean: Huh? I—Is that right.
+Media:vo eqyq002 9 barbara 01.ogg Barbara: Honorary Knight, look here!
+Media:vo eqyq002 9 barbara 02.ogg Barbara: Look at these stacked-up stones and small flowers...
+Media:vo eqyq002 9 barbara 03.ogg Barbara: It feels like a memorial for someone.
+Media:vo eqyq002 9 barbara 04.ogg Barbara: Hey, you're embarrassing me...
+Media:vo eqyq002 9 barbara 05.ogg Barbara: Could the memorial be for the machine?
+Media:vo eqyq002 9 barbara 06.ogg Barbara: ...
+Media:vo eqyq002 9 barbara 07.ogg Barbara: I suspected as much too, but who would send a prank letter to a child?
+Media:vo eqyq002 9 barbara 08.ogg Barbara: Klee, what's wrong?
+Media:vo eqyq002 9 barbara 09.ogg Barbara: Why would the Dodo-King not want to see you, Klee?
+Media:vo eqyq002 9 barbara 10.ogg Barbara: ...
+Media:vo eqyq002 9 barbara 11.ogg Barbara: Hey Klee, do you know what this is?
+Media:vo eqyq002 9 barbara 12.ogg Barbara: I heard my big sis— Uh, Master Jean say that Klee always wanted to play harpastum, right?
+Media:vo eqyq002 9 barbara 13.ogg Barbara: I made this harpastum especially for you. Now everyday can be Ludi Harpastum, hee-hee!
+Media:vo eqyq002 9 barbara 14.ogg Barbara: So keep your chin up, Klee! After we meet Dodo-King, we can all help you convince him to let you and Dodoco stay together.
+Media:vo eqyq002 9 klee 01.ogg Klee: Master Jean, can I go over there and have a look?
+Media:vo eqyq002 9 klee 02.ogg Klee: Okay!
+Media:vo eqyq002 9 klee 03.ogg Klee: Miss Barbara!
+Media:vo eqyq002 9 klee 04.ogg Klee: Do you think that Dodo-King doesn't want to see Klee?
+Media:vo eqyq002 9 klee 05.ogg Klee: Dodoco loves me, an—and I love Dodoco, so Dodo-King can never separate us. That's why Dodo-King doesn't want to see us...
+Media:vo eqyq002 9 klee 06.ogg Klee: *whimper* Klee doesn't want him to separate us.
+Media:vo eqyq002 9 klee 07.ogg Klee: It's a harpastum!
+Media:vo eqyq002 9 klee 08.ogg Klee: Yeah! Klee was just thinking about Ludi Harpastum!
+Media:vo eqyq002 9 klee 09.ogg Klee: Yay!
+Media:vo eqyq002 9 klee 10.ogg Klee: Okay!
+Media:vo eqyq002 9 klee 11.ogg Klee: Yeah!
+Media:vo eqyq002 9 paimon 01.ogg Paimon: Huh? What's this?
+Media:vo eqyq002 9 paimon 02.ogg Paimon: But the only other thing around here is that machine in Inazuman clothing.
+Media:vo eqyq002 9 paimon 03.ogg Paimon: That's what we thought.
+Media:vo eqyq002 9 paimon 04.ogg Paimon: Leave it to us Klee. This Dodo-jerk can't hide forever.
+Media:vo eqyq002 9 paimon 05.ogg Paimon: Even if it takes a thousand years and a thousand searches... uh, w—we'll get him! Ahem...
+Media:vo eqyq002 9 paimon 06.ogg Paimon: But until then, let's have a good look around the area!
+Media:vo eqyq002 9 qin 01.ogg Jean: Perhaps it once performed some deed that merited a memorial.
+Media:vo eqyq002 9 qin 02.ogg Jean: Everything we've seen here indicates that there was once a human presence in these waters. Still, there isn't enough for us to infer what kind of civilization it was.
+Media:vo eqyq002 9 qin 03.ogg Jean: And up to now, we still have yet to see any people or gravestones.
+Media:vo eqyq002 9 qin 04.ogg Jean: Yes, but be careful!
+Media:vo eqyq002 9 qin 05.ogg Jean: Klee is too young to have a proper sense of danger. Traveler, the rest of us must stay alert to the situation.
+Media:vo eqyq002 9 qin 06.ogg Jean: Honestly speaking, I thought that letter was only a prank at first.
+Media:vo eqyq002 9 qin 07.ogg Jean: A letter that guides us to activate mechanisms on a deserted archipelago... It's bizarre.
+Media:vo eqyq002 9 qin 08.ogg Jean: It makes me wonder whether this isn't some kind of trap, long in the making. We must keep our guard up.
+Paimon: It's a whole bunch of islands!

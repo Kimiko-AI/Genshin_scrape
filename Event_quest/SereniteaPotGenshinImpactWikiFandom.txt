@@ -1,0 +1,9 @@
+ Goodbye.
+Media:vo tips mimitomo store chubby 03.ogg Chubby: To gain that which you treasure is a blessing indeed — but do not be aggrieved should fate deny you the object of your desire.
+ What do you sell here?
+Media:vo tips mimitomo store chubby 02.ogg Chubby: Ahh... encounters with fine treasures cannot be forced. This is something that only fate may decide.
+(Opens Traveling Depot shop)
+Media:vo tips mimitomo store chubby 01.ogg Chubby: The one before you is known as Jade Seeker. One travels far and wide, seeking naught but to witness all of the treasures this world has to offer...
+Media:vo tips mimitomo store chubby 02.ogg Chubby: Ahh... encounters with fine treasures cannot be forced. This is something that only fate may decide.
+Media:vo tips mimitomo store chubby 03.ogg Chubby: To gain that which you treasure is a blessing indeed — but do not be aggrieved should fate deny you the object of your desire.
+Observe: (Seems we have ourselves another teapot spirit...)

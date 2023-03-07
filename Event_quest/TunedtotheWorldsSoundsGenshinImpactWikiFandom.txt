@@ -1,0 +1,91 @@
+ Ahem. Will these be enough?
+ Have we met?
+ I think your instrument is broken.
+ Is he in trouble?
+ Quest DescriptionThe Alcor's Chief Mate Juza is looking for you at the Liyue Harbor wharf. Seems that he needs your help with something...
+ Quirkiness!
+Media:vo tips mug002 1 juza 09b.ogg Juza: No, no! I mean sophistication! We don't have an ounce of the stuff between the whole crew.
+ Sophistication!
+Media:vo tips mug002 1 juza 09a.ogg Juza: Sophistication! Yes! Not an ounce of the stuff between us.
+ That instrument looks quite valuable.
+ When you say "it's all yours"...?
+ Where did you hear that?
+ Yep, delivering food and so on.
+ Yep, feeding pigeons and whatnot.
+ Yep, spring cleaning and the like.
+ Yes, heh, so... you need a hand with anything?
+ You seem rather relaxed.
+ You seem to be enjoying yourself.
+Kazuha runs his fingers over the zither's strings lightly.
+Kazuha uses the Glaze Lilies to repair the Ancient Zither.
+Media:vo tips mug002 1 juza 01.ogg Juza: Hey, hey, Traveler! Long time no see, you been keeping well?
+Media:vo tips mug002 1 juza 02.ogg Juza: Oh, uh... So, you've completely forgotten who I am, huh?
+Media:vo tips mug002 1 juza 03.ogg Juza: I'm Juza, chief mate of The Alcor! You hitched a ride with us to Inazuma, in case you'd forgotten.
+Media:vo tips mug002 1 juza 04.ogg Juza: Ah... I was gonna say! This is The Alcor we're talking about here, and I'm the chief mate to boot...
+Media:vo tips mug002 1 juza 05.ogg Juza: Not me, actually. It's Kaedehara Kid, a temporary crew member of ours.
+Media:vo tips mug002 1 juza 06.ogg Juza: You know him, right? He came back with us on the return trip from Inazuma.
+Media:vo tips mug002 1 juza 07.ogg Juza: I don't know what's been going on with him, but he was in really high spirits the whole way back. He kept trying to get everyone to join him for some poetry and song.
+Media:vo tips mug002 1 juza 08.ogg Juza: Unfortunately, no one on board from Captain Beidou to Little Yue has that kind of um... Kind of, y'know, uh...
+Media:vo tips mug002 1 juza 09a.ogg Juza: Sophistication! Yes! Not an ounce of the stuff between us.
+Media:vo tips mug002 1 juza 09b.ogg Juza: No, no! I mean sophistication! We don't have an ounce of the stuff between the whole crew.
+Media:vo tips mug002 1 juza 10.ogg Juza: So, once we got to Liyue, he disembarked and disappeared off into mother nature. I'm gonna say he probably couldn't bear being around a bunch of uncouth sailors a second longer.
+Media:vo tips mug002 1 juza 11.ogg Juza: Then, not long after that, we got a message from him telling us to keep an eye out for you.
+Media:vo tips mug002 1 juza 12.ogg Juza: Didn't give the specifics. He just said that if we saw you, we should tell you he wants to chat with you.
+Media:vo tips mug002 1 juza 13.ogg Juza: From the tone of the message, it didn't sound all that serious — but then again, who'd be asking for the likes of you unless it was some sort of major crisis?
+Media:vo tips mug002 1 juza 14.ogg Juza: Oh... Huh, never would've guessed. So you do everyone's odd jobs, too.
+Media:vo tips mug002 1 juza 15.ogg Juza: No wonder the captain's so fond of you. She's got a soft spot for the honest, hard-working folks of this world, you know?
+Media:vo tips mug002 1 juza 16.ogg Juza: Ahem! Getting sidetracked. Please go check up on Kaedehara Kid when you get the chance. Last I heard, he was hanging around the north of Liyue.
+Media:vo tips mug002 1 juza 17.ogg Juza: I've got some things to do on the boat — see you 'round, and safe travels!
+Media:vo tips mug002 1 paimon 01a.ogg Media:vo tips mug002 1 paimon 01b.ogg Paimon: Nah, (he's/she's) just kidding with you, Juza! Of course we remember you, hehe.
+Media:vo tips mug002 1 paimon 02.ogg Paimon: Actually, we deal with little things all the time, don't we, (Traveler)?
+Media:vo tips mug002 2 kazuha 01.ogg Kaedehara Kazuha: While the bridge slowly withers, the strings gently whisper / A twilight melody from the solitary zither...
+Media:vo tips mug002 2 kazuha 02.ogg Kaedehara Kazuha: You made it. Good to see you again.
+Media:vo tips mug002 2 kazuha 03.ogg Kaedehara Kazuha: This appellation, "Kaedehara Kid"... When uttered by Paimon, it takes on a whole new tone.
+Media:vo tips mug002 2 kazuha 04.ogg Kaedehara Kazuha: Haha, what makes you say that? Do I usually mope around as if perpetually hounded by adverse fate?
+Media:vo tips mug002 2 kazuha 05.ogg Kaedehara Kazuha: The events of Inazuma are behind me, and no longer linger on my mind. Now, I return to Liyue. It is the natural time to explore all the verses and melodies that arise from this land.
+Media:vo tips mug002 2 kazuha 06.ogg Kaedehara Kazuha: As to the matter requiring your assistance — there was none to begin with. Unfortunately, you are too late for that, because now, there is.
+Media:vo tips mug002 2 kazuha 07.ogg Kaedehara Kazuha: Shh... Listen.
+Media:vo tips mug002 2 kazuha 08.ogg Kaedehara Kazuha: What do you think?
+Media:vo tips mug002 2 kazuha 09.ogg Kaedehara Kazuha: Oh, you're friends with a professional bard? I hope I have the chance to meet them some day. Traveler, what do you think?
+Media:vo tips mug002 2 kazuha 10.ogg Kaedehara Kazuha: Very good, you're right. More to the point, however, it has a certain special ability.
+Media:vo tips mug002 2 kazuha 11.ogg Kaedehara Kazuha: I acquired this anonymous Ancient Zither from an abandoned cave dwelling as I was exploring the mountains.
+Media:vo tips mug002 2 kazuha 12.ogg Kaedehara Kazuha: When I first found it, it was old, but intact. The sight of it inspired me, and suddenly, I found myself strumming.
+Media:vo tips mug002 2 kazuha 13.ogg Kaedehara Kazuha: To my surprise, as soon as the melody began, my mind began to drift, and I could hear the sound of someone playing along with me... somehow, it all felt so familiar...
+Media:vo tips mug002 2 kazuha 14.ogg Kaedehara Kazuha: I don't believe so, because when the melody ended, my mind became completely clear again. That's when I finally started to inspect my surroundings properly: As expected, it was a place full of mystery.
+Media:vo tips mug002 2 kazuha 15.ogg Kaedehara Kazuha: The cave was overrun with weeds, so I imagine the owner left a long time ago. But the table and chair were spotless, and gave off a fine and delicate fragrance.
+Media:vo tips mug002 2 kazuha 16.ogg Kaedehara Kazuha: Even the ever-present sound of the wind fell silent in that place. It was quite miraculous. I can only assume that it must have been the treasure trove of a fabled Liyue adeptus.
+Media:vo tips mug002 2 kazuha 17.ogg Kaedehara Kazuha: Haha, who can say? Regardless, it was a wondrous experience, and after it was over, I thought to myself — I simply must share this with a friend.
+Media:vo tips mug002 2 kazuha 18.ogg Kaedehara Kazuha: But in Liyue, besides Captain Beidou, you are the only friend I have.
+Media:vo tips mug002 2 kazuha 19.ogg Kaedehara Kazuha: I doubt this would interest Beidou in the least, so I decided to invite you to share this experience.
+Media:vo tips mug002 2 kazuha 20.ogg Kaedehara Kazuha: I asked Chief Mate Juza to be on the lookout for you. But unfortunately, the Ancient Zither broke before you arrived.
+Media:vo tips mug002 2 kazuha 21.ogg Kaedehara Kazuha: The fault is my own. I've been taking it everywhere with me, and playing it too often.
+Media:vo tips mug002 2 kazuha 22.ogg Kaedehara Kazuha: If Eternity lies out of reach even for the mighty Electro Archon herself... then it is all the more elusive for everything else.
+Media:vo tips mug002 2 kazuha 23.ogg Kaedehara Kazuha: Luckily, in this case, the breakage is fixable. It is more akin to hibernation than anything else — the energy within the instrument has dissipated with the passage of time.
+Media:vo tips mug002 2 kazuha 24.ogg Kaedehara Kazuha: All we need to do is find the right material, and we can awaken it once again.
+Media:vo tips mug002 2 kazuha 25.ogg Kaedehara Kazuha: If I heard correctly, the material in question should be... the Glaze Lily.
+Media:vo tips mug002 2 kazuha 26.ogg Kaedehara Kazuha: As I've mentioned before, the wind carries with it the whispers of everything that resides in the world, and I am attuned to some of what they say.
+Media:vo tips mug002 2 kazuha 27.ogg Kaedehara Kazuha: So, I am privy to a few fragments of this Ancient Zither's history.
+Media:vo tips mug002 2 kazuha 28.ogg Kaedehara Kazuha: Go on. I'll wait here for you.
+Media:vo tips mug002 2 kazuha 29.ogg Kaedehara Kazuha: You are the savior of Liyue Harbor. I'm sure this should be well within your ability to handle?
+Media:vo tips mug002 2 paimon 01.ogg Paimon: Hey, hey! Kaedehara Kid! So what are you up to here? We've come to help!
+Media:vo tips mug002 2 paimon 02.ogg Paimon: Hee-hee, Paimon learned it from Chief Mate Juza.
+Media:vo tips mug002 2 paimon 03.ogg Paimon: It's 'cause Juza said that you needed us for something! We didn't expect to find you admiring the scenery and reciting poetry without a care in the whole world!
+Media:vo tips mug002 2 paimon 04.ogg Paimon: Huh? That was really confusing... There was none to begin with, but somehow now there still is...? What!?
+Media:vo tips mug002 2 paimon 05.ogg Paimon: Have you been eating those wild plants that you're not supposed to? 'Cause you're talking total baloney!
+Media:vo tips mug002 2 paimon 06.ogg Paimon: Wow... Well, Paimon thinks you play just like another bard we know, who plays for loose change.
+Media:vo tips mug002 2 paimon 07.ogg Paimon: Just to circle back for a second — are you sure you haven't been eating anything suspicious? That makes you see things that aren't there?
+Media:vo tips mug002 2 paimon 08.ogg Paimon: Whoa! So this instrument is an adeptus's treasure!?
+Media:vo tips mug002 2 paimon 09.ogg Paimon: Oh... So even adepti treasures break in the end?
+Media:vo tips mug002 2 paimon 10.ogg Paimon: Uh-oh, well... P—Please be super-duper careful with our Serenitea Pot, (Traveler)!
+Media:vo tips mug002 3 kazuha 01.ogg Kaedehara Kazuha: You've returned, even before the wind could bring tidings of your progress. This is quite astonishing... How did you achieve it?
+Media:vo tips mug002 3 kazuha 02.ogg Kaedehara Kazuha: Let me see.
+(Opens item submission menu)
+Media:vo tips mug002 3 paimon 01a.ogg Media:vo tips mug002 3 paimon 01b.ogg Paimon: Hehe, maybe (he's/she's) got a few more tricks up (his/her) sleeve than you thought!
+Media:vo tips mug002 4 kazuha 01.ogg Kaedehara Kazuha: Good, these are fine specimens. They will be plenty. If we extract the juices and apply them to the body of the instrument, it should awaken from its present slumber.
+Media:vo tips mug002 4 kazuha 02.ogg Kaedehara Kazuha: Yes, there it is, that familiar feeling. It's awoken.
+Media:vo tips mug002 4 kazuha 03.ogg Kaedehara Kazuha: Come, try it for yourself, (Traveler). It's all yours.
+Media:vo tips mug002 4 kazuha 04.ogg Kaedehara Kazuha: Haha, can a poet not be forthright in expression? Then, let me rephrase. This instrument is my gift unto you.
+Media:vo tips mug002 4 kazuha 05.ogg Kaedehara Kazuha: I came back to Liyue to listen to what this region of the world has to say. In these vast and ancient lands watched over by the Geo Archon, there are countless soft voices to be heard... This gives me all the satisfaction I desire.
+Media:vo tips mug002 4 kazuha 06.ogg Kaedehara Kazuha: Of course, should there come a day when you wish to part with this instrument, I will come to collect it. But... I hope that day will never come.
+Media:vo tips mug002 4 kazuha 07.ogg Kaedehara Kazuha: Well, my onward journey beckons. What is the customary Liyue saying at moments like this? Ah, yes.
+Media:vo tips mug002 4 kazuha 08.ogg Kaedehara Kazuha: "We will meet again," (Traveler).

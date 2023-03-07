@@ -1,0 +1,8 @@
+ Quest DescriptionYuan Rong of Liyue Harbor has created something fascinating known as the Shadow Lantern...
+Media:vo zdeq001 1 paimon 01.ogg Paimon: "Shadow Lantern"? Ooh, Paimon's never heard of this one before!
+Media:vo zdeq001 1 paimon 02.ogg Paimon: Sounds pretty cool! Let's give it a whirl.
+Media:vo zdeq001 1 yuanrong 01.ogg Yuan Rong: Gather round, gather round! If you're passing by, don't pass this up: Introducing the amazing Shadow Lantern!
+Media:vo zdeq001 1 yuanrong 02.ogg Yuan Rong: You two look like you're out to have some fun! Care to check out the Shadow Lantern? My latest invention, made to amaze and amuse!
+Media:vo zdeq001 1 yuanrong 03.ogg Yuan Rong: It's very simple — all you have to do is rotate the objects inside the Shadow Lantern, get all the shadows to merge in a certain way, and the most incredible images will be revealed before your very eyes.
+Media:vo zdeq001 1 yuanrong 04.ogg Yuan Rong: Intrigued? You should try it out for yourself! It's set up right here — please, peruse and use at your leisure.
+Media:vo zdeq001 1 yuanrong 05.ogg Yuan Rong: I hope the Shadow Lantern shows you something truly spectacular.

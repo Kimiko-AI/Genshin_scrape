@@ -1,0 +1,46 @@
+ ...In principle?
+ Are you alright...?
+ Can't hurt to learn more about it.
+ I can help.
+ I see...
+ I will keep my eyes open when I'm out and about.
+ I'll say...
+ Is there anything I can do?
+ Quest DescriptionThe Adventurers' Guild has issued a new commission, and it seems to be related to a certain "Unusual Hilichurl"...?
+ Since we've come this far already...
+ Sure.
+ Welcome to the crew!
+ What kind of commission?
+After completing the hilichurls' commissions, they will reveal clues as to their time when the Unusual Hilichurl will appear, and they will help the Traveler mark out locations where the Unusual Hilichurl may appear.
+Ella Musk:  *sigh*...
+Ella Musk: But still... It's a shame for a golden opportunity to converse with a hilichurl to just go to waste...
+Ella Musk: Hmm... Nope, never mind, you probably wouldn't understand what I was about to say anyway. But that aside... thank you, once again, for saving me.
+Ella Musk: I don't understand, everything was going so well... What was it that I said?
+Ella Musk: If only I had someone who could verify the accuracy of the book's contents on my behalf...
+Ella Musk: If you encounter any communication difficulties, you'll be able to resolve them simply by consulting this book! ...In principle, at least.
+Ella Musk: It looks like my vocabulary compilation work for the dictionary is going to have to be postponed once again...
+Ella Musk: My previous strategy of attempting to interact with hilichurls on my own is manifestly too risky...
+Ella Musk: Now, if you don't mind, I will join you. Let's go find a hilichurl to interact with.
+Ella Musk: Phew... That was close. Good thing you came when you did...
+Ella Musk: R—Really? That's great! ...Right then, be sure to take this book with you!
+Ella Musk: Well, anyway... Thank you for saving me...
+Ella Musk: Well... You saw what happened.
+Ella Musk: You only find out where the problems in your research lie through real-world application! Without putting them through their paces, how am I supposed to know for sure whether my theories hold water?
+Go with Ella to look for hilichurls who are willing to talk, attempt to understand their requests, and complete their commissions.
+Katheryne: All of whom have reported a strange phenomenon — that whenever they discover a group of hilichurls gathering together, there is always a certain unusual hilichurl in their midst...
+Katheryne: Apologies, but I need a moment of your time. Would you be interested in taking on a new commission?
+Katheryne: Hilichurl activity has been reported in each of these areas. Please begin your investigation by visiting them.
+Katheryne: Should you encounter the Unusual Hilichurl... Please exercise due caution.
+Katheryne: So, we require someone to capture the Unusual Hilichurl, or at the very least chase it away.
+Katheryne: Thank you! I have marked some locations for you on your Map.
+Katheryne: The situation is this. The Guild has recently received several reports that the hilichurls in the wild are once again starting to band together and disrupt the merchant route.
+Katheryne: Traveler! Please, over here.
+Katheryne: Traveler, are you interested in accepting this commission?
+Katheryne: We believe that this "Unusual Hilichurl" could be a key factor in the recent disturbances.
+Katheryne: We have dispatched a significant number of adventurers to investigate...
+Paimon: ...Look! Someone's under attack!
+Paimon: She looks really upset...
+Paimon: Wow... That was a fast transition from sulking to bossing us around...
+Paimon: You mean you don't even know what you wrote in your own book!?
+Reach the designated locations at the correct time to find and repel the Unusual Hilichurl and claim your rewards.
+(Obtain Handy Handbook of Hilichurlian)

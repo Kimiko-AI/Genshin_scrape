@@ -1,0 +1,49 @@
+ A little bird told me that someone wants Mist Flower Corollas...
+ About the wheat...
+ Here they are.
+(After giving the Dandelion Seeds)
+Connor: Yes... These Dandelion Seeds should last me for a while.
+Connor: Please accept this. Thanks for helping me out.
+ Here they are.
+(After giving the Flaming Flower Stamens)
+Connor: Yes, this will do. Please accept this small token from me as thanks for your help.
+Connor: While I'm not certain if we can brew anything sufficiently special with these ingredients...
+Connor: But I'm sure that this will be a memorable brewing experience nonetheless.
+ Here they are.
+(After giving the Mist Flower Corollas)
+Connor: My, my... These Mist Flower Corollas are of fine quality indeed.
+Connor: Please, take these — consider them a token of my appreciation.
+ Here they are.
+(After giving the Wheat)
+Connor: Let me see... Yes, I think this is enough.
+Connor: Thank you. Please accept a token of my appreciation...
+ Not yet.
+Connor: Not yet, eh... Well, be sure to give them to me once you've got them. I need to start brewing wine soon.
+ Not yet.
+Connor: Please hurry, then. I'm due to use them to brew up some wine.
+ Not yet.
+Connor: Well then, give them to me as soon as you're done gathering them. I have wine to brew.
+ Quest DescriptionThe Dawn Winery's Connor requires ten servings of Wheat / three Flaming Flower Stamens / three Mist Flower Corollas / three sets of Dandelion Seeds.
+ So, I hear you need dandelions...
+ So, I heard someone needs Flaming Flower Stamens...
+ Still working on it...
+Connor: Well, pass them to me once you're done gathering them. I need to rest for a while more...
+Connor: Ah, you must have seen that commission of mine. So, do you have those three Mist Flower Corollas handy?
+Connor: But I'm sure that this will be a memorable brewing experience nonetheless.
+Connor: Let me see... Yes, I think this is enough.
+Connor: My, my... These Mist Flower Corollas are of fine quality indeed.
+Connor: Not yet, eh... Well, be sure to give them to me once you've got them. I need to start brewing wine soon.
+Connor: Oh, you must have seen my commission, then. Well, what about it? Have you gathered three sets of Dandelion Seeds?
+Connor: Please accept this. Thanks for helping me out.
+Connor: Please hurry, then. I'm due to use them to brew up some wine.
+Connor: Please, take these — consider them a token of my appreciation.
+Connor: So, gathered those ten spikes of Wheat yet?
+Connor: So, have you gathered the three Flaming Flower Stamens that I need?
+Connor: Thank you. Please accept a token of my appreciation...
+Connor: Well then, give them to me as soon as you're done gathering them. I have wine to brew.
+Connor: Well, pass them to me once you're done gathering them. I need to rest for a while more...
+Connor: While I'm not certain if we can brew anything sufficiently special with these ingredients...
+Connor: Yes, that was a commission I sent out. I must say, that was rather quick...
+Connor: Yes, this will do. Please accept this small token from me as thanks for your help.
+Connor: Yes... These Dandelion Seeds should last me for a while.
+Connor: You... Ah. Saw my commission, did you?

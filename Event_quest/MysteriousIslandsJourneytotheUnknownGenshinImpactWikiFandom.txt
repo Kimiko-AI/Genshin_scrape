@@ -1,0 +1,346 @@
+
+(The screen is black)
+ (Huh? Is Barbara winking at me?)
+ (Paimon's trying really hard for Klee...)
+ (Suddenly so charming, Paimon...)
+ ...?
+ ...?
+(The Traveler opens their eyes)
+ A necessary skill for managing subordinates.
+ Agreed.
+ Carefree and ready to explore, classic Paimon.
+ Did we interrupt a sisterly moment?
+ Feels more and more like a prank to me.
+ Huh?
+ I also suspect it's a prank.
+ I have an inkling.
+ I have some impressive friends in Mondstadt.
+ I think so, too.
+ I understand now.
+ I'll help you.
+ Indeed.
+ Is there someone even more knowledgeable we could ask?
+ It sounds like he wants you to return Dodoco?
+ Klee spoke the truth.
+ Klee, he wasn't actually apologizing.
+ No one would prank Klee.
+ Oh, Master Jean is also here.
+ Paimon, you're a bad influence...
+ Quest DescriptionLong time no Klee - let's go visit her at the Knights of Favonius headquarters!After being out of sight for quite some time, Klee shows up with a mysterious letter in her hand. According to the letter, there seem to be some uncharted islands that lie well-hidden amidst the sea...Determined to help Klee, everyone embarks on a journey together to these unknown islands to seek out whoever's behind the unusual letter.
+ Something appeared on the back of the letter.
+ That's right. You're one of the smartest people in Mondstadt.
+ There's something we want to ask you.
+ Unless...
+ Venti might know a way.
+ Venti, do you know of the Golden Apple Archipelago?
+ Way to go!
+ We knew you'd have a way, Venti.
+ What's the matter?
+ Where was this letter sent from?
+ Who's this person that you're talking about?
+ Yes, but I have a hunch.
+ You seem concerned.
+ You sure sounded confident a moment ago...
+Media:vo eqyq001 1 paimon 01.ogg Paimon: Come to think of it, (Traveler), we haven't seen Klee for a while, have we?
+Media:vo eqyq001 1 paimon 02.ogg Paimon: Let's go find her! She'll probably be happy to see us, too!
+Media:vo eqyq001 1 paimon 03.ogg Paimon: But where would she be at this time of day?
+Media:vo eqyq001 1 paimon 04.ogg Paimon: We might as well check with the Knights!
+Media:vo eqyq001 10 paimon 01.ogg Paimon: It's time! Let's meet up with Barbara and Klee at the plaza!
+Media:vo eqyq001 11 barbara 01.ogg Barbara: Everyone, over here.
+Media:vo eqyq001 11 barbara 02.ogg Barbara: We all know Klee. Rather than have her run headlong into danger, it's better to agree to her request.
+Media:vo eqyq001 11 barbara 03.ogg Barbara: However, there are conditions!
+Media:vo eqyq001 11 barbara 04.ogg Barbara: Big Sis— I mean, Master Jean also suggested that I come along. Barbatos forbid, but I can assist if someone needs medical treatment during our journey.
+Media:vo eqyq001 11 barbara 05.ogg Barbara: As expected of Miss Lisa! She's been thinking of us this whole time.
+Media:vo eqyq001 11 barbara 06.ogg Barbara: Anyway, our next step is to find the bard, right? I just asked the people nearby. They said that he hasn't performed at the square today and that he likely went to Windrise.
+Media:vo eqyq001 11 klee 01a.ogg Media:vo eqyq001 11 klee 01b.ogg Klee: (Mr./Miss) Honorary Knight, Paimon~
+Media:vo eqyq001 11 klee 02.ogg Klee: Ehehe...
+Media:vo eqyq001 11 klee 03.ogg Klee: Wow! I'm so excited!
+Media:vo eqyq001 11 klee 04.ogg Klee: Miss Barbara, Master Jean, you two are so nice. I promise I'll behave!
+Media:vo eqyq001 11 klee 05.ogg Klee: Hehe...
+Media:vo eqyq001 11 paimon 01.ogg Paimon: We're all here now!
+Media:vo eqyq001 11 paimon 02.ogg Paimon: Alright! There won't be any problems if Master Jean comes with us!
+Media:vo eqyq001 11 paimon 03.ogg Paimon: We're so lucky to have Barbara too!
+Media:vo eqyq001 11 paimon 04.ogg Paimon: New way? You mean a way to keep Klee out of trouble?
+Media:vo eqyq001 11 paimon 05.ogg Paimon: What are we waiting for? Let's head to Windrise and find Tone-Deaf Bard.
+Media:vo eqyq001 11 qin 01.ogg Jean: Greetings.
+Media:vo eqyq001 11 qin 02.ogg Jean: Yes, it's a long story...
+Media:vo eqyq001 11 qin 03.ogg Jean: Barbara and Lisa have both spoken to me, and there is something that I have realized. Regardless if I approve it or not, Klee will go where she wants to anyway. This is how it has always been.
+Media:vo eqyq001 11 qin 04.ogg Jean: Knight Klee, your request for leave has been approved.
+Media:vo eqyq001 11 qin 05.ogg Jean: In exchange, I will be accompanying everyone to this letter's Golden Apple Archipelago. As for the Knights' affairs, I have entrusted them to Kaeya.
+Media:vo eqyq001 11 qin 06.ogg Jean: Work has been busy and I shouldn't leave, but... I wouldn't be able to stop worrying about Klee.
+Media:vo eqyq001 11 qin 07.ogg Jean: So, please allow me to travel with you.
+Media:vo eqyq001 11 qin 08.ogg Jean: Klee, you always say that. I hope you will abide by your words this time.
+Media:vo eqyq001 11 qin 09.ogg Jean: Lisa heard that I wanted to accompany everyone to the islands, so she prepared this pouch. Supposedly, opening it will reveal a new way.
+Media:vo eqyq001 11 qin 10.ogg Jean: She said not to open it until we've reached the islands. I think it might be something to use in case of an emergency.
+Media:vo eqyq001 12 barbara 01.ogg Barbara: What a beautiful sound...
+Media:vo eqyq001 12 barbara 02.ogg Barbara: One of the Four Winds!?
+Media:vo eqyq001 12 klee 01.ogg Klee: Wowowooow, you really do know!
+Media:vo eqyq001 12 klee 02.ogg Klee: I'm going there to meet Dodo-King! He said he wants to test Klee to see if she's qualified to be Dodoco's family!
+Media:vo eqyq001 12 klee 03.ogg Klee: A little... But I will not give in. Master Tone-Deaf Bard, you must help us!
+Media:vo eqyq001 12 paimon 01.ogg Paimon: Venti! We found you!
+Media:vo eqyq001 12 paimon 02.ogg Paimon: This is the map of the islands.
+Media:vo eqyq001 12 paimon 03.ogg Paimon: Is this Paimon's fault?
+Media:vo eqyq001 12 paimon 04.ogg Paimon: Huh? Is the wind picking up?
+Media:vo eqyq001 12 qin 01.ogg Jean: Could you really help us?
+Media:vo eqyq001 12 qin 02.ogg Jean: Th—That's...!?
+Media:vo eqyq001 12 qin 03.ogg Jean: Oh! My dear poet, you have my utmost gratitude for the aid you have provided us.
+Media:vo eqyq001 12 venti 01.ogg Venti: Hm? If so many people are looking for me, then I suppose it is something important?
+Media:vo eqyq001 12 venti 02.ogg Venti: Oh, yes, that place... Hahaha, congratulations, you've found the right person.
+Media:vo eqyq001 12 venti 03.ogg Venti: So now they're called the Golden Apple Archipelago, huh? They used to be known as the Haar Islands. They're located on a stretch of sea that's particularly difficult for the average person to reach.
+Media:vo eqyq001 12 venti 04.ogg Venti: Not to mention, the area has strong storms and thick fog year-round. Ships can hardly approach the islands, let alone dock.
+Media:vo eqyq001 12 venti 05.ogg Venti: Why do you guys wish to go there?
+Media:vo eqyq001 12 venti 06.ogg Venti: Hmm. Are you nervous?
+Media:vo eqyq001 12 venti 07.ogg Venti: Master Tone-Deaf Bard... Interesting. I like it.
+Media:vo eqyq001 12 venti 08.ogg Venti: Fear not! Since you wish it so, Master Tone-Deaf Bard will lend a helping hand.
+Media:vo eqyq001 12 venti 09.ogg Venti: Of course! In this world, what is more pure and free than the wish of a child?
+(Venti strums his Lyre)
+Media:vo eqyq001 12 venti 10.ogg Venti: Wait just a moment, he'll be here soon.
+(Dvalin flies towards the group)
+Media:vo eqyq001 12 venti 11.ogg Venti: Uh—uhh...
+Media:vo eqyq001 12 venti 12.ogg Venti: This is a secret between us here, so don't tell anyone else.
+Media:vo eqyq001 12 venti 13.ogg Venti: The Acting Grand Master sure is formal.
+Media:vo eqyq001 12 venti 14.ogg Venti: Haha, what wonderful expressions you all have!
+Media:vo eqyq001 12 venti 15.ogg Venti: I'll see you off here. May the winds bless your travels~!
+Media:vo eqyq001 13 barbara 01.ogg Barbara: Th—That was my first time riding on a dragon's back. M—My heart won't stop pounding...
+Media:vo eqyq001 13 barbara 02.ogg Barbara: Yes, I'm fine. Big Sis— uh Master Jean, just who is that bard?
+Media:vo eqyq001 13 barbara 03.ogg Barbara: Wow, what an impressive person. We must properly thank him when we return.
+Media:vo eqyq001 13 barbara 04.ogg Barbara: Four beacons? Does that mean he wants us to find something that emits light?
+Media:vo eqyq001 13 barbara 05.ogg Barbara: "Light four beacons, and knock upon the trialist's gate"... What will happen after we light up all four beacons?
+Media:vo eqyq001 13 dvalin 01.ogg Dvalin: This is as far as I go.
+Media:vo eqyq001 13 dvalin 02.ogg Dvalin: It would be cumbersome for me to proceed further. Please exercise caution.
+Media:vo eqyq001 13 klee 01.ogg Klee: We're here, we finally made it!
+Media:vo eqyq001 13 klee 02.ogg Klee: Huh? What's that?
+Media:vo eqyq001 13 klee 03.ogg Klee: It looks like something's down there!
+Media:vo eqyq001 13 paimon 01.ogg Paimon: Tone-Deaf Bard sure knows when to pull out all the stops, suddenly letting us ride over on a dragon! Paimon almost got blown away...
+Media:vo eqyq001 13 paimon 02.ogg Paimon: Whoa, even Master Jean is pretty quick on the spot...
+Media:vo eqyq001 13 paimon 03.ogg Paimon: We should be extra careful.
+Media:vo eqyq001 13 paimon 04.ogg Paimon: Oh, Paimon remembers! It read, "Wicked girl of flame, I am of the Dodo Clan as its overlord. In the name of Dodo-King, you are not qualified to become Dodoco's new family!"
+Media:vo eqyq001 13 paimon 05.ogg Paimon: "Unless you bring Dodoco to the Golden Apple Archipelago, light the four beacons, and knock upon the trialist's gate to accept your challenge."
+Media:vo eqyq001 13 paimon 06.ogg Paimon: Now that you mention it, doesn't it seem like it's a little less foggy here than the surrounding area?
+Media:vo eqyq001 13 paimon 07.ogg Paimon: Don't you think it looks familiar, (Traveler)? Pretty similar to the Portable Waypoints we've used before.
+Media:vo eqyq001 13 paimon 08.ogg Paimon: Crafting Portable Waypoints requires Luminescent Spines, so they can also function as a source of light. So if this device here seems like it can dissipate fog, maybe it's a similar kind of device.
+Media:vo eqyq001 13 paimon 09.ogg Paimon: Hey, don't run off... Agh, c'mon, (Traveler), catch up to her!
+Media:vo eqyq001 13 qin 01.ogg Jean: Phew... Is everyone alright?
+Media:vo eqyq001 13 qin 02.ogg Jean: Well, uh...
+Media:vo eqyq001 13 qin 03.ogg Jean: He's a legendary bard of exceptional musical talent who can use his lyre to call forth all manner of creatures.
+Media:vo eqyq001 13 qin 04.ogg Jean: Agreed. In any case, what are these islands?
+Media:vo eqyq001 13 qin 05.ogg Jean: The weather is dreadful, the fog is thick, and visibility is low. Just like Lisa said.
+Media:vo eqyq001 13 qin 06.ogg Jean: Traveler, Paimon, what else does the letter say?
+Media:vo eqyq001 13 qin 07.ogg Jean: Looking carefully, that indeed appears to be the case.
+Media:vo eqyq001 13 qin 08.ogg Jean: Could the clearing of the fog be related to this device?
+Media:vo eqyq001 13 qin 09.ogg Jean: There's already one lit device here. It appears that we need to find the other three and light them up as well.
+Media:vo eqyq001 13 qin 10.ogg Jean: Let's take a closer look.
+Media:vo eqyq001 14 paimon 01.ogg Paimon: ...A boat?
+Media:vo eqyq001 14 paimon 02.ogg Paimon: Are we really supposed to sail in such terrible weather?
+Media:vo eqyq001 14 qin 01.ogg Jean: It looks as if someone has been awaiting our arrival.
+Media:vo eqyq001 14 qin 02.ogg Jean: I'm afraid that appears to be the intention. Everyone... Everything about these islands is a mystery. Regardless of what lies ahead, please proceed with utmost caution.
+Media:vo eqyq001 15 paimon 01.ogg Paimon: The surrounding fog seems to have lifted! Lighting these devices is really useful.
+Media:vo eqyq001 15 paimon 02.ogg Paimon: The surrounding area is gradually becoming clearer. Let's go and find the last one!
+Media:vo eqyq001 15 paimon 03.ogg Paimon: We've found all the devices! Let's go someplace higher up to get a view of our surroundings.
+Media:vo eqyq001 16 barbara 01.ogg Barbara: Ahh, the weather's so nice!
+Media:vo eqyq001 16 barbara 02.ogg Barbara: I know we can't afford to drop our guard, but I can't help but enjoy the summer...
+Media:vo eqyq001 16 barbara 03.ogg Barbara: It's truly unbelievable... I also mustn't be careless.
+Media:vo eqyq001 16 barbara 04.ogg Barbara: Even on a mysterious island, I have no worries as long as you're here.
+Media:vo eqyq001 16 barbara 05.ogg Barbara: Whew! So, should we go swimming first?
+Media:vo eqyq001 16 klee 01.ogg Klee: The fog's gone!
+Media:vo eqyq001 16 klee 02.ogg Klee: I wanna catch fish!
+Media:vo eqyq001 16 klee 03.ogg Klee: Oh. I understand...
+Media:vo eqyq001 16 klee 04.ogg Klee: Paimon, after we deal with Dodo-King together, we can go catch some fish!
+Media:vo eqyq001 16 paimon 01.ogg Paimon: Huh, it's actually pretty scenic here.
+Media:vo eqyq001 16 paimon 02.ogg Paimon: Okay, sure, whatever you say!
+Media:vo eqyq001 16 paimon 03.ogg Paimon: Well, what are we all waiting for? Let's start exploring the area!
+Media:vo eqyq001 16 qin 01.ogg Jean: The four beacons have been lit, but we still don't know what trials may lie ahead.
+Media:vo eqyq001 16 qin 02.ogg Jean: Klee, this isn't Mondstadt. Please be careful.
+Media:vo eqyq001 16 qin 03.ogg Jean: Who or what exactly is Dodo-King?
+Media:vo eqyq001 16 qin 04.ogg Jean: Yes. It is also my first time here. This may not sound fair to Klee, but my primary duty is to protect everyone. Finding this overlord is secondary.
+Media:vo eqyq001 16 qin 05.ogg Jean: Also, the sudden appearance of this letter, these islands that are inaccessible by ordinary people... It's too much of a coincidence. Why would this sort of invitation be sent to a child?
+Media:vo eqyq001 16 qin 06.ogg Jean: Paimon's right. We should take advantage of the clear weather to reassess our situation.
+Media:vo eqyq001 16 qin 07.ogg Jean: *sigh* Barbara is always happy-go-lucky when she sees such beautiful scenery.
+Media:vo eqyq001 16 qin 08.ogg Jean: Traveler, please feel free to explore. I'll be at the ready if there is any sign of danger.
+Media:vo eqyq001 16 qin 09.ogg Jean: I hope this island doesn't give us too much trouble...
+Media:vo eqyq001 17 kaeya 01.ogg Kaeya: Who would've thought that the Acting Grand Master would ever step out of her office?
+Media:vo eqyq001 17 kaeya 02.ogg Kaeya: Oh my, looks like I'll be quite busy in the near future... but there's no helping that.
+Media:vo eqyq001 2 klee 01a.ogg Media:vo eqyq001 2 klee 01b.ogg Klee: Oh! It's (Mr./Miss) Honorary Knight and Paimon!
+Media:vo eqyq001 2 klee 02.ogg Klee: *sobs* I was just about to go find you two...
+Media:vo eqyq001 2 klee 03.ogg Klee: I got a terrible, terrible letter and need to go a certain place!
+Media:vo eqyq001 2 klee 04.ogg Klee: Yes, from a person that won't acknowledge that Klee and Dodoco are family. They even said they want to test Klee and have Klee go to Dodoland... But, but...
+Media:vo eqyq001 2 klee 05.ogg Klee: A very bad, bad, bad guy! He's called Dodo-King!
+Media:vo eqyq001 2 klee 06.ogg Klee: Paimon also hasn't heard of him?
+Media:vo eqyq001 2 klee 07.ogg Klee: Because even Klee has never heard of him!
+Media:vo eqyq001 2 klee 08.ogg Klee: I went to go find Albedo, but he's not home, so I thought of you!
+Media:vo eqyq001 2 klee 09.ogg Klee: Let me read you the letter that Dodo-King wrote!
+Media:vo eqyq001 2 klee 10.ogg Klee: "Wicked girl of flame, I am of the Dodo Clan"... Uh, Klee can't read this part... "In the name of Dodo-King, you are not qualified to become Dodoco's new family!"
+Media:vo eqyq001 2 klee 11.ogg Klee: "Unless you bring Dodoco to the Golden Apple Archipelago, light four..." Uh... "Accept the..." Um...
+Media:vo eqyq001 2 klee 12.ogg Klee: I don't know some of these words...
+Media:vo eqyq001 2 klee 13.ogg Klee: Arbi... Um... Arbi... trate?
+Media:vo eqyq001 2 klee 14.ogg Klee: How could this be!? Dodoco is my bestest friend, so I'll never give Dodoco to him!
+Media:vo eqyq001 2 klee 15.ogg Klee: But... He said he's the strongest of the Dodo Clan. Ohh... Could the Dodo Clan be Dodoco's family?
+Media:vo eqyq001 2 klee 16.ogg Klee: I don't know.
+Media:vo eqyq001 2 klee 17.ogg Klee: This is also the first time Klee has heard of the "Golden Apple Archipelago." Golden Apple... Archipelago?
+Media:vo eqyq001 2 klee 18.ogg Klee: It's probably an island with lots of apples, hehe.
+Media:vo eqyq001 2 klee 19.ogg Klee: Nope.
+Media:vo eqyq001 2 klee 20.ogg Klee: I don't know. It suddenly appeared on my room's windowsill.
+Media:vo eqyq001 2 klee 21.ogg Klee: No! Dodoco is my bestest friend, not some toy!
+Media:vo eqyq001 2 klee 22.ogg Klee: No, no way! I'll never admit defeat! I have to go there!
+Media:vo eqyq001 2 klee 23a.ogg Media:vo eqyq001 2 klee 23b.ogg Klee: (Mr./Miss) Honorary Knight, you know what to do, right? Klee believes in you!
+Media:vo eqyq001 2 klee 24.ogg Klee: I'm begging you! Please please help me!
+Media:vo eqyq001 2 klee 25.ogg Klee: Oh, please! Please!
+Media:vo eqyq001 2 klee 26.ogg Klee: Okay~!
+Media:vo eqyq001 2 paimon 01.ogg Paimon: There she is, over there!
+Media:vo eqyq001 2 paimon 02.ogg Paimon: Klee, we haven't seen you in forever!
+Media:vo eqyq001 2 paimon 03.ogg Paimon: A terrible letter?
+Media:vo eqyq001 2 paimon 04.ogg Paimon: There's no need to rush, slow down!
+Media:vo eqyq001 2 paimon 05.ogg Paimon: Who's Dodo-King?
+Media:vo eqyq001 2 paimon 06.ogg Paimon: Nope. Wait, why did you say "also"?
+Media:vo eqyq001 2 paimon 07.ogg Paimon: He's probably just some weirdo!
+Media:vo eqyq001 2 paimon 08.ogg Paimon: Let Paimon have a look!
+Media:vo eqyq001 2 paimon 09.ogg Paimon: This word is "overlord," which means he's the most powerful guy around and what he says goes. This part reads, "light four beacons, and knock upon the trialist's gate." Hmm... Probably to accept some kind of challenge.
+Media:vo eqyq001 2 paimon 10.ogg Paimon: The last word is "arbitrate," which... which means he wants to judge you.
+Media:vo eqyq001 2 paimon 11.ogg Paimon: Agh, it's nothing good anyway. He'll judge and criticize you while pretending to be the good guy!
+Media:vo eqyq001 2 paimon 12.ogg Paimon: From the names, it seems like it... But Klee, where is this "Golden Apple Archipelago"?
+Media:vo eqyq001 2 paimon 13.ogg Paimon: What!?
+Media:vo eqyq001 2 paimon 14.ogg Paimon: Uh...
+Media:vo eqyq001 2 paimon 15.ogg Paimon: The only things written on the letter were what Klee just read out to us, and there's no signature. Klee, did this letter come with an envelope?
+Media:vo eqyq001 2 paimon 16.ogg Paimon: Dodo-King, Dodo Clan... If Paimon remembers correctly, Dodoco is the toy hanging on Klee's backpack, right?
+Media:vo eqyq001 2 paimon 17.ogg Paimon: O-Oh, right... What a magical creature Dodoco is! But all this sudden talk about family and whatnot is pretty strange... It feels like it might be a prank.
+Media:vo eqyq001 2 paimon 18.ogg Paimon: If it's just a prank, then we should ignore it.
+Media:vo eqyq001 2 paimon 19.ogg Paimon: But we've never even heard of such a place...
+Media:vo eqyq001 2 paimon 20.ogg Paimon: Even if we did know what to do...
+Media:vo eqyq001 2 paimon 21.ogg Paimon: Paimon feels like if we don't agree to help, she'll go off on her own. That'd be dangerous.
+Media:vo eqyq001 2 paimon 22.ogg Paimon: Rather than letting Klee go adventuring off by herself, it'd be better if we accompany her!
+Media:vo eqyq001 2 paimon 23.ogg Paimon: *sigh* How can we say no after seeing you try so hard? But since we're going together, you need to be well-behaved and not run off by yourself!
+Media:vo eqyq001 2 paimon 24.ogg Paimon: As per usual, let's start by asking around for some info.
+Media:vo eqyq001 3 paimon 01.ogg Paimon: Let's walk around the city and ask people who might know something about the situation.
+Media:vo eqyq001 4 klee 01.ogg Klee: That's right!
+Media:vo eqyq001 4 klee 02.ogg Klee: *sobs* How could that be?
+Media:vo eqyq001 4 marjorie 01.ogg Marjorie: Strange things? What do you mean?
+Media:vo eqyq001 4 marjorie 02.ogg Marjorie: Aren't all archipelagos made of small islands and situated at sea?
+Media:vo eqyq001 4 marjorie 03.ogg Marjorie: Not as far as I know. You've seen a map of Mondstadt, haven't you? All known islands are already charted, so check it out.
+Media:vo eqyq001 4 marjorie 04.ogg Marjorie: Generally speaking, maps will faithfully record the land's topography. For most people, if it's not on a map, it doesn't exist.
+Media:vo eqyq001 4 paimon 01.ogg Paimon: Marjorie here might have heard about some strange things! After all, souvenirs do come in all shapes and sizes from a variety of places.
+Media:vo eqyq001 4 paimon 02.ogg Paimon: Do you know about the Golden Apple Archipelago? It's made up of lots of small islands and located somewhere in the sea.
+Media:vo eqyq001 4 paimon 03.ogg Paimon: Oh, uh, right! Ah, then let Paimon ask a different question. Are there archipelagos in Mondstadt?
+Media:vo eqyq001 4 paimon 04.ogg Paimon: Mondstadt's map doesn't show any, so that must mean there are none...
+Media:vo eqyq001 4 paimon 05.ogg Paimon: A place that doesn't exist? Sounds about right.
+Media:vo eqyq001 4 paimon 06.ogg Paimon: N—N—No, Paimon meant that we should go find other people to ask!
+Media:vo eqyq001 5 huffman 01.ogg Huffman: A Golden Apple Archipelago on the sea? Uh...
+Media:vo eqyq001 5 huffman 02.ogg Huffman: This is the first I've heard of it. Are they islands that grow many apples?
+Media:vo eqyq001 5 huffman 03.ogg Huffman: *sigh* I do apologize.
+Media:vo eqyq001 5 klee 01.ogg Klee: It's on the sea!
+Media:vo eqyq001 5 klee 02.ogg Klee: Aw, so you also don't know...
+Media:vo eqyq001 5 klee 03.ogg Klee: It's okay, I forgive you!
+Media:vo eqyq001 5 klee 04.ogg Klee: Huh, really?
+Media:vo eqyq001 5 paimon 01.ogg Paimon: Mr. Huffman, do you know about the Golden Apple Archipelago?
+Media:vo eqyq001 5 paimon 02.ogg Paimon: Well, given that Huffman's always just patrolling the city...
+Media:vo eqyq001 5 paimon 03.ogg Paimon: Uh, let's go ask someone else.
+Media:vo eqyq001 6 cyrus 01.ogg Cyrus: Oh? Hahaha... The little adventurer looks troubled. Have you all encountered some sort of problem?
+Media:vo eqyq001 6 cyrus 02.ogg Cyrus: Hahaha, if you seek unknown lands or adventuring knowledge, then you've come to the right man!
+Media:vo eqyq001 6 cyrus 03.ogg Cyrus: What kind of archipelago are you all looking for?
+Media:vo eqyq001 6 cyrus 04.ogg Cyrus: Golden Apple Archipelago... Er... Hmm... Hm?
+Media:vo eqyq001 6 cyrus 05.ogg Cyrus: Hahahaha, you're all amazing! You've managed to find a place that even I, the great Cyrus, haven't heard of!
+Media:vo eqyq001 6 cyrus 06.ogg Cyrus: Indeed, indeed! The land of Teyvat is immense — no person can walk its entire breadth. But do not fear, dear friends! You must have the courage to venture into the unknown!
+Media:vo eqyq001 6 cyrus 07.ogg Cyrus: Ahaha... hahaha... Come now... don't be like that.
+Media:vo eqyq001 6 klee 01.ogg Klee: You'll know it, won't you? Won't you?
+Media:vo eqyq001 6 klee 02.ogg Klee: It has lots of small islands on the sea...
+Media:vo eqyq001 6 klee 03.ogg Klee: How can this be? Oh, Dodoco...
+Media:vo eqyq001 6 paimon 01.ogg Paimon: Cyrus, we want to ask you about a place.
+Media:vo eqyq001 6 paimon 02.ogg Paimon: Uh, you could say that. Basically, we want to find a certain archipelago, but it seems no one's ever heard of it. So we came here to ask you, a seasoned adventurer.
+Media:vo eqyq001 6 paimon 03.ogg Paimon: It's called the Golden Apple Archipelago.
+Media:vo eqyq001 6 paimon 04.ogg Paimon: What? Even you don't know of it!?
+Media:vo eqyq001 6 paimon 05.ogg Paimon: Who would've thought that even Cyrus, the Branch Master of the Adventurers' Guild, wouldn't know anything. Could it be that these islands don't exist?
+Media:vo eqyq001 7 klee 01.ogg Klee: No, I love everyone very much, and everyone loves Klee very much.
+Media:vo eqyq001 7 klee 02.ogg Klee: So it can't be a prank!
+Media:vo eqyq001 7 klee 03.ogg Klee: Oh! Miss Lisa!
+Media:vo eqyq001 7 paimon 01.ogg Paimon: Looks like the people of Mondstadt don't know anything about the place in this letter.
+Media:vo eqyq001 7 paimon 02.ogg Paimon: Klee, is there anyone you can think of that you don't get along with? Would there be anyone who'd write a letter to scare you?
+Media:vo eqyq001 7 paimon 03.ogg Paimon: Mm, Paimon thinks so, too.
+Media:vo eqyq001 7 paimon 04.ogg Paimon: Hmm, it's not a prank, yet no one knows where these islands are. Ugh, this is getting more and more confusing.
+Media:vo eqyq001 7 paimon 05.ogg Paimon: Knowledgeable... Right!
+Media:vo eqyq001 7 paimon 06.ogg Paimon: We should ask Lisa about this kind of thing! She's at the library every day and has probably read every book in Mondstadt.
+Media:vo eqyq001 7 paimon 07.ogg Paimon: Let's go to the library!
+Media:vo eqyq001 8 klee 01.ogg Klee: Miss Lisa, can you help Klee find an arki-archipelago?
+Media:vo eqyq001 8 klee 02.ogg Klee: Dodo-King told Klee to go to the Golden Apple Archipelago so he can challenge Klee!
+Media:vo eqyq001 8 klee 03.ogg Klee: Yes! I have to go!
+Media:vo eqyq001 8 klee 04.ogg Klee: Okay!
+Media:vo eqyq001 8 klee 05.ogg Klee: I don't understand what you mean...
+Media:vo eqyq001 8 klee 06.ogg Klee: Yes, I want to go!
+Media:vo eqyq001 8 klee 07.ogg Klee: I'm scared, but not being able to be Dodoco's family is even scarier...
+Media:vo eqyq001 8 klee 08.ogg Klee: Dodoco is very important to me... I won't lose to Dodo-King!
+Media:vo eqyq001 8 klee 09.ogg Klee: I'll need to ask for some time off so I can go to the Golden Apple Archipelago and find Dodo-King.
+Media:vo eqyq001 8 klee 10.ogg Klee: That's right, I'm a Knight of Favonius. Master Jean told me that if Klee wants to go someplace far, then she has to ask for time off.
+Media:vo eqyq001 8 lisa 01.ogg Lisa: Oh, well if it isn't cutie, Paimon, and Klee. What brings you to the library all of a sudden?
+Media:vo eqyq001 8 lisa 02.ogg Lisa: An archipelago?
+Media:vo eqyq001 8 lisa 03.ogg Lisa: Let me get this straight. To determine if Klee is worthy of becoming Dodoco's family, the ruler of the Dodo Clan, Dodo-King, wrote a letter to Klee summoning her to this Golden Apple Archipelago to be judged?
+Media:vo eqyq001 8 lisa 04.ogg Lisa: Does that sum it up?
+Media:vo eqyq001 8 lisa 05.ogg Lisa: And you cuties sought me out to help Klee find the location of this Golden Apple Archipelago, correct?
+Media:vo eqyq001 8 lisa 06.ogg Lisa: Haha, how sweet of you to say. Then I have no choice but to assist you in earnest.
+Media:vo eqyq001 8 lisa 07.ogg Lisa: Klee, can you show me that letter?
+Media:vo eqyq001 8 lisa 08.ogg Lisa: Hmm. Though there's little information written upon the letter, have you all tried any other methods?
+Media:vo eqyq001 8 lisa 09.ogg Lisa: This letter contains faint elemental traces that seem more like a hint than anything else. Maybe try using your Elemental Sight.
+Media:vo eqyq001 8 lisa 10.ogg Lisa: Most of the content on the reverse page was applied via elemental power. What an interesting approach.
+Media:vo eqyq001 8 lisa 11.ogg Lisa: Here's a pen. Cutie, can I trouble you to copy down what you see with your Elemental Sight?
+Media:vo eqyq001 8 lisa 12.ogg Lisa: The information on the reverse page is now clear. This drawing is likely of the Golden Apple Archipelago you've been looking for.
+Media:vo eqyq001 8 lisa 13.ogg Lisa: Hmm. Paimon, you might be right.
+Media:vo eqyq001 8 lisa 14.ogg Lisa: I've read every single book within this library's walls. Similar islands have been mentioned in some of them.
+Media:vo eqyq001 8 lisa 15.ogg Lisa: A mysterious archipelago enveloped by storms and dense fog, belonging to no nation. That which is outside cannot enter, not can anything inside leave. Only those who are chosen may enter its territory.
+Media:vo eqyq001 8 lisa 16.ogg Lisa: Many years ago, a fleet from Mondstadt encountered some islands at sea. Reportedly, there were torrential rains and howling winds. The sailors could hardly discern land through the thick fog.
+Media:vo eqyq001 8 lisa 17.ogg Lisa: The islands weren't far, but no matter how much they sailed, they never grew closer. The sailors were initially confused but then became terrified, as they believed they were hallucinating.
+Media:vo eqyq001 8 lisa 18.ogg Lisa: Unfortunately, the books do not record the location of these islands. I'm afraid that if you want more information, you'll have to find someone more knowledgeable than I.
+Media:vo eqyq001 8 lisa 19.ogg Lisa: I am but a librarian who prefers to stay inside with her books.
+Media:vo eqyq001 8 lisa 20.ogg Lisa: Klee, do you really want to go to those islands? It might be a very scary place.
+Media:vo eqyq001 8 lisa 21.ogg Lisa: Haha, my, how brave. Far be it from me to scare a child, but Klee, you really should take someone with you, just in case. Someone reliable, like my cutie over here.
+Media:vo eqyq001 8 lisa 22.ogg Lisa: Cutie, judging by the look on your face, you have an idea, don't you?
+Media:vo eqyq001 8 lisa 23.ogg Lisa: It'll be up to you to get Jean's approval. I'll stay here and silently cheer for you all while enjoying a book and some tea.
+Media:vo eqyq001 8 paimon 01.ogg Paimon: Lisa!
+Media:vo eqyq001 8 paimon 02.ogg Paimon: Don't worry, Klee, let Paimon explain. Lisa, it's like this...
+Media:vo eqyq001 8 paimon 03.ogg Paimon: Other methods?
+Media:vo eqyq001 8 paimon 04.ogg Paimon: Right, why didn't we think of that! Let's take a look!
+(The Traveler uses Elemental Sight)
+Media:vo eqyq001 8 paimon 05.ogg Paimon: Did you find anything?
+Media:vo eqyq001 8 paimon 06.ogg Paimon: Done!
+Media:vo eqyq001 8 paimon 07.ogg Paimon: A ton of small islands floating by themselves in the water without being anchored to any land... It's almost like they popped up from the seabed.
+Media:vo eqyq001 8 paimon 08.ogg Paimon: Like they appeared out of thin air!
+Media:vo eqyq001 8 paimon 09.ogg Paimon: Woah, talk about mysterious and creepy...
+Media:vo eqyq001 8 paimon 10.ogg Paimon: And Paimon thought Lisa would be the expert on this kind of thing.
+Media:vo eqyq001 8 paimon 11.ogg Paimon: Klee, you're not scared?
+Media:vo eqyq001 8 paimon 12.ogg Paimon: Time off?
+Media:vo eqyq001 8 paimon 13.ogg Paimon: You're going to ask for time off... now? We still don't even know where these islands are!
+Media:vo eqyq001 9 barbara 01.ogg Barbara: It's been a while, everyone. How have you been?
+Media:vo eqyq001 9 barbara 02.ogg Barbara: Dodo-King? Take Dodoco away?
+Media:vo eqyq001 9 barbara 03.ogg Barbara: I've also never heard of it...
+Media:vo eqyq001 9 barbara 04.ogg Barbara: Oh, Klee...
+Media:vo eqyq001 9 barbara 05.ogg Barbara: Psst! Honorary Knight!
+Media:vo eqyq001 9 barbara 06.ogg Barbara: Outside!
+Media:vo eqyq001 9 barbara 07.ogg Barbara: Can you think of a way to get to the islands?
+Media:vo eqyq001 9 barbara 08.ogg Barbara: If he's a friend of the Honorary Knight's, then things will work out for sure. We all know how reliable the Honorary Knight is.
+Media:vo eqyq001 9 barbara 09.ogg Barbara: How about this? I'll try to persuade Master Jean. You all know she's a serious person, so I think it might take some time...
+Media:vo eqyq001 9 barbara 10.ogg Barbara: Klee, trust me, okay? I'll do everything I can to help you.
+Media:vo eqyq001 9 barbara 11.ogg Barbara: Wonderful! Tomorrow afternoon, let's all meet at the plaza outside the Cathedral. I'm sure I'll have some good news, just leave it to me!
+Media:vo eqyq001 9 klee 01.ogg Klee: Master Jean, I want to ask for some time off because I want to go somewhere!
+Media:vo eqyq001 9 klee 02.ogg Klee: Klee is going to the Golden Apple Archipelago to meet the Dodo-King or else... or else he'll take Dodoco away!
+Media:vo eqyq001 9 klee 03.ogg Klee: *whimper* He doesn't think that Klee is worthy of being part of Dodoco's family...
+Media:vo eqyq001 9 klee 04a.ogg Media:vo eqyq001 9 klee 04b.ogg Klee: I need to prove myself. (Mr./Miss) Honorary Knight will help me, right?
+Media:vo eqyq001 9 klee 05.ogg Klee: Me either, but Miss Lisa said that someone must know!
+Media:vo eqyq001 9 klee 06.ogg Klee: Huh? But why? I must go!
+Media:vo eqyq001 9 klee 07.ogg Klee: If I don't go, Dodoco will be taken away. I—I don't want to lose Dodoco...
+Media:vo eqyq001 9 klee 08.ogg Klee: Oh... Dodoco...
+Media:vo eqyq001 9 klee 09.ogg Klee: Venti?
+Media:vo eqyq001 9 klee 10.ogg Klee: Can he help me?
+Media:vo eqyq001 9 klee 11.ogg Klee: Okay, I can wait.
+Media:vo eqyq001 9 paimon 01.ogg Paimon: Barbara's also here! How rare!
+Media:vo eqyq001 9 paimon 02.ogg Paimon: But...
+Media:vo eqyq001 9 paimon 03.ogg Paimon: Paimon also thought of him just now! We're on the same wavelength, as expected.
+Media:vo eqyq001 9 paimon 04.ogg Paimon: Oh, he's a magical bard that Paimon calls "Tone-Deaf Bard."
+Media:vo eqyq001 9 paimon 05.ogg Paimon: He's our friend, so he'll definitely help!
+Media:vo eqyq001 9 paimon 06.ogg Paimon: You're so dependable! Do your best, Barbara!
+Media:vo eqyq001 9 qin 01.ogg Jean: Klee? Oh, and it's the Honorary Knight and Paimon as well.
+Media:vo eqyq001 9 qin 02.ogg Jean: Ahem! Oh, o—of course not. Klee, why are you requesting time off all of a sudden?
+Media:vo eqyq001 9 qin 03.ogg Jean: Traveler, Paimon, is this so?
+Media:vo eqyq001 9 qin 04.ogg Jean: I've never heard of the Golden Apple Archipelago. Where is it?
+Media:vo eqyq001 9 qin 05.ogg Jean: ...So it's a place that even Lisa doesn't know?
+Media:vo eqyq001 9 qin 06.ogg Jean: I see. From what you say, it seems to be quite a mysterious place.
+Media:vo eqyq001 9 qin 07.ogg Jean: I sincerely apologize, but I cannot approve Knight Klee's request for time off.
+Media:vo eqyq001 9 qin 08.ogg Jean: Even if these mysterious islands do exist, we cannot determine if they are safe or not. I cannot allow you to journey into a potentially dangerous place.
+Media:vo eqyq001 9 qin 09.ogg Jean: Moreover, how do you intend to reach the islands? Without a safe and reliable plan drawn up, I'm afraid I cannot give you my approval.
+You tell Lisa everything you know about the letter and the archipelago...
+You transcribe everything you see using Elemental Sight on the back of the letter...

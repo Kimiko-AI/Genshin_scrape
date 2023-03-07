@@ -1,0 +1,49 @@
+ I'm on it.
+ I've got this.
+ I've got your back.
+ Quest DescriptionFreki and Geri are getting a little homesick...
+ So, you two want to release a Xiao Lantern, too?
+ Yes, I've scattered them.
+Freki and Geri unburden the matters on their hearts to the Dandelion Seeds...
+Freki and Geri write their wishes on the Xiao Lantern...
+Freki: ...That should do it. Now, as for letting the lantern carry our wishes high into the sky...
+Freki: Back in Mondstadt, we'd tell the dandelions what was on our minds before scattering their seeds to the wind...
+Freki: Could you help us find some high ground from which to scatter these Dandelion Seeds?
+Freki: Dandelion Seeds need to be scattered from a high vantage point to fly far, but Liyue's architecture is very different from Mondstadt's, and we're not sure how to get to the high ground...
+Freki: Great! Let's hope that the wind carries them all the way back to Mondstadt...
+Freki: Haha, of course! Liyue's Lantern Rite specialty snacks, here we come! We mustn't miss out!
+Freki: Have you finished making that lantern?
+(Give Xiao Lantern)
+Freki: Have you got some Dandelion Seeds?
+(Give Dandelion Seed)
+Freki: Have you written your wish down? Let's release this lantern and go grab some festive snacks!
+Freki: Hello, Traveler. Have you scattered those Dandelion Seeds yet?
+Freki: Hey, now. Keeping our own customs alive and blending here in Liyue are two completely different things. Come on, let's go release that Xiao Lantern.
+Freki: Hmm... Let's leave it a while longer. It wasn't that long ago that we left...
+Freki: Hmm... So, uh, let me think. What should we write?
+Freki: I wonder how everyone back home's doing...
+Freki: I've also heard that you can wish on those lanterns, or something... Neither of us knows how to make one though.
+Freki: Me? Let me think...
+Freki: Nope, no idea... Should we get someone else to make one for us?
+Freki: Oh, it's you, Traveler. And yes, we were thinking about doing just that.
+Freki: Thank you. Now, this is the part where we write a wish on it, right?
+Freki: Thanks for your help! Just bring them right here once you've got them.
+Freki: That won't do at all.
+Freki: Traveler, could we trouble you to make one of these Xiao Lanterns for us?
+Freki: Traveler, could you help us out again, this time to bring us some Dandelion Seeds?
+Freki: We originally intended to try out the food available during the Lantern Rite. But Geri said that he also wanted to release a lantern to catch a bit of that festive spirit.
+Freki: We'll be leaving it to you, then.
+Freki: Well, this should do it. Traveler, I've got one more thing to ask of you.
+Freki: Wonderful! We'll wait for you here, then.
+Geri: But how do we make Xiao Lanterns? Do you have any idea, Freki?
+Geri: Eh? ...Eh?
+Geri: Freki, when will we be able to return to Mondstadt?
+Geri: I—I'm done writing my wish... but do we really have to eat more local snacks?
+Geri: Now that you mention it, I do rather miss Mondstadt. It's been a while since we've seen any dandelions, too...
+Geri: Thank you. Strange, we haven't been away from Mondstadt for very long, and yet we're already missing home.
+Geri: Well, now's a good time... Do you have any wishes, Freki?
+Geri: Well, you were the one who said that we should blend in here... But in the end, it seems like even you can't shake your old Mondstadt habits. So, how about we go track down some Mondstadt snacks today...
+Geri: W—Well, yes! I mean, you have to immerse yourself in the festive spirit first, then eat some festive food. That's the proper way to experience it!
+Paimon: Hmm, this isn't the highest point either... Let's keep heading upward.
+Paimon: This doesn't seem to be the highest point. Let's keep heading up.
+Paimon: Well, this should do it. Let's head back and look for Freki and Geri.

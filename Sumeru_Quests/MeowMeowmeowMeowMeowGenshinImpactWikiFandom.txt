@@ -1,0 +1,191 @@
+
+ Well, I've spoken to cats before...
+Paimon: You mean Neko? But she can speak our language. That doesn't really count as "cat-talk"...
+
+(If the player succeeded)
+
+Sareh: Oh, you brought the kitten back. Thank you so much.
+Sareh: Well, it looks like you are doing pretty well with cat-talk.
+Sareh: Here, please take this as compensation.
+Sareh: There aren't many people who can pick up cat language this fast. You know... I could even use your help in the future.
+ Meow!
+Paimon: Hey, you can speak normally. Ms. Sareh is not a cat!
+Sareh: I can see from your face that you were trying to say "my pleasure," but your pronunciation still has room for improvement, I think.
+Sareh: It's okay though. I'll keep teaching you about cat language. We'll learn together!
+(If the player failed)
+
+Sareh: Eh? You didn't find the cat?
+
+Sareh: Eh? You didn't find the cat?
+
+Sareh: Oh, you brought the kitten back. Thank you so much.
+Sareh: Well, it looks like you are doing pretty well with cat-talk.
+Sareh: Here, please take this as compensation.
+Sareh: There aren't many people who can pick up cat language this fast. You know... I could even use your help in the future.
+ Meow!
+Paimon: Hey, you can speak normally. Ms. Sareh is not a cat!
+Sareh: I can see from your face that you were trying to say "my pleasure," but your pronunciation still has room for improvement, I think.
+Sareh: It's okay though. I'll keep teaching you about cat language. We'll learn together!
+
+Sareh: The one that has slipped out for a date today is a grey and black striped cat called "Rozan."
+Sareh: In cat language, you would call for it by saying... "Meow meow meow, meow meow meow."
+Sareh: Both sets of meows are quick sounds, so make sure you don't drawl.
+Sareh: Actually... Let me write a note for you. Wait just a moment, will you?
+
+Sareh: The one that has slipped out for snacks today is a dark grey cat called "Nargis."
+Sareh: In cat language, you should call for it like this... "Meow! Meow meow, meow."
+Sareh: Remember to stress the first meow and say the following ones quickly.
+Sareh: Hmm... Let me write a note for you. Wait just a moment.
+
+Sareh: The one that has slipped out today is a black and white cat called "Lale."
+Sareh: In cat language, you should call for it like this... "Meow, meow meow meow, meow—"
+Sareh: Keep in mind how the tone falls and then rises again. Make sure that the last "meow" is very high.
+Sareh: Hmm... Let me write a note for you. Please wait just a moment.
+ Can't you just call their names?
+Paimon: Yeah. Don't people usually call kittens' names when looking for them, right?
+Sareh: But if you call for them in our language, they can't understand it, can they?
+ Could you help me with the cat's name in their language...
+Sareh: That's on the note I wrote for you. Please refer to it if your memory fails you.
+ Did I pronounce something wrong?
+ Leave it to me...
+ Looks like each city has its unique way of looking for cats...
+Paimon: Heh, that's true! If you think about it, we've helped people find cats in quite a few cities by now...
+Paimon: Should we say that everyone just loves cats, or that everyone who owns a cat has the same problem?
+ Meow meow meow, meow meow meow.
+Lale: Meow? Meow? Meow? Meow!
+ Meow meow meow, meow meow meow.
+Nargis: Meow? Meow meow meow...
+ Meow meow meow, meow meow meow. (Correct answer)
+Rozan: Meow, meow meow.
+ Meow!
+ Meow! Meow meow, meow.
+Lale: Meow? Meow? Meow? Meow!
+ Meow! Meow meow, meow.
+Rozan: Meow... Meow meow, meow.
+ Meow! Meow meow, meow. (Correct answer)
+Nargis: Meow! meow meow meow—
+ Meow, meow meow meow, meow—
+Nargis: Meow? Meow meow meow...
+ Meow, meow meow meow, meow—
+Rozan: Meow... Meow meow, meow.
+ Meow, meow meow meow, meow— (Correct answer)
+Lale: Meow, meow meow, meow meow meow.
+ No problem.
+ Quest DescriptionSareh seems to be concerned about her cats...
+ The payment should be...
+ Uh, what are you doing...?
+ Well, I've spoken to cats before...
+ What did you mean by "your pronunciation today" being off, anyway?
+Sareh: Well, I was calling their names, actually, just in the language of cats.
+Sareh: After all, they wouldn't necessarily understand if we call them in our language, right?
+ What?
+ You don't seem too worried about them.
+Sareh: Well, people in town love the cats. They often play with them and feed them.
+Sareh: I'm just hoping that they don't eat too much and get overweight.
+Lale jumps into your arms.
+Lale turns around and runs away.
+Lale: Meow, meow meow, meow meow meow.
+Lale: Meow... meow meow?
+Lale: Meow? Meow? Meow? Meow!
+Nargis jumps on your shoulder and... Wow, it sure is heavy!
+Nargis turns around and jumps into a pile of things nearby...
+Nargis: Meow! meow meow meow—
+Nargis: Meow... meow... meow meow...
+Nargis: Meow? Meow meow meow...
+Paimon: Does it mean "I'm not the cat you're looking for"?
+Paimon: Eh?
+Paimon: Eh? Well, you do have a point there...
+Paimon: Eh? Why did it leave? Did you pronounce its name wrong?
+Paimon: Heh, that's true! If you think about it, we've helped people find cats in quite a few cities by now...
+Paimon: Hey, you can speak normally. Ms. Sareh is not a cat!
+Paimon: Huh? Why did the kitty leave?
+Paimon: Huh? Why did the kitty leave?
+ Did I pronounce something wrong?
+Paimon: Does it mean "I'm not the cat you're looking for"?
+Paimon: This cat sure does have a personality...
+Paimon: It doesn't sound happy... Did you pronounce its name wrongly?
+Paimon: It's your turn to meow, (Traveler)! Come on, you can do it!
+Paimon: Listen, Paimon thinks there's a cat meowing. It must be somewhere around here. Let's take a closer look.
+Paimon: Should we say that everyone just loves cats, or that everyone who owns a cat has the same problem?
+Paimon: So... it's willing to go with us?
+Paimon: So... it's willing to go with us?
+Paimon: What a polite cat...
+Paimon: This cat sure does have a personality...
+Paimon: This cat's pretty agile for a glutton...
+Paimon: What a polite cat...
+Paimon: Wow! That was quick! Looks like it worked...
+Paimon: Yeah. Don't people usually call kittens' names when looking for them, right?
+Paimon: You mean Neko? But she can speak our language. That doesn't really count as "cat-talk"...
+Paimon: You mean you're gonna teach us how to talk to cats?
+(If the player has met Neko)
+
+ Well, I've spoken to cats before...
+Paimon: You mean Neko? But she can speak our language. That doesn't really count as "cat-talk"...
+Rozan nods gently...
+Rozan shakes its head indifferently and leaves...
+Rozan: Meow, meow meow.
+Rozan: Meow... Meow meow, meow.
+Rozan: Meow?
+Sareh starts to write some notes...
+Sareh: (Meow, meow...No, it should be, meow meow meow.)
+Sareh: ...Would you like to learn the language of cats?
+Sareh: Actually... Let me write a note for you. Wait just a moment, will you?
+Sareh: After all, they wouldn't necessarily understand if we call them in our language, right?
+Sareh: Ahem... Now, listen carefully. This is the outline of cat language that I've been working on for a long time.
+(If the player receives the Lale Version)
+
+Sareh: The one that has slipped out today is a black and white cat called "Lale."
+Sareh: In cat language, you should call for it like this... "Meow, meow meow meow, meow—"
+Sareh: Keep in mind how the tone falls and then rises again. Make sure that the last "meow" is very high.
+Sareh: Hmm... Let me write a note for you. Please wait just a moment.
+(If the player receives the Nargis Version)
+
+Sareh: The one that has slipped out for snacks today is a dark grey cat called "Nargis."
+Sareh: In cat language, you should call for it like this... "Meow! Meow meow, meow."
+Sareh: Remember to stress the first meow and say the following ones quickly.
+Sareh: Hmm... Let me write a note for you. Wait just a moment.
+(If the player receives the Rozan Version)
+
+Sareh: The one that has slipped out for a date today is a grey and black striped cat called "Rozan."
+Sareh: In cat language, you would call for it by saying... "Meow meow meow, meow meow meow."
+Sareh: Both sets of meows are quick sounds, so make sure you don't drawl.
+Sareh: Actually... Let me write a note for you. Wait just a moment, will you?
+Sareh: Both sets of meows are quick sounds, so make sure you don't drawl.
+Sareh: But if you call for them in our language, they can't understand it, can they?
+Sareh: Do you have any further questions, Traveler?
+Sareh: Eh? You didn't find the cat?
+Sareh: Here, please take this as compensation.
+Sareh: Hmm... Let me write a note for you. Please wait just a moment.
+Sareh: Hmm... Let me write a note for you. Wait just a moment.
+Sareh: I can see from your face that you were trying to say "my pleasure," but your pronunciation still has room for improvement, I think.
+Sareh: I hope that your talk with the cat goes well.
+(Obtain Sareh's Note)
+Sareh: I'll go find them myself later. Still, thank you for the trouble. Please take these as your payment, Traveler.
+Sareh: I'm just hoping that they don't eat too much and get overweight.
+Sareh: I'm looking for my kittens. Normally, they respond to my call.
+Sareh: In cat language, you should call for it like this... "Meow! Meow meow, meow."
+Sareh: In cat language, you should call for it like this... "Meow, meow meow meow, meow—"
+Sareh: In cat language, you would call for it by saying... "Meow meow meow, meow meow meow."
+Sareh: Indeed. Still, in exchange, you will need to help me find a cat.
+Sareh: Is my pronunciation off today somehow? I've been calling them for ages, and none of them have answered. How strange...
+Sareh: Is that so? Well, it's okay. Cat language is not easy for beginners, after all.
+Sareh: Is that so? Well, it's okay. Cat language is not easy for beginners, after all.
+Sareh: I'll go find them myself later. Still, thank you for the trouble. Please take these as your payment, Traveler.
+Sareh: It's okay though. I'll keep teaching you about cat language. We'll learn together!
+Sareh: Keep in mind how the tone falls and then rises again. Make sure that the last "meow" is very high.
+Sareh: Meow— *cough*...
+Sareh: Oh, you brought the kitten back. Thank you so much.
+Sareh: Remember to stress the first meow and say the following ones quickly.
+Sareh: So you agree? Why, thank you so much!
+Sareh: Still, I'm getting nowhere shouting myself hoarse like this.
+Sareh: Thank you very much, Traveler. I'll be waiting for you here.
+Sareh: That's on the note I wrote for you. Please refer to it if your memory fails you.
+Sareh: The one that has slipped out for a date today is a grey and black striped cat called "Rozan."
+Sareh: The one that has slipped out for snacks today is a dark grey cat called "Nargis."
+Sareh: The one that has slipped out today is a black and white cat called "Lale."
+Sareh: There aren't many people who can pick up cat language this fast. You know... I could even use your help in the future.
+Sareh: Traveler, I'd like to ask you a serious question.
+Sareh: Well, I was calling their names, actually, just in the language of cats.
+Sareh: Well, it looks like you are doing pretty well with cat-talk.
+Sareh: Well, people in town love the cats. They often play with them and feed them.
+You tell Sareh what happened...

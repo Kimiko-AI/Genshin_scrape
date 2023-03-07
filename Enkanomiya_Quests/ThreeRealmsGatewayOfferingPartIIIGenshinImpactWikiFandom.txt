@@ -1,0 +1,7 @@
+ Quest DescriptionYou must activate three Light Realm Chisels at the Three Border Corners of Enkanomiya to cleanse the darkness.
+Media:vo eqyx004 1 paimon 01.ogg Paimon: Alright, final tower! Let's do this!
+Media:vo eqyx004 2 paimon 01.ogg Paimon: Should be the same clue, right? But the shape looks a little strange this time.
+Media:vo eqyx004 2 paimon 02.ogg Paimon: Maybe if Paimon looks at it while flying upside down... Come on, you should look at it upside down, too.
+Media:vo eqyx004 3 paimon 01.ogg Paimon: Yep, seems like there's no easy fix to get rid of the darkness.
+Media:vo eqyx004 3 paimon 02.ogg Paimon: The surrounding area has changed again. But it'll be no big deal for us, right?
+Media:vo eqyx004 3 paimon 03.ogg Paimon: Should we go straight back and see Tsumi or sort out the changes around here first?

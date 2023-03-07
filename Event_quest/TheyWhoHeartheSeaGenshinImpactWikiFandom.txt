@@ -1,0 +1,37 @@
+ Enter "1"
+ Enter "2"
+ Enter "3"
+ Enter "4"
+ Enter "5"
+ Looks like we'll have to find a way to unlock it.
+Paimon: But Paimon doesn't see any stone tablets, portraits, notes, carvings or notes nearby...
+ There's a dearth of scholars, Treasure Hoarders, and adventurers, too.
+Paimon: Yeah. Hmm... This is an unprecedented test!
+ Quest DescriptionYou discover a strange conch shell on Twinning Isle in the Golden Apple Archipelago. The sounds that come from within seem to hint at something...
+ There's a dearth of scholars, Treasure Hoarders, and adventurers, too.
+ We can just shatter it, can't we?
+Paimon: Wait! What will happen if the stuff inside breaks as well?
+Paimon: Let's find a way to unlock it instead, shall we?
+Echoing Conch: "It's right in the center of the island. If the water recedes sometime, or if someone gets in from outside, we'll just have to get them to find it for us."
+Echoing Conch: "Mother!"
+Echoing Conch: "The tide reached us, so I told everyone to run and get to higher ground. But the family heirloom — I'm sorry... It was a choice between that and getting everyone to safety, so I... I didn't have enough time to get it."
+Echoing Conch: "The tides are getting higher by the year. If the water level rises much further, we will stand very little chance of survival..."
+Echoing Conch: "There's no other choice. I must tell everyone to pack up their belongings and move to higher ground."
+Echoing Conch: "What's wrong?"
+Locked Chest: (You must enter the correct code to open this chest. What number do you wish to enter in the first position?)
+Locked Chest: (You must enter the correct code to open this chest. What number do you wish to enter in the fourth position?)
+Locked Chest: (You must enter the correct code to open this chest. What number do you wish to enter in the second position?)
+Locked Chest: (You must enter the correct code to open this chest. What number do you wish to enter in the third position?)
+Paimon: Aw, it didn't open... Looks like we didn't enter the correct code...
+Paimon: But Paimon doesn't see any stone tablets, portraits, notes, carvings or notes nearby...
+Paimon: But since this chest contains "family heirlooms" and is locked using a code...
+Paimon: Eh? There's a lock on it. And it's coded, too... Looks like we'll need the code to open it...
+Paimon: Found it! Treasure, treasure... Wonder what'll we find inside...
+Paimon: It opened! Let's have a look at what's inside!
+Paimon: Let's find a way to unlock it instead, shall we?
+Paimon: Let's listen carefully to the sounds that the conches make. Maybe those'll give us some clues.
+Paimon: Let's listen to the sounds inside those conches again. Let's hope that they can give us some clues about the code...
+Paimon: Looks like our only chance are those conches that store sounds.
+Paimon: That's gotta mean that the person who locked it thinks that the code they left behind is easy enough to remember.
+Paimon: Wait! What will happen if the stuff inside breaks as well?
+Paimon: Yeah. Hmm... This is an unprecedented test!

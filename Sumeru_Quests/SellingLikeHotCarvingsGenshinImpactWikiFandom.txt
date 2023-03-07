@@ -1,0 +1,76 @@
+
+Media:vo mkeq002 6 collei 05.ogg Collei: I have my secrets and troubles too. And... I tell them to tree hollows.
+Media:vo mkeq002 6 collei 06.ogg Collei: But seeing Razi and Tanger has given me an idea:
+Media:vo mkeq002 6 collei 07.ogg Collei: (Traveler), could you be my tree hollow?
+ It'd be my pleasure.
+ Sure.
+
+Media:vo mkeq002 7 collei 05.ogg Collei: I might have an idea about who that Mondstadter is.
+Media:vo mkeq002 7 collei 06.ogg Collei: I'll tell you more about it when we get the chance.
+ Sure thing.
+ I look forward to that day.
+ Collei looks kinda flustered all of a sudden.
+ I look forward to that day.
+ I'd like to see other carvings.
+(Opens event shop)
+ Is it really that common?
+ It'd be my pleasure.
+ Looks like the Aranara are really popular.
+ Looks like your business is doing very well.
+ Mind-blowing.
+ Quest DescriptionDid the kids like new carving? Did Tanger repent? Go to Port Ormos and find out.
+ See you.
+ Sure thing.
+ Sure.
+Media:vo dialog mkeq002 fayez 01.ogg Fayez: Please let me know if you decide you want to keep the Prototype Aranara, and we'll go get it from the warehouse at once.
+Media:vo dialog mkeq002 mamdouh 01.ogg Mamdouh: We didn't expect the carvings to be so popular. My hands are getting sore from making them.
+Media:vo dialog mkeq002 mamdouh 02.ogg Mamdouh: We won't be developing any new toys for a while. Right now, our focus is on making Aranara carvings so that all children in Port Ormos can have one of their own.
+Media:vo mkeq002 1 paimon 01.ogg Paimon: The 20th anniversary of Acara Crafts is coming up. Paimon wonders what the children thought of the Aranara carvings we helped create! Let's go check it out.
+Media:vo mkeq002 2 alia 01.ogg Alia: Huh...? I thought you came here every day! Have you still not collected them all yet?
+Media:vo mkeq002 2 alia 02.ogg Alia: You should've gotten them as a set. That way, you get seven different designs at once.
+Media:vo mkeq002 2 alia 03.ogg Alia: Surprises are boring! I want to have every design there is! That's what you do when you really love something.
+Media:vo mkeq002 2 alia 04.ogg Alia: I've finally saved up enough to buy the set today.
+Media:vo mkeq002 2 alia 05.ogg Alia: Fine, I'll come back tomorrow. Hmph, just so you know, Aranara carvings are more than just "stock"!
+Media:vo mkeq002 2 collei 01.ogg Collei: Woah, wait... This looks kinda...
+Media:vo mkeq002 2 collei 02.ogg Collei: Right, mind-blowing. It has a very... mysterious feel.
+Media:vo mkeq002 2 fayez 01.ogg Fayez: Sorry buddy, our Aranara carvings have sold out for today.
+Media:vo mkeq002 2 fayez 02.ogg Fayez: Hey, how about this? You live near Razi's house, right? We'll deliver the new carvings to you first thing tomorrow.
+Media:vo mkeq002 2 fayez 03.ogg Fayez: I promise. Acara Crafts would never let down a child!
+Media:vo mkeq002 2 fayez 04.ogg Fayez: Ah, more customers. Sorry, our Aranara carvings have...
+Media:vo mkeq002 2 fayez 05.ogg Fayez: Oh hey, it's you guys. Thank you so much for your help. We've been planning on visiting you to express our gratitude, but as you can see... our store's been really busy.
+Media:vo mkeq002 2 fayez 06.ogg Fayez: If it weren't for you, the store's anniversary might have been a different story.
+Media:vo mkeq002 2 fayez 07.ogg Fayez: It's all thanks to Razi. He has so much creativity at such a young age.
+Media:vo mkeq002 2 fayez 08.ogg Fayez: Oh, and we would like you to have the Prototype Aranara as a small token of appreciation.
+Media:vo mkeq002 2 mamdouh 01.ogg Mamdouh: I'm very sorry, but the one Qasit bought was our very last carving. We're out of stock today.
+Media:vo mkeq002 2 mamdouh 02.ogg Mamdouh: But, we're working on expanding our team, so please check back tomorrow!
+Media:vo mkeq002 2 mamdouh 03.ogg Mamdouh: Alright, alright, I'm sorry...
+Media:vo mkeq002 2 paimon 01.ogg Paimon: Umm... We appreciate your thought, but please give us some time to decide if we wanna keep it.
+Media:vo mkeq002 2 qasit 01.ogg Qasit: Aww... I got the same one again. When will I get the chubby, squishy one...
+Media:vo mkeq002 2 qasit 02.ogg Qasit: I guess I'll just have to save up my allowance and get them all.
+Media:vo mkeq002 2 qasit 03.ogg Qasit: But then there's no surprise...
+Media:vo mkeq002 2 qasit 04.ogg Qasit: Yeah!
+Media:vo mkeq002 2 ruhi 01.ogg Ruhi: Sold out? Oh no... I was gonna buy one for my cousin who's visiting tomorrow.
+Media:vo mkeq002 2 ruhi 02.ogg Ruhi: Wow, thanks, Mr. Fayez! Don't forget, okay!
+Media:vo mkeq002 6 collei 01.ogg Collei: Oh? What is it? Do you need help investigating something?
+Media:vo mkeq002 6 collei 02.ogg Collei: I—I thought we moved on from this topic! Um... it was just a coincidence!
+Media:vo mkeq002 6 collei 03.ogg Collei: A lot of people write down their secrets and hide them in tree hollows! It's not a big deal at all...
+Media:vo mkeq002 6 collei 04.ogg Collei: Ugh... Uhhh... Okay...
+Media:vo mkeq002 6 collei 05.ogg Collei: I have my secrets and troubles too. And... I tell them to tree hollows.
+Media:vo mkeq002 6 collei 06.ogg Collei: But seeing Razi and Tanger has given me an idea:
+Media:vo mkeq002 6 collei 07.ogg Collei: (Traveler), could you be my tree hollow?
+Media:vo mkeq002 6 paimon 01.ogg Paimon: Hey, Tanger and Razi, what's up!
+Media:vo mkeq002 6 paimon 02.ogg Paimon: Ooh! Sumeru's gonna have a new young storyteller.
+Media:vo mkeq002 6 paimon 03.ogg Paimon: Paimon's so glad everything worked out!
+Media:vo mkeq002 6 paimon 04.ogg Paimon: But... there's still something that doesn't quite add up!
+Media:vo mkeq002 6 paimon 05.ogg Paimon: Why would a Mondstadter leave a note in a tree hollow deep in Avidya Forest?
+Media:vo mkeq002 6 razi 01.ogg Razi: The Aranara father owned up to his mistake and was forgiven by his Aranara son...
+Media:vo mkeq002 6 razi 02.ogg Razi: Hmm... I think everyone will like how the story goes, but the reason the father owned up to his mistake was too simple.
+Media:vo mkeq002 6 razi 03.ogg Razi: Hmm, when the Aranara father starts feeling guilty, should he speak more slowly, or more quickly?
+Media:vo mkeq002 6 razi 04.ogg Razi: Dad and I are just discussing our latest story. I'll be the one telling the story this time.
+Media:vo mkeq002 6 razi 05.ogg Razi: But I'm a little nervous about telling a story in front of so many people. That's why I'm asking Dad for advice.
+Media:vo mkeq002 6 tanger 01.ogg Tanger: Perhaps we could make them go through some kind of hardship together. I'm sure they'll become more understanding of each other that way. The Aranara father will feel guilty after seeing his son work hard.
+Media:vo mkeq002 6 tanger 02.ogg Tanger: That depends on the Aranara son. It would be interesting to hear them speak at different paces.
+Media:vo mkeq002 6 tanger 03.ogg Tanger: If it weren't for you, Razi would surely have left me for good.
+Media:vo mkeq002 7 collei 05.ogg Collei: I might have an idea about who that Mondstadter is.
+Media:vo mkeq002 7 collei 06.ogg Collei: I'll tell you more about it when we get the chance.
+Now that the toymakers' problems are resolved, let's visit Tanger and Razi!

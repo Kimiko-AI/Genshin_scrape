@@ -1,0 +1,59 @@
+ Actually, adventuring is quite taxing work.
+Media:vo tips entrusta katheryne 03b.ogg Katheryne: It is always that way when you are starting out. Preparing properly before an adventure can help things go more smoothly.
+ Claim Daily Commission Reward
+ How generous are we talking?
+Media:vo tips entrusta katheryne 11b.ogg Katheryne: Patience is a virtue! You will find out soon enough. I am sure you will not be disappointed.
+ I was just being a Good Samaritan.
+Media:vo tips entrustb katheryne 03b.ogg Katheryne: And that is exactly what makes you our avid new adventurer.
+ I'm like a well-oiled adventuring machine.
+Media:vo tips entrusta katheryne 03a.ogg Katheryne: That is the spirit. Keep it up!
+ Leave it to me.
+Media:vo tips entrusta katheryne 11a.ogg Katheryne: Excellent. I knew I could count on you, Traveler.
+ Okay. Thanks for the explanation.
+Media:vo tips entrusta katheryne 21a.ogg Katheryne: You're more than welcome. After all, you are the one helping me.
+ Only one reward per day?
+Media:vo tips entrusta katheryne 21b_1.ogg Katheryne: As things currently stand, yes... My apologies.
+Media:vo tips entrusta katheryne 21b_2.ogg Katheryne: But please be assured that we are constantly pushing Headquarters to make sure all our adventurers receive fair and adequate compensation.
+ Quest DescriptionKatheryne of the Adventurers' Guild seems to have a new commission for you.
+ What commission? Refresh my memory.
+Media:vo tips entrustb katheryne 03a 1.ogg Katheryne: You helped someone in need while you were out on the road.
+Media:vo tips entrustb katheryne 03a 2.ogg Katheryne: In fact many of those you will meet have commissioned the Guild to assist.
+Media:vo tips entrust katheryne 02.ogg Katheryne: Thank you for completing today's commissions. Here is your reward.
+Media:vo tips entrusta katheryne 01.ogg Katheryne: We meet again, avid adventurer.
+Media:vo tips entrusta katheryne 02.ogg Katheryne: Are your adventures going smoothly?
+Media:vo tips entrusta katheryne 03a.ogg Katheryne: That is the spirit. Keep it up!
+Media:vo tips entrusta katheryne 03b.ogg Katheryne: It is always that way when you are starting out. Preparing properly before an adventure can help things go more smoothly.
+Media:vo tips entrusta katheryne 04.ogg Katheryne: It seems that you have a wealth of experience under your belt now. Time to introduce you to the formal work of the Guild.
+Media:vo tips entrusta katheryne 05.ogg Katheryne: The Guild receives requests from far and wide each day, and assigns commissions to adventurers accordingly.
+Media:vo tips entrusta katheryne 06.ogg Katheryne: These commissioned adventures are the main source of compensation for our guild members.
+Media:vo tips entrusta katheryne 07.ogg Katheryne: It is a mixed bag! Anything from running an errand for a fellow citizens to dealing with monsters. Some are textbook, others are extremely dangerous.
+Media:vo tips entrusta katheryne 08.ogg Katheryne: But you do not have to take my word for it. You should find out for yourself.
+Media:vo tips entrusta katheryne 09.ogg Katheryne: Here you can find the details of today's commissions.
+Media:vo tips entrusta katheryne 10.ogg Katheryne: Please report back to me upon completion. There will be a generous reward waiting for you.
+Media:vo tips entrusta katheryne 11a.ogg Katheryne: Excellent. I knew I could count on you, Traveler.
+Media:vo tips entrusta katheryne 11b.ogg Katheryne: Patience is a virtue! You will find out soon enough. I am sure you will not be disappointed.
+Media:vo tips entrusta katheryne 12.ogg Katheryne: I await your return with great anticipation, (Traveler). Ad astra abyssosque!
+Media:vo tips entrusta katheryne 13.ogg Katheryne: You did a fine job, Traveler! Outstanding performance, considering it was your first time.
+Media:vo tips entrusta katheryne 14.ogg Katheryne: The requester even asked me to thank you on their behalf.
+Media:vo tips entrusta katheryne 15.ogg Katheryne: And, as promised, you are due your reward.
+Media:vo tips entrusta katheryne 16.ogg Katheryne: This is a token of the Guild's gratitude.
+Media:vo tips entrusta katheryne 17.ogg Katheryne: We receive many new commissions every day, and without the efforts of each and every adventurer there is no way we could respond to them all.
+Media:vo tips entrusta katheryne 18.ogg Katheryne: If you complete enough commissions each day, you will be eligible to claim a special reward from me.
+Media:vo tips entrusta katheryne 19.ogg Katheryne: Your Adventurer Handbook keeps a record of how many adventurers you complete each day.
+Media:vo tips entrusta katheryne 20.ogg Katheryne: Make sure you claim your daily rewards on the days that you complete sufficient adventures. There is a limited quantity of rewards, so it will become forfeit should you not claim it.
+Media:vo tips entrusta katheryne 21a.ogg Katheryne: You're more than welcome. After all, you are the one helping me.
+Media:vo tips entrusta katheryne 21b_1.ogg Katheryne: As things currently stand, yes... My apologies.
+Media:vo tips entrusta katheryne 21b_2.ogg Katheryne: But please be assured that we are constantly pushing Headquarters to make sure all our adventurers receive fair and adequate compensation.
+Media:vo tips entrusta katheryne 22.ogg Katheryne: And please note that helping a fellow adventurer to complete a commission also counts towards your eligibility for a daily reward.
+Media:vo tips entrusta katheryne 23.ogg Katheryne: We encourage you to work actively with your fellow adventurers. Ad astra abyssosque!
+Media:vo tips entrusta paimon 01.ogg Paimon: What kind of commissions are they?
+Media:vo tips entrusta paimon 02.ogg Paimon: Oh, you shouldn't have! Except, you totally should.
+Media:vo tips entrustb katheryne 01.ogg Katheryne: I heard something through the grape vine, (Traveler).
+Media:vo tips entrustb katheryne 02.ogg Katheryne: Word has it that you completed a commission. The requester sends their thanks.
+Media:vo tips entrustb katheryne 03a 1.ogg Katheryne: You helped someone in need while you were out on the road.
+Media:vo tips entrustb katheryne 03a 2.ogg Katheryne: In fact many of those you will meet have commissioned the Guild to assist.
+Media:vo tips entrustb katheryne 03b.ogg Katheryne: And that is exactly what makes you our avid new adventurer.
+Media:vo tips entrustb katheryne 04.ogg Katheryne: Let me explain the Guild's system to you in a little more detail.
+Media:vo tips entrustb katheryne 05.ogg Katheryne: The Guild receives requests from far and wide each day, and assigns commissions to adventurers accordingly.
+Media:vo tips entrustb katheryne 06.ogg Katheryne: These commissioned adventures are the main source of compensation for our guild members.
+Media:vo tips entrustb katheryne 07.ogg Katheryne: On the subject of compensation, I should mention that the Guild has prepared a little something for you.

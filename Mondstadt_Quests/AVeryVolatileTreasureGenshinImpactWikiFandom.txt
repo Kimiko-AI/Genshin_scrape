@@ -1,0 +1,68 @@
+ (Uh-oh, Jean noticed it too...)
+ Because of Mondstadt's most powerful treasure?
+ I'm so happy for you!
+ Need a bite to eat or anything?
+ Need help busting out of this joint?
+ Paimon sounds jealous...
+ Quest DescriptionKlee's highly explosive "treasure" proved to be a remarkably swift solution to the Abyss Mage problem. However, she fled the scene after the explosion. Confused, you decide to return to the Knights headquarters and report the matter to Jean...
+ So... another bomb?
+ Sounds more impressive than "Honorary Knight."
+ The person that Klee blew up was an Abyss Mage.
+ Wait! There's been a misunderstanding.
+ You disguised a bomb as a harpastum!?
+ You got very lucky!
+Media:vo dialog kllq003 klee 01.ogg Klee: *sob* I'll be more careful next time...
+Media:vo dialog kllq003 klee 02.ogg Klee: Next time, I'll complete a big heroic adventure all by myself, and I'll do it safely!
+Media:vo dialog kllq003 klee 03.ogg Klee: I've heard that the Adventurers' Guild has its own set of rules. I wonder if I could get them to...
+Media:vo dialog kllq003 paimon 01.ogg Paimon: No way! Even Klee gets to be a Knight of Favonius!?
+Media:vo dialog kllq003 paimon 02.ogg Paimon: Yes! Paimon thinks this is quite unjust!
+Media:vo dialog kllq003 paimon 03.ogg Paimon: Although... The name kinda makes sense considering what Klee's treasure does.
+Media:vo dialog kllq003 paimon 04.ogg Paimon: Yeesh, if Cyrus was listening to this...
+Media:vo dialog kllq003 paimon 05.ogg Paimon: He would be begging Jean to extend Klee's sentence!
+Media:vo dialog kllq003 qin 01.ogg Jean: *sigh* Klee is no ordinary child. In fact, she holds the title of Spark Knight within our ranks.
+Media:vo dialog kllq003 qin 02.ogg Jean: Yes. She causes her fair share of trouble for the Knights of Favonius, but we care a great deal about her.
+Media:vo dialog kllq003 qin 03.ogg Jean: As for her background...
+Media:vo dialog kllq003 qin 04.ogg Jean: In short, you will understand her more as time goes by.
+Media:vo dialog kllq003 qin 05.ogg Jean: Please keep an eye on her in the future, (Traveler).
+Media:vo kllq003 1 klee 01.ogg Klee: I... *sobbing* I turned myself in.
+Media:vo kllq003 1 klee 02.ogg Klee: *sobbing* I... M—My bomb... I—I hurt someone...
+Media:vo kllq003 1 klee 03.ogg Klee: *sobbing* I broke the rules... I'll never see the light of day again...
+Media:vo kllq003 1 klee 04.ogg Klee: But... But Mr. Fluffball was only a thief... He didn't deserve to blow up...
+Media:vo kllq003 1 klee 05.ogg Klee: Mr. Fluffball... was a bad guy on purpose? ...Mr. Fluffball is the enemy of humanity!?
+Media:vo kllq003 1 klee 06.ogg Klee: Wha... what!? I don't get it!
+Media:vo kllq003 1 klee 07.ogg Klee: So... does that mean...
+Media:vo kllq003 1 klee 08.ogg Klee: Ludi Harpastum! Whoa!
+Media:vo kllq003 1 klee 09a.ogg Media:vo kllq003 1 klee 09b.ogg Klee: (Mr./Miss) Honorary Knight, you've gotta come too!
+Media:vo kllq003 1 klee 10.ogg Klee: I... Um...
+Media:vo kllq003 1 klee 11.ogg Klee: I wasn't! I swear I wasn't!
+Media:vo kllq003 1 klee 12.ogg Klee: I'll see myself to solitary confinement... *sobbing*
+Media:vo kllq003 1 paimon 01.ogg Paimon: Klee? You're here too?
+Media:vo kllq003 1 paimon 02.ogg Paimon: ...Huh?
+Media:vo kllq003 1 paimon 03.ogg Paimon: Hey, come on now... Paimon already told you that the Abyss Mages are the bad guys...
+Media:vo kllq003 1 paimon 04.ogg Paimon: And actually, they're the worst kind of bad guys you can imagine. They don't just hate the good guys, they hate all people... Their enemy is... humanity itself.
+Media:vo kllq003 1 paimon 05.ogg Paimon: Aha, that's it! Paimon understands now!
+Media:vo kllq003 1 paimon 06.ogg Paimon: They were tracking down poor Klee because they'd heard rumors about her treasure!
+Media:vo kllq003 1 paimon 07.ogg Paimon: Just like the way Paimon's first reaction was to try and get her hands on... ahh, no— to try and get the facts on the treasure.
+Media:vo kllq003 1 paimon 08.ogg Paimon: Woop-de-doo, it's a happy ending!
+Media:vo kllq003 1 paimon 09.ogg Paimon: ...Except what?
+Media:vo kllq003 1 paimon 10.ogg Paimon: (She's giving us that look that means, play along...)
+Media:vo kllq003 1 qin 01.ogg Jean: Klee, I need you to answer me. You said someone was injured. Where are they?
+Media:vo kllq003 1 qin 02.ogg Jean: Why is that?
+Media:vo kllq003 1 qin 03.ogg Jean: This was an oversight on my part.
+Media:vo kllq003 1 qin 04.ogg Jean: I did not tell you these things before because you are still young.
+Media:vo kllq003 1 qin 05.ogg Jean: In fact, the Abyss Order is a hostile force in Mondstadt which has been unusually active lately.
+Media:vo kllq003 1 qin 06.ogg Jean: In light of your contribution on this matter, I will allow you to take part in the next Ludi Harpastum.
+Media:vo kllq003 1 qin 07.ogg Jean: Except...
+Media:vo kllq003 1 qin 08.ogg Jean: Klee, where did you hide the treasure to begin with?
+Media:vo kllq003 1 qin 09.ogg Jean: Were you trying to blow up the fish in Starfell Lake again?
+Media:vo kllq003 1 qin 10.ogg Jean: Klee?
+Media:vo kllq003 2 paimon 01.ogg Paimon: Paimon bets Klee must get bored in there all by herself...
+Media:vo kllq003 3 klee 01.ogg ???: That's Paimon's voice I hear!
+Media:vo kllq003 3 klee 02.ogg Klee: Ooh, ooh, yes, please! Wait — no, I... I can't. Klee needs to be a good girl and think about what she did... Stop tempting me!
+Media:vo kllq003 3 klee 03.ogg Klee: Anyway, while I'm grounded, I'm making an extra-special new treasure... the Ludi Harpastum version!
+Media:vo kllq003 3 klee 04.ogg Klee: Tee-hee... I made it into the shape of a harpastum and everything! It looks so cute...
+Media:vo kllq003 3 klee 05.ogg Klee: Just wait for Ludi Harpastum, oh yeah... They're gonna love it!
+Media:vo kllq003 3 paimon 01.ogg Paimon: Guess whooo~?
+Media:vo kllq003 3 paimon 02.ogg Paimon: When you say "treasure..."
+Media:vo kllq003 3 paimon 03.ogg Paimon: Yeesh, if Jean was listening to this...
+Media:vo kllq003 3 paimon 04.ogg Paimon: Klee might find herself grounded for an awful lot longer.

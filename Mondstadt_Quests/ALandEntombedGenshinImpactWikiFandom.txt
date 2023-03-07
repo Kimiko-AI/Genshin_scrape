@@ -1,0 +1,73 @@
+ About those journals...
+ Depends if there's treasure...
+Stevens: Haha, in terms of material wealth... I can't guarantee there will be.
+Stevens: But for helping me, I will make sure to provide you with compensation of a suitably material nature. A reward for your great contribution to academic research.
+ I found this.
+ I think I understand what happened, too.
+ Leave it to me!
+Stevens: Really? Thank you ever so much!
+ Quest DescriptionYou discover a strange journal in the mountains that tells of the secrets of a certain kingdom. Perhaps someone at the camp may know more about this journal...
+ Step DescriptionAccording to the researcher Stevens, these journals belong to Mondstadt aristocrats who lived before the era of the Knights of Favonius and who came to explore Dragonspine. Carefully reading these journals might show you where they went...
+ Step DescriptionAfter searching through the snow, you found a total of three different journals at three different locations. The information contained within them seems to point to some sort of conspiracy... Perhaps Stevens will be able to shed some more light on the situation.
+ Treasure...?
+ What have you found out?
+Paimon: (Traveler), Paimon bets these will be of great value— Um, historical value to someone. Let's go ask around.
+Paimon: ...Paimon doesn't get it!
+Paimon: But this looks like a swimming pool... There's no cellar in sight...
+Paimon: Feels like we're going in circles — just like these Seelie...
+(If the player fails to solve the second Seelie puzzle seven times, and every four times afterwards)
+Paimon: What if we made them all move equal distances...
+Paimon: That's right! That must be it! (Traveler), make them move equal distances!
+Paimon: How are we supposed to activate all these mechanisms at once? Hmm...
+Paimon: It seems that we should focus on these two Seelie's movement patterns...
+Paimon: Let's look around.
+Paimon: Seems like some sort of records left behind by someone who once investigated the area.
+Paimon: That's right! That must be it! (Traveler), make them move equal distances!
+Paimon: This is one of the places mentioned by Stevens too.
+Paimon: This should be the journal we're looking for. No time to waste, open it!
+Paimon: This should be the journal we're looking for. What's written inside? Paimon's curious!
+Paimon: This should be the journal we're looking for. Why is it here... Never mind, let's take a look!
+Paimon: Treasure!?
+Paimon: Ugh... Paimon really wants to give these Seelie an ugly nickname!
+(If the player fails to solve the second Seelie puzzle four times)
+Paimon: How are we supposed to activate all these mechanisms at once? Hmm...
+Paimon: Feels like we're going in circles — just like these Seelie...
+(If the player fails to solve the second Seelie puzzle seven times, and every four times afterwards)
+Paimon: What if we made them all move equal distances...
+Paimon: That's right! That must be it! (Traveler), make them move equal distances!
+Paimon: Uh... Unless that cellar is under the ice.
+Paimon: Um... These mechanisms shut down on their own.
+Paimon: What if we made them all move equal distances...
+Paimon: What's this?
+Paimon: Whoa, be careful!
+Paimon: Wow... This door's huge! Do you think the journal is somewhere around here?
+Paimon: Yikes, it's even more complicated than back up there.
+Stevens: ...A treasure trove of knowledge for the history enthusiast, I mean.
+Stevens: Any other books you find while out exploring the mountains, I'd be much obliged if you could bring them to me on your return.
+Stevens: Based on what I'm reading here... The team investigated three sites in total.
+Stevens: But for helping me, I will make sure to provide you with compensation of a suitably material nature. A reward for your great contribution to academic research.
+Stevens: But without a doubt, this doesn't detract from how valuable these are as historical sources.
+Stevens: Eberhart... Where did you go...
+Stevens: For some reason, though, the annals provide next to no details about what the investigation team found...
+Stevens: Haha, in terms of material wealth... I can't guarantee there will be.
+Stevens: Hmm... Wow, my goodness... Wait, if this detail is correct...
+Stevens: Huh? Up on the mountain? Let me take a look...
+Stevens: I am most grateful to you. Please take this for your trouble.
+Stevens: I remember one of them, from before the time of the Knights of Favonius, talked about a team sent by the aristocrats to investigate the mountain.
+Stevens: If this is one of the journals kept by that investigation team, it will serve as an immensely valuable historical source for researchers.
+Stevens: Let me see... here, and... here. I've marked them out on your map.
+Stevens: Many other details need corroborating, too...
+Stevens: Now, we finally have answers to the questions of why so little information on the investigation appears elsewhere — and why nothing of relevance beyond the initial departure of the team is recorded in the annals.
+Stevens: Oh, uh... Sorry, I was lost in thought. Ahem.
+Stevens: Once, on a research trip, I read some ancient historical annals.
+Stevens: One of them was where you found this — so that leaves two more.
+Stevens: Really? Thank you ever so much!
+Stevens: Since there is no record of his return in Mondstadt, however... The million-Mora question is: Where did he go?
+Stevens: Thank you for agreeing to this, and please be careful out there!
+Stevens: Thank you, these investigation journals are of rather significant historical value. There is a serious dearth of detail on this topic in the existing literature, as all the available sources only make passing reference to some mysterious investigation team formed once by the aristocrats...
+Stevens: These journals you found will help fill in some major gaps in the historical record.
+Stevens: Well, all the evidence — or lack thereof — would suggest that not one member of the investigation returned to Mondstadt. But, these journals suggest there's a chance that one of them, called Eberhart, may have managed to escape...
+Stevens: Would you be willing to go back into the mountains and see if you can find any more of them?
+Stevens: Wow, what a find! This is a priceless treasure.
+Stevens: Yes, well... Although there are still a fair few minor details to straighten out, the overal picture is becoming very clear.
+Stevens: You found the rest of them? Amazing! Here, let me take a look...

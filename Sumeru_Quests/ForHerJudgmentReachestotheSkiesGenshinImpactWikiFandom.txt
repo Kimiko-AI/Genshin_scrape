@@ -1,0 +1,266 @@
+
+(Two Anemoboxer Vanguards appear as the door opens)
+ ...
+ But put another way, you're now free to call anywhere you wish home.
+ Calm down. We were all deceived.
+ Don't try to downplay it. Let us have a look.
+ I won't hurt you. Please, trust me.
+ I'm not a traitor. What happened to you?
+Jeht: If you're not a traitor, you'll prove it with your sword.
+ If it's Babel's design to pit us against each other...
+ Will they defend us or the Matriarch?
+ Now then. Let's talk.
+ Now, "home" need not be a cause of anxiety for you.
+ Paimon's right. The initiative is on our side now.
+ Quest DescriptionSometimes, the best way to deal with schemes is by brutal force — a knot that cannot be undone can be ripped apart.
+ Relax, there's nothing scary here.
+ So you've always wanted us dead, then.
+ Wait. Are you saying that you discussed how to get rid of me previously?
+ We still have time. You should rest.
+ Who are they?
+ Will they defend us or the Matriarch?
+ You need to calm down.
+Jeht: I am calm. Draw your sword!
+ You should take a look at this...
+"May we meet again under a lovelier sun," she says.
+(After carefully tending to Jeht's wounds, you get some rest together with her by the campfire.Though no words are spoken, you both know what must happen next./After carefully tending to Jeht's wound, you get some rest together with her by the campfire...Jeht sleeps peacefully by your side. The mixed odors of blood, sweat, and burning poplar branches cannot fully mask the scent of spices she carries.Light snoring and raving nonsense intertwine in her dreams — she must truly be tired.Even without speaking to one another, you both know what must happen once she awakes.)
+(You hug Jeht before parting ways with her in the desert.She holds you tightly, and you notice that she seems to be holding back sobs...However, she quickly draws back and rubs her wet eyes before smiling broadly at you once more./You hug Jeht before parting ways with her in the desert.She holds you tightly, almost as if afraid that a blinding sandstorm would sweep you away. You notice that she seems to be holding back sobs...Then she pushes you away lightly and rubs her wet eyes before smiling broadly at you once more.)
+???: Don't be so optimistic yet, little one... She could still use her blades.
+And so, you all decide to rest briefly and start a campfire...
+Babel Protect me! Protect me! You're going against all of Tanit! Do you think we'll ever forgive you?
+Babel You lying cur! Tanit will never stop pursuing you and the outsiders who collude with you!
+Babel: (...Sure enough, they're still alive, like poisonous insects...!)
+Babel: *cough*... Look upon us... The Tanit... ruined... by a single traitor...
+Babel: *cough*...! Haha... Right before... you came back...
+Babel: ...
+Babel: ...It's you, Jeht! You're... You're back.
+Babel: Ah!
+Babel: Ah, so it was true, then. The traitor's daughter could never be anything but a half-grown mongrel... just like her father.
+Babel: And this outsider remains the Master of the Jinni. Though the Jinni herself has long gone silent, we can gain control over her as long as we get rid of her master.
+Babel: And what is the point of this meaningless talk?
+Babel: And when they do... Just think about it — faith will allow us to reunite the scattered peoples of the desert and their resources.
+Babel: As for you, Jeht, you will become my successor, and one day, you will be the Tanit's new Matriarch and Nabu Malikata's Prophetess.
+Babel: But before all that comes true, Jeht... It's not yet too late to repent. You are my most beloved daughter, and I wish to set you back on the right path.
+Babel: But today, you must make a choice: Tanit, your home, or this outsider, this friend of yours.
+Babel: Calm down. Listen, Jeht...
+Babel: Do you remember what I told you? Of how the Eternal Oasis is the Tanit's hope, and how it will bestow a prosperous homeland upon us? It is exactly for this cause that you pledged your loyalty to me, no?
+Babel: Enough! My kin, you know what to do.
+Babel: Enough, enough! Are you not satisfied!
+Babel: Haha... Hahaha... But I've already sent scouts to inform all the tribes of... your betrayal...
+Babel: I shall be the sole Prophetess of the slumbering goddess, the Tanit's law shall be divine edict, and the prosperity of the Tanit shall be the pre-ordinance of her divine oracles.
+Babel: I thought... you'd soften... it'd make it easier to get rid of you...
+Babel: I'm sorry, my child, but sacrifice is necessary... I shall not let (his/her) noble blood be shed in vain. On that, you can have absolute faith in me.
+Babel: I've made my point clear: The one and only oracle demands absolute obedience. The only ones who haven't been blinded by the truth of the Oasis are you and your outsider friend.
+Babel: I... We're your real family! You've destroyed everything. You destroyed... the hopes of the Tanit... the hopes of all the tribes who wander... amidst the gilded sands!
+Babel: It does my heart good to see you return safely... You must be in need of some rest. Come, let me see what I can do.
+Babel: Jebrael and that outsider woman have already paid the price for the unforgivable things they did, and now, their daughter repeats their errors. I should've seen that coming!
+Babel: My... tribe... my kin... my Eternal Oasis...
+Babel: No one will ever accept you again... Never again... will you find a safe place to lay your head...
+Babel: Now that the door to the Oasis is open to the Tanit, we must keep it a secret from outsiders...
+Babel: Of all those things that I told you, have you not listened to a single word?
+Babel: Of the two of us, it is I who respects her ancient wisdom and the power to rebuild the Oasis. It is more fitting, therefore, that we gain mastery over the Jinni.
+Babel: Please, consider my offer. The future of our home lies in your hands, my daughter. Merely ask it of me, and I will give you time and one more chance.
+Babel: Preposterous! Even as my most beloved daughter, how dare you spout such nonsense!
+Babel: She has angered... and saddened me.
+Babel: Soon, it'll be known... that you're a traitor who tarnished her family's name... *cough*... all across the vast desert... Very soon...
+Babel: Stop it, Jeht! What good will any of this do you?
+Babel: Tanit... My tribe... my people...
+Babel: Traitor! All my teachings were for nothing! May the desert mark your treachery!
+Babel: Under the guidance of the Queen of All Oases, we will rebuild a nation of oases in this desert with our own two hands, and once that is done, none of us shall ever have to bow to those city ilk ever again.
+Babel: Wait. Why are you bringing this up? Why do you have to bring this up in front of them?
+Babel: We must ensure that the Tanit are and will remain the most beloved children of the Queen of All Oases... Only thus can we guide the other wandering desert tribes to gather by the Oasis.
+Babel: We will be able to build our own palaces, develop an academic system unique to us. We shall even challenge that god who's naught but a mere caged bird!
+Babel: Whether she is alive or dead, whether she can or cannot be resurrected... As long as the Eternal Oasis is under my control, all such things will be mine to decide.
+Babel: Why! ...I once... loved you so much... Why did you... betray me... and the Tanit...
+Babel: You dodged the question last time... and that is understandable.
+Babel: You're mad... How dare you slander me, your matriarch! You've forgotten your mother's name! Silence — I bid you be silent now, before it is too late!
+Babel: You're... the foolish one... *cough* An outsider... You did all this, for an outsider!
+Babel: You've got me cornered... Can't you see what you've done!?
+Fatui Skirmisher: Ah, great! First it was eating sand everywhere, then it was escorting that living nightmare, and now it's you guys!? What other "little surprises" have you got for me!? Ugh, that does it! I've had enough!
+Fatui Skirmisher: In the cave... It's everywhere! It's everywhere!
+(Defeat the Fatui)
+Fatui Skirmisher: Wait... Where is Professor Froderock? He hasn't escaped!?
+Fatui Skirmisher: Withdraw, withdraw! Before it's too late! We're dealing with a monster!
+Investigate: (A smashed crate, with traces suggesting that it once contained something that was alive... But whatever it was, it is now free.)
+Investigate: (Scattered, messy footprints both deep and shallow mark the area. There are even signs of a person tumbling across the sands... It is apparent that someone ran for their lives not long ago, leaving these footprints behind.)
+Investigate: (This tough canvas may once have been a part of a Fatui banner or tent. It's been torn apart to the point where you cannot discern its shape.)
+Jeht I don't want your forgiveness!
+Jeht I'd shut up if I were you, Babel! Save your energy for your last words!
+Jeht turns away and leaves.You see Benben, only now emerging out of the ruined camp, hurry to catch up with Jeht.
+Jeht: (*sigh*... Okay. Sorry.../Mm... Okay...)
+Jeht: (...It's all over... or is it?)
+Jeht: (Mm, you're right. I'm sorry that I didn't trust you.../The initiative, huh...? Hmm...)
+Jeht: *huff* *huff* *cough*
+Jeht: *sigh* Alright... Babel, let me tell you...
+Jeht: ...
+Jeht: ...!
+Jeht: ...?
+Jeht: ...Let's go. Let's find Babel and have her explain everything to us.
+Jeht: ...Tell me, that you still remember my mother's name? If so... prove it with your sword.
+Jeht: ...The things that I've done for you, the voices I've silenced for you, the elders who disappeared...
+Jeht: ...When did you do that?
+Jeht: Ah, and there was also Elder Teyya. She was young and beautiful, and she was the head of the hunting party... a more capable competitor than you.
+Jeht: Ah, it's you. Perfidious dog! I'll tear you apart!
+Jeht: And I told you that it was impossible! The Queen of All Oases is long gone. She's not in the Oasis, and there's no way we can resurrect her!
+Jeht: And now, there is no place for me in the desert either.
+Jeht: And you!
+Jeht: Anyway, if you ever feel tired or want to take a breather... I believe that our paths will converge one day.
+Jeht: Argh...! Blast!
+Jeht: As for me, I've also set myself on a certain path. You've seen it already... It's not gonna be a peaceful one. And I won't drag you down with me.
+Jeht: At that time, I might even invite you to go on a crazy adventure with me again.
+Jeht: Babel! Watch closely how I tore your tribe apart! I hope you wallow in your self-pity!
+Jeht: Babel, I appreciate your help all throughout this time... Though I'm well aware of the fact that I'm the daughter of a traitor and an outsider.
+Jeht: Be careful, (Traveler)!
+Jeht: Bleda... Gwaffah... Izder... Meddur... Teyya...
+Jeht: But I still have you two... I can still trust you, can't I?
+Jeht: But you said before that you wanted to give me a chance to repent... Was that also a lie?
+Jeht: But... I can tell that you have your own journey ahead, a travail of greater solitude and a far grander objective, both of which are beyond what I can bear or imagine.
+Jeht: Capture me alive? Capture me alive, will you? Oh, you'll capture me alright — once I've bled my last drop of blood on these sands! Come on!
+Jeht: Come here. I've something to tell you two.
+Jeht: Come on! I want you all to remember, it is the owner of this name who destroyed the Tanit!
+Jeht: Come out, Babel!
+Jeht: Elder Bleda, the one who liked crocodiles... surely you remember him? He treated you like his daughter, and he doted on me as well... That's why I could plunge a poisoned dagger into his chest.
+Jeht: Elder Gwaffah was such an eyesore to you, and you were that to him, too. And sadly, it was me in the end with a Sumpter Beast's jawbone. Again, and again, and again, and again...
+Jeht: Everything I've done for you, my mother, and for this family.
+Jeht: Get on your knees, you two-faced duplicitous dog!
+Jeht: Go ahead! I take your bullets! You think you kill me with bullets? I take your bullets! Go ahead!
+Jeht: Her assassins. We've fought them already.
+Jeht: Hmph! Thanks for your concern.
+Jeht: I am calm. Draw your sword!
+Jeht: I couldn't be more grateful... for your arrangements.
+Jeht: I didn't betray the tribe, nor do I have any reason to do so.
+Jeht: I don't know, nor do I care!
+Jeht: I don't need to rest. I need answers.
+Jeht: I know... It's just that I'm left with nowhere to return to again...
+Jeht: I see.
+Jeht: I'm no longer a servant bound by the name "Tanit." I'm now the master of the name "Jeht."
+Jeht: I've done enough, and I'm fed up with it. I won't betray (Traveler).
+Jeht: I've reclaimed my mother's name... I'm free. Perhaps "Jeht" will also become the name of a new clan someday... Maybe? I dunno.
+Jeht: If you wish to hear more, I can spell every one of my deeds out to you, and to all the Tanit.
+Jeht: If you're not a traitor, you'll prove it with your sword.
+Jeht: It's because (Traveler) is (my best friend./my best friend!)
+Jeht: I—I don't understand. What do you mean?
+Jeht: Keep your eyes closed... and don't dirty your white clothes.
+Jeht: Lies!
+Jeht: Lies! Lies! Lies! Lies!
+Jeht: Matriarch Babel has witnesses on her side: Yuften saw you deal with the northerners, and Masseira saw you moving around their camp.
+Jeht: Matriarch Babel sent them... What do you think they will do?
+Jeht: Matriarch Babel told me everything! She asked me to track you down because Yuften saw your deal with the northerners! And Masseira...
+Jeht: My mother's name gives me pride, and my father's name also holds many memories for me. As long as I remember them, even in this barren desert... Will that not be the home I was seeking all along?
+Jeht: My mother's name is Ufairah — Ufairah Hindi. She was an honest person.
+Jeht: My wounds? Where? Pfft... That's right. They're everywhere! ...Seriously though, I can keep going.
+Jeht: Nayram, Rezki! Why are you here? I can handle things alone here. There's no need for you to pitch in.
+Jeht: Nayram, Rezki, it was a pleasure being your family. Now, forgive me.
+Jeht: No, you're more despicable than that... You wanted to pit us against each other!
+Jeht: Okay, guess we can properly talk now, yeah?
+Jeht: Only then did I realize that you are no "Prophetess," nor do you deserve to be favored by the Queen of All Oases.
+Jeht: Paimon, hide yourself.
+Jeht: Pfft, if it were me back then, I'd have thought that you were mocking me! *sigh* But you're right.
+Jeht: Phew... I've done enough talking... It's time to leave. There's nothing left here but heartbreak.
+Jeht: Quiet down, would you, Paimon? This whole thing doesn't make any sense...
+Jeht: Really, I'm the one with the questions here! What kind of mother would force her daughter to kill (her friend/someone she cherishes), anyway? Answer me!
+Jeht: Regardless, I have to get to the bottom of this. I need answers from her.
+Jeht: Remember with your wounds and fears that I've inflicted! Jeht Ufairah Hindi! Remember this name!
+Jeht: Save it for the jury, and face me!
+Jeht: Say goodbye to them, while you still have time for some final words.
+Jeht: She sent you... which means she's not expecting me to return alive!
+Jeht: She thought I adored her, but I was loyal to you, for I believed that you alone were my true family. I believed that you could wipe my tears away once more and give me a home.
+Jeht: Silence! I shall make this quick!
+Jeht: Sniveling, insufferable dog!
+Jeht: So I made her disappear in the desert...
+Jeht: So, she set the trap up long ago, and was just waiting for us to walk right into it?
+Jeht: So, why did they say you betrayed us? What's going on?
+Jeht: Some family you are — you tried to take my life! Abyss take your idiotic dream of being a prophetess. Well, someone might fulfill it in your stead... But I'm sure they'll keep their hands cleaner than you did.
+Jeht: Sorry, I might have lost my head a little back there... And sorry for getting caught as well.
+Jeht: Sorry... I don't know what to say...
+Jeht: Stop bigging yourself up. I just pushed your tiny sand dune over, that's all.
+Jeht: Tell me, straight to my face, that you aren't despicable traitors — and then prove it!
+Jeht: Thank you.
+Jeht: That was the first time I had ever been scared to tears. I was so afraid of myself. I still remember how you wiped my tears away...
+Jeht: That's not important. They used to be good people.
+Jeht: The news will spread quickly along the trade routes. Soon, all Eremite groups will know that I'm a dangerous person unworthy of their protection.
+Jeht: There she is... probably waiting for Nayram and Rezki.
+Jeht: There's no need. I've made up my mind.
+Jeht: These northerners... If it wasn't you who told them about the Eternal Oasis, why are they targeting Tanit?
+Jeht: Ufairah Hindi, that's her name... And it will be mine as well.
+Jeht: Ugh! She got away! Let's chase her down!
+Jeht: Ugh... Ow, ow...
+Jeht: Uh... You know what? Actually, I'd love to go on more adventures with you... Haha, never mind that. You must've had enough of me after all the dangerous situations I put you in...
+Jeht: Um... *sigh* I'm sorry. Thank goodness you're alright...
+Jeht: Uzad... Tafreh...
+Jeht: Wait, have... have you also betrayed the Tanit?
+Jeht: Wait... Why didn't you... show me this earlier?
+Jeht: Whatever, I'm done with this. First, it was Azariq, and now it's you... *sigh*...
+Jeht: Why did you lure me into the northerners' trap? Why did you send other members of the tribe to kill me? Why do you want me dead?
+Jeht: Why? Because you're evil and I'm not. I see no reason why I must explain myself to you.
+Jeht: Yes, we're back, alive. I'm sorry.
+Jeht: Yes... But I refused. (I mean, come on! You're my friend, after all./I mean, how could I? You're so important to me.)
+Jeht: You are the "sole oracle of the goddess" and my "mother." Why should there be any secrets between us?
+Jeht: You disgust me. All of you.
+Jeht: You scum! Come back! I'll rip out your livers. I'll grill you alive. I will chomp on your bones!
+Jeht: You tried to hurt me, and now you must pay the price. The same goes for your tribe, your people!
+Jeht: You wanted to get rid of (him/her), but I refused to be part of it, and so you decided to get rid of me too.
+Jeht: You're all trying to stop me right here, aren't you!?
+Jeht: You're here, (Traveler)...
+Jeht: You're just a despicable schemer.
+Jeht: You're right... Now, I'm the head of my own house.
+Nayram: No, on the contrary, we're here to deal with traitors.
+Nayram: Oh, the little Jinni. I'm quite fond of her. Let's spare her.
+Nayram: Ugh!
+Nayram: Uh-huh, I can tell you're doing pretty well, Jeht... That's why Rezki and I are both needed to deal with the two of you.
+Nayram: You're so slow! Have you been injured?
+Paimon: (He/She)'s right! You said that the Matriarch asked you to hunt us down because we betrayed the tribe, but y'know what? That's the exact same mission she gave us!
+Paimon: ...
+Paimon: ...C'mon, Jeht, you're not "dragging us down" or anything...
+Paimon: ...Does she even know what she's saying?
+Paimon: Alright, Jeht, show us your wounds already. We'll help bandage you up!
+Paimon: Are those... names?
+Paimon: A—Anyway, there's still gotta be a way to come to an understanding, right?
+Paimon: Eh... Paimon wishes we knew... Anyway, calm down and let us explain!
+Paimon: Hey! Listen to what we're saying!
+Paimon: Hey... There wouldn't be anyone alive to capture in that case...
+Paimon: Hold on... Are you saying...!? ... How could that be...
+Paimon: Huh...! Hold on! Don't get so worked up! Didn't you just say that you see Jeht as your daughter... Besides, (Traveler) has helped you so many times...
+Paimon: Huh? What's that supposed to mean?
+Paimon: It's Jeht. It's like... she's gone mad with fury...
+Paimon: It's like a cyclone passed through...
+Paimon: It's true! She... she also told us...
+Paimon: Jeht! Look, is that Jeht over there? Quick, let's go!
+Paimon: Jeht, please calm down! It was Babel! Babel told us to look for you!
+Paimon: Jeht... Jeht, where are you?
+Paimon: Let's not stay here. There are other signs ahead that might lead us to Jeht's location!
+Paimon: No sign of the Fatui... Hmm, but look at the things scattered around this place. Someone must've been here before.
+Paimon: Phew... You finally put your weapons down. Let's not draw 'em again, shall we? You gave Paimon quite a fright...
+Paimon: She told us that you may be colluding with the Fatui, and that we were to take you back!
+Paimon: Stay your hand! Jeht, what's the matter with you!
+Paimon: That's exactly what makes this place creepy...
+Paimon: That's her — that's Jeht! Is she injured?
+Paimon: That's not important! Are you hurt? Is it serious?
+Paimon: Think about it, Jeht! Who do you trust more? Us or them?
+Paimon: Ugh, the smell... This isn't good...
+Paimon: Um, you sure you don't want more time? This situation's, like, super tense!
+Paimon: W-What!? (Traveler), it was Babel all along! She fooled us all!
+Paimon: We didn't believe you'd betray us, so we were trying to find you and figure things out.
+Paimon: We would've, but you didn't give us a chance to speak before drawing your weapons, and you wouldn't listen to reason either!
+Paimon: We... We didn't think it would turn out like this either...
+Paimon: What are you talking about!? We don't know anything!
+Paimon: What!?
+Paimon: What? No way! She also told us... that you were spotted colluding with enemies of the tribe!
+Paimon: Who are they again...
+Paimon: Whoa! Wait, what do you even mean?
+Paimon: Wh—What are you talking about?
+Paimon: Wow... What a mess of footprints... It looks... terrifying... Let's just get going.
+Paimon: You can always trust us, Jeht!
+Paimon: Yup yup, there's no need to rush it. We can return any time, while Babel has to wait for us.
+Private Hudson: It's done, man! It's done! What should we do now?
+Rezki: ...
+Rezki: ...Alright.
+Rezki: ...And there's also this little Jinni.
+Rezki: Alright. Let's do this.
+Rezki: Argh... Curses! I really shouldn't have... taken... this... job...
+Rezki: Just give up! Why are you even bothering?
+Rezki: Nayram! You!
+You and Jeht arrive at the entrance to the canyon, where Matriarch Babel happens to be waiting for her subordinates.
+You and the group reached the entrance to the canyon, and Jeht has sorted out her feelings.
+Yuften: N-N-No! S-S-Stop!
+Yuften: Y-Y-You! S-S-Stop there!

@@ -1,0 +1,332 @@
+ "A cold platter feast from Mondstadt and Liyue!"
+ "A full course meal from Mondstadt and Liyue!"
+ "Ding dong, ding dong! Special delivery for the Fatui!"
+ "Hehe."
+Paimon: And what's that supposed to mean, huh?
+ "Hey there! Here's a gift from the Knights of Favonius!"
+Paimon: "A gift? Hehe! So, you're finally acknowledging our power, then?"
+Paimon: "Well, it's too late to suck up to us now! *cough* Still, what's in it?"
+ "A cold platter feast from Mondstadt and Liyue!"
+Paimon: "Hooray! It's a cold platter feast. Time to eat, comrades!"
+ "Heyah! Freeze!"
+Paimon: "Ah! It's an ambush! The Cavalry Captain is hidden inside the feast platters! Argh!"
+ "Heyah! Freeze!"
+ "Ioroi, weak."
+ "Thanks for your patronage! That'll be 5 million Mora!"
+ As long as you're having fun.
+ As long as you're having fun. [sic]
+ Better get used to it, Paimon.
+ Try to remember peoples' names, Kichiboushi.
+ Could we really do that?
+ Did he eat too much?
+ Don't worry, they won't.
+ Eh, I think I'm alright at this.
+Paimon: And speaking of Kaeya...
+Paimon: "Paimon sees you already have the knightly virtue of modesty," (Traveler)!
+ Geri booked us a table.
+ He probably has some ongoing plans...
+Paimon: Well, that's alright! After all...
+ Hopefully she has.
+ Hopefully, she hasn't.
+ Huh?
+ I can make some too.
+ I could tell just from watching Paimon eat.
+Paimon: Is that supposed to be a compliment?
+ I could tell just from watching you eat.
+"Kichiboushi": Mm-haha! Delicious. Very delicious.
+ I don't think any comparison can be made here...
+ "Ioroi, weak."
+ I'll make you something good later...
+ Try to remember peoples' names, Kichiboushi.
+ I'm glad you enjoyed it.
+ I'm not sure if training is meant to be considered fun...
+ I'm quite curious myself.
+ If you don't rest, you can't train properly.
+ Is there a suitable location for that?
+ It is quite like them, true...
+ It is.
+ It's not that bad, really...
+ It's training, you know...
+ Keep it up, Kichiboushi.
+ Let's find a spot where we can see the whole place...
+ Let's go visit the Anemo Archon statue.
+ Maybe it's going to go something like this:
+ "Ding dong, ding dong! Special delivery for the Fatui!"
+Paimon: "Delivery? What delivery?"
+ "A full course meal from Mondstadt and Liyue!"
+Paimon: "Wow! It's a feast! Thanks!"
+ "Thanks for your patronage! That'll be 5 million Mora!"
+Paimon: "Huh? Wh—What is this? Do our activities cost that much!? W—Well, I guess we're just going to have to leave Mondstadt then!"
+ Might be best not to investigate bake-danuki magic too deeply...
+ One Sweet Madame coming right up!
+ Quest DescriptionYou agreed to Ioroi's request to "bring Kichiboushi out to train."This time, you're bringing him to check out the cuisines of other lands. After all, treasure and food never betrays!
+ Rest is also a form of training.
+ She's Paimon.
+ Step Description"Liyue Harbor, Mondstadt, pretty. Different from forest. Human food good, mm!""Yup! Eating at Liuli Pavilion is just the best!"
+ That's quite troublesome.
+ The Anemo Archon is a nice person.
+ The Anemo Archon's not very reliable, but he's a gentle soul.
+ The Anemo Archon's a gentle soul, but he's a bit of a flake sometimes...
+ The Anemo Archon's a gentle soul, but he's a bit of a flake sometimes...
+ The Anemo Archon's not very reliable, but he's a gentle soul.
+ The Goth Grand Hotel in Mondstadt?
+ The last time we were here, we were on official business.
+ Then you have my thanks.
+ This all seems a little strange...
+ This here is Guoba.
+"Kichiboushi": Guoba?
+Sara: Guoba? Are you referring to Jueyun Guoba, that dish from Liyue...?
+Paimon: Hey! That's not right. This is Kichiboushi, a new friend we met in Inazuma!
+ This here is Guoba.
+Paimon: Nope, this is Kichiboushi! He's a bake-danuki who's on a journey to hone his skills! He's heard that the Guoba made here at Wanmin Restaurant is really good, so he wanted to have a try.
+"Kichiboushi": Jueyun Guoba!
+ This is Baron Bunny.
+"Kichiboushi": Baron Funny?
+Paimon: Hey! That's not right. This is Kichiboushi, a new friend we met in Inazuma!
+ This is Baron Bunny.
+Chef Mao: Baron who?
+"Kichiboushi": Baron Funky?
+Paimon: Hey! That's not right. This is Kichiboushi, a bake-danuki who's on a journey to hone his skills!
+ This is Kichiboushi.
+"Kichiboushi": How do you do?
+Paimon: Yup. This guy here's a bake-danuki who's on a journey to hone his skills!
+ This is Kichiboushi.
+Paimon: Yup, this is a new friend of ours from Inazuma!
+ Try to remember peoples' names, Kichiboushi.
+ Wait, what's this got to do with Lisa...?
+ We certainly have made a lot of them along the way.
+Paimon: Right! No lack of supplies out in the wild, after all.
+ We just ate, you know...
+ Well then, where should we go next?
+ What happened?
+ Why don't you each go to one place?
+Geri: No, that won't do.
+Freki: We want to experience both types of food together.
+Geri: If not, our arguments whether Li or Yue Cuisine is better will be completely one-sided on either front!
+ Why not go to both?
+Geri: No, that won't do.
+Freki: No matter which one we go to first, our prior fullness will affect the experience to follow.
+Geri: No matter which place we go to first, it won't be fair to the other — and certainly not to the cuisine they represent!
+ You have a point there...
+Paimon: Let's go to see Anemo Archon statue, Kichiboushi!
+ You know, I doubt the bake-danuki know anything about the Fatui.
+ You mean you're gonna love it, right?
+ You okay over there?
+ You should go rest as well, Kichiboushi.
+"Kichiboushi": *rumble*... Sounds tasty.
+"Kichiboushi": ...Oooh...
+"Kichiboushi": ...Very scary.
+"Kichiboushi": Amazing!
+"Kichiboushi": Anemo Archon? Like the Electro Archon?
+"Kichiboushi": Bake-danuki is made from leaves, Kapow!
+"Kichiboushi": Baron Funky?
+"Kichiboushi": Baron Funny?
+"Kichiboushi": Best food!
+"Kichiboushi": But all the boats down there, not sinking?
+"Kichiboushi": Byemon.
+"Kichiboushi": Delicious Sweet Madame. Very good. Thank you.
+"Kichiboushi": Don't want rest, Kichiboushi still wants training with (Traveler) and Paimon.
+"Kichiboushi": Eat! Let's go!
+"Kichiboushi": Eight tatami explode, leaf will disappear. Fur will turn into Seagrass and belly-drum turn into big teapot. Then tanuki become skinny like weasels, no more magic.
+"Kichiboushi": Go back, show Ioroi, Anemo Archon hands bigger than Ioroi's!
+"Kichiboushi": Guoba?
+"Kichiboushi": Hooray! Thanks, Geri!
+"Kichiboushi": How do you do?
+"Kichiboushi": Humans are very powerful! They can make such tasty food, better than bake-danuki food!
+"Kichiboushi": If play forgotten, will leave tanuki path.
+"Kichiboushi": Ioroi said playing is also training. Not to leave tanuki path.
+"Kichiboushi": Ioroi told a story about the past. He was nearly chopped.
+"Kichiboushi": Ioroi very powerful. But Kichiboushi will become more powerful!
+"Kichiboushi": Ioroi, so, so weak, mm-haha!
+"Kichiboushi": It was good. Not Lavender Melon or Seagrass or Berries, but it was so tasty.
+"Kichiboushi": It won't come alive and hit people with Kapow?
+"Kichiboushi": Jueyun Guoba!
+"Kichiboushi": Keep going! Where to?
+"Kichiboushi": Keep it up! Yey!
+"Kichiboushi": Kichiboushi must become more powerful and use stronger magic.
+"Kichiboushi": Kichiboushi once heard Ioroi talk about fat twigs.
+"Kichiboushi": Kichiboushi will try. Sorry, Paimore.
+"Kichiboushi": Kichiboushi!
+"Kichiboushi": Leaves Kapow is Leaves Kapow. Leaves, Kapow. Very tasty.
+"Kichiboushi": Like Ioroi? Mm-haha! Anemo Archon, so stupid.
+"Kichiboushi": Make Lavender Melon? Grilled Melon?
+"Kichiboushi": Many fat twigs in the forest. Very hard, very uncomfortable to sit on.
+"Kichiboushi": Mm! It's delicious! Amazing!
+"Kichiboushi": Mm! Photo!
+"Kichiboushi": Mm! The Anemo Archon, so big! Bigger than Ioroi!
+"Kichiboushi": Mm! Very tasty!
+"Kichiboushi": Mm, good friends!
+"Kichiboushi": Mm, what White Fur say?
+"Kichiboushi": Mm-haha! Delicious. Very delicious.
+"Kichiboushi": Mm-haha, just like bake-danuki.
+"Kichiboushi": Mm. Anemo Archon very tall, taller than Ioroi. Very hard, too. Tall and hard.
+"Kichiboushi": Mm. Kichiboushi can help! Help Uncle Brown Fur and Aunt Brown Fur go, solve problem.
+"Kichiboushi": Mm...
+"Kichiboushi": Mmmm...
+"Kichiboushi": Never seen this before. But smells good. *rumble*
+"Kichiboushi": Okay!
+"Kichiboushi": Ooh! Kichiboushi understands. Anemo Archon is not Kichiboushi.
+"Kichiboushi": Ooh... Smells nice.
+"Kichiboushi": Phew! Delicious! (Traveler), amazing!
+"Kichiboushi": See!
+"Kichiboushi": So Kichiboushi must train, with (Traveler) and Paimon.
+"Kichiboushi": So cool. Very big hands.
+"Kichiboushi": Spymon.
+"Kichiboushi": Tanuki who leave the path... explode.
+"Kichiboushi": There are things better than Lavender Melon! Mm!
+"Kichiboushi": This place very pretty. Very different from forest.
+"Kichiboushi": Training is very fun! Very happy, mm!
+"Kichiboushi": Training, very fun.
+"Kichiboushi": When Ioroi is serious, he can grow very, very big. Bigger than one hundred tatami.
+"Kichiboushi": With stronger magic, Kichiboushi can make Ioroi not-stone!
+"Kichiboushi": Woohoo! Mm-haha!
+"Kichiboushi": Yey! Disappoint!
+"Kichiboushi": Yey! Photo memory!
+Between Paimon and Kichiboushi, the Sweet Madame stands as much chance as a twig in a whirlwind.
+Chef Mao: Ah, I see. I'm very sorry, then, Kichiboushi.
+Chef Mao: Baron who?
+Chef Mao: Earlier, a knight from Mondstadt came with a huge order — a feast for several dozen people, no less. He wanted to bring it to... Um, where was that place again?
+Chef Mao: Eh? Guests, right now? ...I'm very sorry, but we're not taking orders that the moment.
+Chef Mao: Eh? Who's this little fellow?
+Chef Mao: I'm really sorry. It will be a moment before we can take your order. As you can see, our woks are all busy at the moment. Not that I have any idea how that guy is going to take all those dishes back... I just hope he doesn't waste them.
+Chef Mao: Speaking of that, my girl Xiangling's got a friend named Guoba who loves eating as well. The two of you might just get along...
+Chef Mao: This really was very sudden. In fact, we're running so low on ingredients that Xiangling's having to go out and help gather some Jueyun Chilis.
+Chef Mao: Why, yes, that's exactly it! How did you know?
+Freki: *sigh* But it took us so long to wait our turn...
+Freki: But... Going in our place, huh? It is certainly possible, but it does feel like a waste.
+Freki: H—Hey! I—I'm a big sister, not an aunt!
+Freki: It was better than I thought...
+Freki: No matter which one we go to first, our prior fullness will affect the experience to follow.
+Freki: Seriously? How did we not check the dates...
+Freki: That would be doing a disservice to gourmet food!
+Freki: Ugh, we should've checked those dates! What are we supposed to do now...
+Freki: Um, is this... little critter saying something?
+Freki: We want to experience both types of food together.
+Freki: We were planning to try the pinnacles of Li Cuisine and Yue Cuisine before returning to Mondstadt.
+Geri: ...Agh! I totally forgot!
+Geri: ...These rather unusual travelers and this... little animal?
+Geri: But we wound up booking the seats for the same day!
+Geri: Come on, Freki, we've got time. We'll just book another slot. Anyway, weren't you all about that Xinyue Kiosk seafood yesterday?
+Geri: I think it's a fine idea. It would be irresponsible of us to cancel at the last minute, anyway.
+Geri: If not, our arguments whether Li or Yue Cuisine is better will be completely one-sided on either front!
+Geri: Let's just go to Xinyue Kiosk first. we can leave the Liuli Pavilion booking to...
+Geri: No matter which place we go to first, it won't be fair to the other — and certainly not to the cuisine they represent!
+Geri: No, that won't do.
+Geri: So we booked seats at Liuli Pavilion and Xinyue Kiosk a few months back...
+Geri: Speaking of that, I wonder how Francis always manages to get seats at Liuli Pavilion and Xinyue Kiosk...
+Geri: Sure. I'm Geri. Just go to Liuli Pavilion and give Licai my name. The dishes should also already be booked.
+Licai: Indeed, you do have a reservation for today. Well then, this way, please.
+Licai: Mr. Geri... Please wait a moment, let me check...
+Licai: There is indeed a reservation under Mr. Geri's name today. This way, please.
+Licai: Welcome to Liuli Pavilion! Do you have a reservation?
+Paimon: "A gift? Hehe! So, you're finally acknowledging our power, then?"
+Paimon: "Ah! It's an ambush! The Cavalry Captain is hidden inside the feast platters! Argh!"
+Paimon: "Delivery? What delivery?"
+Paimon: "Hooray! It's a cold platter feast. Time to eat, comrades!"
+Paimon: "Huh? Wh—What is this? Do our activities cost that much!? W—Well, I guess we're just going to have to leave Mondstadt then!"
+Paimon: "Paimon sees you already have the knightly virtue of modesty," (Traveler)!
+Paimon: "Well, it's too late to suck up to us now! *cough* Still, what's in it?"
+Paimon: "Wow! It's a feast! Thanks!"
+Paimon: ...
+Paimon: ...There's no way something as silly as that could happen, right?
+Paimon: A stone statue can't do that! And the Anemo Archon won't either. C'mon, (Traveler), let's take Kichiboushi up the statue to have a look!
+Paimon: Alright, Kichiboushi! Face (Traveler) and hold still!
+Paimon: Alrighty! Hold still for a second!
+Paimon: Also, don't worry, the Anemo Archon Statue isn't the Anemo Archon! It's just a stone statue.
+Paimon: Also, is it just Paimon, or is the food better than last time? Why's that?
+Paimon: And speaking of Kaeya...
+Paimon: And then he remembers the names of dishes just fine!
+Paimon: And there's our Delicious Sweet Madame! You could even call it (Traveler)'s signature dish!
+Paimon: And what's that supposed to mean, huh?
+Paimon: But didn't he eventually receive the Shogun's acknowledgment and become the Protector of the Grove?
+Paimon: But this really is a lot! Were Geri and Freki really going to eat all this by themselves?
+Paimon: Come on, don't rush!
+Paimon: Come to think of it, what is bake-danuki food made from?
+Paimon: Don't worry! We'll think about where we should go next, alright?
+Paimon: Don't worry, it's just a statue, not the real archon.
+Paimon: Eh? But there's no one here...
+Paimon: Eh? What's going on over there?
+Paimon: Eh? What's going on...
+Paimon: Geri did say he'd pre-booked the dishes...
+Paimon: He says that we can help Uncle Brown Fur and Aunt Brown Fur go to one of the places!
+Paimon: Hehe! Different lands, different stomachs, don't you know?
+Paimon: Hey here, Chef Mao! We'd like some Black-Back Perch Stew...
+Paimon: Hey! That's not right. This is Kichiboushi, a bake-danuki who's on a journey to hone his skills!
+Paimon: Hey! That's not right. This is Kichiboushi, a new friend we met in Inazuma!
+Paimon: Hey, hey! Stop teaching Kichiboushi bad stuff!
+Paimon: Hi, Sara!
+Paimon: Hmm, that's true. Consultant this, Rite of Parting that... The food wasn't half as good by the time we were done talking.
+Paimon: Hooray! Thanks, Geri!
+Paimon: Huh. Why do you wanna get stronger, Kichiboushi?
+Paimon: Is that supposed to be a compliment?
+Paimon: It tastes as good as it looks, and it does look good... But there's a kind of... emptiness to it?
+Paimon: It's Paimon!
+Paimon: It's decided, then! Let's bring Kichiboushi around to try out the best food in Mondstadt and Liyue! After all, eating is a form of training, right?
+Paimon: It's not Paimore, it's Paimon. It's okay, though. Paimon's not mad anymore.
+Paimon: It's pretty good, eh? ...Hey, leave Paimon some!
+Paimon: Kaeya? That seems a little fishy...
+Paimon: Kichiboushi, we meant the "Fatui"!
+Paimon: Kichiboushi? What's wrong?
+Paimon: Leaves Kapow... You mean vegetables?
+Paimon: Leaving the tanuki path... What's gonna happen if you do that?
+Paimon: Let's go to see Anemo Archon statue, Kichiboushi!
+Paimon: Let's go! Next stop — Wanmin Restaurant!
+Paimon: No, no! Seriously, just how much do you like Lavender Melons...
+Paimon: No, no, this is just a stone that looks like the Anemo Archon. It isn't the real one! It's... you know, like a photo! Like how the Kichiboushi in the photo isn't the real one!
+Paimon: Nope, this is Kichiboushi! He's a bake-danuki who's on a journey to hone his skills! He's heard that the Guoba made here at Wanmin Restaurant is really good, so he wanted to have a try.
+Paimon: Oh come on, we've been over this! This is just a big stone statue made to look like the Anemo Archon.
+Paimon: Oh no...
+Paimon: Paimon can't stop thinking about it, though.
+Paimon: Paimon was just passing a message, okay?
+Paimon: Paimon's also curious... What's Kaeya doing with all that food from Good Hunter and Wanmin Restaurant?
+Paimon: Paimon's pretty sure that Ioroi's fibbing.
+Paimon: Paimon's... just not going to cover the differences between the statue and the real guy.
+Paimon: Phew, that was delicious! How did you find it, Kichiboushi?
+Paimon: Right! No lack of supplies out in the wild, after all.
+Paimon: Since we're here in Liyue, let's find a place where we can take a commemorative photo for Kichiboushi!
+Paimon: So that's how it is...
+Paimon: So to sum it up, you've booked both Liuli Pavilion and Xinyue Kiosk for today, but you can only go to one, right?
+Paimon: So we're here at Good Hunter to treat Kichiboushi to some authentic Mondstadt cuisine! So, Sara, could we have one Sweet Madame and...
+Paimon: Speaking of that... You know, Kichiboushi, we actually ate here, together with a Fatui Harbinger and Rex Lapis himself!
+Paimon: Speaking of which, since we're here in Mondstadt...
+Paimon: Still, why are you so afraid of the Electro Archon, Kichiboushi?
+Paimon: Stop taking turns to talk! Paimon's getting tired out just listening to you two!
+Paimon: Thanks, Sara. Alright then, (Traveler)! It's time for some delectable Sweet Madame — crispy on the outside, tender on the inside! Kichiboushi's gonna love it!
+Paimon: That Kaeya...
+Paimon: That should fit the bill!
+Paimon: That's exactly right! The Anemo Archon is Mondstadt's god, just like the Electro Archon is Inazuma's.
+Paimon: That's right! There's no going without good food with you around, (Traveler).
+Paimon: That's right, you're pretty strong as-is, Kichiboushi. You can create that gliding airbag. You're about half as powerful as Paimon for sure!
+Paimon: Th—That's true...
+Paimon: Ugh! You're so annoying!
+Paimon: We haven't tried Wanmin Restaurant's food in quite a while, too!
+Paimon: Well, Kichiboushi, was today's training fun?
+Paimon: Well, guess it's up to you again, (Traveler)...
+Paimon: Well, since we've had some Mondstadt cuisine, time to pay Liyue Harbor a visit!
+Paimon: Well, that's alright! After all...
+Paimon: Well, uh, close enough?
+Paimon: What!?
+Paimon: What's that guy's scheme this time...
+Paimon: Wow! You actually remembered (Traveler)'s name! So, do bake-danuki get smarter as they eat more delicious food?
+Paimon: You know what, let's stop for today!
+Paimon: You know, Paimon wonders if Barbara's discovered the thing with the Holy Lyre der Himmel...
+Paimon: You know, are seats at Liuli Pavilion really that hard to get? Paimon remembers that we came here that other time...
+Paimon: You see? Kichiboushi wants to eat, too! Don't disappoint Pai— Err, don't disappoint him now!
+Paimon: You see? Nothing to be afraid of!
+Paimon: Yup! There's this winding mountain path on the northern entrance to Liyue Harbor, isn't there?
+Paimon: Yup, that looks great. You've really got a knack for this, huh, (Traveler)?
+Paimon: Yup, this is a new friend of ours from Inazuma!
+Paimon: Yup. This guy here's a bake-danuki who's on a journey to hone his skills!
+Paimon: —Eh! You remembered Paimon's name! Woohoo!
+Sara: Ah, I see. Well then, welcome to Good Hunter, Kichiboushi!
+Sara: Captain Kaeya put in a very expensive order for several dozen people at the Goth Grand Hotel. Our chefs are currently busy as can be...
+Sara: Guoba? Are you referring to Jueyun Guoba, that dish from Liyue...?
+Sara: I suppose you can see that we're booked to capacity?
+Sara: Inazuma, huh. That's incredible... I heard Cyrus mention that it was surrounded by thunderstorms, and that there's lightning everywhere, like what happens when Ms. Lisa gets angry. That seems quite terrifying, to be honest!
+Sara: Sweet Madame... This dish seems simple enough, but it's quite the test of a chef's skills.
+Sara: Um, my apologies, but we can't actually take orders right now because... Hmm, how should I explain this?
+Sara: Well, you can use the open-air stove over here any time.
+Sara: Why, welcome, Paimon and (Traveler)! And who's this? Some new Baron Bunny model...?
+You enjoy the Delicious Sweet Madame together.Kichiboushi had some reservations at first, but ultimately fell to the delectable temptations of the dish and proceeded to tuck in.
+You have a sumptuous feast at Liuli Pavilion with Paimon and Kichiboushi...
+You show Kichiboushi and Paimon the picture you just took.

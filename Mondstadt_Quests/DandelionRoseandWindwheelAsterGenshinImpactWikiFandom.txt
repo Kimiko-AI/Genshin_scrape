@@ -1,0 +1,53 @@
+ Don't mention it.
+ Exactly.
+ Got it. Coming right up!
+ I think you still don't quite understand.
+ I'm glad I could help.
+ I'm glad you both like the drinks.
+ Quest Description"What on earth happened that Acting Grand Master Jean is going to the tavern?""Calm down, it's the Acting Grand Master we're talking about. Besides, she wouldn't be there if something bad were really going on."
+ That's an... interesting way to put it.
+ Think of it as a way to unwind.
+ To quote a saying from Liyue: "Everything has a balance."
+ Well, the Knights of Favonius do have a lot to handle...
+Another familiar face has arrived at the tavern.
+Media:Vo eqtj002 3 paimon 01.ogg Paimon: Huh, this doesn't look like the drink they ordered. Just give this one to Paimon and try making another.
+Media:vo eqtj004 1 lisa 01.ogg Lisa: Hi there, cutie. It's good to see you.
+Media:vo eqtj004 1 lisa 02.ogg Lisa: Hey, what do you mean by "a place like this"? The tavern is a wonderful place to relax and unwind a little.
+Media:vo eqtj004 1 lisa 03.ogg Lisa: *sigh* Do you have any idea how hard it was for me to drag the Acting Grand Master away from her desk?
+Media:vo eqtj004 1 lisa 04.ogg Lisa: We've only been here for a few minutes and worry is already written all over her face.
+Media:vo eqtj004 1 lisa 05.ogg Lisa: Honestly, Jean is the only person I know who needs to be taught how to relax.
+Media:vo eqtj004 1 lisa 06.ogg Lisa: Hey cutie, whip me up a Love Poem. Medium, extra sweet.
+Media:vo eqtj004 1 lisa 07.ogg Lisa: And how about you, Jean? What are you in the mood for?
+Media:vo eqtj004 1 paimon 01.ogg Paimon: Yeah, this is the Acting Grand Master we're talking about. It's only natural that she has a lot on her plate!
+Media:vo eqtj004 1 paimon 02.ogg Paimon: But you know what they say... "Now that we're already here..."
+Media:vo eqtj004 1 paimon 03a.ogg Media:vo eqtj004 1 paimon 03b.ogg Paimon: Why don't you let (him/her) mix a couple of drinks for you two. It'll make you feel a lot better!
+Media:vo eqtj004 1 paimon 04.ogg Paimon: Master Jean, you drink coffee all the time. Wouldn't you like to try something else?
+Media:vo eqtj004 1 qin 01.ogg Jean: It is certainly unusual for us to meet in a place like this, but as Lisa said, I'm glad to see you.
+Media:vo eqtj004 1 qin 02.ogg Jean: *sigh* Lisa...
+Media:vo eqtj004 1 qin 03.ogg Jean: I'll just have... coffee. Medium, please.
+Media:vo eqtj004 1 qin 04.ogg Jean: Thanks, but no. I want something to help keep me awake.
+Media:vo eqtj004 1 qin 05.ogg Jean: Thanks.
+Media:vo eqtj004 2 lisa 01.ogg Lisa: Mmm... The sweetness is just right. Very good.
+Media:vo eqtj004 2 lisa 02.ogg Lisa: Hmm?
+Media:vo eqtj004 2 lisa 03.ogg Lisa: Hehe. See? Cutie knows.
+Media:vo eqtj004 2 lisa 04.ogg Lisa: You were working yourself way too hard, so I thought I'd take you out for some drinks. All I wanted was for you to have some fun.
+Media:vo eqtj004 2 lisa 05.ogg Lisa: But even in the tavern, you're still thinking about work. That's what's most concerning.
+Media:vo eqtj004 2 lisa 06.ogg Lisa: If you're constantly under stress like this, it's only a matter of time before you burn out.
+Media:vo eqtj004 2 lisa 07.ogg Lisa: Hehe.
+Media:vo eqtj004 2 lisa 08.ogg Lisa: Yes, and no. It really depends on who's making the drinks.
+Media:vo eqtj004 2 lisa 09.ogg Lisa: Speaking of which, we couldn't have changed Jean's mind without you today. You sure have a way with words, Cutie.
+Media:vo eqtj004 2 lisa 10.ogg Lisa: Hehe, then we'll see you later.
+Media:vo eqtj004 2 paimon 01.ogg Paimon: Yep! Work hard, play hard, and rest even harder. The two of you may need even more rest than you'd expect!
+Media:vo eqtj004 2 paimon 02.ogg Paimon: Sounds great. Take care, you two!
+Media:vo eqtj004 2 qin 01.ogg Jean: The coffee is strong and rich with just a nice hint of bitterness to it.
+Media:vo eqtj004 2 qin 02.ogg Jean: Actually, I do understand what you meant, Lisa.
+Media:vo eqtj004 2 qin 03.ogg Jean: I've been reflecting on my weaknesses lately. There's still room for me to improve in many areas, such as my productivity and management...
+Media:vo eqtj004 2 qin 04.ogg Jean: I'm concerned my stress may even be starting to somehow affect you as well...
+Media:vo eqtj004 2 qin 05.ogg Jean: What?
+Media:vo eqtj004 2 qin 06.ogg Jean: Oh... You also agree with Lisa, (Traveler)?
+Media:vo eqtj004 2 qin 07.ogg Jean: Hmm, so... is learning to relax actually my biggest challenge?
+Media:vo eqtj004 2 qin 08.ogg Jean: Alright, I... I understand.
+Media:vo eqtj004 2 qin 09.ogg Jean: Thank you, all of you. Now I know that this place serves refreshments for both the body and the mind. Is that why you and Kaeya like the tavern so much?
+Media:vo eqtj004 2 qin 10.ogg Jean: I'll consider coming here to relax if I have another opportunity.
+Traveler: (Alright, this drink is looking good.)
+Traveler: (Done. Let's get started on the next drink.)

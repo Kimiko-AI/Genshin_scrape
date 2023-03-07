@@ -1,0 +1,191 @@
+ (Add Fish Scales and mucus into the drink.)
+ (Add a small amount of Slime Condensate, let settle, then stir...)
+ (Add all of the Butterfly Dust and Fish Scales to the drink.)
+Media:vo dancop001 1910702 diona 08.ogg Diona: That's right, add all of it. This drink is just about ready!
+ (Add all of the Slime Condensate into the drink.)
+Media:vo dancop001 1910702 diona 05.ogg Diona: That's it, that's it! Ooooh, this will definitely be the worst drink ever.
+Media:vo dancop001 1910702 elzer 05.ogg Elzer: You put all of it in?! Wh—What kind of a drink is this?
+ (Add just a small bit of Slime Condensate into the drink.) (-1)
+Media:vo dancop001 1910702 diona 06.ogg Diona: Didn't you heard what I said? You have to mess up every single step.
+Media:vo dancop001 1910702 diona 07.ogg Diona: Just add all of it, quickly! We don't want any leftovers!
+ (Add large amounts of Slime Condensate, stir, and let settle...)
+ (Crush the Fish Scales first, and then add it with the mucus into the drink.)
+ (Cut the Lizard Tail into slices, then put them into the drink.)
+ (Don't add the Butterfly Dust and Fish Scales to the drink.) (-1)
+Media:vo dancop001 1910702 diona 09.ogg Diona: Wait, didn't I tell you!? You must mess up every step.
+Media:vo dancop001 1910702 diona 10.ogg Diona: Quickly, just add everything! Yes, that should do it!
+ (It's like they're finishing each other's sentences...)
+ (Pour a heap of Butterfly Dust.)
+ (Put the entire Lizard Tail into the drink.)
+ (Put the whole Lizard Tail directly into the Dandelion Wine.)
+Media:vo dancop001 1910702 connor 04.ogg Connor: Huh, they added the whole Lizard Tail without distilling it... Is this some kind of new mixing technique?
+Media:vo dancop001 1910702 diona 02.ogg Diona: Yes, nicely done, hehe. Just make everything a total mess.
+ (Soak the Lizard Tail in the distilled alcohol, then add the distilled alcohol into the Dandelion Wine.) (-1)
+Media:vo dancop001 1910702 diona 03.ogg Diona: Wha—!? I thought we agreed that we'd mess everything up. You're just repeating exactly what he did.
+Media:vo dancop001 1910702 diona 04.ogg Diona: Here, let's just dump the Lizard Tail right into the drink, no need for any processing.
+ (Sprinkle a pinch of Butterfly Dust.)
+ (Their faces are gonna cramp up with all the facial cues they're giving each other...)
+ (These two are starting to gesture to each other again.)
+ (These two have been planning this all along.)
+ (What a... coincidence.)
+ (When did this guy come back?)
+ Actually, this drink does smell pretty good.
+ Collaborate with them?
+ How did you prepare so many things in advance?
+ I don't look to be of drinking age yet. Yes, I know...
+ I tried to remember as much as I could.
+ Is it really that bad?
+ It can't be that bad, can it?
+ Quest DescriptionIn order to learn the tricks of a professional mixologist, Diona decides to exchange pointers with Connor
+ What are you guys talking about?
+ Why don't you just make it?
+(Obtain Some Strange... Drink? ×1)
+Connor speeds up his mixing process...
+Diona speeds up her mixing process...
+Make Cocktail: (Finally, Connor didn't seem to add any of the Butterfly Dust and Fish Scales. How do we mess this up?)
+Make Cocktail: (First, Connor soaked the Lizard Tail in the distilled alcohol, then he added the distilled alcohol into the Dandelion Wine. How do we mess this step up?)
+Make Cocktail: (Last step, add Fish Scales along with the mucus from the jar into the drink...)
+Make Cocktail: (Next step, add a large amount of Slime Condensate, stir, and let settle...)
+Make Cocktail: (Next, Connor added a very small portion of Slime Condensate into his drink. How do we mess this up?)
+Make Cocktail: (The goal this time is simply to make a terrible drink. According to Diona's method, the first step should be to put the entire Lizard Tail into the drink...)
+Make Cocktail: (Then, she sprinkled some Butterfly Dust on top...)
+Media:vo dancop001 1910701 connor 01.ogg Connor: Oh, you're here. Look, I've already prepared all the tools we need.
+Media:vo dancop001 1910701 connor 02.ogg Connor: Sure, they're a little... basic, but they should do just fine. I've also prepared a top-shelf bottle of Dandelion Wine to use as a drink base.
+Media:vo dancop001 1910701 connor 03.ogg Connor: Oh, I've also heard that you don't like to see people drink too much, am I right?
+Media:vo dancop001 1910701 connor 04.ogg Connor: So today, we'll strictly just exchange techniques. There will be no talk of drinking, and even if we try the drinks, we'll just only have a little taste. How's that sound?
+Media:vo dancop001 1910701 connor 05.ogg Connor: Ah, heh... Well, we've always been hoping to invite Diona to our winery to instruct us on her techniques of mixing drinks.
+Media:vo dancop001 1910701 connor 06.ogg Connor: Though the preparations have been made, we've just never had the chance...
+Media:vo dancop001 1910701 connor 07.ogg Connor: So how could I not be fully prepared now that she's willing to come today!
+Media:vo dancop001 1910701 connor 08.ogg Connor: Oh, and to keep things fair, we'll need an impartial judge...
+Media:vo dancop001 1910701 connor 09a.ogg Media:vo dancop001 1910701 connor 09b.ogg Connor: Yes, but (he/she) doesn't look...
+Media:vo dancop001 1910701 connor 10.ogg Connor: Haha, so honest and forthcoming, you are after all the Honorary Knight of the Knights of Favonius. What impressive discipline!
+Media:vo dancop001 1910701 connor 11.ogg Connor: Hmm... then who could we find to be the judge?
+Media:vo dancop001 1910701 connor 12.ogg Connor: Elzer, your timing couldn't be any more perfect. I'm about to have a little mixing competition with Diona here...
+Media:vo dancop001 1910701 connor 13.ogg Connor: Actually, we're looking for a judge. Would you be free to help us out?
+Media:vo dancop001 1910701 connor 14.ogg Connor: Uh, so then... Shall we begin Diona?
+Media:vo dancop001 1910701 connor 15.ogg Connor: Um, Elzer... why don't you just take a break over there? We'll bring over the drinks once they're finished.
+Media:vo dancop001 1910701 connor 16.ogg Connor: Elzer, just...
+Media:vo dancop001 1910701 connor 17.ogg Connor: Alright, since I invited you here, I'll begin.
+Media:vo dancop001 1910701 connor 18.ogg Connor: Lizard Tail's bitter nature will ruin the alcohol's texture and taste. We should soak it in distilled spirits first to remove the bitterness, then add it to the Dandelion Wine later as flavoring...
+Media:vo dancop001 1910701 connor 19.ogg Connor: Hmm... Slime Condensate in small amounts could improve the texture, but not too much, otherwise the alcohol might start to coagulate.
+Media:vo dancop001 1910701 connor 20.ogg Connor: The smell of these Fish Scales is way too strong, there's no way it could go in a drink. And is Butterfly Dust even edible?
+Media:vo dancop001 1910701 connor 21.ogg Connor: Oh well, let's start mixing and see what we end up with...
+Media:vo dancop001 1910701 connor 22.ogg Connor: And voilá, it's done. Elzer, if you could please do the honors.
+Media:vo dancop001 1910701 connor 23.ogg Connor: It's all thanks to Diona. If she hadn't asked for this little exchange of skills and provided all the ingredients, then I'd probably still be confined to my old techniques and usual ingredients.
+Media:vo dancop001 1910701 connor 24.ogg Connor: However, I wasn't able to find a way to use the Butterfly Dust and Fish Scales. Seems that my creativity is still quite limited...
+Media:vo dancop001 1910701 connor 25.ogg Connor: I just can't wait to see what she'll be making!
+Media:vo dancop001 1910701 diona 01.ogg Diona: Fine, I suppose. These tools will suffice.
+Media:vo dancop001 1910701 diona 02a.ogg Diona: Well, we have the Honorary Knight...
+Media:vo dancop001 1910701 diona 03.ogg Diona: What's that old booze sponge Elzer doing here? He doesn't think that I'm here to collaborate with them, does he?
+Media:vo dancop001 1910701 diona 04.ogg Diona: Don't you know? Elzer used to always show up at the Cat's Tail.
+Media:vo dancop001 1910701 diona 05.ogg Diona: Every time he came, he would always be sweet-talking me, trying to get me to work with the Dawn Winery to come up with some sort of new drink.
+Media:vo dancop001 1910701 diona 06.ogg Diona: He needs to know that that'll never happen, not until I figure out how to make the most terrible drink in the world.
+Media:vo dancop001 1910701 diona 07.ogg Diona: Sure, but like I said before, this is an exchange of techniques as bartenders. Anyone not involved should stay away.
+Media:vo dancop001 1910701 diona 08.ogg Diona: So he actually made something good out of these ingredients... Do you remember all the techniques he used?
+Media:vo dancop001 1910701 diona 09.ogg Diona: The process wasn't too complicated. Next, all we have to do is follow the same steps, but mess them all up.
+Media:vo dancop001 1910701 diona 10.ogg Diona: Alright, first you can try making a drink using the same techniques.
+Media:vo dancop001 1910701 diona 11.ogg Diona: Because observation and experimentation come first when a professional bartender is faced with a new mixing technique.
+Media:vo dancop001 1910701 diona 12.ogg Diona: As my assistant, you must try your best to make a horrible, terrible tasting drink. Meanwhile, I'll watch closely and see if there's any room for improvement.
+Media:vo dancop001 1910701 diona 13a.ogg Media:vo dancop001 1910701 diona 13b.ogg Diona: Sure, but before I do, let's allow my assistant to have a try. (He's/She's) also very interested in mixing drinks.
+Media:vo dancop001 1910701 elzer 01.ogg Elzer: Connor, there you are. I've been looking for you, what are you doing here?
+Media:vo dancop001 1910701 elzer 02.ogg Elzer: What! Really!? That's great! Would it be alright if I stayed to observe?
+Media:vo dancop001 1910701 elzer 03.ogg Elzer: Haha, why I'd be delighted! It'd be an honor to have an opportunity to have a taste of Diona's craft.
+Media:vo dancop001 1910701 elzer 04.ogg Elzer: What is that supposed to mean?
+Media:vo dancop001 1910701 elzer 05.ogg Elzer: Wait, but I...
+Media:vo dancop001 1910701 elzer 06.ogg Elzer: Ah... right! I shouldn't disturb the mixing process. I'll uh... be over there, just let me know if you need me.
+Media:vo dancop001 1910701 elzer 07.ogg Elzer: Ahem... the color and presentation... Hmm, it looks very interesting. Let me have a try...
+Media:vo dancop001 1910701 elzer 08.ogg Elzer: Mmm, upon an initial taste, the impact of the distilled spirits mixed with the refreshing Dandelion Wine along with a hint of bitterness all work to accentuate the distinct flavor of the drink.
+Media:vo dancop001 1910701 elzer 09.ogg Elzer: And this slightly thicker texture... Hmm, it really is a memorable drink.
+Media:vo dancop001 1910701 elzer 10.ogg Elzer: Yes, not bad Connor. Looks like you've finally found the right inspiration to guide your mixing techniques.
+Media:vo dancop001 1910701 elzer 11.ogg Elzer: Hahaha, no worries. Not everyone possesses Diona's genius intuition and techniques. No need to be so hard on yourself.
+Media:vo dancop001 1910701 elzer 12.ogg Elzer: So, Diona's going to be making the next drink for us, right?
+Media:vo dancop001 1910701 elzer 13a.ogg Media:vo dancop001 1910701 elzer 13b.ogg Elzer: Is (he/she) a bartender as well? Ooh, aren't we lucky! We're in for a treat.
+Media:vo dancop001 1910701 elzer 14.ogg Elzer: Please, this way. All the materials and tools are already prepared, you may start when you're ready.
+Media:vo dancop001 1910702 connor 01.ogg Connor: I hope it works. I was out there for weeks waiting for this chance... We musn't let this opportunity go to waste.
+Media:vo dancop001 1910702 connor 02.ogg Connor: No problem. We've already gone over this many times before.
+Media:vo dancop001 1910702 connor 03.ogg Connor: Y—Yeah, we're talking about business. Let's go over the recent upkeep costs of the winery again, shall we, Elzer?
+Media:vo dancop001 1910702 connor 04.ogg Connor: Huh, they added the whole Lizard Tail without distilling it... Is this some kind of new mixing technique?
+Media:vo dancop001 1910702 connor 05.ogg Connor: Alright Elzer, could you please do the honors for this one as well?
+Media:vo dancop001 1910702 diona 01.ogg Diona: Remember, do everything completely opposite to how Connor did. This is the only way we can reach my... I mean, our goal.
+Media:vo dancop001 1910702 diona 02.ogg Diona: Yes, nicely done, hehe. Just make everything a total mess.
+Media:vo dancop001 1910702 diona 03.ogg Diona: Wha—!? I thought we agreed that we'd mess everything up. You're just repeating exactly what he did.
+Media:vo dancop001 1910702 diona 04.ogg Diona: Here, let's just dump the Lizard Tail right into the drink, no need for any processing.
+Media:vo dancop001 1910702 diona 05.ogg Diona: That's it, that's it! Ooooh, this will definitely be the worst drink ever.
+Media:vo dancop001 1910702 diona 06.ogg Diona: Didn't you heard what I said? You have to mess up every single step.
+Media:vo dancop001 1910702 diona 07.ogg Diona: Just add all of it, quickly! We don't want any leftovers!
+Media:vo dancop001 1910702 diona 08.ogg Diona: That's right, add all of it. This drink is just about ready!
+Media:vo dancop001 1910702 diona 09.ogg Diona: Wait, didn't I tell you!? You must mess up every step.
+Media:vo dancop001 1910702 diona 10.ogg Diona: Quickly, just add everything! Yes, that should do it!
+Media:vo dancop001 1910702 elzer 01.ogg Elzer: Great job, keep it up. We'll definitely be able to hire Diona as resident bartender here!
+Media:vo dancop001 1910702 elzer 02.ogg Elzer: You really outdid yourself this time, Connor. As long as we can get Diona to come work here, all our hard work will have paid off. This is just the first step.
+Media:vo dancop001 1910702 elzer 03.ogg Elzer: Now don't forget, Diona must feel our sincerity and our passion! Oh, and remember, try not to overdo it...
+Media:vo dancop001 1910702 elzer 04.ogg Elzer: Huh?! Oh, hehe... nothing. We're just uhh... just discussing some winery business matters, yeah... hahaha.
+Media:vo dancop001 1910702 elzer 05.ogg Elzer: You put all of it in?! Wh—What kind of a drink is this?
+Media:vo dancop001 1910702 elzer 06.ogg Elzer: Ahem... Uh, on second thought Connor, I think you should taste this... unique drink.
+Media:vo dancop001 1910702 elzer 07.ogg Elzer: Who knows, maybe you'll find some more inspiration for your mixing.
+Media:vo dancop001 1910703 connor 01.ogg Connor: Uh, but... is it even...
+Media:vo dancop001 1910703 connor 02.ogg Connor: Ah, understood!
+Media:vo dancop001 1910703 connor 03.ogg Connor: I'm sorry, but this drink is way too, uh... creative for me. I'm afraid I couldn't stomach it.
+Media:vo dancop001 1910703 connor 04.ogg Connor: Uh, Elzer... Diona is mixing a drink, right?
+Media:vo dancop001 1910703 connor 05.ogg Connor: Let me try... Mmm, what a splendid drink! Though the bitterness of an entire Lizard Tail is quite potent, it is perfectly complemented by the refreshing and sour flavor of the Dandelion Wine.
+Media:vo dancop001 1910703 connor 06.ogg Connor: In addition, the Fish Scales that were broken up during the stirring process have lost all their fishiness after soaking in the alcohol. The remaining flavor somehow enriches the taste of the drink.
+Media:vo dancop001 1910703 connor 07.ogg Connor: The texture of all the Slime Condensate after fully absorbing all the alcohol has become rich and dynamic.
+Media:vo dancop001 1910703 connor 08.ogg Connor: And lastly, the pinch of the Butterfly Dust adds a finishing touch that makes this drink perfect. It is sensational both visually and in taste! A true display of craftsmanship!
+Media:vo dancop001 1910703 connor 09.ogg Connor: The drink I made earlier isn't even worth mentioning compared to this one! Ah, and I thought my drink was inspiring!
+Media:vo dancop001 1910703 diona 01.ogg Diona: Alright, are you done mixing the drink?
+(After giving Diona the Cocktail)
+Media:vo dancop001 1910703 diona 02.ogg Diona: Looks like it worked! All we have to do is mess up every step of a professional mixing method, and we end up with an absolutely terrible drink.
+Media:vo dancop001 1910703 diona 03.ogg Diona: Hehehe... Ahem, yes, this is a... splendid drink you've made. However, I'm afraid we can't serve it to customers like this! Ahem, here...
+Media:vo dancop001 1910703 diona 04.ogg Diona: Hand me the drink. Let's keep the alcohol and dump all the other ingredients. I'll use that as a base to mix a new drink.
+Media:vo dancop001 1910703 diona 05.ogg Diona: First, I'll chop the Lizard Tail into slices... then soak it in the drink. Next, add the Slime Condensate and stir, then leave it to settle for a bit. Finally, we sprinkle the Butterfly Dust and...
+Media:vo dancop001 1910703 diona 06.ogg Diona: Oh wait, I almost forgot the Fish Scales! ...Okay, let's add it to the drink along with the mucus from the jar!
+Media:vo dancop001 1910703 diona 07.ogg Diona: And then we stirrr... C'mon be dreadful, be awful, be absolutely disgusting!
+Media:vo dancop001 1910703 diona 08.ogg Diona: And... we're done! Hehehe, this specialty drink will be the first blow in tearing down the lies of the alcohol industry.
+Media:vo dancop001 1910703 diona 09.ogg Diona: Please, have a taste. Come and realize your empty delusions of alcohol, hahahaha...
+Media:vo dancop001 1910703 diona 10.ogg Diona: WH—WHAT!?
+Media:vo dancop001 1910703 diona 11.ogg Diona: Stop joking around! You two must have drunk so much that your nose and tongue have lost their senses!
+Media:vo dancop001 1910703 diona 12.ogg Diona: Huh? Impossible! After all I've done! How is it that my drink still tastes great!? I must not have messed up enough somewhere...
+Media:vo dancop001 1910703 diona 13.ogg Diona: Please, use this drink as your base and try making your drink again.
+Media:vo dancop001 1910703 diona 14.ogg Diona: Whatever you do, just make it disgusting!
+Media:vo dancop001 1910703 elzer 01.ogg Elzer: Connor, the most important thing right now is to show Diona our sincerity, understand?
+Media:vo dancop001 1910703 elzer 02.ogg Elzer: Uh, yes, this drink is, uhh... very creative. Connor, I think you should taste it.
+Media:vo dancop001 1910703 elzer 03.ogg Elzer: I've never seen such a technique before, but it is Diona, after all. She must have her own way... I suppose.
+Media:vo dancop001 1910703 elzer 04.ogg Elzer: Wow! Th—This taste! Why, I've never had anything like it!
+Media:vo dancop001 1910705 connor 01.ogg Connor: Huh, what's wrong? This is Diona's specialty drink, right? Let me try...
+Media:vo dancop001 1910705 connor 02.ogg Connor: Ughh! You are Diona's assistant after all, your craft must be... ahead of the curve.
+Media:vo dancop001 1910705 connor 03.ogg Connor: So far ahead of the curve that I... I don't feel so good. Sorry, I—I'm just gonna go over there... UGHH!
+Media:vo dancop001 1910705 connor 04.ogg Connor: It's true. No matter what new and unusual ingredients she uses, Diona has never disappointed a single customer.
+Media:vo dancop001 1910705 connor 05.ogg Connor: Yeah, and the most impressive part of it all is the never-ending list of new ingredients that you are using.
+Media:vo dancop001 1910705 connor 06.ogg Connor: No matter what kind of ingredients it may be, if you make it, it'll be delicious.
+Media:vo dancop001 1910705 connor 07.ogg Connor: After all, you are the genius bartender of Mondstadt, an originator of unique drinks, and the pinnacle of...
+Media:vo dancop001 1910705 connor 08.ogg Connor: Huh? Diona? Are you alright?
+Media:vo dancop001 1910705 connor 09.ogg Connor: Ah, did I really? Sorry, I couldn't control myself!
+Media:vo dancop001 1910705 connor 10.ogg Connor: Oh my! What a fragrance!
+Media:vo dancop001 1910705 connor 11.ogg Connor: What is this delightful smell? It's like a whole new sensation for me!
+Media:vo dancop001 1910705 diona 01.ogg Diona: Yuck! Wh—What is this smell!? The pungent fish smell, sticky Slime Condensate, and spongy Lizard Tail... ew, not to mention the Butterfly Dust everywhere, blergh...
+Media:vo dancop001 1910705 diona 03.ogg Diona: Though you didn't really follow the process we discussed, it seems that you've actually got quite a knack for this.
+Media:vo dancop001 1910705 diona 04.ogg Diona: Alright, let's show this to Elzer and Connor!
+Media:vo dancop001 1910705 diona 05.ogg Diona: D—Drink... for the rest of your life?
+Media:vo dancop001 1910705 diona 06.ogg Diona: D—Delicious...
+Media:vo dancop001 1910705 diona 07.ogg Diona: No, stop...
+Media:vo dancop001 1910705 diona 08.ogg Diona: Stop joking around! I can make a drink that tastes like that! Here, watch this!
+Media:vo dancop001 1910705 diona 09.ogg Diona: Give me that drink you just made, I'll show you!
+Media:vo dancop001 1910705 diona 10.ogg Diona: I'm going to add all the remaining ingredients! Lizard Tails, Fish Scales, mucus, and the Slime Condensate!
+Media:vo dancop001 1910705 diona 11.ogg Diona: And stirrr... C'mon be dreadful, be awful, be absolutely disgusting! Ugh, it can't be that hard!
+Media:vo dancop001 1910705 diona 12.ogg Diona: Done! My all-new specialty, and this time...
+Media:vo dancop001 1910705 diona 13.ogg Diona: Grrr... Stop joking around, you two old drunks!
+Media:vo dancop001 1910705 elzer 01.ogg Elzer: Ooh, is this another one of Diona's new drinks?
+Media:vo dancop001 1910705 elzer 02.ogg Elzer: AHH! Wh—What is this!? Even if you purposely tried to botch it, it'd still be hard to make something as hideous as this!
+Media:vo dancop001 1910705 elzer 03.ogg Elzer: No, keep it away from me! Please. just take that somewhere else!
+Media:vo dancop001 1910705 elzer 04.ogg Elzer: Ahem... In my personal and honest opinion, this drink is absolutely... terrible.
+Media:vo dancop001 1910705 elzer 05.ogg Elzer: Aren't you supposed to be Diona's assistant? Thie drinks that she makes are out of this world.
+Media:vo dancop001 1910705 elzer 06.ogg Elzer: You used the same ingredients and followed nearly the same mixing process.
+Media:vo dancop001 1910705 elzer 07.ogg Elzer: But how is it that the drinks she makes are never bad?
+Media:vo dancop001 1910705 elzer 08.ogg Elzer: If you don't believe me, you can ask anyone who's ever gone for a drink in Mondstadt. There's not a single soul that doesn't reminisce about your specialty drinks. All it takes is a single sip, and you'd wish that you could drink it for the rest of your life.
+Media:vo dancop001 1910705 elzer 09.ogg Elzer: No, Connor! You overdid it!
+Media:vo dancop001 1910705 elzer 10.ogg Elzer: *gasp* And the color!
+Media:vo dancop001 1910705 elzer 11.ogg Elzer: What is this unique coloring? Hoho... it's another perfect drink!
+Media:vo dancop001 1910706 connor 01.ogg Connor: I wonder what kind of... surprise will be in store for us.
+Media:vo dancop001 1910706 elzer 01.ogg Elzer: Oh, are you... done? I'm very, uh... excited to taste your new work.
+Observe Cup: (The thick Slime Condensate has combined with the alcohol, while the Lizard Tail has expanded and is now floating at the top of the drink. The Butterfly Dust is scattered all over the place, and some Fish Scales have sunk to the bottom of the glass.)
+Observe Cup: (This should do it, let's show it to Diona...)

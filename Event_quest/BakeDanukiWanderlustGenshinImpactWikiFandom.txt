@@ -1,0 +1,378 @@
+
+ Lavender Melon?
+Mamesuke: Lavender Melon, purple, tasty!
+Paimon: It's probably a melon from Inazuma.
+ Are Lavender Melons a special type of Sunsettia?
+Mamesuke: What is... Sunsettia?
+Paimon: Lavender Melons are Lavender Melons! They're not the same!
+Paimon: This isn't a Lavender Melon, it's a Sunsettia!
+
+ Maybe it has something to do with soil and climate.
+Paimon: Paimon's heard that storms are ever-present in Inazuma!
+ Maybe it has something to do with Archon preferences.
+Paimon: Oh... Is the Electro Archon a god who likes Lavender Melons? It's hard to imagine that...
+
+ Maybe it has something to do with soil and climate.
+Paimon: Yeah, it's thundering all day over there in Inazuma...
+ Maybe it has something to do with Archon preferences.
+Paimon: Would Ei enjoy a Lavender Melon? It's pretty hard to imagine that happening...
+
+(If the Anemo Amber was not broken)
+Shibasuke: Yellow Fur kapow! Fly high, can't learn... Mm...
+Paimon: You can't? Oh well, but this still counts as a way to enter a wind current...
+
+Mamesuke: Look! Not purple Lavender Melons! We want, but kapow!
+Paimon: Oh, it's just a wind barrier! Hehe! We've seen many of these in our adventures across Mondstadt, haven't we, (Traveler)?
+Paimon: Speaking of wind barriers, why do they vanish once the thing inside them is taken, anyway?
+ Well, the thing they're protecting is gone, so...
+Paimon: ...That sounds kinda sad.
+Shibasuke: White Fur can fly. White Fur get it?
+Paimon: Oh yeah... Wait! You know, you should learn to stop relying on others and solve problems by yourself.
+Mamesuke: Mmmm...
+ It seems a little too difficult for a beginner.
+Paimon: Is that so? Hmph! Then experienced adventurers like (Traveler) and Paimon will have to teach you some lessons!
+Paimon: There's Anemo Amber here, which is perfect. It'll create a wind current once destroyed. C'mon, (Traveler), show them how it's done!
+ 
+(Talk to Mamesuke again)
+Mamesuke: Anemo Amber... Mm?
+ 
+(Talk to Shibasuke again)
+Shibasuke: White Fur fly, White Fur kapow?
+ 
+(After destroying the Anemo Amber)
+Paimon: Ah! The current vanished so quickly... Well, not that there's no other way to do this...
+Shibasuke: White Fur no fear!
+Paimon: Wow! Shibasuke said that transformation isn't easy, so Paimon thought he wouldn't be good at it.
+Mamesuke: Shibasuke amazing! Transform into many things! But not when afraid!
+Paimon: Ooh, so that's how it is! Alright then, (Traveler), let's get those Sunsettias for Mamesuke and Shibasuke!
+ 
+(Talk to Mamesuke again)
+Mamesuke: Anemo Amber, Shibasuke transform... Shibasuke Amber! Hehe!
+
+Paimon: Alright! Let's go now!
+(Go to Ending)
+
+Paimon: But the situation here on the islands isn't very clear! Let's head back once we've resolved everything!
+(Go to Pause)
+
+Paimon: Eh? But Paimon's heard that bake-danuki who can transform into things like barrels and lamps can be seen all over Inazuma.
+
+Paimon: Eh? But bake-danuki who can transform into things like barrels and lamps can be seen all over Inazuma.
+
+Paimon: It's a Sunsettia. Actually, both of them grow on Cuihua Wood, but the fruit varies according to the location!
+(If the player has not completed Tanuki-Bayashi in the Forest)[verification needed]
+
+ Maybe it has something to do with soil and climate.
+Paimon: Paimon's heard that storms are ever-present in Inazuma!
+ Maybe it has something to do with Archon preferences.
+Paimon: Oh... Is the Electro Archon a god who likes Lavender Melons? It's hard to imagine that...
+(If the player has completed Tanuki-Bayashi in the Forest)[verification needed]
+
+ Maybe it has something to do with soil and climate.
+Paimon: Yeah, it's thundering all day over there in Inazuma...
+ Maybe it has something to do with Archon preferences.
+Paimon: Would Ei enjoy a Lavender Melon? It's pretty hard to imagine that happening...
+ 
+ ...Is green like the wind.
+ A bake-danuki?
+ A little vigilance never hurts when you're out of doors.
+ Are Lavender Melons a special type of Sunsettia?
+Mamesuke: What is... Sunsettia?
+Paimon: Lavender Melons are Lavender Melons! They're not the same!
+ Dirty~
+ Guess you've gotta work harder too, Paimon.
+ I kinda wish you could transform too, Paimon...
+ It might be a Pyro Whopperflower.
+ It seems a little too difficult for a beginner.
+ It's a leaf from the Mondstadt-styled mountain...
+ It's because we've left the islands...
+ Lavender Melon?
+Mamesuke: Lavender Melon, purple, tasty!
+Paimon: It's probably a melon from Inazuma.
+ Like Paimon.
+Paimon: Paimon isn't that heavy!
+ Like a Meteorite.
+Paimon: Meteorites are really handy!
+ Luckily, it didn't activate a challenge.
+ Maybe it has something to do with Archon preferences.
+Paimon: Oh... Is the Electro Archon a god who likes Lavender Melons? It's hard to imagine that...
+ Maybe it has something to do with Archon preferences.
+Paimon: Would Ei enjoy a Lavender Melon? It's pretty hard to imagine that happening...
+ Maybe it has something to do with soil and climate.
+Paimon: Paimon's heard that storms are ever-present in Inazuma!
+ Maybe it has something to do with soil and climate.
+Paimon: Yeah, it's thundering all day over there in Inazuma...
+ Maybe it's a Dendro Slime on fire.
+ Maybe we can switch to the mountain style of Liyue.
+ Ooh, bravo. Bye-mon bravo.
+ Quest DescriptionA bake-danuki seems to be looking for help on Pudding Isle...
+ Shibasuke might be on the Mondstadt-styled mountain.
+ So you got separated from Shibasuke. Is that it?
+ Step DescriptionThe anomalies on the island have yet to stop. Once the problem is solved, send the bake-danuki off on their new journey.
+ Step DescriptionThe troubles have all been seen to. It is time for the bake-danuki to set out on a new journey.
+ That sounds mighty like the Fatui.
+ There are Geovishaps there that inflict excruciating pain when they hit you.
+ There are Jueyun Chilis there that make you spew flames.
+ These islands have always been really unusual.
+Paimon: Yeah... It's almost like nothing strange is strange here!
+ They can't speak anymore...
+ We can take them with us when we leave.
+ We can't understand them anymore...
+ Well, guess we'll have to take responsibility and help Mamesuke search.
+ Well, the thing they're protecting is gone, so...
+ What do you mean "we"? All I hear are bake-danuki noises.
+Paimon: Huh? Has some strange ability awakened within Paimon? Is Paimon the Tanuki Whisperer now? ... Nah, that can't be it!
+ Yeah, we just need another mountain kaboom.
+Mamesuke: ...Huh?
+Mamesuke: ...The Fatty?
+Mamesuke: Anemo Amber, Shibasuke transform... Shibasuke Amber! Hehe!
+Mamesuke: Anemo Amber... Mm?
+Mamesuke: Big cold person.
+Mamesuke: Bye... mon...?
+Mamesuke: Eek! Yellow Fur and... Flying White Fur?
+Mamesuke: Flame grass so hot.
+Mamesuke: Fun! Very red, very yellow!
+Mamesuke: Kaboooom~
+Mamesuke: Lavender Melon, White Fur like?
+Mamesuke: Lavender Melon, purple, tasty!
+Mamesuke: Leave ship and wait in cave. Fatty leave.
+Mamesuke: Liyue fun?
+Mamesuke: Look! Not purple Lavender Melons! We want, but kapow!
+Mamesuke: Lots of wind on fists.
+Mamesuke: Mamesuke lead way! Come!
+Mamesuke: Mm!
+Mamesuke: Mm! Mamesuke go too!
+Mamesuke: Mm! Mamesuke help!
+Mamesuke: Mm! Not Mondstadt and Liyue with island and mountain.
+Mamesuke: Mm! Shibasuke!
+Mamesuke: Mm! Smart Yellow Fur! Mamesuke grateful!
+Mamesuke: Mm! Thanks Yellow Fur, White Fur!
+Mamesuke: Mm, Shibasuke help!
+Mamesuke: Mm... Lavender Melon?
+Mamesuke: Mm... Shibasuke can't find...
+Mamesuke: Mm... Shibasuke...
+Mamesuke: Mm?
+Mamesuke: Mmm... Dumb White Fur...
+Mamesuke: Mmm... Hydro Amber?
+Mamesuke: Mmmm...
+Mamesuke: Mondstadt fun, but...
+Mamesuke: Mountain kaboom!
+Mamesuke: Mountain kaboom! ...Shibasuke?
+Mamesuke: Paimora?
+Mamesuke: Playing with Shibasuke on unfamiliar boat.
+Mamesuke: Shibarock, Shibarock! Mm-hehe!
+Mamesuke: Shibasuke amazing! Transform into many things! But not when afraid!
+Mamesuke: Shibasuke find way home, mountain kaboom!
+Mamesuke: Shibasuke?
+Mamesuke: Sleepy... Woke up! Lots of people!
+Mamesuke: So much green! Wind so soft! Yey!
+Mamesuke: So strong!
+Mamesuke: What is... Sunsettia?
+Mamesuke: White Fur smart!
+Mamesuke: White Fur, look! Strange plate!
+Mamesuke: Woohoo! Mondstadt!
+Mamesuke: Wow! Let's go!
+Mamesuke: Wow! Not purple Lavender Melon!
+Mamesuke: Wow! Very fun!
+Mamesuke: Yey!
+Mamesuke: Yey! Box!
+Mamesuke: Yey! Wait moment!
+Paimon: (Traveler)! You too!?
+Paimon: (Traveler), let's help Mamesuke and Shibasuke pick the Flaming Flower...
+Paimon: ...Shibasuke is pushing its luck...
+Paimon: ...That sounds kinda sad.
+Paimon: Ah! The current vanished so quickly... Well, not that there's no other way to do this...
+Paimon: Ah, that's a Ruin Guard! Paimon doesn't think Mamesuke and Shibasuke can handle that!
+Paimon: Ah? You want to go to the real Mondstadt and Liyue instead of returning to Inazuma?
+Paimon: Alright! Let's go now!
+Paimon: Alright, alright. Have you two had enough fun now? Want to return to Inazuma yet?
+Paimon: Anyway, how did you get here, Mamesuke?
+Paimon: Argh! He's so infuriating! He would be bake-danuki paste now if it wasn't for us!
+Paimon: Aw, Shibasuke, so you did all this to help us out...
+Paimon: But the bake-danuki of Inazuma should be skilled at transforming. Shibasuke could've transformed into a butterfly or something and flown away just now, right?
+Paimon: But the situation here on the islands isn't very clear! Let's head back once we've resolved everything!
+Paimon: But they look like they'll be fine...
+Paimon: C'mon, Paimon has always been really reliable!
+Paimon: Do you mean that you want to play somewhere else? Uh... (Traveler), what should we do?
+Paimon: Eh!?
+Paimon: Eh-he.
+Paimon: Eh? But I remember Mamesuke mentioning that Shibasuke can't transform when afraid...
+Paimon: Eh? But Paimon's heard that bake-danuki who can transform into things like barrels and lamps can be seen all over Inazuma.
+Paimon: Eh? But bake-danuki who can transform into things like barrels and lamps can be seen all over Inazuma.
+Paimon: Eh? But how will you get back to Inazuma? The Fatui ship? Paimon doesn't reckon you can go back the same way you came.
+Paimon: Eh? Come on, Paimon's super friendly-looking.
+Paimon: Eh? Did that bake-danuki speak?
+Paimon: Eh? Does this mean...
+Paimon: Eh? Is that Shibasuke? It looks just like Mamesuke...
+Paimon: Eh? Isn't that Mamesuke? What's Mamesuke doing here?
+Paimon: Eh? We've got Slimes dropping from the skies!
+Paimon: Eh? What are you talking about?
+Paimon: Eh? What strange sound? Paimon didn't hear anything... Ah!
+Paimon: Eh? What's a bake-danuki doing on this island?
+(If the player has not completed Tanuki-Bayashi in the Forest)[verification needed]
+ A bake-danuki?
+Paimon: Oh, (Traveler), you've never seen one before? They're called bake-danuki!
+Paimon: It is said that they enjoy disguising themselves and pulling pranks on people in Inazuma's forests.
+Paimon: Eh? What's that?
+Paimon: Even if it did, it would be really fun with Mamesuke and Shibasuke here to help!
+Paimon: Flaming grass... Oh, you mean Flaming Flowers!
+Paimon: Furry grass? You mean the Dandelions?
+Paimon: Gah, Shibasuke is so suspicious of everything.
+Paimon: Gah, these two are so impatient. Let's follow them!
+Paimon: Hearing that from Shibasuke feels so strange... But are they gonna be alright?
+Paimon: Hehe! You're lucky we arrived in time, eh, (Traveler)?
+Paimon: Hehe, (Traveler) and Paimon started our adventure in Mondstadt, and we've made so many unforgettable memories along the way...
+Paimon: Hehe, Mamesuke and Shibasuke are so reliable now!
+Paimon: Hehe, Paimon knew it was a Flaming Flower.
+Paimon: Hehe, Shibasuke's amazing too.
+Paimon: Hey! Cheer up! We may not have found Shibasuke, but we've found a clue! Right, (Traveler)?
+Paimon: Hey! Mamesuke! We brought Shibasuke back!
+Paimon: Hey! Stop that! Who would want to go there after hearing that!?
+Paimon: Hmm, that is possible... Let's go take a look!
+Paimon: Hmm... How should we explain this... They look almost the same, but one creates a wind current, and the other creates rain.
+Paimon: Hmm... So we'll come back a little later, then?
+Paimon: Hmm... We can't leave you alone here, Mamesuke, so come with us!
+Paimon: Hmm... You're Shibasuke, right? Stop trying to get rid of us, Mamesuke sent us to find you.
+Paimon: Hmph, Paimon's got this one! It says its name is Mamesuke!
+Paimon: How is it different?
+Paimon: Huh, where did they go? Did they... turn into those elemental ambers?
+Paimon: Huh? Has some strange ability awakened within Paimon? Is Paimon the Tanuki Whisperer now? ... Nah, that can't be it!
+Paimon: Is it just like last time?
+Paimon: Is that so? Hmph! Then experienced adventurers like (Traveler) and Paimon will have to teach you some lessons!
+Paimon: It feels like waking up from a dream...
+Paimon: It is said that they enjoy disguising themselves and pulling pranks on people in Inazuma's forests.
+Paimon: It should be safe now. Give the Flaming Flower Stamen to Mamesuke and Shibasuke!
+Paimon: It should be safe to set it free now.
+Paimon: It's a Sunsettia. Actually, both of them grow on Cuihua Wood, but the fruit varies according to the location!
+Paimon: It's a leaf that contains the power of Anemo. Huh, speaking of those...
+Paimon: It's probably a melon from Inazuma.
+Paimon: Later?
+Paimon: Lavender Melons are Lavender Melons! They're not the same!
+Paimon: Lavender Melons are too light!
+Paimon: Let's head up the mountain to look for Shibasuke. Wait for us here, Mamesuke!
+Paimon: Let's just get rid of those slimes first...
+Paimon: Let's not switch the mountains for now. We'll have a headache if those bake-danuki get separated again.
+Paimon: Look, (Traveler)! Seems like there's a bake-danuki trapped here in a cage!
+Paimon: Looks like Shibasuke isn't willing to talk anymore... Let's just take him back to Mamesuke!
+Paimon: Mamesuke is still in the mountains! If we switch the mountain styles now, finding Shibasuke will be the least of our problems! Even Mamesuke might get lost!
+Paimon: Mamesuke! Shibasuke! We can go to Mondstadt now!
+Paimon: Meteorites are really handy!
+Paimon: Mondstadt seems like the better choice for our first destination... Let's go to Windrise! The terrain is more even, and it's close to the city.
+Paimon: Mountain kaboom? Oh! Is he referring to the mountains switching...
+Paimon: Not Paimora! Pai... mon...!
+Paimon: Of course! (He's/She's) the famous (Traveler)!
+Paimon: Of course! Come with us. Mamesuke is waiting for you!
+Paimon: Of course! Paimon and (Traveler) have learned a lot in our adventures.
+Paimon: Oh brother, Paimon doesn't think they've even considered that. (Traveler), we can take them back to Inazuma, right?
+Paimon: Oh yeah... Wait! You know, you should learn to stop relying on others and solve problems by yourself.
+Paimon: Oh, (Traveler), you've never seen one before? They're called bake-danuki!
+Paimon: Oh, it's just a wind barrier! Hehe! We've seen many of these in our adventures across Mondstadt, haven't we, (Traveler)?
+Paimon: Oh, that! It's a mechanism activated by weight! Actually, there are some in Inazuma, too.
+Paimon: Oh... Is the Electro Archon a god who likes Lavender Melons? It's hard to imagine that...
+Paimon: Oh... Then let's do another mountain kaboom!
+Paimon: Ooh! It's Mamesuke and Shibasuke!
+Paimon: Ooh, so that's how it is! Alright then, (Traveler), let's get those Sunsettias for Mamesuke and Shibasuke!
+Paimon: Paimon can't do that!
+Paimon: Paimon doesn't know how much of Mondstadt's charm they'll be able to experience on these islands, but making them Mondstadt-styled islands is probably the best we can do.
+Paimon: Paimon hopes Mamesuke and Shibasuke will be able to create many happy memories in Mondstadt, just like (Traveler) and Paimon did...
+Paimon: Paimon isn't that heavy!
+Paimon: Paimon's heard that storms are ever-present in Inazuma!
+Paimon: Pyro Slimes are much more dangerous than Flaming Flowers because they explode. But just like Flaming Flowers, extinguishing them solves all your problems!
+Paimon: Right! Mamesuke, Shibasuke! Would you like to see the scenery in Liyue?
+Paimon: Shibasuke is really quick on his feet! (Traveler), since Shibasuke is here to help, why don't we unlock this mechanism?
+Paimon: So Shibasuke didn't really trust us until now...
+Paimon: So the Anemo Amber and Hydro Amber that appeared earlier... Were they Mamesuke and Shibasuke trying to help us out?
+Paimon: Speaking of which, we should be able to bring Mamesuke and Shibasuke to Mondstadt now. Let's go look for them!
+Paimon: Speaking of wind barriers, why do they vanish once the thing inside them is taken, anyway?
+Paimon: Switch to Liyue-style mountains!
+Paimon: That's "Paimon" to you, not "Flying White Fur" or anything!
+Paimon: That's right! It's just some Ruin Guard. No match for us at all! This isn't the time to run away, (Traveler)!
+Paimon: There are hilichurls about as well. Let's help!
+Paimon: There's Anemo Amber here, which is perfect. It'll create a wind current once destroyed. C'mon, (Traveler), show them how it's done!
+Paimon: There's a trick to picking Flaming Flowers! You have to extinguish them first to pick them safely.
+Paimon: They both look the same, so why is Shibasuke so stubborn...
+Paimon: They look like they're having a lot of fun here in the Liyue-styled mountains!
+Paimon: This isn't a Lavender Melon, it's a Sunsettia!
+Paimon: Ugh, forget it... Wait! Why are we suddenly able to understand bake-danuki?
+Paimon: Ugh... Paimon's getting confused. You mean you're Shibasuke, and you're searching for something?
+Paimon: Uh! Paimon's just touched!
+Paimon: Uh... Paimon's never tried it, but it probably won't work...
+Paimon: Uh... Something heavy! Like...
+Paimon: Uh... What do we do... What do you think, (Traveler)?
+Paimon: We should be able to find Shibasuke if we switch the mountains to resemble Mondstadt's.
+Paimon: We're back!
+Paimon: Well, since we've found a clue, let's head back to Mamesuke!
+Paimon: Well, this is Mondstadt. What do you think? The scenery is pretty nice, right?
+Paimon: Well... We haven't found Shibasuke yet...
+Paimon: What do we do, (Traveler)? Are we responsible for Shibasuke going missing?
+Paimon: Whew... They're so fast...
+Paimon: Whew... that was difficult. We should have asked Mamesuke for proof.
+Paimon: Woohoo! A chest!
+Paimon: Would Ei enjoy a Lavender Melon? It's pretty hard to imagine that happening...
+Paimon: Wow! Shibasuke said that transformation isn't easy, so Paimon thought he wouldn't be good at it.
+Paimon: Wow! Shibasuke transformed into a Hydro Amber!
+Paimon: Yeah, Shibasuke can take care of itself now, so they should be fine! Happy adventuring!
+Paimon: Yeah, but how? ... Oh, Paimon knows what to do! Let's look for clues with your Elemental Sight!
+Paimon: Yeah, but now a leaf covered in Anemo has found its way to an Inazuma-styled mountain, and Shibasuke is missing. That means...
+Paimon: Yeah, if Inazuma is purple like lightning, then Mondstadt...
+Paimon: Yeah, it's thundering all day over there in Inazuma...
+Paimon: Yeah... It's almost like nothing strange is strange here!
+Paimon: You can't? Oh well, but this still counts as a way to enter a wind current...
+Paimon: You seem like you're having fun on this Mondstadt-styled mountain! The scenery here is quite different from Inazuma, right?
+Paimon: You two are too impatient! (Traveler), let's catch up with them!
+Paimon: You'll need water or ice on a sunny day, and it's even easier if there's a Hydro Amber nearby. If it's raining, just use Anemo to swirl the rain and wet it.
+Shibasuke: ...Mamesuke? Really?
+Shibasuke: Afraid, but White Fur and Yellow Fur in danger.
+Shibasuke: Almost became bake-danuki paste too, so close.
+Shibasuke: Anemo Amber, Hydro Amber, same?
+Shibasuke: But there are not-purple Lavender Melons, out of reach.
+Shibasuke: Eek! White Fur! Shoo!
+Shibasuke: Flaming grass there! White Fur! Hurry!
+Shibasuke: Furry grass so fun! *blows*
+Shibasuke: Go Mondstadt! Liyue!
+Shibasuke: Go later?
+Shibasuke: Hmph! Dumb White Fur! Bake-danuki transformation not easy.
+Shibasuke: Hmph! White Fur lie?
+Shibasuke: Hmph.
+Shibasuke: Mamesuke go too! Furry grass! *blow* Bald!
+Shibasuke: Mm!
+Shibasuke: Mm! Famous! Amazing!
+Shibasuke: Mm! White Fur, Yellow Fur, so slow!
+Shibasuke: Mm, wait moment?
+Shibasuke: Mm... White Fur talk too much! Won't understand...
+Shibasuke: Mm... White Fur, understand.
+Shibasuke: Mmhaha!
+Shibasuke: Mmhaha! Mondstadt! Lavender Melon kapow!
+Shibasuke: Mmhaha! White Fur dirty!
+Shibasuke: Mmhaha! White Fur weak!
+Shibasuke: Mmm! Stones heavy enough!
+Shibasuke: Mmm, not same.
+Shibasuke: Mmmm!!!
+Shibasuke: Mountain kaboooom~
+Shibasuke: Mountain so fun! So many new things! But no Lavender Melon...
+Shibasuke: No.
+Shibasuke: Not enough.
+Shibasuke: Shibasuke, Mamesuke change! Yellow Fur! Attack!
+Shibasuke: Steal?
+Shibasuke: Stone plate very round, very flat, very weird!
+Shibasuke: Strange sound there! Shibasuke check!
+Shibasuke: Take White Fur see!
+Shibasuke: Thanks! White Fur strong, Yellow Fur strong too.
+Shibasuke: Want to see furry grass with Mamesuke.
+Shibasuke: We go!
+Shibasuke: Weight?
+Shibasuke: Where Mamesuke...
+Shibasuke: White Fur can fly. White Fur can get it?
+Shibasuke: White Fur can fly. White Fur get it?
+Shibasuke: White Fur fly, White Fur kapow?
+Shibasuke: White Fur knows much, very amazing.
+Shibasuke: White Fur no fear!
+Shibasuke: White Fur no fear, Shibasuke strong.
+Shibasuke: White Fur no lie! Mamesuke! Yey!
+Shibasuke: Woohoo! Mondstadt!
+Shibasuke: Yellow Fur kapow! Fly high, can't learn... Mm...
+Shibasuke: Yellow Fur so strong! Kaboom!
+Some time later, you return to see Mamesuke and Shibasuke again...
+Something is happening in the distance...
+You explain the situation to Shibasuke patiently...
+ 

@@ -1,0 +1,106 @@
+ A cliff?
+ Goodbye.
+Media:vo dialog mdaq061 diluc 02c.ogg Diluc: Nothing more? We'll meet at Starsnatch Cliff then.
+ Goodbye.
+Media:vo dialog mdaq061 qin 02c.ogg Jean: May the wind guide us in saving Dvalin.
+ Goodbye.
+Media:vo dialog mdaq061 venti 02c.ogg Venti: I should prepare to meet my old friend.
+ In the sky? You could play the lyre as you're gliding through the air...
+Media:vo mdaq061 4 qin 06c.ogg Jean: Even Amber would never think of doing such a thing...
+ Let me give it a try...
+(The player is prompted to drop the tears onto the Partially Repaired Holy Lyre der Himmel)
+ Near the sea?
+ Quest DescriptionAfter completing the retrieval of the tears, you meet up with the rest of the group.
+ Tell me about Angel's Share.
+Media:vo dialog mdaq061 diluc 02a 1.ogg Diluc: Some of Dawn Winery's wine is sold at Angel's Share, a local tavern.
+Media:vo dialog mdaq061 diluc 02a 2.ogg Diluc: I work the bar there sometimes. If you ever need to talk to me, feel free to find me there.
+Media:vo dialog mdaq061 diluc 02a 3.ogg Diluc: Otherwise, you might need to make an appointment with my butler.
+ Tell me about Dvalin.
+Media:vo dialog mdaq061 venti 02a 1.ogg Venti: Dvalin used to be my friend... I still regard him as such.
+Media:vo dialog mdaq061 venti 02a 2.ogg Venti: We used to listen to the songs of the wind and sing Ode to the Dandelion together...
+Media:vo dialog mdaq061 venti 02a 3.ogg Venti: That's why I remember him as someone gentle.
+Media:vo dialog mdaq061 venti 02a 4.ogg Venti: Huh? Of course, you're already my friend.
+ Tell me about the Holy Lyre.
+Media:vo dialog mdaq061 qin 02b 1.ogg Jean: Barbatos' sacred relic, Mondstadt's treasure... The Holy Lyre.
+Media:vo dialog mdaq061 qin 02b 2.ogg Jean: No wonder it has the power to purify evil...
+Media:vo dialog mdaq061 qin 02b 3.ogg Jean: I hope it will help us save Dvalin, like Venti says.
+Media:vo dialog mdaq061 qin 02b 4.ogg Jean: If it can, then it truly is a blessing bestowed upon us by Lord Barbatos.
+ Tell me about the Knights.
+Media:vo dialog mdaq061 qin 02a 1.ogg Jean: The Knights of Favonius were all very busy dealing with the aftermath of the incident. I'm a bit ashamed of myself for it...
+Media:vo dialog mdaq061 qin 02a 2.ogg Jean: If only I was a stronger leader...
+Media:vo dialog mdaq061 qin 02a 3.ogg Jean: Or at least good enough to boost the morale and the strength of our troops like our Grand Master does...
+Media:vo dialog mdaq061 qin 02a 4.ogg Jean: No, I cannot feel sorry for myself. We need to solve our problems first. Right?
+ Tell me about wine.
+Media:vo dialog mdaq061 venti 02b 1.ogg Venti: Mondstadt is famous for its wine. It's the city's most prized treasure, I'd say.
+Media:vo dialog mdaq061 venti 02b 2.ogg Venti: Its dandelion wine is the best!
+Media:vo dialog mdaq061 venti 02b 3.ogg Venti: Actually, the scent of dandelion in the wind alone is enough to get you drunk.
+Media:vo dialog mdaq061 venti 02b 4.ogg Venti: Ah, I almost forgot that you're underage. Such a shame...
+ Why are you helping us?
+Media:vo dialog mdaq061 diluc 02b 1.ogg Diluc: I mostly decided to do it on a whim. Though I must say, that bard is quite intriguing.
+Media:vo dialog mdaq061 diluc 02b 2.ogg Diluc: Besides, it's bad for my business if we keep letting Stormterror do whatever it pleases.
+Media:vo dialog mdaq061 diluc 02b 3.ogg Diluc: Let me be clear though. I did it for you, not for the Knights.
+Jean: I know I'm not here on official business, so why did I sound so stern just now? It seems I struggle to break out of work mode.
+Media:vo dialog mdaq061 diluc 01.ogg Diluc: Although we may be able to negotiate with Stormterror, we'll most likely have to fight. Please be ready for it.
+Media:vo dialog mdaq061 diluc 02a 1.ogg Diluc: Some of Dawn Winery's wine is sold at Angel's Share, a local tavern.
+Media:vo dialog mdaq061 diluc 02a 2.ogg Diluc: I work the bar there sometimes. If you ever need to talk to me, feel free to find me there.
+Media:vo dialog mdaq061 diluc 02a 3.ogg Diluc: Otherwise, you might need to make an appointment with my butler.
+Media:vo dialog mdaq061 diluc 02b 1.ogg Diluc: I mostly decided to do it on a whim. Though I must say, that bard is quite intriguing.
+Media:vo dialog mdaq061 diluc 02b 2.ogg Diluc: Besides, it's bad for my business if we keep letting Stormterror do whatever it pleases.
+Media:vo dialog mdaq061 diluc 02b 3.ogg Diluc: Let me be clear though. I did it for you, not for the Knights.
+Media:vo dialog mdaq061 diluc 02c.ogg Diluc: Nothing more? We'll meet at Starsnatch Cliff then.
+Media:vo dialog mdaq061 qin 02a 1.ogg Jean: The Knights of Favonius were all very busy dealing with the aftermath of the incident. I'm a bit ashamed of myself for it...
+Media:vo dialog mdaq061 qin 02a 2.ogg Jean: If only I was a stronger leader...
+Media:vo dialog mdaq061 qin 02a 3.ogg Jean: Or at least good enough to boost the morale and the strength of our troops like our Grand Master does...
+Media:vo dialog mdaq061 qin 02a 4.ogg Jean: No, I cannot feel sorry for myself. We need to solve our problems first. Right?
+Media:vo dialog mdaq061 qin 02b 1.ogg Jean: Barbatos' sacred relic, Mondstadt's treasure... The Holy Lyre.
+Media:vo dialog mdaq061 qin 02b 2.ogg Jean: No wonder it has the power to purify evil...
+Media:vo dialog mdaq061 qin 02b 3.ogg Jean: I hope it will help us save Dvalin, like Venti says.
+Media:vo dialog mdaq061 qin 02b 4.ogg Jean: If it can, then it truly is a blessing bestowed upon us by Lord Barbatos.
+Media:vo dialog mdaq061 qin 02c.ogg Jean: May the wind guide us in saving Dvalin.
+Media:vo dialog mdaq061 venti 02a 1.ogg Venti: Dvalin used to be my friend... I still regard him as such.
+Media:vo dialog mdaq061 venti 02a 2.ogg Venti: We used to listen to the songs of the wind and sing Ode to the Dandelion together...
+Media:vo dialog mdaq061 venti 02a 3.ogg Venti: That's why I remember him as someone gentle.
+Media:vo dialog mdaq061 venti 02a 4.ogg Venti: Huh? Of course, you're already my friend.
+Media:vo dialog mdaq061 venti 02b 1.ogg Venti: Mondstadt is famous for its wine. It's the city's most prized treasure, I'd say.
+Media:vo dialog mdaq061 venti 02b 2.ogg Venti: Its dandelion wine is the best!
+Media:vo dialog mdaq061 venti 02b 3.ogg Venti: Actually, the scent of dandelion in the wind alone is enough to get you drunk.
+Media:vo dialog mdaq061 venti 02b 4.ogg Venti: Ah, I almost forgot that you're underage. Such a shame...
+Media:vo dialog mdaq061 venti 02c.ogg Venti: I should prepare to meet my old friend.
+Media:vo mdaq060 2 diluc 01.ogg Diluc: Interesting. It's like filtering wine. The process is... refreshing.
+Media:vo mdaq060 2 paimon 01.ogg Paimon: Woohoo!
+Media:vo mdaq060 2 paimon 02.ogg Paimon: Dvalin Protection Squad! Assemble!
+Media:vo mdaq060 2 qin 01.ogg Jean: It is hard to believe such a thing is possible, until you've seen it with your own eyes.
+Media:vo mdaq060 2 venti 01.ogg Venti: Let's put our crystals together.
+Media:vo mdaq060 2 venti 02.ogg Venti: Oh...
+Media:vo mdaq060 2 venti 03.ogg Venti: The color of these crystals looks... muddy.
+Media:vo mdaq060 2 venti 04.ogg Venti: Dvalin... You're going through so much pain...
+Media:vo mdaq060 2 venti 05.ogg Venti: ...Let's start purifying these crystals first. Please, (Traveler).
+(The red Teardrop Crystals are restored to a green color)
+Media:vo mdaq060 2 venti 06.ogg Venti: I think we should have enough tears now. So next we...
+Media:vo mdaq060 2 venti 07.ogg Venti: Use the crystal on the Holy Lyre like last time.
+Media:vo mdaq061 4 diluc 01.ogg Diluc: If the winery was destroyed, it's not something I couldn't eventually fix, but... I'd still rather not go through the hassle.
+Media:vo mdaq061 4 diluc 02.ogg Diluc: If you go east from Starfell Lake, there are mountains south of the beach.
+Media:vo mdaq061 4 diluc 03.ogg Diluc: If you head to where the cliff juts out — that place is known as Starsnatch Cliff.
+Media:vo mdaq061 4 diluc 04.ogg Diluc: What do you think, bard? Meets the requirements, no?
+Media:vo mdaq061 4 paimon 01.ogg Paimon: It worked!
+Media:vo mdaq061 4 paimon 02.ogg Paimon: Paimon understands. Sea or high places, right?
+Media:vo mdaq061 4 paimon 03.ogg Paimon: Then the best location to play the lyre would be...
+Media:vo mdaq061 4 paimon 04.ogg Paimon: ..Oh! You mean that beach you were snoring away on and Paimon had to wake you?
+Media:vo mdaq061 4 paimon 05.ogg Paimon: Hee-hee! Yes, Ma'am!
+Media:vo mdaq061 4 qin 01.ogg Jean: It seems completely different from before.
+Media:vo mdaq061 4 qin 02.ogg Jean: Now, where should we summon Stormterror?
+Media:vo mdaq061 4 qin 03.ogg Jean: It must be away from the city, else there will be casualties should we fail.
+Media:vo mdaq061 4 qin 04.ogg Jean: Perhaps here at the winery...
+Media:vo mdaq061 4 qin 05.ogg Jean: ...
+Media:vo mdaq061 4 qin 06c.ogg Jean: Even Amber would never think of doing such a thing...
+Media:vo mdaq061 4 qin 07.ogg Jean: Very well. Then let's meet at Starsnatch Cliff when we are ready.
+Media:vo mdaq061 4 qin 08.ogg Jean: Please don't be late.
+Media:vo mdaq061 4 qin 09.ogg Jean: Ah, sorry. I didn't mean to...
+(Obtain Completely Repaired Holy Lyre der Himmel, quest ends)
+Media:vo mdaq061 4 venti 01.ogg Venti: The lyre's Anemo power seems fully restored. We should be able to use it now.
+Media:vo mdaq061 4 venti 02.ogg Venti: It's all thanks to you, (Traveler).
+Media:vo mdaq061 4 venti 03.ogg Venti: The wind that blows at sea or in high places should be able to carry a bard's words far away.
+Media:vo mdaq061 4 venti 04.ogg Venti: It's never going to work if the air is too dry or suffocating.
+Media:vo mdaq061 4 venti 05.ogg Venti: Lemme think... Starsnatch Cliff...
+Media:vo mdaq061 4 venti 06.ogg Venti: ...Alright, let's do it there.
+Venti: Great job, (Traveler). Now, look at what I can do!

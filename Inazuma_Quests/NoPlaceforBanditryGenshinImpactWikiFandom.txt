@@ -1,0 +1,3 @@
+ Quest DescriptionA group of bandits has been sighted nearby, threatening the safety of the surrounding areas. Head over there and take them out.
+Wave 1  Nobushi: Jintouban ×2 Nobushi: Hitsukeban ×1 (spawns after aggro is obtained) Nobushi: Kikouban ×1 (spawns after aggro is obtained)
+Wave 2 (spawns after 3 enemies have been defeated)  Nobushi: Jintouban ×1 Nobushi: Hitsukeban ×1 Nobushi: Kikouban ×1

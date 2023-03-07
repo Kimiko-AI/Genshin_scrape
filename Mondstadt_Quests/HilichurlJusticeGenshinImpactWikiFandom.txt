@@ -1,0 +1,158 @@
+ A true empath...
+ Assuming no translation is needed for that...
+ But I don't understand a word they're saying...
+ I see...
+ Look at this Hilichurlian scholar in action!
+ Mimi tomo, mosi mita!
+ Miss Musk, please... Be careful...
+ Mosi mita dada!
+ Need me to step in?
+ Quest DescriptionYou prepare to help a bullied hilichurl to even the score together with Ella Musk. With any luck, this may lead you to some new clues...
+ Quite extraordinary, Miss Musk.
+ That seemed to go well.
+ That was a very smooth interaction indeed.
+ Things are getting lively...
+ Tomo, bye!
+ Tomo, valo!
+ Uhh... Th—Thank you...
+ Valo!
+ Valo! Tomo!
+ What did you say?
+Cautious Hilichurl: Dada, Valo!
+Cautious Hilichurl: Mani...? Zido mi, mi dada. Nye kundala? Mi plata yeye!
+Cautious Hilichurl: Mi mito nye. Mi mito ya zido mito, beru ya!
+Cautious Hilichurl: Mosi mita!
+Cautious Hilichurl: Nye Odomu? Yoyo mani mi?
+Cautious Hilichurl: Valo, mimi tomo!
+Cautious Hilichurl: Yaya dala! Ah, Odomu nye!
+Cautious Hilichurl: Yaya dala! Kundala?
+Curious Hilichurl: Dada! Tomo dada!
+Curious Hilichurl: Dada, Valo!
+Curious Hilichurl: Mosi mita! Yeye mimi dada tomo!
+Curious Hilichurl: Odomu tomo zido mi! Unta mosi dada!
+Curious Hilichurl: Odomu tomo? Kundala? Mosi mita?
+Curious Hilichurl: Plata ika odomu! Zido mi! Mi muhe yeye! Mi mita yeye!
+Curious Hilichurl: Tomo mosi mita! Tomo mani mimi?
+Curious Hilichurl: Valo, mi tomo!
+Curious Hilichurl: Valo, tomo!
+Ella Musk: All we need to do is defeat its enemy. That's where you guys come in!
+Ella Musk: And now it's pointing to the Map, saying that someone it knows over here may have seen the Unusual Hilichurl before.
+Ella Musk: Dada!
+Ella Musk: Dada! Muhe mani yeye!
+Ella Musk: Haha, it said that it's very happy to make friends with us. But we need to do one small favor for it first...
+Ella Musk: Huh, that's strange — this one claims to know nothing about it!
+Ella Musk: I asked if it wanted any help from us, and sure enough, it seems like it does.
+Ella Musk: I'm guessing that based on your experience over the past few days, you should be quite clear what this one wants. Thanks in advance.
+Ella Musk: It directed us to this location. It said someone here will have seen it before.
+Ella Musk: It doesn't know either. But, we can try asking one of its friends.
+Ella Musk: It just isn't fond of talking. But I still managed to get the information we needed.
+Ella Musk: It just wants us to help defeat an enemy. ...Here, on the Map.
+Ella Musk: It needs us to defeat one of its enemies, and it's marked the location for us.
+Ella Musk: It was... bullied... by someone very nasty. we need to help it vent its anger. That's all it wants.
+Ella Musk: Mimi mani ye! Plata odomu?
+Ella Musk: Mimi mani ye! Plata yaya ika?
+Ella Musk: Mimi muhe du, du ya Wei zido dala si.
+Ella Musk: Mimi nye odomu! Kundala nye!
+Ella Musk: Mimi tomo! Mosi mita!
+Ella Musk: Mimi tomo! Mosi mita?
+Ella Musk: Mimi tomo, Odomu nye! Muhe mani?
+Ella Musk: Mimi tomo, mimi mosi mita, Muhe mita?
+Ella Musk: Mimi tomo, mimi plata odomu! Mimi mani ye!
+Ella Musk: Mimi tomo, mimi plata yaya ika! Mimi mani ye!
+Ella Musk: No, thank you. Everything's fine. I can understand.
+Ella Musk: Oh... It's basically saying that it wants us to help it... defeat a strong enemy.
+Ella Musk: Okay then, the location is marked on your Map — I'll leave the next part to you!
+Ella Musk: Okay then, the location is marked on your Map — the rest is in your hands!
+Ella Musk: Okay!
+Ella Musk: Okay, the enemy's location is marked on the Map. Over to you!
+Ella Musk: So, over to you now!
+Ella Musk: The location is marked on the map. Hope you manage to find what you've been looking for this time!
+Ella Musk: Valo!
+Ella Musk: Wait. Let me handle this.
+Ella Musk: We are tomo, not friends! You want help?
+Ella Musk: We need to help it defeat a challenging enemy. I've marked the location on the Map for you.
+Ella Musk: Ya zido? Ye? Mi?
+Ella Musk: Ya zido? You or me?
+Ella Musk: Yeah!
+Friendly Hilichurl: Dada! Dada tomo!
+Friendly Hilichurl: Dada, Valo!
+Friendly Hilichurl: Odomu tomo zido mi! Unta mosi dada!
+Friendly Hilichurl: Olah! Odomu tomo?
+Friendly Hilichurl: Plata odomu! Zido mi! Mi muhe yeye! Mi mita yeye!
+Friendly Hilichurl: Tomo mosi mita! Tomo mani mimi?
+Friendly Hilichurl: Valo, mi tomo!
+Friendly Hilichurl: Yeye dada! Mosi mita!
+Lonely Hilichurl: ...Yaya dala?
+Lonely Hilichurl: Dada, Valo!
+Lonely Hilichurl: Kundala nye, mani dada, tomo dada!
+Lonely Hilichurl: Mani...? Dada! Kundala zido mi, mi dada, mimi tomo!
+Lonely Hilichurl: Mi mito nye. Mi mito du, du ya mito Wei.
+Lonely Hilichurl: Mita...? Gusha... Dada ika odomu Plata mimi, mimi mosi gusha...
+Lonely Hilichurl: Valo, valo...
+Lonely Hilichurl: Yoyo dada! Mimi tomo!
+Paimon: ...Huh?
+Paimon: Aba mosi dada... If you can't remember what it means, you can just check the handbook, right?
+Paimon: After sleep... Paimon thinks that has something to do with time. You should definitely check that in the handbook.
+Paimon: Ahh, we found it!
+Paimon: Ella is comforting that hilichurl...
+Paimon: Hehe, bye!
+Paimon: Hehe, valo!
+Paimon: Hey, look! Over there!
+Paimon: Hola! Hey there! Can you tell us where the Unusual Hilichurl is?
+Paimon: Hold on a second... Why are we fighting the hilichurls' battles for them, again?
+Paimon: It looks so happy! Paimon thinks it's ready to tell us something now!
+Paimon: It seems to wanna tell us something. Could it be related to the Unusual Hilichurl?
+Paimon: Look, they're over there!
+Paimon: Phew, we finally found it.
+Paimon: Seems like it's trying to tell us something... Could it be related to the Unusual Hilichurl?
+Paimon: Seems like they're having a great conversation!
+Paimon: Seems they're really getting into their conversation...
+Paimon: The hilichurl life sure is a tough one...
+Paimon: This seems to be the place that hilichurl mentioned... Let's take a look.
+Paimon: Unta mosi dada... Paimon remembers that means... uh... umm...
+Paimon: Unta mosi dada... What does that mean again... Well, thanks either way!
+Paimon: Unta nunu... Paimon thinks that has something to do with time. You should definitely check that in the handbook.
+Paimon: Valo!
+Paimon: Valo, mi tomo!
+Paimon: Whew... This one's got a real bad temper...
+Paimon: Yeah!
+Perplexed Hilichurl: Dada odomu! Kundala dada! Kundala zido, mi dada!
+Perplexed Hilichurl: Dada! Mosi mita!
+Perplexed Hilichurl: Dada, Valo!
+Perplexed Hilichurl: Dala?
+Perplexed Hilichurl: Mani? Mani! Yoyo mani mi?
+Perplexed Hilichurl: Mi!
+Perplexed Hilichurl: Odomu tomo zido mi! Mi mani yeye! Aba mosi dada!
+Perplexed Hilichurl: Odomu! Ya dala?
+Perplexed Hilichurl: Valo, tomo!
+Perplexed Hilichurl: Yeye dada! Mosi mita!
+Solitary Hilichurl: Bye, tomo!
+Solitary Hilichurl: Dada odomu! Kundala dada! Kundala zido, mi dada! Muhe yeye!
+Solitary Hilichurl: Dada!
+Solitary Hilichurl: Dada, Valo!
+Solitary Hilichurl: Friend! Ya dala?
+Solitary Hilichurl: Help? Help! You guys will help me?
+Solitary Hilichurl: I am happy!
+Solitary Hilichurl: Mani? Mani! Yoyo mani mi?
+Solitary Hilichurl: Me! Me!
+Solitary Hilichurl: Mi! Mi!
+Solitary Hilichurl: Mosi mita!
+Solitary Hilichurl: Odomu tomo zido mi! I will help you guys! After sleep (late night)!
+Solitary Hilichurl: Odomu tomo zido mi! Mi mani yeye! Unta nunu!
+Solitary Hilichurl: Odomu! Ya dala?
+Solitary Hilichurl: Okay!
+Solitary Hilichurl: Okay, bye!
+Solitary Hilichurl: Valo, tomo!
+Solitary Hilichurl: Very good friend! Kundala dada! Kundala zido, mi dada! I want you guys!
+Solitary Hilichurl: Yeye dada! Mosi mita!
+Solitary Hilichurl: You guys are great! I am happy!
+Vacant Hilichurl: ...Yaya dala?
+Vacant Hilichurl: Dada!
+Vacant Hilichurl: Dada, Valo!
+Vacant Hilichurl: Du Wei zido dala? Mi mito nye.
+Vacant Hilichurl: Hehe, yaya dada!
+Vacant Hilichurl: Mani...? Dada! Kundala zido mi, mi dada, mimi tomo!
+Vacant Hilichurl: Mi mito du, du ya mito Wei.
+Vacant Hilichurl: Mita...? Gusha... Dada odomu Plata mimi, mimi mosi gusha...
+Vacant Hilichurl: Valo, mimi tomo!
+Vacant Hilichurl: Yeye dada! Mosi mita!

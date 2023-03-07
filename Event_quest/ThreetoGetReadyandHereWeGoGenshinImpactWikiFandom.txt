@@ -1,0 +1,579 @@
+
+(An introductory note for Xinyan appears on screen)
+Xinyan – Blazing Riff
+Xinyan, a rock musician based in Liyue, uses her music as a form of resistance against societal stereotypes.
+Her tunes are well-loved, and the style of her tunes is much like she is: straightforward, generous, confident, and proud.
+Every time she steps onto her personally-designed stage, loyal fans will come flocking and start to rock to her rhythm.
+If you hear cheers and fireworks go up at any place in Liyue Harbor at the same time, it's most likely Xinyan, so don't miss out!
+
+Madame Ping: Marchosius, God of the Stove, born from a spark when stone struck stone
+Madame Ping: He was a god with a great love for humanity
+Madame Ping: And their well-being
+Madame Ping: Millenia ago, the people sought to expand their city
+Madame Ping: They built a dwelling on the plains and called it the Guili Assembly
+Madame Ping: The Stove God cared greatly for the people
+Madame Ping: Turning himself into minions who went into every home, fostering food and solidarity alike
+Madame Ping: Alas, their home was taken by a flood
+Madame Ping: The waters ravaged the Guili Assembly
+Madame Ping: And forced the people back south, to Liyue Harbor
+Madame Ping: Though the distance was not far, the journey was plagued by a terrible storm
+Madame Ping: For a dozen days, the adepti stayed by their side
+Madame Ping: During this time, the Stove God cooked an ancient delicacy
+Madame Ping: Flatbread with a meat sauce to stave off the cold and damp, fit for those on the move
+Madame Ping: Centuries later, disaster and plague arose once more
+Madame Ping: The Stove God would appear no longer
+Madame Ping: For he placed all of his power into the land itself
+Madame Ping: To quell the calamities
+Madame Ping: His power expended, and his wits greatly reduced
+Madame Ping: Thus, his body decreased in size
+Madame Ping: By the time he parted ways with us, he wasn't even the height of a human
+Madame Ping: He told Rex Lapis and I of the dishes that bring joy and of the secrets of the flame
+Madame Ping: Then went into the mountains
+Madame Ping: And entered into a long slumber
+Madame Ping: The Stove God departed and Guoba was born
+Madame Ping: When he awoke, he ate the Chili-Mince Cornbread Buns
+Madame Ping: Placed on the offering table by a young lady in yellow
+Madame Ping: Though he did not remember the past, he was profoundly moved
+Madame Ping: And decided to follow this young lady thereafter
+Madame Ping: The Stove God had quietly disappeared
+Madame Ping: But the vendors rose early to hawk their wares
+Madame Ping: People went out to buy goods, lit their stoves and cooked food
+Madame Ping: Just as they had done every day for as long as they could remember
+Madame Ping: In Liyue, things have always been this way
+Madame Ping: Nature provides, the mountains rejoice, we are blessed by heaven's good grace
+Ganyu: Years have gone by, the world has transformed, but our way of life survives
+Ningguang: Fame and fortune is only a season, it is the moment that we should embrace
+Keqing: Past meets present, heritage becomes legacy, long into the future may we thrive
+ (Shutting up...)
+ (Something is weighing on Keqing's mind.)
+ ...
+ ...
+ Xiao, you there?
+ A certain person comes to mind again...
+ Alright, sure...
+ Alright, time for me to get real.
+ I'm something of a kitchen god myself.
+ Calm down, Paimon. I'll cook the same dishes for you later.
+ Check the large rock
+ Every bit as compatible as we are.
+ Evocative and seasonal.
+ He promised it to me.
+ I didn't think that would actually work...
+ I knew you could do it.
+ I love Xiangling's cooking too!
+ I think you mean the Golden Shrimp Balls.
+ I'm something of a kitchen god myself.
+ Is that... Guoba?
+ It has to be Yanxiao!
+ Look who it is...
+ Paimon, we're not doing that.
+ Perhaps that is what defines Liyue.
+ Please help Xiangling out.
+ Quest DescriptionWith the finals looming, you and Paimon go to Wanmin Restaurant to look for Xiangling...After some testing, Xiangling modifies the dish she is making for the contest based on everyone's suggestions. The curtain is about to rise on the most riveting iteration of the Moonchase Festival's Masterful Chefs competition, and an ancient tale related to the contest is also beginning to surface...
+ Sounds good, we'll be waiting!
+(Keqing leaves)
+ Thank you.
+ There's still time. Don't lose hope.
+ Those are the kinds of friends you want in life.
+ To be fair, it's a big event.
+ Uh... Keqing?
+ We can do it right here.
+ We don't need to go to Wangshu Inn.
+ We value your opinion, Xiao.
+ What a shame, we just ate.
+ Who am I kidding, Xiangling's the real kitchen queen.
+ Woop woop, go, Xiangling!
+ Xiangling is right on the money.
+ Xiao, you there?
+ Yanxiao is a great chef too.
+ Yep, I've thought of someone with mild tastes.
+ You don't need to be so strict with yourself.
+ You know, Almond Tofu...
+ You'll do great!
+ You're in a league of your own, Xiangling.
+Beidou and Xinyan try Xiangling's dish...
+Every time she steps onto her personally-designed stage, loyal fans will come flocking and start to rock to her rhythm.
+Ganyu: Years have gone by, the world has transformed, but our way of life survives
+Her tunes are well-loved, and the style of her tunes is much like she is: straightforward, generous, confident, and proud.
+If you hear cheers and fireworks go up at any place in Liyue Harbor at the same time, it's most likely Xinyan, so don't miss out!
+Keqing tastes everyone's dishes...
+Keqing: Past meets present, heritage becomes legacy, long into the future may we thrive
+Madame Ping: Alas, their home was taken by a flood
+Madame Ping: And decided to follow this young lady thereafter
+Madame Ping: And entered into a long slumber
+Madame Ping: And forced the people back south, to Liyue Harbor
+Madame Ping: And their well-being
+Madame Ping: But the vendors rose early to hawk their wares
+Madame Ping: By the time he parted ways with us, he wasn't even the height of a human
+Madame Ping: Centuries later, disaster and plague arose once more
+Madame Ping: During this time, the Stove God cooked an ancient delicacy
+Madame Ping: Flatbread with a meat sauce to stave off the cold and damp, fit for those on the move
+Madame Ping: For a dozen days, the adepti stayed by their side
+Madame Ping: For he placed all of his power into the land itself
+Madame Ping: He told Rex Lapis and I of the dishes that bring joy and of the secrets of the flame
+Madame Ping: He was a god with a great love for humanity
+Madame Ping: His power expended, and his wits greatly reduced
+Madame Ping: In Liyue, things have always been this way
+Madame Ping: Just as they had done every day for as long as they could remember
+Madame Ping: Marchosius, God of the Stove, born from a spark when stone struck stone
+Madame Ping: Millenia ago, the people sought to expand their city
+Madame Ping: Nature provides, the mountains rejoice, we are blessed by heaven's good grace
+Madame Ping: People went out to buy goods, lit their stoves and cooked food
+Madame Ping: Placed on the offering table by a young lady in yellow
+Madame Ping: The Stove God cared greatly for the people
+Madame Ping: The Stove God departed and Guoba was born
+Madame Ping: The Stove God had quietly disappeared
+Madame Ping: The Stove God would appear no longer
+Madame Ping: The waters ravaged the Guili Assembly
+Madame Ping: Then went into the mountains
+Madame Ping: They built a dwelling on the plains and called it the Guili Assembly
+Madame Ping: Though he did not remember the past, he was profoundly moved
+Madame Ping: Though the distance was not far, the journey was plagued by a terrible storm
+Madame Ping: Thus, his body decreased in size
+Madame Ping: To quell the calamities
+Madame Ping: Turning himself into minions who went into every home, fostering food and solidarity alike
+Madame Ping: When he awoke, he ate the Chili-Mince Cornbread Buns
+Media:vo dialog eqzyj002 gooba 01.ogg Guoba: ♪~♪!
+Media:vo dialog eqzyj002 keqing 01.ogg Keqing: I look forward to both of your dishes.
+Media:vo dialog eqzyj002 keqing 02.ogg Keqing: ...
+Media:vo dialog eqzyj002 keqing 03.ogg Keqing: Will we ever manage to reawaken the statue?
+Media:vo dialog eqzyj002 madameping 01.ogg Madame Ping: You can say that again... Xiangling is a remarkable child, surely the culinary talent of the century.
+Media:vo dialog eqzyj002 ningguang 01.ogg Ningguang: We have two extraordinary talents this year. I'm interested to see their choice of dishes.
+Media:vo dialog eqzyj002 uncletian 01.ogg Uncle Tian: Hehe, what an exciting competition this is.
+Media:vo dialog eqzyj002 xiangling 01.ogg Xiangling: Hmm, everyone's here to eat, what should I cook? Lemme think... I've got some Fowl and some Fish... and Shrimp Meat, so I can do two snack dishes... yes, and a few stir-fries!
+Media:vo dialog eqzyj002 xiangling 02.ogg Xiangling: Hee-hee, everyone's gonna love it.
+Media:vo dialog eqzyj002 yanfei 01.ogg Yanfei: In the interest of keeping everything fair and above-board, please refrain from talking with the host while the competition is in progress.
+Media:vo dialog eqzyj002 yanxiao 01.ogg Smiley Yanxiao: Uhh... I—I... *sigh* What am I going to do...
+Media:vo dialog eqzyj002 zhongli 01.ogg Zhongli: The food at Wanmin Restaurant is excellent. I eat here often.
+Media:vo dialog eqzyj002 zhongli 02.ogg Zhongli: Indeed. To have mastered the craft at her age lends credence to the old aphorism that heroes are made young.
+Media:vo eqzyj002 1 paimon 01.ogg Paimon: Hey Xiangling, we're here!
+Media:vo eqzyj002 1 paimon 02.ogg Paimon: Really!? Woohoo, that's great!
+Media:vo eqzyj002 1 paimon 03.ogg Paimon: Uh... oh, yeah, we did! And anyway, we get to eat your food all the time, so we're biased. You should find some other people this time, just to play it safe.
+Media:vo eqzyj002 1 paimon 04.ogg Paimon: Beidou! Yup, you can definitely trust her opinion! Let's go find her.
+Media:vo eqzyj002 1 xiangling 01.ogg Xiangling: Traveler, Paimon! Did you hear the news? I made it through the selections for Masterful Chefs!
+Media:vo eqzyj002 1 xiangling 02.ogg Xiangling: Hee-hee, it was a total breeze, I wasn't even trying... Uh, but a true champion never rests on their laurels! I'm still gonna need your help to prepare for the competition.
+Media:vo eqzyj002 1 xiangling 03.ogg Xiangling: I made a few new test dishes and I was hoping everyone could try them and give some feedback. Traveler, you wanna be the first?
+Media:vo eqzyj002 1 xiangling 04.ogg Xiangling: Good idea! Okay lemme think, mmm... Ah, let's get Beidou to try it first.
+Media:vo eqzyj002 1 xiangling 05.ogg Xiangling: Right now, she should be down at the docks. Lemme box up this food real quick, then we can head on down.
+Media:vo eqzyj002 10 xiangling 01.ogg Xiangling: Light it up, light it up! First things first, get the stove on!
+Media:vo eqzyj002 11 xiangling 01.ogg Xiangling: Xiao thought the sides should be milder, which makes sense to contrast with the main dish. I guess that's kinda what Xinyan meant — you gotta have on beats and off beats... hmm, but at the same time, you have to end on a high note. So I think I'll add a little sugar to the Crystal Shrimp, just to bring the flavor up a notch.
+Media:vo eqzyj002 12 xiangling 01.ogg Xiangling: Triple-Layered Consommé is pretty bland to begin with. I can't have two sides with the same texture... luckily the organizers have provided some very aromatic broth, it's just a little too gentle... Okay, this is where Beidou was right — a pinch of salt should do the trick!
+Media:vo eqzyj002 13 xiangling 01.ogg Xiangling: Jueyun Chili Chicken is the main event. Can't afford to compromise too much here, but maybe some Pepper will set it apart without alienating anybody.
+Media:vo eqzyj002 14 gooba 01.ogg Guoba: ♪~♪~
+Media:vo eqzyj002 14 xiangling 01.ogg Xiangling: Huh? Oh, Yanxiao... he doesn't look so good...
+Media:vo eqzyj002 14 xiangling 02.ogg Xiangling: Ah! Guoba!
+Media:vo eqzyj002 15 gooba 01.ogg Guoba: ♪~♪~
+Media:vo eqzyj002 15 gooba 02.ogg Guoba: ♪!
+Media:vo eqzyj002 15 keqing 01.ogg Keqing: Ahem... please allow me to explain to our host.
+Media:vo eqzyj002 15 keqing 02.ogg Keqing: Prior to the competition, the judges reviewed both contestants, and we can comfortably confirm that neither side is participating in a way that contravenes the competition rules.
+Media:vo eqzyj002 15 keqing 03.ogg Keqing: Xiangling is a highly accomplished chef, and her "assistant" is more like family to her.
+Media:vo eqzyj002 15 keqing 04.ogg Keqing: Xiangling prepares all of her own dishes herself. All that her assistant will do is occasionally provide a fire source. Given Xiangling's level of culinary skill, the difference between her using firewood or her assistant is a trivial one.
+Media:vo eqzyj002 15 keqing 05.ogg Keqing: I appreciate everyone's concerns. The presence of a mysterious assistant performing strange dance moves to cheerlead for Xiangling is a little unexpected.
+Media:vo eqzyj002 15 keqing 06.ogg Keqing: But the mysterious assistant has now started cheerleading for Smiley Yanxiao too, demonstrating total impartiality. By encouraging both Xiangling and her opponent, they have proven to be a fair supporter.
+Media:vo eqzyj002 15 keqing 07.ogg Keqing: Very impressive. Both contestants' dishes are well-considered, expertly made, and truly delicious. I'm gonna have another Golden Shrimp Ba— um, I mean, I shall have to sample both contestants' dishes once more before I can reach a verdict.
+Media:vo eqzyj002 15 ningguang 01.ogg Ningguang: I take no issue with it. In any case, the assistant hasn't done much in the way of assisting.
+Media:vo eqzyj002 15 ningguang 02.ogg Ningguang: I see... most amusing. Uncle Tian, what's your opinion?
+Media:vo eqzyj002 15 ningguang 03.ogg Ningguang: This Adeptus' Temptation is quite exceptional. The Triple-Layered Consommé is also a very superlative contribution — excellent flavor, well-balanced between sweet and savory. Yes... the standard is very high.
+Media:vo eqzyj002 15 ningguang 04.ogg Ningguang: It is my pleasure to announce that the winner of the Masterful Chefs finals is:
+Media:vo eqzyj002 15 ningguang 05.ogg Ningguang: By a mere one-vote margin, Xiangling.
+Media:vo eqzyj002 15 ningguang 06.ogg Ningguang: Thank you all for coming. Until next time.
+Media:vo eqzyj002 15 paimon 01.ogg Paimon: Mmmm~! Paimon can smell it from all the way over here! It's driving Paimon crazy...
+Media:vo eqzyj002 15 paimon 02.ogg Paimon: Ugh, how are we not involved in this!? Why didn't they pick us to be judges?
+Media:vo eqzyj002 15 paimon 03.ogg Paimon: Paimon has buckets of passion and oodles of expertise when it comes to food — if they don't want Paimon, it's their loss! Ohh...
+Media:vo eqzyj002 15 paimon 04.ogg Paimon: Yippy! For all the chefs there are in the world, and for all the amazing dishes they can cook, the fact remains that you're the one who treats Paimon best!
+Media:vo eqzyj002 15 paimon 05.ogg Paimon: Ahhhh...
+Media:vo eqzyj002 15 paimon 06.ogg Paimon: Whaaaat!? How was it so close!
+Media:vo eqzyj002 15 paimon 07.ogg Paimon: C'mon, let's go over and take a look!
+Media:vo eqzyj002 15 uncletian 01.ogg Uncle Tian: Haha... no competition would be complete without a little drama. All part of being young. I won't be the old fogey that ruins it for them.
+Media:vo eqzyj002 15 uncletian 02.ogg Uncle Tian: I have no objections. It's an honor and a privilege to see two contestants so dedicated to having a fair and square contest.
+Media:vo eqzyj002 15 uncletian 03.ogg Uncle Tian: Now, Xiangling has taken an interesting approach here: She's chosen a cold dish as her main. I have to say, that's a bold move.
+Media:vo eqzyj002 15 uncletian 04.ogg Uncle Tian: It's also a unique take on Jueyun Chili Chicken. Although the dish as a whole is served cold, the chili peppers have been stir-fried and so they're still just a little warm on the inside. You get a nice crunch as you bite in, then you get the spiciness and warmth all coming in together, and then just a hint of that wonderful pepperiness to top it all off... It's quite simply extraordinary!
+Media:vo eqzyj002 15 xiangling 01.ogg Xiangling: That's right! Guoba's not really outside help — Guoba just likes to watch people cook! I'm sure the only reason they went over there is to try and help Yanxiao feel less nervous.
+Media:vo eqzyj002 15 xiangling 02.ogg Xiangling: I give you all my word, Guoba will not interfere with the competition. And I would also say that it's a loss to the competition if Yanxiao isn't at the top of his form!
+Media:vo eqzyj002 15 xiangling 03.ogg Xiangling: I say that as someone who's eaten Yanxiao's cooking at Wangshu Inn before. He's an excellent chef, and I want this to be a competition between the best we both have to bring.
+Media:vo eqzyj002 15 xiangling 04.ogg Xiangling: Yanxiao, are you alright?
+Media:vo eqzyj002 15 xiangling 05.ogg Xiangling: Take it easy! I've been there before, I can help! Trying say a tongue-twister to yourself in your head, or... think of some happy memories about your dad!
+Media:vo eqzyj002 15 xiangling 06.ogg Xiangling: 'Cause that's what I do.
+Media:vo eqzyj002 15 xiangling 07.ogg Xiangling: Nothing's being held up. I'm finished already.
+Media:vo eqzyj002 15 xiangling 08.ogg Xiangling: There you go, that's the attitude we want! You're a very capable chef, Yanxiao. So come on, show everyone what you're made of — just like you showed us last time at Wangshu Inn!
+Media:vo eqzyj002 15 xiangling 09.ogg Xiangling: My dish is:
+Media:vo eqzyj002 15 xiangling 10.ogg Xiangling: Jueyun Chili Chicken with sides of Triple-Layered Consommé and Crystal Shrimp.
+Media:vo eqzyj002 15 xiangling 11.ogg Xiangling: The theme is "Of Earth and Water Born," which includes land and sea. In other words, land animals, fowl, and seafood are all potential ingredients.
+Media:vo eqzyj002 15 xiangling 12.ogg Xiangling: My main dish, Jueyun Chili Chicken, is a combination of Fowl and chilis. Jueyun Chilis capture the essence of the mountains where they grow, and Fowl is a gift from the heavens.
+Media:vo eqzyj002 15 xiangling 13.ogg Xiangling: Triple-Layered Consommé also uses Fowl, and its other ingredients are Ham and Bamboo Shoots. These are also flavors from the mountains, but they complement and contrast with the chicken dish — fresh instead of spicy, cold instead of hot.
+Media:vo eqzyj002 15 xiangling 14.ogg Xiangling: The Crystal Shrimp is made from a combination of Rice, Shrimp Meat, and Carrot. A thin, translucent skin wraps diced Carrot and a whole shrimp. Fresh, crispy, and tender.
+Media:vo eqzyj002 15 xiangling 15.ogg Xiangling: Shrimps are a gift from the ocean. Tightly wrapping them in a skin made from rice makes this dish a blend of land and sea, fresh with a hint of sweetness. It's the perfect note to end this course on.
+Media:vo eqzyj002 15 xiangling 16.ogg Xiangling: Ooh...
+Media:vo eqzyj002 15 xiangling 17.ogg Xiangling: Wow!!!
+Media:vo eqzyj002 15 yanfei 01.ogg Yanfei: Whoa, whoa, what's this? Hold up, things are taking an unexpected turn on the Masterful Chefs stage!
+Media:vo eqzyj002 15 yanfei 02.ogg Yanfei: Xiangling's mysterious assistant appears to be aiding her opponent! Judges — are we going to allow this?
+Media:vo eqzyj002 15 yanfei 03.ogg Yanfei: We knew in advance that Xiangling would be accompanied by a mysterious assistant, and the judges agreed that the two could be classed as one individual for the purposes of the competition. But what do we say to this!?
+Media:vo eqzyj002 15 yanfei 04.ogg Yanfei: The judges and the officiator accept this explanation! Let the competition continue!
+Media:vo eqzyj002 15 yanfei 05.ogg Yanfei: Time's up!
+Media:vo eqzyj002 15 yanfei 06.ogg Yanfei: Both contestants have now finished cooking. I would like to invite them to present their dishes to the judges for evaluation.
+Media:vo eqzyj002 15 yanfei 07.ogg Yanfei: We will proceed in the order that the contestants finished. Xiangling — please describe your dish!
+Media:vo eqzyj002 15 yanfei 08.ogg Yanfei: A strong delivery there from Xiangling. Let's see what our next contestant, Yanxiao, has to say!
+Media:vo eqzyj002 15 yanfei 09.ogg Yanfei: Judges, please sample the dishes!
+Media:vo eqzyj002 15 yanfei 10.ogg Yanfei: Judges of the select panel, I will now ask you to consider your votes carefully before writing them down and handing them to me!
+Media:vo eqzyj002 15 yanfei 11.ogg Yanfei: Also, the organizing committee has selected today's audience judges, and they are now evaluating the dishes. Everyone who's been lucky enough to sample today's dishes, please consider and cast your vote independently.
+Media:vo eqzyj002 15 yanfei 12.ogg Yanfei: Thank you all for waiting! All votes have been received and counted, and the results have been returned to Ningguang.
+Media:vo eqzyj002 15 yanfei 13.ogg Yanfei: I now invite Ningguang to take the floor and announce the results of the Masterful Chefs finals!
+Media:vo eqzyj002 15 yanfei 14.ogg Yanfei: It was a close contest, but we have a winner! Liyue Harbor's Xiangling has beaten Dihua Marsh's Yanxiao by just one vote!
+Media:vo eqzyj002 15 yanfei 15.ogg Yanfei: There can only be one winner, but the fact that this was so close shows just how much both of these outstanding chefs managed to impress our judges. Thank you both for your stellar contributions here today!
+Media:vo eqzyj002 15 yanfei 16.ogg Yanfei: A big thank you to all the audience for being here today, especially those who have come from far and wide. As officiator, I declare the result of this competition to be fair and valid, thus bringing the Masterful Chefs finals to a close!
+Media:vo eqzyj002 15 yanfei 17.ogg Yanfei: Please exit the venue in an orderly fashion and remember to take all of your personal belongings with you.
+Media:vo eqzyj002 15 yanxiao 01.ogg Smiley Yanxiao: I don't know what's wrong with me, I've never been so nervous in my life! ...Ugh, look, my hands won't stop shaking...
+Media:vo eqzyj002 15 yanxiao 02.ogg Smiley Yanxiao: Why my dad? That's a bit specific...
+Media:vo eqzyj002 15 yanxiao 03.ogg Smiley Yanxiao: Uh... I guess I'll think of my mom, then. A—Anyway, you should carry on! I'll be fine. Don't hold up your own dishes on my account.
+Media:vo eqzyj002 15 yanxiao 04.ogg Smiley Yanxiao: Huh!? Right, then I need to focus up and win this thing!
+Media:vo eqzyj002 15 yanxiao 05.ogg Smiley Yanxiao: Yes... you're right, I can do this. I can do this!
+Media:vo eqzyj002 15 yanxiao 06.ogg Smiley Yanxiao: Thank you, Xiangling, and thanks to your, um... well, thanks. Time for me to get cooking!
+Media:vo eqzyj002 15 yanxiao 07.ogg Smiley Yanxiao: My dish is...
+Media:vo eqzyj002 15 yanxiao 08.ogg Smiley Yanxiao: Adeptus' Temptation with a Mint Salad and Golden Shrimp Balls.
+Media:vo eqzyj002 15 yanxiao 09.ogg Smiley Yanxiao: As Xiangling says, earth and water means land and sea. So birds, land animals, and seafood were also the ingredients I incorporated.
+Media:vo eqzyj002 15 yanxiao 10.ogg Smiley Yanxiao: Adeptus' Temptation is a much-loved dish in Liyue, and as chef of Wangshu Inn, I've always been proud to offer this as the signature specialty dish of our menu.
+Media:vo eqzyj002 15 yanxiao 11.ogg Smiley Yanxiao: It's a complex dish with very particular ingredients: smoked Ham, Crab, fresh Shrimp Meat, and Matsutake. I chose this as my main dish, as a sign of respect toward my profession and to this competition.
+Media:vo eqzyj002 15 yanxiao 12.ogg Smiley Yanxiao: The Mint Salad is my first side. Cool and tender with a subtle sweetness, it's a perfect answer to the rich and strong flavors of the Adeptus' Temptation.
+Media:vo eqzyj002 15 yanxiao 13.ogg Smiley Yanxiao: Golden Shrimp Balls is a time-honored classic loved by everyone. A hearty and wholesome broth followed up with a shrimp ball, hehe... Pure bliss!
+Media:vo eqzyj002 15 yanxiao 14.ogg Smiley Yanxiao: Ah...
+Media:vo eqzyj002 15 yanxiao 15.ogg Smiley Yanxiao: There it is... *sigh* I knew it.
+Media:vo eqzyj002 16 gooba 01.ogg Guoba: ♪
+Media:vo eqzyj002 16 paimon 01.ogg Paimon: Don't even go there! Paimon's still peeved!
+Media:vo eqzyj002 16 paimon 02.ogg Paimon: You will? Woohoo, great!
+Media:vo eqzyj002 16 paimon 03.ogg Paimon: Aw, Xiangling seems really happy. Good for her.
+Media:vo eqzyj002 16 paimon 04.ogg Paimon: Looks like Keqing and Ningguang left already. As the organizers, they must've gone to wrap up some last-minute things. Let's go ask them for an update about the statue!
+Media:vo eqzyj002 16 xiangling 01.ogg Xiangling: Looks like I won this time, Yanxiao. But I'd still like to try your dishes, if that's okay?
+Media:vo eqzyj002 16 xiangling 02.ogg Xiangling: Mmm... This Adeptus' Temptation is really good! It's so fresh I'm almost moved to tears...
+Media:vo eqzyj002 16 xiangling 03.ogg Xiangling: No, no, you've got me all wrong! We're just a small neighborhood restaurant too, so I totally understand... Food is life, and customers are at the heart of all food culture. So humble home cooking is not to be looked down upon!
+Media:vo eqzyj002 16 xiangling 04.ogg Xiangling: Same goes for you! You can't work in an inn kitchen unless you know how to consistently please customers. It's no wonder your food is so top-notch.
+Media:vo eqzyj002 16 xiangling 05.ogg Xiangling: You got it! And next time we meet as competitors, let's both be even better than we are now!
+Media:vo eqzyj002 16 xiangling 06.ogg Xiangling: Traveler, Paimon! Thanks for coming. Did you get to try the food?
+Media:vo eqzyj002 16 xiangling 07.ogg Xiangling: Hahaha, I can't believe it — you didn't get picked? Well, never mind, don't get mad — I'll make some more for you when we get back.
+Media:vo eqzyj002 16 xiangling 08.ogg Xiangling: Oh, uh, the organizers said that Yanxiao and I need to go register our delivery addresses. Apparently they're gonna deliver an exclusive ingredients package and the prize money at a later date. So I need to get moving!
+Media:vo eqzyj002 16 xiangling 09.ogg Xiangling: I'll come find you guys after!
+(Xiangling leaves)
+Media:vo eqzyj002 16 yanxiao 01.ogg Smiley Yanxiao: Sure, I'll have a try of yours too.
+Media:vo eqzyj002 16 yanxiao 02.ogg Smiley Yanxiao: Whew... truly exquisite. No doubt in my mind why you're the winner here.
+Media:vo eqzyj002 16 yanxiao 03.ogg Smiley Yanxiao: Haha, well, just goes to show that you have a taste for the finer things in life.
+Media:vo eqzyj002 16 yanxiao 04.ogg Smiley Yanxiao: Is that right? Huh, I'd heard you'd gotten famous for your experimental approach to cooking and were all about fancy and exclusive foods. Never realized you'd done your time in a small kitchen too. Well, there you have it. All the greats come from the smaller places.
+Media:vo eqzyj002 16 yanxiao 05.ogg Smiley Yanxiao: You're the kind of competition I'm glad to have. Let's stay in touch, maybe we can find some time in the future to trade tips.
+Media:vo eqzyj002 16 yanxiao 06.ogg Smiley Yanxiao: Alright, deal!
+(Yanxiao leaves)
+Media:vo eqzyj002 17 keqing 01.ogg Keqing: Oh. You found me.
+Media:vo eqzyj002 17 keqing 02.ogg Keqing: ...
+Media:vo eqzyj002 17 keqing 03.ogg Keqing: Traveler. I have found myself in something of a predicament.
+Media:vo eqzyj002 17 keqing 04.ogg Keqing: In the competition, I voted for Smiley Yanxiao.
+Media:vo eqzyj002 17 keqing 05.ogg Keqing: No, that's not it. As a judge, I had a duty to remain objective. I made my decision after thinking about it very carefully, and my conscience is clear.
+Media:vo eqzyj002 17 keqing 06.ogg Keqing: Xiangling is my friend. So by rights, I should be honest with her about this.
+Media:vo eqzyj002 17 keqing 07.ogg Keqing: But as you know, I voted based purely on my personal opinion. As a contestant, Xiangling may not be able to appreciate this. And I do not know how to deal with people of her temperament... *sigh* I just don't know how to break it to her.
+Media:vo eqzyj002 17 keqing 08.ogg Keqing: Xiangling... There's something I need to tell you.
+Media:vo eqzyj002 17 keqing 09.ogg Keqing: My grandfather always said to me, "In contests of food, always follow your heart." Which is to say that in gastronomical disputes or indeed competitions, one must cast their vote for the party that they agree with. This decision must be based on one's honest thoughts, not influenced by any external factors.
+Media:vo eqzyj002 17 keqing 10.ogg Keqing: Of course, that was just my grandfather's opinion. But I have to say, I am inclined to think he had a point...
+Media:vo eqzyj002 17 keqing 11.ogg Keqing: So... despite the fact that I am your friend, I cast my vote for Smiley Yanxiao's Adeptus' Temptation...
+Media:vo eqzyj002 17 keqing 12.ogg Keqing: W—Well... maybe it was! I like Golden Shrimp Balls, is that a problem!
+Media:vo eqzyj002 17 keqing 13.ogg Keqing: Huh?
+Media:vo eqzyj002 17 keqing 14.ogg Keqing: Ahem, ahem! I... don't be absurd.
+Media:vo eqzyj002 17 keqing 15.ogg Keqing: Traveler... Xiangling, I...
+Media:vo eqzyj002 17 keqing 16.ogg Keqing: A—Anyway, what are we standing around here for? Let's go and check on the status of the Stove God statue!
+Media:vo eqzyj002 17 paimon 01.ogg Paimon: Keqing! There you are!
+Media:vo eqzyj002 17 paimon 02.ogg Paimon: Huh? Is everything okay?
+Media:vo eqzyj002 17 paimon 03.ogg Paimon: So, you're frustrated because you can't go back and vote for Xiangling instead?
+Media:vo eqzyj002 17 paimon 04.ogg Paimon: Ah, it's no big deal, just say it however comes naturally. Xiangling of all people isn't bothered about that kind of stuff. And anyway, she still won in the end!
+(Xiangling approaches)
+Media:vo eqzyj002 17 paimon 05.ogg Paimon: Oh yeah, Paimon had nearly forgotten about that! Let's go see!
+Media:vo eqzyj002 17 xiangling 01.ogg Xiangling: Oh hey, here you are! I've been looking for you for ages!
+Media:vo eqzyj002 17 xiangling 02.ogg Xiangling: Hmm? Wh—What is it?
+Media:vo eqzyj002 17 xiangling 03.ogg Xiangling: Heh...
+Media:vo eqzyj002 17 xiangling 04.ogg Xiangling: You were acting so serious that I honestly thought something was up! It's fine, doesn't bother me one bit.
+Media:vo eqzyj002 17 xiangling 05.ogg Xiangling: You voted for who you wanted to. That's totally okay — in fact, that's exactly how it should be. Otherwise, how could it be a fair competition?
+Media:vo eqzyj002 17 xiangling 06.ogg Xiangling: So... you made a point of telling me, is that because you were worried that it made you a bad friend?
+Media:vo eqzyj002 17 xiangling 07.ogg Xiangling: *sigh* Didn't I say already? I love this about you — you're just so conscientious about everything. Half-baked feedback just isn't meaningful to me at this stage.
+Media:vo eqzyj002 17 xiangling 08.ogg Xiangling: Seeking reassurance is what novices do, and it's been a long time since I was a novice. The way forward from today will only get more challenging, as will the dishes I'll need to cook. Honestly, I'll need friends like you along the way.
+Media:vo eqzyj002 17 xiangling 09.ogg Xiangling: You have a strong sense of responsibility, Keqing. But you know, not everything is always about responsibility. Yes, you're a Qixing, but you're also you — Keqing. When you're with friends, you don't need to think about everything so thoroughly.
+Media:vo eqzyj002 17 xiangling 10.ogg Xiangling: You know that's what Ningguang's like, right? Beidou's always telling me about how well she gets along with Ningguang. They even play chess on board her ship sometimes.
+Media:vo eqzyj002 17 xiangling 11.ogg Xiangling: So you see, Ningguang's kinda bold in that she doesn't let her identity and reputation get in the way of her ability to have a good time. You could take a leaf out of her book. Outside of work, it's time to let go and relax.
+Media:vo eqzyj002 18 keqing 01.ogg Keqing: ...
+Media:vo eqzyj002 18 keqing 02.ogg Keqing: Oh well... I suppose it was simply not meant to be.
+Media:vo eqzyj002 18 keqing 03.ogg Keqing: Xiangling...
+Media:vo eqzyj002 18 keqing 04.ogg Keqing: Pfft... hehe.
+Media:vo eqzyj002 18 keqing 05.ogg Keqing: ...What are you staring at me for? Go on, go get on with your cooking.
+Media:vo eqzyj002 18 paimon 01.ogg Paimon: How strange, it hasn't changed one bit...
+Media:vo eqzyj002 18 paimon 02.ogg Paimon: Does this mean... the competition wasn't enough to awaken the statue?
+Media:vo eqzyj002 18 paimon 03.ogg Paimon: Yeah. We've waited this long already, there's no harm in waiting a little longer.
+Media:vo eqzyj002 18 paimon 04.ogg Paimon: Right, Xiangling?
+Media:vo eqzyj002 18 paimon 05.ogg Paimon: Huh? You only just beat Smiley Yanxiao. You think you're up for challenging us already?
+Media:vo eqzyj002 18 paimon 06.ogg Paimon: Oh, right. Paimon knew that. Sheesh, we totally misread that situation...
+Media:vo eqzyj002 18 xiangling 01.ogg Xiangling: This doesn't make any sense... we cooked our hearts out!
+Media:vo eqzyj002 18 xiangling 02.ogg Xiangling: Yep! There's still time, let's be patient. We'll all see this through together.
+Media:vo eqzyj002 18 xiangling 03.ogg Xiangling: On another note, I have some good news for you, Keqing! Things are looking optimistic for that recipe you gave me.
+Media:vo eqzyj002 18 xiangling 04.ogg Xiangling: Master came by before the competition and filled in the parts that were missing. So now, I'll be able to cook it.
+Media:vo eqzyj002 18 xiangling 05.ogg Xiangling: In fact, I'll go find somewhere to make it right now. Wait here!
+Media:vo eqzyj002 18 xiangling 06.ogg Xiangling: Oh, uh, and Traveler, could you come with me?
+Media:vo eqzyj002 18 xiangling 07.ogg Xiangling: Obviously not what I meant!
+Media:vo eqzyj002 18 xiangling 08.ogg Xiangling: You collect recipes, don't you? I thought you'd probably be needing this dish during your travels, so I figured I'd share it with you.
+Media:vo eqzyj002 18 xiangling 09.ogg Xiangling: Huh? Geez, careful eating your words so fast, you'll give yourself heartburn!
+Media:vo eqzyj002 19 paimon 01.ogg Paimon: It's done! So this is what the dish from the recipe looks like. Let's go give it to Keqing!
+Media:vo eqzyj002 19 xiangling 01.ogg Xiangling: Mine's ready too. Let's go together.
+Media:vo eqzyj002 2 beidou 01.ogg Beidou: Xiangling? The woman of the hour, we were just talking about you.
+Media:vo eqzyj002 2 beidou 02.ogg Beidou: Sure, beats drinking on an empty stomach.
+Media:vo eqzyj002 2 beidou 03.ogg Beidou: This food is too good for me to be soaking up the alcohol with, haha.
+Media:vo eqzyj002 2 beidou 04.ogg Beidou: Only thing is, you've got three dishes here, Chicken Foo Yung, Come and Get It, and Crystal Shrimp, and they all taste kinda refreshing.
+Media:vo eqzyj002 2 beidou 05.ogg Beidou: When you spend all your time at sea, you don't have a lot of choice when it comes to food. Especially on the longer voyages, where you've gotta stretch your rations out as far as you can.
+Media:vo eqzyj002 2 beidou 06.ogg Beidou: The first thing you wanna do when you get back on dry land is dig into a nice hot meal that's swimming in oil and has a ton of flavor.
+Media:vo eqzyj002 2 beidou 07.ogg Beidou: Ugh, Ningguang... I am sick of hearing that name.
+Media:vo eqzyj002 2 beidou 08.ogg Beidou: Our tastes couldn't be more different. You'll never find us eating the same bowl of food.
+Media:vo eqzyj002 2 beidou 09.ogg Beidou: We're evenly matched. Guess that makes us equals. But I'm sorry, limp cabbage leaves are never gonna do it for me.
+Media:vo eqzyj002 2 beidou 10.ogg Beidou:  Exactly. This is some fine cooking, no question about that. But if this is for a competition, it needs more oomph.
+Media:vo eqzyj002 2 beidou 11.ogg Beidou: Well, I think so, anyway. More than any other chef. And there ain't a whole lot of people that I'd be willing to say that about.
+Media:vo eqzyj002 2 beidou 12.ogg Beidou: Alright, we'll leave you to it. I'm gonna take Xinyan on board for a while.
+Media:vo eqzyj002 2 paimon 01.ogg Paimon: Beidou ahoy! Hey look, who's she with?
+Media:vo eqzyj002 2 paimon 02.ogg Paimon: Seems like you three go way back.
+Media:vo eqzyj002 2 paimon 03.ogg Paimon: These three seem to have a great time with each other.
+Media:vo eqzyj002 2 paimon 04.ogg Paimon: Uh... is refreshing really a flavor?
+Media:vo eqzyj002 2 paimon 05.ogg Paimon: That's the exact opposite of Ningguang's tastes!
+Media:vo eqzyj002 2 paimon 06.ogg Paimon: But last time when you were chatting with her, Paimon thought you two seemed to get along just fine.
+Media:vo eqzyj002 2 paimon 07.ogg Paimon: Beat? Oomph? Are we sure these terms apply to cooking?
+Media:vo eqzyj002 2 paimon 08.ogg Paimon: Seems like she's found her muse. Does that mean... music theory is compatible with cooking?
+Media:vo eqzyj002 2 paimon 09.ogg Paimon: Hey! ...Paimon didn't quite get the implication, but Paimon can tell when you're being a meanie!
+Media:vo eqzyj002 2 paimon 10.ogg Paimon: Great! So this went really well!
+Media:vo eqzyj002 2 paimon 11.ogg Paimon: Xiangling, they both had pretty strong tastes. You sure that won't be a problem? Shouldn't we get a second opinion from someone with milder tastes?
+Media:vo eqzyj002 2 paimon 12.ogg Paimon: Now, who do we know whose tastes are on the mild side? Traveler, any suggestions?
+Media:vo eqzyj002 2 paimon 13.ogg Paimon: Who, who, who?
+Media:vo eqzyj002 2 paimon 14.ogg Paimon: Oh, right! Makes sense. So, back to Wangshu Inn?
+Media:vo eqzyj002 2 paimon 15.ogg Paimon: Someone you just missed last time we were there!
+Media:vo eqzyj002 2 paimon 16.ogg Paimon: ....Huh?
+Media:vo eqzyj002 2 paimon 17.ogg Paimon: Oh! Paimon remembers! He said that we just need to speak his name, and poof, he'll show up.
+Media:vo eqzyj002 2 paimon 18.ogg Paimon: Um... will he definitely hear us saying his name though? Maybe we should find somewhere quieter.
+Media:vo eqzyj002 2 xiangling 01.ogg Xiangling: Hi Beidou, hi Xinyan. Are we interrupting anything?
+Media:vo eqzyj002 2 xiangling 02.ogg Xiangling: Oh, we really do! Beidou and Xinyan are two of my oldest customers, and I've helped out in the kitchen on board Beidou's ship in the past. Recently, Xinyan's been planning to do a show aboard, too!
+Media:vo eqzyj002 2 xiangling 03.ogg Xiangling: Will do! But I came here today because I made it into the Masterful Chefs finals, and I was just trying out some new dishes to bring to the competition. Can you have a little taste and gimme some feedback?
+Media:vo eqzyj002 2 xiangling 04.ogg Xiangling: So, Xinyan, are these dishes too mild for you, too?
+Media:vo eqzyj002 2 xiangling 05.ogg Xiangling: Beat... and oomph...
+Media:vo eqzyj002 2 xiangling 06.ogg Xiangling: No, no, you're both completely right. Beat and oomph! That's what I need!
+Media:vo eqzyj002 2 xiangling 07.ogg Xiangling: I actually thought as much while I was cooking them, even though this was a brand-new combination, it still felt like I was missing that one thing that'll seal the deal... y'know, really push it over the finish line!
+Media:vo eqzyj002 2 xiangling 08.ogg Xiangling: Okay, I think I know what I need to do.
+Media:vo eqzyj002 2 xiangling 09.ogg Xiangling: Hee-hee, I'll do my best! Thanks, everyone!
+Media:vo eqzyj002 2 xiangling 10.ogg Xiangling: That's a good point. Beidou likes her greasy stir-fries, and Xinyan can really handle her spice... Yeah, we should get another opinion.
+Media:vo eqzyj002 2 xiangling 11.ogg Xiangling: Who? Who is it?
+Media:vo eqzyj002 2 xinyan 01.ogg Xinyan: Beidou was sayin' you and I should get ourselves on board some time. Says the whole crew's been asking for us, haha!
+Media:vo eqzyj002 2 xinyan 02.ogg Xinyan: That's the plan, good music's meant for sharing! You guys should check it out sometime!
+Media:vo eqzyj002 2 xinyan 03.ogg Xinyan: 'Bout time, I'm starvin' over here! Let's see what you got.
+Media:vo eqzyj002 2 xinyan 04.ogg Xinyan: Aw man! This Chicken Foo Yung is tasting awesome!
+Media:vo eqzyj002 2 xinyan 05.ogg Xinyan: Sure is! Beidou's tastes are pretty similar to mine and Xiangling's.
+Media:vo eqzyj002 2 xinyan 06.ogg Xinyan: I hear ya, I hear ya! Steamed Cabbage in Broth might be upper class and look fancy and all, but man, is it boring! It's never gonna give you that flavor explosion you get with some of the other dishes out there.
+Media:vo eqzyj002 2 xinyan 07.ogg Xiangling: Not so much mild... I just think you maybe missed a beat somewhere.
+Media:vo eqzyj002 2 xinyan 08.ogg Xinyan: Beat, yeah. You know what a beat is. I only know music though, I'm nowhere near your level when it comes to cooking. So don't mind me if it doesn't make much sense!
+Media:vo eqzyj002 2 xinyan 09.ogg Xinyan: Don't hold back, just get out there and do your thing! You're a pro, Xiangling, and you've totally got this. Hands down, best chef in Liyue Harbor! Ain't that right, Beidou?
+Media:vo eqzyj002 20 gooba 01.ogg Guoba: ♪~♪~
+Media:vo eqzyj002 20 gooba 02.ogg Guoba: ♪?
+Media:vo eqzyj002 20 keqing 01.ogg Keqing: Thank you. Don't mind if I do.
+Media:vo eqzyj002 20 keqing 02.ogg Keqing: ...
+Media:vo eqzyj002 20 keqing 03.ogg Keqing: ...!?
+Media:vo eqzyj002 20 keqing 04.ogg Keqing: ...I...
+Media:vo eqzyj002 20 keqing 05.ogg Keqing: (This flavor... I've tasted it before!)
+Media:vo eqzyj002 20 keqing 06.ogg Keqing: ...Apologies.
+Media:vo eqzyj002 20 keqing 07.ogg Keqing: Xiangling, Traveler, thank you both. This is everything I had hoped it would be.
+Media:vo eqzyj002 20 keqing 08.ogg Keqing: It tastes wonderful, and... quite amazingly, somehow it took me right back to my childhood, when my grandfather was still around.
+Media:vo eqzyj002 20 keqing 09.ogg Keqing: About that... I do not believe that this recipe was my grandfather's creation.
+Media:vo eqzyj002 20 keqing 10.ogg Keqing: My grandfather was a well-known real estate tycoon in Liyue, and also a scholar. He was an avid collector of old books and was quite knowledgeable on many of Liyue's customs and traditions that are no longer practiced.
+Media:vo eqzyj002 20 keqing 11.ogg Keqing: As a child, I used to spend a lot of time with him in his study. We'd read the classics together, then debate how much of it was actually genuine, and whether Rex Lapis was real or not...
+Media:vo eqzyj002 20 keqing 12.ogg Keqing: He used to say, "Books are just a bridge that bring us a little closer to history. It's up to those of us in later generations to ask these questions, search for the answers, and decide what they mean."
+Media:vo eqzyj002 20 keqing 13.ogg Keqing: Since then, my grandfather has passed on, and I've grown up to become a Qixing. My views on Rex Lapis have changed in this time, too, from myth to reality.
+Media:vo eqzyj002 20 keqing 14.ogg Keqing: For me, the name Rex Lapis is inextricably wound up with memories of my grandfather. Whenever I see his name written down, it always reminds me of sitting in my grandfather's study... seeing all of his notes.
+Media:vo eqzyj002 20 keqing 15.ogg Keqing: As I said earlier, this recipe came from those same notes. It's an ancient dish that he was trying to restore to its original form, but unfortunately, without the full recipe, he never quite succeeded.
+Media:vo eqzyj002 20 keqing 16.ogg Keqing: Still, each time he tried cooking it, he'd always get me to have a taste while it was still warm... ah, the memories. This really is the taste of my childhood.
+Media:vo eqzyj002 20 keqing 17.ogg Keqing: How did you first meet?
+Media:vo eqzyj002 20 keqing 18.ogg Keqing: It's... it's...!?
+Media:vo eqzyj002 20 paimon 01.ogg Paimon: We're back!
+Media:vo eqzyj002 20 paimon 02.ogg Paimon: What is it? What does that face mean?
+Media:vo eqzyj002 20 paimon 03.ogg Paimon: You already knew? You mean, you were able to make this without ever seeing the recipe?
+Media:vo eqzyj002 20 paimon 04.ogg Paimon: Wait, but isn't this dish from Keqing's grandpa's notes, though?
+Media:vo eqzyj002 20 paimon 05.ogg Paimon: Ancient dish? Are cornbread buns really that old?
+Media:vo eqzyj002 20 paimon 06.ogg Paimon: Hold up! Stop the conversation, look! The, the stone...!
+Media:vo eqzyj002 20 paimon 07.ogg Paimon: It burst open!?
+Media:vo eqzyj002 20 xiangling 01.ogg Xiangling: The Traveler and I made one each. Here, have a taste while it's still warm.
+Media:vo eqzyj002 20 xiangling 02.ogg Xiangling: Really? That's awesome!
+Media:vo eqzyj002 20 xiangling 03.ogg Xiangling: I didn't have a chance to fully explain before. In fact, when Master had filled in the missing parts of the recipe for me, I realized that I already knew how to make this dish.
+Media:vo eqzyj002 20 xiangling 04.ogg Xiangling: Uh-huh. My dad taught me how to make it.
+Media:vo eqzyj002 20 xiangling 05.ogg Xiangling: Well, at least in my family it is. My dad learned how to make it from his dad, and supposedly, it's been passed down that way for generations.
+Media:vo eqzyj002 20 xiangling 06.ogg Xiangling: We call them Chili-Mince Cornbread Buns! They're a traditional folk-food snack, easy to pack up and take with you on the road, so they're the perfect thing to eat on the go.
+Media:vo eqzyj002 20 xiangling 07.ogg Xiangling: Haha, seeing Guoba just reminded me of something. I actually made this dish on the day that I first met Guoba!
+Media:vo eqzyj002 20 xiangling 08.ogg Xiangling: It was in a cave in the mountains! I ducked inside to get out of the rain and saw an offering table in there, so I put the Cornbread Buns I'd brought with me on it.
+Media:vo eqzyj002 20 xiangling 09.ogg Xiangling: Then I ended up falling asleep, and when I woke up, I found out that Guoba had eaten every last one. Guoba's followed me around ever since — we're practically family now.
+Media:vo eqzyj002 20 xiangling 10.ogg Xiangling: Guoba!? What are you... what!?
+Media:vo eqzyj002 21 gooba 01.ogg Guoba: ♪~
+Media:vo eqzyj002 21 gooba 02.ogg Guoba: ♪...
+Media:vo eqzyj002 21 keqing 01.ogg Keqing: A god surrendering their power to the soil... I have heard this turn of phrase before. But what does it mean?
+Media:vo eqzyj002 21 madameping 01.ogg Madame Ping: Ah, I see the Chili-Mince Cornbread Buns have been served.
+Media:vo eqzyj002 21 madameping 02.ogg Madame Ping: Hehe, indeed it does. After all, Guoba is the deity you've been searching for: God of the Stove.
+Media:vo eqzyj002 21 madameping 03.ogg Madame Ping: You asked me if a sufficiently festive atmosphere would be enough to reawaken the Stove God. And my answer is this: Yes and no.
+Media:vo eqzyj002 21 madameping 04.ogg Madame Ping: The Stove God has always been a deity with great affection for the people, and who acts in response to their desires. To him, the heart's passions and the heart's desires are not the same thing.
+Media:vo eqzyj002 21 madameping 05.ogg Madame Ping: Passion can be a technique, a skill, something derived from experience. But desires... they are deeper, more innate. They are the heart's strength in its purest form.
+Media:vo eqzyj002 21 madameping 06.ogg Madame Ping: Masterful Chefs is wonderfully exciting, but it is more an exercise of passion than of desire. And passion alone will not suffice to reawaken the Stove God from his deep slumber.
+Media:vo eqzyj002 21 madameping 07.ogg Madame Ping: But just now, when Keqing ate this dish she had longed for, a deeply held desire was fulfilled. As well as receiving an answer to her question, she also gained something much more precious: a moment of poignant nostalgia, so vivid it felt like she was right there alongside her grandfather.
+Media:vo eqzyj002 21 madameping 08.ogg Madame Ping: The enormous power unleashed by the fulfillment of this desire resonated with the Stove God's statue, and caused it to manifest once more the form it took in the past.
+Media:vo eqzyj002 21 madameping 09.ogg Madame Ping: Of course, the Stove God himself is not contained within the statue. Hehe, the true Stove God has been here with us all along.
+Media:vo eqzyj002 21 madameping 10.ogg Madame Ping: How does it feel, seeing a statue of yourself from your glory days? Look at him, still so majestic.
+Media:vo eqzyj002 21 madameping 11.ogg Madame Ping: Oh, yes. Back in his day, your Guoba was once the Patron God of the Soil.
+Media:vo eqzyj002 21 madameping 12.ogg Madame Ping: But all the wisdom and power he had then, he has since surrendered to the soil itself.
+Media:vo eqzyj002 21 madameping 13.ogg Madame Ping: The kinds of trials and tribulations that a land can face are far more than you could imagine. Droughts, floods, torrential rain, hurricanes... earthquakes, tsunamis, fires, and plagues.
+Media:vo eqzyj002 21 madameping 14.ogg Madame Ping: The threat of disaster will never fully disappear from Liyue. Even woes that have never been faced before in history will come to pass in the future. Such things affect you mortals far more than we adepti, with our immortal forms.
+Media:vo eqzyj002 21 madameping 15.ogg Madame Ping: He once walked with you over the barren plains until you arrived at last at the harbor. He joined you in building your dwellings and lighting the stoves...
+Media:vo eqzyj002 21 madameping 16.ogg Madame Ping: It was his hand that lit the very first street lamp of Liyue, and brought the aroma of cooked food into every household in the land.
+Media:vo eqzyj002 21 madameping 17.ogg Madame Ping: You mortals no longer remember him. But back in the age when you did, he was the closest of all the adepti to the common folk.
+Media:vo eqzyj002 21 paimon 01.ogg Paimon: Granny! Look, the, the Stove God statue looks just like Guoba!
+Media:vo eqzyj002 21 paimon 02.ogg Paimon: Guoba... Guoba is a GOD!?
+Media:vo eqzyj002 21 xiangling 01.ogg Xiangling: Master!
+Media:vo eqzyj002 21 xiangling 02.ogg Xiangling: Glory days? Wait... what happened? Did Guoba used to be different from now?
+Media:vo eqzyj002 22 gooba 01.ogg Guoba: ♪~
+Media:vo eqzyj002 22 keqing 01.ogg Keqing: Ohh...
+Media:vo eqzyj002 22 keqing 02.ogg Keqing: Xiangling...
+Media:vo eqzyj002 22 keqing 03.ogg Keqing: Xiangling, you have an adeptal affinity. Guoba follows you around because he has respect for you.
+Media:vo eqzyj002 22 keqing 04.ogg Keqing: The moment he awoke, he was met with a familiar flavor in the Chili-Mince Cornbread Buns he ate...
+Media:vo eqzyj002 22 keqing 05.ogg Keqing: After all that time, he still recognized the dish he had invented, and he approved of you as the one who had cooked it.
+Media:vo eqzyj002 22 keqing 06.ogg Keqing: You may be the first person in history to give the Stove God the experience of being a satisfied customer... That makes you quite a remarkable chef.
+Media:vo eqzyj002 22 keqing 07.ogg Keqing: Well then... It's getting late, and I still have things to do. Time for me to say goodbye.
+Media:vo eqzyj002 22 keqing 08.ogg Keqing: Traveler, Paimon, Xiangling, thank you all very much. I look forward to spending more time together in the future.
+Media:vo eqzyj002 22 madameping 01.ogg Madame Ping: You once told me that dining is the profoundest of customs in the human world. "To eat well is to consume vitality itself, and to drink well is to partake of the very essence of the world"...
+Media:vo eqzyj002 22 madameping 02.ogg Madame Ping: It is a matter of paramount importance, you said, for people cannot face the arduous journey ahead on an empty stomach. At once a humble affair and a profound one.
+Media:vo eqzyj002 22 madameping 03.ogg Madame Ping: A humble meal of maize and spring water is also profound in that, by ensuring one's survival, it paves the way for millennia of human history and culture to come.
+Media:vo eqzyj002 22 madameping 04.ogg Madame Ping: My dear friend, Liyue has changed so much while you have slept. Looking at the prosperity and beauty around us today... does it make you happy?
+Media:vo eqzyj002 22 madameping 05.ogg Madame Ping: Do not be saddened, Xiangling. There are two sides to everything. Guoba may have lost many of his former faculties, but he is now as carefree as can be, without a single worry in the whole world.
+Media:vo eqzyj002 22 madameping 06.ogg Madame Ping: In this world we inhabit... who can truly be said to live a life free of all woes? Those with a mind and with knowledge will certainly be troubled by all manner of things.
+Media:vo eqzyj002 22 madameping 07.ogg Madame Ping: But he has gone further than us in his journey. He had both wisdom and courage. Everything he took upon himself, he was also ready to part with. His carefree demeanor today is a testament to the fact that he is at rest.
+Media:vo eqzyj002 22 madameping 08.ogg Madame Ping: So since you are his friend, take good care of him. Go out to walk and to play. Allow him to eat, drink, and be merry.
+Media:vo eqzyj002 22 madameping 09.ogg Madame Ping: That's right. The taste of one's home cuisine always brings back memories of home. Though he remembered nothing, eating the food you had cooked gave him a feeling of familiarity. That is why he stuck by you.
+Media:vo eqzyj002 22 madameping 10.ogg Madame Ping: Oh, goodness me. Then, far be it from me to refuse.
+Media:vo eqzyj002 22 madameping 11.ogg Madame Ping: Off we go, then. Let's saunter over gently, and see how all the city folk are getting along.
+Media:vo eqzyj002 22 paimon 01.ogg Paimon: He is not who he once was. Even the power of speech evades him now. There is no way he could have told you...
+Media:vo eqzyj002 22 xiangling 01.ogg Xiangling: Guoba... this is kind of a huge deal, why didn't you say anything...
+Media:vo eqzyj002 22 xiangling 02.ogg Xiangling: Guoba... but, but... *sigh*
+Media:vo eqzyj002 22 xiangling 03.ogg Xiangling: I will! You can count on me...
+Media:vo eqzyj002 22 xiangling 04.ogg Xiangling: If that's true, I couldn't be happier. Because... putting a smile on customers' faces is what we chefs are called to do.
+Media:vo eqzyj002 22 xiangling 05.ogg Xiangling: I guess my dad's probably heard the good news already, but I should still go catch up with him. Master, it's been a while since you came by, why don't you join me?
+Media:vo eqzyj002 22 xiangling 06.ogg Xiangling: He thinks about you all the time, you know. He's always telling me to invite you over.
+Media:vo eqzyj002 23 gooba 01.ogg Guoba: ♪! ♪~
+Media:vo eqzyj002 23 gooba 02.ogg Guoba: !!!
+Media:vo eqzyj002 23 gooba 03.ogg Guoba: ♪
+Media:vo eqzyj002 23 madameping 01.ogg Madame Ping: Well bless my soul. Are you out for a stroll as well?
+Media:vo eqzyj002 23 madameping 02.ogg Madame Ping: Quite right, and it also gave us the chance to run into you. Guoba may not recognize you, but as ever, he seems quite delighted to see you.
+Media:vo eqzyj002 23 madameping 03.ogg Madame Ping: Hehe, in old age, the sight of many things puts one in a wistful mood. But children are always a beautiful sight to see.
+Media:vo eqzyj002 23 madameping 04.ogg Madame Ping: Such exuberant life force. It seems to well up from deep within the land itself... a land that has been in existence for so many millennia, and yet one that still dazzles today.
+Media:vo eqzyj002 23 madameping 05.ogg Madame Ping: Traveler, this Moonchase Festival has been all the more entertaining with you here to witness it.
+Media:vo eqzyj002 23 madameping 06.ogg Madame Ping: Now, let's have Xiangling brew us a nice pot of tea. We shall drink and chat at our leisure.
+Media:vo eqzyj002 23 paimon 01.ogg Paimon: Oh no! Guoba's taken off!
+Media:vo eqzyj002 23 paimon 02.ogg Paimon: So... Guoba doesn't remember anything, but can still feel when something is familiar?
+Media:vo eqzyj002 23 xiangling 01.ogg Xiangling: Hi dad! I'm back! Hey, hey, what are you doing there, I should be the one handling that...
+Media:vo eqzyj002 23 zhongli 01.ogg Zhongli: ...
+Media:vo eqzyj002 23 zhongli 02.ogg Zhongli: ...Oh, it's you.
+Media:vo eqzyj002 23 zhongli 03.ogg Zhongli: Hello there, old friend.
+Media:vo eqzyj002 23 zhongli 04.ogg Zhongli: Given the season, it felt fitting to take a leisurely walk while the meal is being prepared.
+Media:vo eqzyj002 23 zhongli 05.ogg Zhongli: Friendship will always withstand the ravages of time.
+Media:vo eqzyj002 23 zhongli 06.ogg Zhongli: Traveler, what do you think of the name of this festival, "Moonchase"?
+Media:vo eqzyj002 23 zhongli 07.ogg Zhongli: The moon is a carrier of countless emotions... So many things only seem to surface as we gaze up beneath its poignant glow. Wherever the moonlight shines, the heart is wont to follow.
+Media:vo eqzyj002 23 zhongli 08.ogg Zhongli: Fond memories of those no longer with us. Debts of gratitude to old friends. The meaning of ages past and gone. All wrapped up in the city that has existed for so many moons to date.
+Media:vo eqzyj002 23 zhongli 09.ogg Zhongli: All these things and more... they are why people chase the moon.
+Media:vo eqzyj002 3 paimon 01.ogg Paimon: Okay, let's take turns shouting his name!
+Media:vo eqzyj002 3 paimon 02.ogg Paimon: Paimon's going first! *clears throat*
+Media:vo eqzyj002 3 paimon 03.ogg Paimon: Xiaaaao!!!
+Media:vo eqzyj002 3 paimon 04.ogg Paimon: Lemme try again. Xiaaaao!
+Media:vo eqzyj002 3 paimon 05.ogg Paimon: ...
+Media:vo eqzyj002 3 paimon 06.ogg Paimon: That's weird... Does he not wanna hang out with us?
+Media:vo eqzyj002 3 paimon 07.ogg Paimon: Um, well... not "both," actually. Just one of us...
+Media:vo eqzyj002 3 paimon 08.ogg Paimon: Wah... Okay then...
+Media:vo eqzyj002 3 paimon 09.ogg Paimon: He actually came!
+Media:vo eqzyj002 3 paimon 10.ogg Paimon: Blink of an eye, and poof, he's there! That's how you know he's an adeptus...
+Media:vo eqzyj002 3 paimon 11.ogg Paimon: Um, how is it? Are you sure you can eat it? Don't force yourself!
+Media:vo eqzyj002 3 paimon 12.ogg Paimon: Who do you think he means? Smiley Yanxiao?
+Media:vo eqzyj002 3 paimon 13.ogg Paimon: Paimon still can't believe he actually came!
+Media:vo eqzyj002 3 paimon 14.ogg Paimon: So what would happen if we called his name again now? Do you think he'd come back right away?
+Media:vo eqzyj002 3 paimon 15.ogg Paimon: Only kinda, maybe, not really, joking, geez...
+Media:vo eqzyj002 3 paimon 16.ogg Paimon: Great! Lucky we picked the right people to talk to.
+Media:vo eqzyj002 3 paimon 17.ogg Paimon: Will do. Good luck!
+Media:vo eqzyj002 3 xiangling 01.ogg Xiangling: Huh? Do I need to do this, too?
+Media:vo eqzyj002 3 xiangling 02.ogg Xiangling: Um, nothing's happening...
+Media:vo eqzyj002 3 xiangling 03.ogg Xiangling: Wait, so let me get this straight. Some guy with special powers promised you both that you just need to shout his name, and he'll show up?
+Media:vo eqzyj002 3 xiangling 04.ogg Xiangling: Oh, right. Well, you should be the one to try it then. Paimon clearly just doesn't want to feel left out.
+Media:vo eqzyj002 3 xiangling 05.ogg Xiangling: Whoa!
+Media:vo eqzyj002 3 xiangling 06.ogg Xiangling: An adeptus!? Uhh... Xiao, was it? Hi there, it was me who asked the Traveler to call you here. My name's Xiangling. I'm a chef.
+Media:vo eqzyj002 3 xiangling 07.ogg Xiangling: I've made it into the finals of this year's Masterful Chefs, and I'm testing some dishes out in preparation. I'm trying to get feedback from customers with all different tastes.
+Media:vo eqzyj002 3 xiangling 08.ogg Xiangling: Uh-huh! The Traveler says you prefer mild food — just the kind of person I'm looking for. If you don't mind, I'd like you to try the dishes I've made and tell me your thoughts.
+Media:vo eqzyj002 3 xiangling 09.ogg Xiangling: Yay!
+Media:vo eqzyj002 3 xiangling 10.ogg Xiangling: Huh? R—Really?
+Media:vo eqzyj002 3 xiangling 11.ogg Xiangling: I can't believe it, an adeptus said he likes my cooking... If my dad was here, he'd be crying tears of joy!
+Media:vo eqzyj002 3 xiangling 12.ogg Xiangling: Alright, go easy on the sides... okay, I got it.
+Media:vo eqzyj002 3 xiangling 13.ogg Xiangling: Thank you, adeptus friend! It was really great to meet you!
+Media:vo eqzyj002 3 xiangling 14.ogg Xiangling: Good news! After two rounds of taste-testing, I've had an idea on what to do next!
+Media:vo eqzyj002 3 xiangling 15.ogg Xiangling: I'd better head back and try this out a few times while it's fresh in my mind. Thanks for your help!
+Media:vo eqzyj002 3 xiangling 16.ogg Xiangling: Oh, and the final is in Yujing Terrace. You'd better come and watch!
+Media:vo eqzyj002 3 xiangling 17.ogg Xiangling: Hee-hee, you bet!
+Media:vo eqzyj002 3 xiao 01.ogg ???: You called?
+Media:vo eqzyj002 3 xiao 02.ogg Xiao: You spoke my name, did you not?
+Media:vo eqzyj002 3 xiao 03.ogg Xiao: When I make you a promise, I will honor it.
+Media:vo eqzyj002 3 xiao 04.ogg Xiao: Customers... and that includes me?
+Media:vo eqzyj002 3 xiao 05.ogg Xiao: ...
+Media:vo eqzyj002 3 xiao 06.ogg Xiao: Since it's you... I will do it.
+Media:vo eqzyj002 3 xiao 07.ogg Xiao: ...
+Media:vo eqzyj002 3 xiao 08.ogg Xiao: ...Tastes pretty good.
+Media:vo eqzyj002 3 xiao 09.ogg Xiao: You excel in the culinary arts. I'm reminded of another chef I know.
+Media:vo eqzyj002 3 xiao 10.ogg Xiao: That chef cooks dishes with soul, as do you. Both of you are masters of your craft.
+Media:vo eqzyj002 3 xiao 11.ogg Xiao: If I had to find fault with something... the two sides are a little strong for my taste. Some minor adjustments would take this dish from excellence to perfection.
+Media:vo eqzyj002 3 xiao 12.ogg Xiao: Just my own opinion... do not fixate on it. Take it or leave it as you see fit.
+Media:vo eqzyj002 3 xiao 13.ogg Xiao: I'll be leaving now.
+Media:vo eqzyj002 3 xiao 14.ogg Xiao: See you next time.
+Media:vo eqzyj002 4 paimon 01.ogg Paimon: Sure hope Xiangling's preparation is going smoothly. Why don't we go and see how she's getting along?
+Media:vo eqzyj002 5 paimon 01.ogg Paimon: Seems like she's in the zone... talking away to herself...
+Media:vo eqzyj002 5 paimon 02.ogg Paimon: Are those the dishes she's gonna cook? Mmmm... Okay, now Paimon's hungry. One of each please! Get cooking, (Traveler)!
+Media:vo eqzyj002 5 paimon 03.ogg Paimon: Wait, can you actually cook all of those? Or is Paimon just assuming that because we eat them all the time? Hehe...
+Media:vo eqzyj002 5 paimon 04.ogg Paimon: How about we see if they sell recipes around here?
+Media:vo eqzyj002 5 xiangling 01.ogg Xiangling: Hmm, Jueyun Chili Chicken, Triple-Layered Consommé, Crystal Shrimp...
+Media:vo eqzyj002 7 paimon 01.ogg Paimon: Let's head to the competition venue. It should be starting soon.
+Media:vo eqzyj002 7 paimon 02.ogg Paimon: Ooh, Paimon's so excited!
+Media:vo eqzyj002 8 ningguang 01.ogg Ningguang: Thank you all for being here today at the Masterful Chefs finals. I am the Tianquan, Ningguang.
+Media:vo eqzyj002 8 ningguang 02.ogg Ningguang: The organizers have chosen the theme for today's event, and that theme is: "Of Earth and Water Born."
+Media:vo eqzyj002 8 ningguang 03.ogg Ningguang: The rules are simple — the one who receives the most votes, wins. Tailor your dishes to the judges' preferences or win over the audience with your originality. The choice is yours.
+Media:vo eqzyj002 8 ningguang 04.ogg Ningguang: Well then. I look forward to both of your contributions.
+Media:vo eqzyj002 8 paimon 01.ogg Paimon: Hey, Yanfei's here too!
+Media:vo eqzyj002 8 paimon 02.ogg Paimon: Eee, it's all so exciting!
+Media:vo eqzyj002 8 paimon 03.ogg Paimon: Whoa, Yanxiao made it into the finals too! But what's up with him? He seems really nervous...
+Media:vo eqzyj002 8 paimon 04.ogg Paimon: Yanxiaaaao! Chin up, shoulders back! Everyone from the inn is super proud of you!
+Media:vo eqzyj002 8 paimon 05.ogg Paimon: Paimon knows, it's Guoba!
+Media:vo eqzyj002 8 paimon 06.ogg Paimon: "Of Earth and Water Born"... Just like "Feast of the Bounteous Land," it really captures the spirit of this year's Moonchase Festival.
+Media:vo eqzyj002 8 paimon 07.ogg Paimon: It's like surf and turf, but the deep and meaningful version.
+Media:vo eqzyj002 8 xiangling 01.ogg Xiangling: Hey everybody! I'll do my best!
+Media:vo eqzyj002 8 xiangling 02.ogg Xiangling: As a finalist in Masterful Chefs, I solemnly swear to commit myself fully, compete fairly, and abide by all competition procedures.
+Media:vo eqzyj002 8 yanfei 01.ogg Yanfei: Welcome, everyone, to the Masterful Chefs final. At the appointment of the organizing committee, I am your host and officiator, Yanfei!
+Media:vo eqzyj002 8 yanfei 02.ogg Yanfei: This event is brought to you by the Liyue Qixing in collaboration with a number of participating enterprises. The competition is divided into the selections phase and the finals.
+Media:vo eqzyj002 8 yanfei 03.ogg Yanfei: We saw many contestants from all over Liyue in the selections process, and all of them were outstanding chefs in their own right. Of those, the two strongest participants were put through to today's finals.
+Media:vo eqzyj002 8 yanfei 04.ogg Yanfei: In just a few short moments, the finals will take place right here, before your very eyes!
+Media:vo eqzyj002 8 yanfei 05.ogg Yanfei: As the officiator, it is my honor and privilege to represent the organizing committee and indeed the people of Liyue in overseeing today's proceedings.
+Media:vo eqzyj002 8 yanfei 06.ogg Yanfei: Next, please allow me to introduce the judges. There will be a select panel and an audience panel. The three members of the select panel are:
+Media:vo eqzyj002 8 yanfei 07.ogg Yanfei: The Tianquan, Lady Ningguang!
+Media:vo eqzyj002 8 yanfei 08.ogg Yanfei: The Yuheng, Lady Keqing!
+Media:vo eqzyj002 8 yanfei 09.ogg Yanfei: And last but not least, gourmet connoisseur, Uncle Tian!
+Media:vo eqzyj002 8 yanfei 10.ogg Yanfei: In addition to these three, 10 judges will be chosen from among the audience to sample our contestants' dishes and cast their vote.
+Media:vo eqzyj002 8 yanfei 11.ogg Yanfei: That makes a total of 13 judges with 13 votes between them. Each judge will vote for their preferred finalist, and the one who receives the most votes will be today's winner!
+Media:vo eqzyj002 8 yanfei 12.ogg Yanfei: And now, please join me in welcoming our two contestants into the arena! Come on out!
+Media:vo eqzyj002 8 yanfei 13.ogg Yanfei: To my left, a competition favorite down from Dihua. Life's harsh when you live on a marsh, but this kitchen ace will put a smile on your face — please welcome, Smiley Yanxiao!
+Media:vo eqzyj002 8 yanfei 14.ogg Yanfei: And to my right, a stalwart of the Liyue Harbor culinary scene, a little feisty with a whole lot of spicy — give it up for Xiangling!
+Media:vo eqzyj002 8 yanfei 15.ogg Yanfei: ...Uh, and her mysterious assistant, who-knows-who!
+Media:vo eqzyj002 8 yanfei 16.ogg Yanfei: Contestants, please repeat after me: As a finalist in Masterful Chefs, I solemnly swear to commit myself fully, compete fairly, and abide by all competition procedures.
+Media:vo eqzyj002 8 yanfei 17.ogg Yanfei: And I, for my part, promise to uphold the principles of fairness, impartiality, and transparency in my officiation of the proceedings.
+Media:vo eqzyj002 8 yanfei 18.ogg Yanfei: Now, I will hand things over to the select panel judge, Ningguang, for the announcement of today's theme!
+Media:vo eqzyj002 8 yanfei 19.ogg Yanfei: Contestants will have one hour of cooking time available, and may only use ingredients provided by the organizers in their dishes. I trust this is no problem.
+Media:vo eqzyj002 8 yanfei 20.ogg Yanfei: Okay! Without further ado, let the cooking commence! Begin!
+Media:vo eqzyj002 8 yanxiao 01.ogg Smiley Yanxiao: Uh... Hi everyone...
+Media:vo eqzyj002 8 yanxiao 02.ogg Smiley Yanxiao: Huh? O—Oh, heh...
+Media:vo eqzyj002 8 yanxiao 03.ogg Smiley Yanxiao: Uh... As a finalist in Masterful Chefs, I, um, solemnly swear to commit myself fully, compete fairly, and abide by all competition procedures.
+Media:vo eqzyj002 9 paimon 01.ogg Paimon: Time to pull out all the stops! Show everyone why you're the best!
+Media:vo eqzyj002 9 xiangling 01.ogg Xiangling: Traveler, Paimon!
+Media:vo eqzyj002 9 xiangling 02.ogg Xiangling: Hee-hee... Thanks for coming to support me! Don't you worry, I'm gonna make this the best-tasting dish I ever cooked!
+Ningguang: Fame and fortune is only a season, it is the moment that we should embrace
+Smiley Yanxiao starts cooking immediately, and his dish is ready in a flash...
+The judges offstage sample the dishes carefully before casting their votes...
+The three onstage judges try the two contestant's dishes separately...
+The two exchange test dishes...
+Xiao tries Xiangling's dish...
+Xinyan – Blazing Riff
+Xinyan, a rock musician based in Liyue, uses her music as a form of resistance against societal stereotypes.
+You and Paimon learned how to make the delicious dishes according to their recipes...

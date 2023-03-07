@@ -1,0 +1,190 @@
+
+Miyajima: Hmm. You answered all three of my questions.
+Miyajima: ...And you got all of them right! Very impressive indeed!
+Miyajima: I didn't realize that your cultural knowledge runs so deep. Looks like my worries were for naught, haha.
+Miyajima: Ah, I suppose underestimating young people was my error. Come, take your prize!
+Miyajima: You young people are the future! We're counting on you!
+
+Miyajima: Hmm... you didn't answer all the questions correctly, but that was to be expected...
+Miyajima: After all, I doubt these questions were easy for an outlander. Come, take these prizes nonetheless.
+Miyajima: I had better complete and publish that cultural manual soon. Dragging on like this won't do...
+
+Miyajima: If outlanders who arrive in Ritou wish to stay, they will usually have to complete certain procedures with a specific organization first. What is the name of this organization?
+ "The Infielder's Affairs Agency."
+Miyajima: I'm sorry, but the correct answer is "The Outlander Affairs Agency."
+ "The Outlander Affairs Agency."
+Miyajima: Absolutely correct!
+ "The International Affairs Agency."
+Miyajima: I'm sorry, but the correct answer is "The Outlander Affairs Agency."
+Miyajima: As for my next question...
+Miyajima: A rare type of plant called Dendrobium grows in Inazuma. Legend has it that it is irrigated with fresh blood, which results in an especially bright red shade when it blooms in a battlefield.
+Miyajima: The Dendrobium has another, more poetic name. Do you know what it is?
+ "The Dragon's Heart."
+Miyajime: I am sorry. The correct answer is "Lycoris."
+ "Lycoris."
+Miyajima: Absolutely correct!
+ "Crimson Beyond."
+Miyajime: I am sorry. The correct answer is "Lycoris."
+Miyajima: As for my next question...
+Miyajima: A special type of creature called Sea Ganoderma resides near certain bodies of water.
+Miyajima: Do you know what they really are?
+ A type of ore.
+Miyajima: I am sorry. The correct answer is that they are a type of invertebrate and its secretion.
+ A type of invertebrate and its secretion.
+Miyajima: Absolutely correct!
+ A kind of mushroom.
+Miyajima: I am sorry. The correct answer is that they are a type of invertebrate and its secretion.
+
+Miyajima: Light novels are everywhere these days. Within this genre, there is a publisher run directly by the Yashiro Commission.
+Miyajima: Do you know its name?
+ "Chitty Chitty Bang Bang House."
+Miyajima: I am sorry, but the correct answer is "Yae Publishing House."
+ "Yae Publishing House."
+Miyajima: Absolutely correct!
+ "Kabukicho."
+Miyajima: I am sorry, but the correct answer is "Yae Publishing House."
+Miyajima: As for my next question...
+Miyajima: Inazuma is known for its excellent smelting techniques, and the famous Tatara Steelworking Technique is among them.
+Miyajima: Do you know what the "Tatara" in this name actually refers to?
+ "Tatarasuna."
+Miyajima: Absolutely correct!
+ "Tatara Sanders."
+Miyajima: I am sorry. The correct answer is "Tatarasuna."
+ "Tartarusuna."
+Miyajima: I am sorry. The correct answer is "Tatarasuna."
+Miyajima: As for my next question...
+Miyajima: Hot springs are a famous type of recreational activity in Inazuma. People love to enjoy hot springs in their leisure time.
+Miyajima: However, do you know which energy source powers Inazuma's hot springs?
+ High-efficiency blast furnaces.
+Miyajima: Absolutely correct!
+ Coal burning.
+Miyajima: Ah, unfortunately, the correct answer is "high-efficiency blast furnaces."
+ Geothermal heat from volcanoes.
+Miyajima: Ah, unfortunately, the correct answer is "high-efficiency blast furnaces."
+
+Miyajima: Under the command of the Shogun, and as part of the organization that is in charge of Inazuma's major affairs, the well-known Tri-Commission, what is the primary responsibility of the Tenryou Commission?
+ Law and order-related affairs.
+Miyajima: Absolutely correct!
+ The weather forecast.
+Miyajima: I am sorry, but the Tenryou Commission is primarily responsible for affairs related to law and order.
+ Observation of the stars.
+Miyajima: I am sorry, but the Tenryou Commission is primarily responsible for affairs related to law and order.
+Miyajima: As for my next question...
+Miyajima: Under the command of the Shogun, and as part of the organization that is in charge of Inazuma's major affairs, the well-known Tri-Commission, what is the primary responsibility of the Yashiro Commission?
+ Work related to cultural affairs and the shrines.
+Miyajima: Absolutely correct!
+ Community work.
+Miyajima: I am sorry. The Yashiro Commission is primarily responsible for cultural affairs and the shrines.
+ Processing of agricultural products.
+Miyajima: I am sorry. The Yashiro Commission is primarily responsible for cultural affairs and the shrines.
+Miyajima: As for my next question...
+Miyajima: Under the command of the Shogun, and as part of the organization that is in charge of Inazuma's major affairs, the well-known Tri-Commission, what is the primary responsibility of the Kanjou Commission?
+ Surveying marine resources.
+Miyajima: I am sorry, but the Kanjou Commission is primarily responsible for financial affairs and trade.
+ Financial affairs and trade.
+Miyajima: Absolutely correct!
+ Map drawing
+Miyajima: I am sorry, but the Kanjou Commission is primarily responsible for financial affairs and trade.
+ "Chitty Chitty Bang Bang House."
+Miyajima: I am sorry, but the correct answer is "Yae Publishing House."
+ "Crimson Beyond."
+Miyajime: I am sorry. The correct answer is "Lycoris."
+ "Kabukicho."
+Miyajima: I am sorry, but the correct answer is "Yae Publishing House."
+ "Lycoris."
+Miyajima: Absolutely correct!
+ "Tartarusuna."
+Miyajima: I am sorry. The correct answer is "Tatarasuna."
+ "Tatara Sanders."
+Miyajima: I am sorry. The correct answer is "Tatarasuna."
+ "Tatarasuna."
+Miyajima: Absolutely correct!
+ "The Dragon's Heart."
+Miyajime: I am sorry. The correct answer is "Lycoris."
+ "The Infielder's Affairs Agency."
+Miyajima: I'm sorry, but the correct answer is "The Outlander Affairs Agency."
+ "The International Affairs Agency."
+Miyajima: I'm sorry, but the correct answer is "The Outlander Affairs Agency."
+ "The Outlander Affairs Agency."
+Miyajima: Absolutely correct!
+ "Yae Publishing House."
+Miyajima: Absolutely correct!
+ A kind of mushroom.
+Miyajima: I am sorry. The correct answer is that they are a type of invertebrate and its secretion.
+ A type of invertebrate and its secretion.
+Miyajima: Absolutely correct!
+ A type of ore.
+Miyajima: I am sorry. The correct answer is that they are a type of invertebrate and its secretion.
+ Any prizes for getting it right?
+ Coal burning.
+Miyajima: Ah, unfortunately, the correct answer is "high-efficiency blast furnaces."
+ Community work.
+Miyajima: I am sorry. The Yashiro Commission is primarily responsible for cultural affairs and the shrines.
+ Financial affairs and trade.
+Miyajima: Absolutely correct!
+ Geothermal heat from volcanoes.
+Miyajima: Ah, unfortunately, the correct answer is "high-efficiency blast furnaces."
+ High-efficiency blast furnaces.
+Miyajima: Absolutely correct!
+ It's the "Raiden Shogun," isn't it?
+ Law and order-related affairs.
+Miyajima: Absolutely correct!
+ Map drawing
+Miyajima: I am sorry, but the Kanjou Commission is primarily responsible for financial affairs and trade.
+ Observation of the stars.
+Miyajima: I am sorry, but the Tenryou Commission is primarily responsible for affairs related to law and order.
+ Processing of agricultural products.
+Miyajima: I am sorry. The Yashiro Commission is primarily responsible for cultural affairs and the shrines.
+ Quest DescriptionMiyajima, a researcher of Inazuma's cultural traditions, wants to test your knowledge...
+ Surveying marine resources.
+Miyajima: I am sorry, but the Kanjou Commission is primarily responsible for financial affairs and trade.
+ The weather forecast.
+Miyajima: I am sorry, but the Tenryou Commission is primarily responsible for affairs related to law and order.
+ What are you doing?
+ Work related to cultural affairs and the shrines.
+Miyajima: Absolutely correct!
+Miyajima: ...And you got all of them right! Very impressive indeed!
+Miyajima: A rare type of plant called Dendrobium grows in Inazuma. Legend has it that it is irrigated with fresh blood, which results in an especially bright red shade when it blooms in a battlefield.
+Miyajima: A special type of creature called Sea Ganoderma resides near certain bodies of water.
+Miyajima: Absolutely correct!
+Miyajima: After all, I doubt these questions were easy for an outlander. Come, take these prizes nonetheless.
+Miyajima: Ah, I suppose underestimating young people was my error. Come, take your prize!
+Miyajima: Ah, and that's where you would be wrong. "Raiden Shogun" is a nickname of sorts. But I suppose that this question might have been too hard for an outlander.
+Miyajima: Ah, unfortunately, the correct answer is "high-efficiency blast furnaces."
+Miyajima: Ah. My name is Miyajima, and I am compiling a manual on Inazuma's traditions and culture. I am getting on in years, but I still hope to make some contributions in this field.
+Miyajima: As for my next question...
+Miyajima: Come and find me once you are ready.
+Miyajima: Do you know its name?
+Miyajima: Do you know what the "Tatara" in this name actually refers to?
+Miyajima: Do you know what they really are?
+Miyajima: From the looks of you, you're not from around here, right?
+Miyajima: Hmm. You answered all three of my questions.
+Miyajima: Hmm... you didn't answer all the questions correctly, but that was to be expected...
+Miyajima: Hot springs are a famous type of recreational activity in Inazuma. People love to enjoy hot springs in their leisure time.
+Miyajima: However, do you know which energy source powers Inazuma's hot springs?
+Miyajima: I am sorry, but the Kanjou Commission is primarily responsible for financial affairs and trade.
+Miyajima: I am sorry, but the Tenryou Commission is primarily responsible for affairs related to law and order.
+Miyajima: I am sorry, but the correct answer is "Yae Publishing House."
+Miyajima: I am sorry. The Yashiro Commission is primarily responsible for cultural affairs and the shrines.
+Miyajima: I am sorry. The correct answer is "Tatarasuna."
+Miyajima: I am sorry. The correct answer is that they are a type of invertebrate and its secretion.
+Miyajima: I didn't realize that your cultural knowledge runs so deep. Looks like my worries were for naught, haha.
+Miyajima: I had better complete and publish that cultural manual soon. Dragging on like this won't do...
+Miyajima: I'm sorry, but the correct answer is "The Outlander Affairs Agency."
+Miyajima: If outlanders who arrive in Ritou wish to stay, they will usually have to complete certain procedures with a specific organization first. What is the name of this organization?
+Miyajima: Inazuma is known for its excellent smelting techniques, and the famous Tatara Steelworking Technique is among them.
+Miyajima: It's a shame that young people nowadays don't seem to know much about the stories of this great land.
+Miyajima: Light novels are everywhere these days. Within this genre, there is a publisher run directly by the Yashiro Commission.
+Miyajima: Now, I have three questions. First...
+Miyajima: Of course, young people who are willing to learn deserve their just reward.
+Miyajima: Perhaps I should ask you something simpler. Would you be interested?
+Miyajima: The Dendrobium has another, more poetic name. Do you know what it is?
+Miyajima: There are actually some who don't know the official name of our almighty Electro Archon...
+Miyajima: These are precious parts of our culture. If we don't pass them down...
+Miyajima: This is a most worrisome trend. What will become of Inazuma in a few decades, when all the old folks like myself are all gone...
+Miyajima: Under the command of the Shogun, and as part of the organization that is in charge of Inazuma's major affairs, the well-known Tri-Commission, what is the primary responsibility of the Kanjou Commission?
+Miyajima: Under the command of the Shogun, and as part of the organization that is in charge of Inazuma's major affairs, the well-known Tri-Commission, what is the primary responsibility of the Tenryou Commission?
+Miyajima: Under the command of the Shogun, and as part of the organization that is in charge of Inazuma's major affairs, the well-known Tri-Commission, what is the primary responsibility of the Yashiro Commission?
+Miyajima: You may not know it, but Inazuma has a very rich culture and history.
+Miyajima: You young people are the future! We're counting on you!
+Miyajime: I am sorry. The correct answer is "Lycoris."

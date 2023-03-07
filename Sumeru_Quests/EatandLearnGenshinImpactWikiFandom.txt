@@ -1,0 +1,50 @@
+ I'm alright, actually.
+Jafar: Oh, that's good, that's good.
+Jafar: Still, your steps are hurried. You seek to fix some problem or another, perhaps?
+Jafar: Well, I don't know what problem it is that you seek to solve, but I have a suggestion...
+ Lots of things...
+Jafar: Ah... Indeed, I can see that you are tired and pressed for time.
+Jafar: You must have something on your mind that needs to be resolved as soon as possible.
+ Quest DescriptionThe foodie researcher Jafar is still studying "eating" today...
+ Thank you.
+Jafar has the ingredients ready and starts cooking...
+Jafar: (Hmm, I should keep in mind to enjoy my life...)
+Jafar: Ah, now that's a nice potato. Just wait a moment...
+Jafar: Ah, yes — and don't be too picky when you search for that mint sprig.
+Jafar: Ah... Indeed, I can see that you are tired and pressed for time.
+Jafar: Any hey, don't make a big deal out of looking for one.
+Jafar: Haste is indeed a normal part of life, yes... but as we often put it, even a raging river must sometimes flow peacefully through a serene stream.
+Jafar: Hmmm...
+(Dialogue continues randomly based on the version of the commission)
+Jafar: How about we enjoy some Shawarma Wraps?
+Jafar: I let my mind flow peacefully through that serene stream... this is how I relax.
+Jafar: It doesn't matter how you find the Raw Meat, by the way.
+Jafar: Just remember that you are looking for a piece of Raw Meat. This is no troublesome matter, and you shouldn't see it as such.
+Jafar: My pleasure. Enjoy your meal!
+Jafar: Oh, that's good, that's good.
+Jafar: Please find me a Potato.
+Jafar: Please find me a piece of Raw Meat.
+Jafar: Please find me a sprig of Mint.
+Jafar: Rather than rushing about, I'd like to invite you to have a delicious meal with me if you are willing to wait but a little while.
+Jafar: Remember, you are just looking for a regular sprig. You aren't looking for troubles of any kind.
+Jafar: Remember, you are looking for a regular, run-of-the-mill potato, and there's no wrong choice.
+Jafar: Still, your steps are hurried. You seek to fix some problem or another, perhaps?
+Jafar: That is an excellent sprig of Mint, indeed! Now, please wait here a while.
+Jafar: That is very fresh meat indeed! Now, please wait here for a while.
+Jafar: These are the Panipuri made with the ingredients you brought. Please help yourself.
+(Dialogue continues in Conclusion)
+Jafar: These are the Shawarma Wraps made with the ingredients you brought. Please help yourself.
+(Dialogue continues in Conclusion)
+Jafar: This is the Minty Bean Soup, made with the ingredients you brought. Please help yourself.
+(Dialogue continues in Conclusion)
+Jafar: To me, eating means leaving all my exhausting work and research behind for a time...
+Jafar: Well, I don't know what problem it is that you seek to solve, but I have a suggestion...
+Jafar: Well, enjoy your meal to the fullest. I hope that it can also put your mind at ease.
+Jafar: Why don't we enjoy some Minty Bean Soup together?
+Jafar: Why don't we enjoy some Panipuri?
+Jafar: You don't have to pay me any Mora. Just help me find a Potato.
+Jafar: You don't have to pay me any Mora. Just help me find a piece of Raw Meat.
+Jafar: You don't have to pay me any Mora. Just help me find a sprig of Mint.
+Jafar: You must have something on your mind that needs to be resolved as soon as possible.
+Jafar: You must take a little break every now and then.
+Jafar: You seem to be in a rush, my friend. What's bothering you?

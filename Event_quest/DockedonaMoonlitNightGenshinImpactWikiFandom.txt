@@ -1,0 +1,54 @@
+ (I'm so popular!)
+ And what can I get for the two lovely ladies?
+ Another drink for the lovely lady?
+ Got it. Coming right up.
+ I'll visit you both. I promise.
+ Quest Description"Do you know that I met a very nice client today? She moved and talked with grace — a very generous buyer, too.""What did you sell her?" "Trade secret."
+ We're here to serve you!
+ We're the bartenders, Paimon.
+ What are you two doing here?
+ When I have a chance...
+Another familiar face has arrived at the tavern.
+Media:Vo eqtj002 3 paimon 01.ogg Paimon: Huh, this doesn't look like the drink they ordered. Just give this one to Paimon and try making another.
+Media:vo eqtj007 1 beidou 01.ogg Beidou: Ahoy, (Traveler)! Great timing. Join us for a round?
+Media:vo eqtj007 1 beidou 02.ogg Beidou: This lady decided on a whim that she wanted a little vacation, so we ended up traveling around the area.
+Media:vo eqtj007 1 beidou 03.ogg Beidou: But I guess we have different ideas of vacation. We hardly hiked the mountains before we came here to put our feet up. Talk about spoiled.
+Media:vo eqtj007 1 beidou 04.ogg Beidou: It'll do. Anyway, this one's on me, okay?
+Media:vo eqtj007 1 beidou 05.ogg Beidou: Uh... I will have a... a large Dusk, please. Thanks!
+Media:vo eqtj007 1 ningguang 01.ogg Ningguang: Traveler, what a pleasant surprise.
+Media:vo eqtj007 1 ningguang 02.ogg Ningguang: Come now, no need to hurt anyone's feelings. Besides, I specifically chose this place because I knew how much you like to drink.
+Media:vo eqtj007 1 ningguang 03.ogg Ningguang: But our captain here has seen a lot more of the world, so she's not exactly thrilled with this little tavern.
+Media:vo eqtj007 1 ningguang 04.ogg Ningguang: I'll have a small Birch Sap, on the sour side.
+Media:vo eqtj007 1 paimon 01.ogg Paimon: Wait, did you two come together?
+Media:vo eqtj007 1 paimon 02.ogg Paimon: Beidou's paying? Uh, does that include us?
+Media:vo eqtj007 1 paimon 03.ogg Paimon: Oh right. Hehe, sorry... guess that's just a habit now.
+Media:vo eqtj007 2 beidou 01.ogg Beidou: ...
+Media:vo eqtj007 2 beidou 02.ogg Beidou: You mean the taste of going from rags to riches? Just what kind of taste is that?
+Media:vo eqtj007 2 beidou 03.ogg Beidou: Interesting... Does it taste like starting a little business then discovering that selling fruit isn't very lucrative?
+Media:vo eqtj007 2 beidou 04.ogg Beidou: Haha, who'd have thought that the dignified Tianquan was once a fruit vendor on the street.
+Media:vo eqtj007 2 beidou 05.ogg Beidou: On the other hand, I bet few can tell that I'm from an ordinary fishing village, right?
+Media:vo eqtj007 2 beidou 06.ogg Beidou: Hey, you're not mocking me, are you?
+Media:vo eqtj007 2 beidou 07.ogg Beidou: I know how fierce you can be with words. It's my treat today, so remember to take it easy on me.
+Media:vo eqtj007 2 beidou 08.ogg Beidou: I like where this is going! I'll have another round, too!
+Media:vo eqtj007 2 beidou 09.ogg Beidou: Are you serious? Don't tell me you're gonna open a Sunsettia trade route now...
+Media:vo eqtj007 2 beidou 10.ogg Beidou: Wait... Huh, really?
+Media:vo eqtj007 2 beidou 11.ogg Beidou: You're also welcome aboard the Alcor. The crew loves to drink, you could come feast with us. I promise you'd have a blast.
+Media:vo eqtj007 2 ningguang 01.ogg Ningguang: ...
+Media:vo eqtj007 2 ningguang 02.ogg Ningguang: Mmm... The bittersweet taste of nostalgia.
+Media:vo eqtj007 2 ningguang 03.ogg Ningguang: Hehe... It's mainly sour with just a tinge of sweetness, and a lingering aftertaste.
+Media:vo eqtj007 2 ningguang 04.ogg Ningguang: No need to get into the details. Let's leave the past in the past.
+Media:vo eqtj007 2 ningguang 05.ogg Ningguang: Not necessarily. If you ask me...
+Media:vo eqtj007 2 ningguang 06.ogg Ningguang: I'd say that Captain Beidou has eyes that can pierce the sea. You're an adventure-seeking pioneer who tames the wind and the waves... Which is clearly indicative of someone who grew up by the sea.
+Media:vo eqtj007 2 ningguang 07.ogg Ningguang: Come now, it wouldn't do any good to be sarcastic.
+Media:vo eqtj007 2 ningguang 08.ogg Ningguang: Alright, then I'd like to have a few more.
+Media:vo eqtj007 2 ningguang 09.ogg Ningguang: Mondstadt's fresh fruit juice is hard to top. I wish I could enjoy some every day.
+Media:vo eqtj007 2 ningguang 10.ogg Ningguang: Hmm, an interesting proposition.
+Media:vo eqtj007 2 ningguang 11.ogg Ningguang: I'm just joking, of course. There's already a whole industry established for that. They don't need me muscling my way in to their business.
+Media:vo eqtj007 2 ningguang 12.ogg Ningguang: Thanks for the drinks today, (Traveler). If you'd ever like a cushy job, I'd enjoy having you as my personal bartender.
+Media:vo eqtj007 2 ningguang 13.ogg Ningguang: My, my, Captain Beidou, are you competing with me for talent? That's hardly necessary. You may simply stop by the Jade Chamber whenever you want the Traveler to mix you a drink.
+Media:vo eqtj007 2 paimon 01.ogg Paimon: Well? H—How is it? This silence is making Paimon nervous!
+Media:vo eqtj007 2 paimon 02.ogg Paimon: Well, you heard the good lady, bartender!
+Media:vo eqtj007 2 paimon 03.ogg Paimon: Is it Paimon, or does it sound like they think you work for them?
+Traveler: (Alright, this drink is looking good.)
+Traveler: (Done. Let's get started on the next drink.)
+You give the two a refill immediately...

@@ -1,0 +1,141 @@
+ About scents...
+Ioroi: When you first came here, you were aided by a certain someone giving you a bake-danuki meal, yes?
+Ioroi: We bake-danuki are skilled at transforming into just about anything. Back when I was competing with that sneaky kitsune, I once transformed myself into Hanamizaka — yes, the whole street! She saw through me, though.
+Ioroi: The people of that time knew this as the False Hanamizaka Incident, and even wrote it into a text known as "Kakushin Oobayashi." It should be a most famous tale... Do people nowadays no longer know of it?
+Ioroi: Whatever the case, we are too skilled at transforming, and so must rely on scents — auras — to identify each other. There might be cases of mistaken identity otherwise.
+Ioroi: That's why I said, how could it not have been that sneaky kitsune who made that meal for you? To be so familiar with us tanuki and even know our magic... There are precious few who can do such things!
+ About training...
+Ioroi: When I was around Kichiboushi's age, I traced the footsteps of the great bake-danuki Tsukumo across eighteen famous sites — it was in those places that he showed forth the might of the tanuki, once upon a time.
+Ioroi: For example, it is said that he once turned into a festive float team on the path of pilgrimage up Mt. Yougou, singing and dancing as he went. He even transformed himself into Her Excellency. Ah, that was quite the story!
+Ioroi: As for the other sites... Tsukumo once transformed into the mighty ancient general, Akuou, at the Mouun Shrine. He called for this shrine maiden... whatever her name was... to come out and see him, making trouble everywhere.
+Ioroi: Whatever the case, the little tanuki must not stray from our path — they must train hard to become strong and independent big bake-danuki!
+ Alright.
+ It can be done, but we can only capture its Crystal Core.
+ And you're not gonna do it?
+Paimon: Well, you've got more experience at this.
+ It can be done, but we can only capture its Crystal Core.
+ But you're the one who can fly.
+Paimon: True, but you've got more experience at catching 'em!
+ It can be done, but we can only capture its Crystal Core.
+ Crystalflies might just be that kind of organism.
+ Guess it's just as well that I'm feeling a little peckish.
+ He's probably never seen a Crystalfly that wasn't purple...
+ I honestly don't know the answer to that question.
+ I'm not sure you know either, Paimon.
+Paimon: Hey, come on!
+ It can be done, but we can only capture its Crystal Core.
+ It's fine if you don't get it yet.
+ Looks like you're in need of some training yourself, Paimon.
+ Of course it's about food with you, Paimon.
+"Kichiboushi": Good food, good idea!
+Paimon: Aw! See, (Traveler)? Kichiboushi knows what's up. Eating all the good food in the world is good training too, you know?
+Paimon: Kichiboushi will surpass you pretty quick if you don't wise up!
+ Osial?
+ Quest DescriptionYou agreed to Ioroi's request to "bring Kichiboushi out to train."Time to head to Guyun Stone Forest this time.
+ Relax, this boat won't sink.
+ This ship took us all the way to Inazuma.
+ See you.
+Ioroi: Take care of yourselves. I leave Kichiboushi in your hands.
+ Ships are made of wood. All hail the power of Dendro!
+Paimon: Eh? Can Dendro really do that?
+Paimon: Um... Then why don't hilichurls with wooden shields float?
+ Ships can float as long as their buoyancy exceeds the pull of gravity.
+Paimon: Ooh, is that how it is? Paimon gets it.
+ Step Description"Big boat, strong! Bake-danuki, sat in mud boat once... Glug glug.""Why would anyone make a mud boat!? ...Actually, that reminds Paimon of that guy Ulfr from Mondstadt..."
+ That's Inazuma.
+ That's where you're from.
+ The Overlord of the Vortex?
+ There's not much I can do about it.
+ This ship took us all the way to Inazuma.
+ Well, it does look different from the ones in Inazuma...
+ He's probably never seen a Crystalfly that wasn't purple...
+ Well, you both say that, but...
+ You can get by without understanding some things.
+"Kichiboushi": ...
+"Kichiboushi": Alcor! Powerful!
+"Kichiboushi": Amazing! So much water!
+"Kichiboushi": And so big! So big, on the water!
+"Kichiboushi": But, mud boat sink. Ioroi tell story. Story of rabbit, bake-danuki, and the mud boat.
+"Kichiboushi": Different from snow mountain. Not cold. No snow.
+"Kichiboushi": Golden Crystalfly!
+"Kichiboushi": Good food, good idea!
+"Kichiboushi": Kapow~ Crystalfly~ Golden Crystalfly!
+(Give crystal core)
+"Kichiboushi": Kichiboushi has seen purple Crystalflies. But their cores are all white and green.
+"Kichiboushi": Many mountains over there. What place is that?
+"Kichiboushi": Mm!
+"Kichiboushi": Mm! Understood.
+"Kichiboushi": Mm! Very good!
+"Kichiboushi": Mm! Yey!
+"Kichiboushi": Mmmph. Didn't get it.
+"Kichiboushi": Not gold.
+"Kichiboushi": Not good. If boat sinks...
+"Kichiboushi": Not scared. But Ioroi said that "kitsune, idiots, and smoke like high spots."
+"Kichiboushi": Ooh!
+"Kichiboushi": Photo! Drawing!
+"Kichiboushi": Right. Gold Crystalfly, why not gold?
+"Kichiboushi": So big, must be heavy. Why not sinking?
+"Kichiboushi": So far. Ioroi, across the sea.
+"Kichiboushi": Stronger than White Fur and Yellow Fur?
+"Kichiboushi": White Fur climb? But White Fur can fly.
+"Kichiboushi": White Fur, can do it.
+"Kichiboushi": Who?
+"Kichiboushi": Why will not-mud ship not sink?
+"Kichiboushi": Yey! Nice!
+Ioroi: As for the other sites... Tsukumo once transformed into the mighty ancient general, Akuou, at the Mouun Shrine. He called for this shrine maiden... whatever her name was... to come out and see him, making trouble everywhere.
+Ioroi: For example, it is said that he once turned into a festive float team on the path of pilgrimage up Mt. Yougou, singing and dancing as he went. He even transformed himself into Her Excellency. Ah, that was quite the story!
+Ioroi: Ooh, it's you. I must confess that this Kimera of yours is very impressive indeed. A true shame it is that you are not a tanuki, or you would be a most great one indeed.
+Ioroi: Take care of yourselves. I leave Kichiboushi in your hands.
+Ioroi: That's why I said, how could it not have been that sneaky kitsune who made that meal for you? To be so familiar with us tanuki and even know our magic... There are precious few who can do such things!
+Ioroi: The people of that time knew this as the False Hanamizaka Incident, and even wrote it into a text known as "Kakushin Oobayashi." It should be a most famous tale... Do people nowadays no longer know of it?
+Ioroi: We bake-danuki are skilled at transforming into just about anything. Back when I was competing with that sneaky kitsune, I once transformed myself into Hanamizaka — yes, the whole street! She saw through me, though.
+Ioroi: Well, perhaps only half as great as me, though.
+Ioroi: Whatever the case, the little tanuki must not stray from our path — they must train hard to become strong and independent big bake-danuki!
+Ioroi: Whatever the case, we are too skilled at transforming, and so must rely on scents — auras — to identify each other. There might be cases of mistaken identity otherwise.
+Ioroi: When I was around Kichiboushi's age, I traced the footsteps of the great bake-danuki Tsukumo across eighteen famous sites — it was in those places that he showed forth the might of the tanuki, once upon a time.
+Ioroi: When you first came here, you were aided by a certain someone giving you a bake-danuki meal, yes?
+Paimon: ...Is this what they call "disillusionment"? You know, the thing that happens when you get older?
+Paimon: Aw! See, (Traveler)? Kichiboushi knows what's up. Eating all the good food in the world is good training too, you know?
+Paimon: Captain Beidou is a real steady hand, and so are the rest of her crew. Basically, this ship is the safest place on the high seas!
+Paimon: Come to think of it, Paimon's never really noticed this even though you've caught lots of Crystalflies in the past...
+Paimon: Cool, eh? But we fought with it too, y'know? Atop Ningguang's Jade Chamber...
+Paimon: Don't worry, Kichiboushi. Someday, when you're older, you'll be as smart as Paimon! Then you'll understand all these things: why ships float, why it snows in Dragonspine... You'll know it all!
+Paimon: Don't you "you can do it" Paimon! You're the one who's training, Kichiboushi.
+Paimon: Eh, details!
+Paimon: Eh, he doesn't know what he's talking about.
+Paimon: Eh? Can Dendro really do that?
+Paimon: Exactly! And that's how we came to meet you and Ioroi. So don't worry, it'll be fine!
+Paimon: Hey, come on!
+Paimon: Hmm? Well...
+Paimon: Huh, you're becoming more fluent, Kichiboushi. But at the same time, how are we supposed to answer this question...
+Paimon: Huh. It does seem like the Crystal Cores are more like Anemo Crystalflies. Maybe we should ask Sucrose and Albedo next time if we have the chance.
+Paimon: Huh? The Crystal Core really isn't golden!
+Paimon: Is there somewhere familiar where we can find some good food?
+Paimon: Kichiboushi will surpass you pretty quick if you don't wise up!
+Paimon: Next, let's bring Kichiboushi onboard The Alcor!
+Paimon: Not afraid of heights, Kichiboushi? If you aren't, let's head up that mast. Paimon loves high spots. The view and the air are both super great!
+Paimon: Oh well, then. In any case, let's proceed as we planned. Time to take Kichiboushi to see The Alcor!
+Paimon: Ooh, Paimon's got it! Let's take Kichiboushi to Guyun Stone Forest! We should be able to see The Alcor from there.
+Paimon: Ooh, is that how it is? Paimon gets it.
+Paimon: Right! Hehe, (Traveler), why do ships float on the water's surface?
+Paimon: Right, that's the one! Osial, the Overlord of the Vortex! This is where it was defeated by Rex Lapis' stone spears and sealed.
+Paimon: Right? Climbing the mast sure was tiring.
+Paimon: See The Alcor!
+Paimon: See! The view's great, isn't it?
+Paimon: Still, it is kinda disappointing. Why are the Crystal Cores of Geo Crystalflies not gold?
+Paimon: That's because The Alcor is a ship.
+Paimon: That's right. But we'll be with you all the way!
+Paimon: That's right. That should be Mt. Yougou over there — and beneath it? That's where Chinju Forest is.
+Paimon: This is Guyun Stone Forest! Legend has it that this is where Rex Lapis defeated that, uh, many-headed water snake thingamabob — what was its name again?
+Paimon: True, but you've got more experience at catching 'em!
+Paimon: Uh... That's kinda hard to say!
+Paimon: Um, well, The Alcor isn't made of mud. That's why it won't sink.
+Paimon: Um... Then why don't hilichurls with wooden shields float?
+Paimon: Very smart and strong people!
+Paimon: Wait, so that was what you were gushing over? C'mon, Paimon's telling a story over here!
+Paimon: Well then, where to next...
+Paimon: Well, you've got more experience at this.
+Paimon: Well... Guess that's true. Alright, alright. Why don't you catch one for him, (Traveler)?
+Paimon: Whatever the case, we'll stop here today. Paimon's gotta have a good think about where we'll go next.
+Paimon: Yup! Whatever the case, we can see The Alcor from here. Let's take a photo of Kichiboushi!
+Paimon: Yup, that's right! Alright, stand still for a moment now!

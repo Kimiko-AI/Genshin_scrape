@@ -1,0 +1,186 @@
+ (Good, that means we have an opportunity.)
+ (Where could Kamuna be...?)
+ ...You have my full trust.
+ ...but we can't just leave him like this.
+ ...if he seeks to endanger Inazuma...
+ ...will you still be on our side?
+ A little.
+Media:vo eqrg002 6 tartaglia 04b.ogg Childe: Just a little, huh? Haha, well, if you were worried about me, I'm flattered.
+ About your wounds...
+ As expected, you are here to investigate Inazuma.
+ He'll probably be fine...
+ I can feel the sincerity.
+ If Kamuna has evil intentions...
+ No.
+Media:vo eqrg002 6 tartaglia 04a.ogg Childe: Hah, you must have a lot of faith in my abilities.
+ Quest DescriptionAfter some waiting, the Mystic Onmyou Chamber has finished rearranging itself. You prepare to meet up with Xinyan and enter the Chamber once more to help Shiki Taishou regain its memories...
+ She's just trying to take responsibility.
+ Shiki Taishou.
+ That's right.
+ There are things I need to say myself.
+ There's something I need to ask you.
+ We just need to win one final battle...
+ Yes. Shiki Taishou...
+Kujou Sara leaves...
+Media:vo dialog eqrg002 paimon 01.ogg Paimon: What a valiant spirit! No wonder people are starting to feel more at ease!
+Media:vo dialog eqrg002 watabe 01.ogg Watanabe: I knew we could count on Madam Kujou Sara! The reinforcements she sent are all seasoned veterans!
+Media:vo dialog eqrg002 watabe 02.ogg Watanabe: With experienced fighters on hand, no amount of monsters can breach this pass!
+Media:vo dialog eqrg002 watabe 03.ogg Watanabe: Ha, nothing more than a scratch! Tenryou Commission samurai don't back down in critical moments like these!
+Media:vo eqrg002 1 paimon 01.ogg Paimon: It's been a while now, do you think the Mystic Onmyou Chamber has finished rearranging yet?
+Media:vo eqrg002 1 paimon 02.ogg Paimon: Hmm, let's go meet up with Xinyan!
+Media:vo eqrg002 10 paimon 01.ogg Paimon: Whew, finally, the last room. It hasn't been easy.
+Media:vo eqrg002 10 shikishogun 01.ogg Shiki Taishou: Traveler, quickly!
+Media:vo eqrg002 10 xinyan 01.ogg Xinyan: Is that... Another replica!
+Media:vo eqrg002 11 paimon 01.ogg Paimon: Huh, sounds a lot like something Tartaglia would say...
+Media:vo eqrg002 11 paimon 02.ogg Paimon: But... this onmyou chamber was built ages ago, wasn't it? Could he have been here all that time!? Whoa...
+Media:vo eqrg002 11 paimon 03.ogg Paimon: Uh, we don't need to get too serious though, right? It's eerie enough down here without adding more tension into the mix! Ugh, let Paimon say it.
+Media:vo eqrg002 11 paimon 04.ogg Paimon: Alright, here goes. In the very beginning, all we heard was that monsters had escaped from a Domain. We came straight here along with samurai from the Tenryou Commission.
+Media:vo eqrg002 11 paimon 05.ogg Paimon: When we met you, you didn't know anything about the Domain or where you came from, and we believed you.
+Media:vo eqrg002 11 paimon 06.ogg Paimon: We had our reservations, but we trusted Xinyan. She took you at your word, and we decided to work together.
+Media:vo eqrg002 11 paimon 07.ogg Paimon: As we ventured deeper and deeper into the Domain, it seemed like the truth was just around the corner...
+Media:vo eqrg002 11 paimon 08.ogg Paimon: But even now, we still can't be sure whether this Domain was created for... evil ends.
+Media:vo eqrg002 11 paimon 09.ogg Paimon: You never know what you'll find in a chest until you open it, and now we've arrived at that moment, we need to be ready for whatever it contains!
+Media:vo eqrg002 11 paimon 10.ogg Paimon: *snivel* ...Great, leave all the heart-breaking decisions for us, why don't you...
+Media:vo eqrg002 11 paimon 11.ogg Paimon: ...Still, that was an honest and inspiring speech!
+Media:vo eqrg002 11 paimon 12.ogg Paimon: Good enough for Paimon! What do you think, (Traveler)?
+Media:vo eqrg002 11 paimon 13.ogg Paimon: What do you mean "testing"! This was an orchestrated collaboration! Successful teamwork!
+Media:vo eqrg002 11 paimon 14.ogg Paimon: It's like Xinyan said — she has her way of confirming trustworthiness... and we have ours!
+Media:vo eqrg002 11 paimon 15.ogg Paimon: Besides, this was a chance to let Shiki Taishou know that even if he's still unsure of the big picture, we're still willing to place our trust in him.
+Media:vo eqrg002 11 paimon 16.ogg Paimon: It's just like Xinyan said... Uh... What was it you said again...?
+Media:vo eqrg002 11 paimon 17.ogg Paimon: Oh, got it! "It's an honest language that touches the truest depths of the heart"!
+Media:vo eqrg002 11 paimon 18.ogg Paimon: Eh, trouble's fine as long as we can win in the end!
+Media:vo eqrg002 11 paimon 19.ogg Paimon: Ah! Shut up! Don't jinx it!
+Media:vo eqrg002 11 paimon 20.ogg Paimon: *whimper* Paimon isn't listening... You can have fun here by yourself when all this is over!
+Media:vo eqrg002 11 shikishogun 01.ogg Shiki Taishou: This room is very close to the deepest part of the onmyou chamber. Harunosuke and I... I remember we spent a long time here.
+Media:vo eqrg002 11 shikishogun 02.ogg Shiki Taishou: We would watch martial artists from all over Inazuma. They would drink here and celebrate, shouting: "Now we too have the power to defeat the strongest monsters!"
+Media:vo eqrg002 11 shikishogun 03.ogg Shiki Taishou: That is one possibility... among many.
+Media:vo eqrg002 11 shikishogun 04.ogg Shiki Taishou: Perhaps it was all just a ploy by Harunosuke. Maybe recruiting those samurai and ordering them to eradicate the monsters was all in aid of regaining control of the onmyou chamber.
+Media:vo eqrg002 11 shikishogun 05.ogg Shiki Taishou: I'm just trying to make a logical guess. I don't mean to offend anyone.
+Media:vo eqrg002 11 shikishogun 06.ogg Shiki Taishou: My memory is still incomplete, but there's less and less gaps to fill. Soon it should be fully restored.
+Media:vo eqrg002 11 shikishogun 07.ogg Shiki Taishou: What's more, I sense that if we continue forward... we might just come face to face with Harunosuke himself.
+Media:vo eqrg002 11 shikishogun 08.ogg Shiki Taishou: Looking at your expressions... This must be something serious.
+Media:vo eqrg002 11 shikishogun 09.ogg Shiki Taishou: I see... So the time has come for me to make a choice.
+Media:vo eqrg002 11 shikishogun 10.ogg Shiki Taishou: Until now, I had my doubts about why you had decided to help me throughout all this. Even if we've only spent a few days fighting in each other's company, we should have no reason to hide anything.
+Media:vo eqrg002 11 shikishogun 11.ogg Shiki Taishou: I'm afraid that barring new information, it's impossible for me to make any guarantees. I want to believe in Harunosuke, but after all these years, perhaps he's changed... Maybe my memories were never real to begin with.
+Media:vo eqrg002 11 shikishogun 12.ogg Shiki Taishou: I am just a shikigami, created by an onmyouji, with nothing more than a few fragmented memories to my name. The four of you are all I have.
+Media:vo eqrg002 11 shikishogun 13.ogg Shiki Taishou: Our bond is one of trust. My bond with Harunosuke... is one of responsibility.
+Media:vo eqrg002 11 shikishogun 14.ogg Shiki Taishou: As my creator, I have a duty to follow him... And if he does turn out to be evil, then my destiny will be his to control.
+Media:vo eqrg002 11 shikishogun 15.ogg Shiki Taishou: If I am able, I wish to retain the kindness in my heart until the very end. But a weapon cannot betray its master's will. If he was able to create me, then he is able to control me.
+Media:vo eqrg002 11 shikishogun 16.ogg Shiki Taishou: So... if Harunosuke and I go on to cause harm to others... I trust that you will provide a fitting end for the two of us.
+Media:vo eqrg002 11 shikishogun 17.ogg Shiki Taishou: Well, I'm also a terrible liar... But thank you for opening up to my honesty.
+Media:vo eqrg002 11 shikishogun 18.ogg Shiki Taishou: I know, and I will do my best not to cause you guys any trouble.
+Media:vo eqrg002 11 shikishogun 19.ogg Shiki Taishou: Unfortunately, if that is the case, I don't think I'll be able to prevent it in my current state...
+Media:vo eqrg002 11 shikishogun 20.ogg Shiki Taishou: I'm sorry, but I still don't have full control over this place yet.
+Media:vo eqrg002 11 tartaglia 01.ogg Childe: Hey—? I can have positive assumptions too you know!
+Media:vo eqrg002 11 tartaglia 02.ogg Childe: Hahaha, not bad at all. You were testing to see whether there were still missing fragments from Shiki Taishou's memory... You've grown, Traveler.
+Media:vo eqrg002 11 tartaglia 03.ogg Childe: Shiki Taishou refrained from claiming an allegiance... which sounds like the actions of a real comrade to me. Warning us of the potential threat was an act of true responsibility.
+Media:vo eqrg002 11 tartaglia 04.ogg Childe: Even good guys lie and manipulate at times... and bad guys have their own doubts and misgivings.
+Media:vo eqrg002 11 tartaglia 05.ogg Childe: The fact that you were able to give an answer so cruel to yourself... could only mean that you've truly made up your mind.
+Media:vo eqrg002 11 tartaglia 06.ogg Childe: Well then, has our pre-combat session concluded?
+Media:vo eqrg002 11 tartaglia 07.ogg Childe: If so, let's get going!
+Media:vo eqrg002 11 tartaglia 08.ogg Childe: Before we get ahead of ourselves, we need to be ready for an even worse scenario. Imagine if this door isn't the way to the innermost depths of the Domain... but just another mechanism...
+Media:vo eqrg002 11 tartaglia 09.ogg Childe: Hehe, I'm just exploring the what-ifs. There's no guarantee that it won't happen, right?
+Media:vo eqrg002 11 tartaglia 10.ogg Childe: Personally, I wouldn't really mind. This place is a combat haven. It can rearrange itself another ten times for all I care.
+Media:vo eqrg002 11 tartaglia 11.ogg Childe: Well, if the Domain does rearrange itself again, you should watch your backs and try and stick together.
+Media:vo eqrg002 11 tartaglia 12.ogg Childe: Oh, don't worry about me...
+Media:vo eqrg002 11 tartaglia 13.ogg Childe: I'll be making the most of it!
+Media:vo eqrg002 11 xinyan 01.ogg Xinyan: So, you and Kamuna Harunosuke brought samurai here to eradicate monsters?
+Media:vo eqrg002 11 xinyan 02.ogg Xinyan: Wait — Traveler... You're not about to—
+Media:vo eqrg002 11 xinyan 03.ogg Xinyan: ...
+Media:vo eqrg002 11 xinyan 04.ogg Xinyan: I don't like seein' folks forced into a corner like this... but it's like the Traveler says. We gotta be ready to take responsibility for each other.
+Media:vo eqrg002 11 xinyan 05.ogg Xinyan: Wait, were you two planning this line of questioning all along?
+Media:vo eqrg002 11 xinyan 06.ogg Xinyan: Haha, could you give me a hint?
+Media:vo eqrg002 11 xinyan 07.ogg Xinyan: Word-for-word, huh. Your memory ain't so bad after all, Paimon!
+Media:vo eqrg002 11 xinyan 08.ogg Xinyan: Shiki Taishou, try not to worry — we're here for you.
+Media:vo eqrg002 11 xinyan 09.ogg Xinyan: And you'll be off on another solo combat mission, I assume?
+Media:vo eqrg002 12 paimon 01.ogg Paimon: Darn it! We've been kicked out again!
+Media:vo eqrg002 12 paimon 02.ogg Paimon: Paimon's sick of this Domain! Kamuna Harunosuke is a scaredy-cat — he's too afraid to face us!
+Media:vo eqrg002 12 paimon 03.ogg Paimon: Next time, we HAVE to chase Kamuna out of his hiding spot!
+Media:vo eqrg002 12 xinyan 01.ogg Xinyan: We need to make sure Red keeps his mouth shut next time... His jinxes are right on the Mora!
+Media:vo eqrg002 12 xinyan 02.ogg Xinyan: Still, it's lucky that Red and Shiki Taishou remained inside. This place is crawlin' with Tenryou Commission samurai.
+Media:vo eqrg002 12 xinyan 03.ogg Xinyan: Well, same as before I guess, let's wait for the Domain to rearrange and then go and find them.
+Media:vo eqrg002 12 xinyan 04.ogg Xinyan: Until then, we should stay hidden. We wouldn't want the Tenryou Commission to see us wanderin' around.
+Media:vo eqrg002 2 paimon 01.ogg Paimon: What's with all the rushing back and forth? Guess she doesn't trust us after all... She sure does seem on high alert.
+Media:vo eqrg002 2 xinyan 01.ogg Xinyan: Traveler, Paimon!
+Media:vo eqrg002 2 xinyan 02.ogg Xinyan: Kujou Sara has arrived. She's right over there.
+Media:vo eqrg002 2 xinyan 03.ogg Xinyan: The situation's getting complicated. Let's have a word with her first.
+Media:vo eqrg002 3 kujousara 01.ogg Kujou Sara: Thank you again for your help this entire time.
+Media:vo eqrg002 3 kujousara 02.ogg Kujou Sara: I've brought reinforcements. It would seem that the most critical moments are behind us, so from here on out, if we can hold this path, we should be able to repel the monsters. If any do escape, we can corner them in the Araumi region.
+Media:vo eqrg002 3 kujousara 03.ogg Kujou Sara: The loud noises we heard earlier were probably the result of large numbers of mechanisms... We're ready and waiting for an opportunity to storm the Domain.
+Media:vo eqrg002 3 kujousara 04.ogg Kujou Sara: In our last operation, our samurai didn't think to maintain a certain distance. When the monsters suddenly attacked, they had no choice but to beat a hasty retreat.
+Media:vo eqrg002 3 kujousara 05.ogg Kujou Sara: Once is an oversight, twice would be a grave error. I won't allow such things to happen again.
+Media:vo eqrg002 3 kujousara 06.ogg Kujou Sara: I will return to the Kujou Encampment and plan our defenses for the other regions.
+Media:vo eqrg002 3 kujousara 07.ogg Kujou Sara: It took some time, but the Tenryou Commission has assumed full control of this area. With all my heart, I thank the three of you for your assistance. Your promised rewards are not forgotten.
+Media:vo eqrg002 3 kujousara 08.ogg Kujou Sara: Miss Xinyan, please take this letter. Enclosed is a travel permit that I processed personally for you.
+Media:vo eqrg002 3 kujousara 09.ogg Kujou Sara: I applied for the longest duration available. I hope you can use this time to really get to know Inazuma.
+Media:vo eqrg002 3 kujousara 10.ogg Kujou Sara: I've also arranged your accommodation. Simply follow the instructions in the letter when you're back in the city.
+Media:vo eqrg002 3 kujousara 11.ogg Kujou Sara: It's the least I can do.
+Media:vo eqrg002 3 kujousara 12.ogg Kujou Sara: Haha, I must tell you that I never did develop much of a taste for songs and music... But given everything you've done for the Tenryou Commission, I will certainly attend your performance if the opportunity arises.
+Media:vo eqrg002 3 paimon 01.ogg Paimon: Why don't you station troops closer to the Domain?
+Media:vo eqrg002 3 paimon 02.ogg Paimon: Oh, Paimon gets it now...
+Media:vo eqrg002 3 paimon 03.ogg Paimon: Well, that's Xinyan's biggest worry taken care of!
+Media:vo eqrg002 3 xinyan 01.ogg Xinyan: Oh, wow! Free boardin' and unlimited travels across Inazuma!? I don't know what to say!
+Media:vo eqrg002 3 xinyan 02.ogg Xinyan: Thank you Ma'am! I know you're real busy, but if you do get a day off and I'm still here in Inazuma, please come and see one of my street performances!
+Media:vo eqrg002 3 xinyan 03.ogg Xinyan: Not quite, my biggest worry is still Shiki Taishou! What comes next has nothing to do with me. As a friend, I must go back and help.
+Media:vo eqrg002 3 xinyan 04.ogg Xinyan: Not to mention Red. Traveler, we gotta go back and save him, right?
+Media:vo eqrg002 3 xinyan 05.ogg Xinyan: Then let's go! We'll need to meet up with Shiki Taishou in secret first.
+Media:vo eqrg002 5 paimon 01.ogg Paimon: Her name is Kujou Sara, she's from the Tenryou Commission.
+Media:vo eqrg002 5 paimon 02.ogg Paimon: Harunosuke sounds like someone important.
+Media:vo eqrg002 5 paimon 03.ogg Paimon: Oh, right! We still gotta find Childe! Let's go!
+Media:vo eqrg002 5 shikishogun 01.ogg Shiki Taishou: Xinyan, Traveler, Paimon!
+Media:vo eqrg002 5 shikishogun 02.ogg Shiki Taishou: A general just passed through here, she was leading a team to investigate the area.
+Media:vo eqrg002 5 shikishogun 03.ogg Shiki Taishou: Kujou Sara... Why haven't I heard of her?
+Media:vo eqrg002 5 shikishogun 04.ogg Shiki Taishou: I think I remember hearing the name of the Supreme Commander of the Tenryou Commission once. It was a man called Kujou... something. What was it again?
+Media:vo eqrg002 5 shikishogun 05.ogg Shiki Taishou: I can't remember his name, but I do remember that Harunosuke played chess with him.
+Media:vo eqrg002 5 shikishogun 06.ogg Shiki Taishou: Alright. Everyone, follow me.
+Media:vo eqrg002 5 xinyan 01.ogg Xinyan: Let's save the chit-chat for later, we need to sneak back into the onmyou chamber before anyone sees us.
+Media:vo eqrg002 6 paimon 01.ogg Paimon: Oh! Here you are!
+Media:vo eqrg002 6 paimon 02.ogg Paimon: Tsk, look at this guy, not a scratch on him.
+Media:vo eqrg002 6 tartaglia 01.ogg Childe: So, is this everyone? You guys had me waiting for quite some time.
+Media:vo eqrg002 6 tartaglia 02.ogg Childe: Let me tell you, you missed out on some incredible action. Quite the pity.
+Media:vo eqrg002 6 tartaglia 03.ogg Childe: Hmm? Were you guys worried about me?
+Media:vo eqrg002 6 tartaglia 04a.ogg Childe: Hah, you must have a lot of faith in my abilities.
+Media:vo eqrg002 6 tartaglia 04b.ogg Childe: Just a little, huh? Haha, well, if you were worried about me, I'm flattered.
+Media:vo eqrg002 6 tartaglia 05.ogg Childe: As a comrade and old rival, you should know that unexpected combat situations are my bread and butter.
+Media:vo eqrg002 6 tartaglia 06.ogg Childe: Anyway, when the Domain was rearranging itself, the rooms were moving up and down. The monsters were scattered all over the place! *sigh* I had so much fun fighting them these last few days.
+Media:vo eqrg002 6 tartaglia 07.ogg Childe: I even came across a few replicas. They should contain more power and memories.
+Media:vo eqrg002 6 xinyan 01.ogg Xinyan: Better late than never! Hurry up and fuse with them, Shiki Taishou!
+Media:vo eqrg002 7 paimon 01.ogg Paimon: Wait... the Domain already rearranged itself. The route we discovered is useless now!
+Media:vo eqrg002 7 paimon 02.ogg Paimon: Wait a second, Paimon has a question! Shiki Taishou, didn't you just say that the power left in the replicas wasn't enough? You still don't have all your memories.
+Media:vo eqrg002 7 paimon 03.ogg Paimon: So how would you know if you were heading in the right direction?
+Media:vo eqrg002 7 paimon 04.ogg Paimon: Last time, when we followed you through that door, we were sent out of the Domain... which means not all the doors in this place are real!
+Media:vo eqrg002 7 paimon 05.ogg Paimon: What if you still can't tell the difference? We might end up somewhere super dangerous.
+Media:vo eqrg002 7 paimon 06.ogg Paimon: Not... really...
+Media:vo eqrg002 7 paimon 07.ogg Paimon: Is this all part of your scheme!?
+Media:vo eqrg002 7 paimon 08.ogg Paimon: D—Don't look at Paimon! We're going, okay? We're going!
+Media:vo eqrg002 7 shikishogun 01.ogg Shiki Taishou: The residual power in these replicas is limited, I can only regain a fraction of my memories.
+Media:vo eqrg002 7 shikishogun 02.ogg Shiki Taishou: Don't worry too much, there's a pattern to the rearrangement. I should be able to find the way.
+Media:vo eqrg002 7 shikishogun 03.ogg Shiki Taishou: If I'm not mistaken, we should head in that direction.
+Media:vo eqrg002 7 shikishogun 04.ogg Shiki Taishou: I can completely understand your reservations. Unfortunately, I'm still unable to give you a compelling answer...
+Media:vo eqrg002 7 shikishogun 05.ogg Shiki Taishou: Would you believe it if I said that it's an intuition I have as the overseer here?
+Media:vo eqrg002 7 tartaglia 01.ogg Childe: Not enough? Then I guess it's on with the plan. We need to venture deeper into the Domain.
+Media:vo eqrg002 7 tartaglia 02.ogg Childe: Hmm, you seem to be more anxious this time around.
+Media:vo eqrg002 7 tartaglia 03.ogg Childe: Let me guess... trouble on the outside?
+Media:vo eqrg002 7 tartaglia 04.ogg Childe: As far as I understand it, Inazuma's situation is still far from stable. A Domain like this would likely fall under the Tenryou Commission's jurisdiction, but they're spread too thinly at present. There's a lot that still falls outside of their control.
+Media:vo eqrg002 7 tartaglia 05.ogg Childe: Which means that you guys are here as support, and it's very likely that the Tenryou Commission made the request. So, you're receiving their orders.
+Media:vo eqrg002 7 tartaglia 06.ogg Childe: In that case, knowing their style, they're probably planning a lethal assault on the Domain to crush everything in their path. If we don't find Shiki Taishou's memories before that happens, then it's possible we never will.
+Media:vo eqrg002 7 tartaglia 07.ogg Childe: Hence the increased anxiety... right?
+Media:vo eqrg002 7 tartaglia 08.ogg Childe: It's true, there are indeed matters that I'm investigating, but it's not what you might think. We can talk about that later, let's make sure we deal with our own problems first.
+Media:vo eqrg002 7 tartaglia 09.ogg Childe: Now then, Traveler, you and I are hardly strangers, and I see no reason for me to lie to you. After arriving in Inazuma, I discovered monster tracks in the surrounding areas, and so I followed them into the Domain.
+Media:vo eqrg002 7 tartaglia 10.ogg Childe: It would appear that this place is some sort of combat training ground — there's nothing but fighting and slaughter to be had here. Needless to say, it's been an enjoyable experience for me! I feel quite at home.
+Media:vo eqrg002 7 tartaglia 11.ogg Childe: This may come as an unpleasant surprise to Miss Xinyan and Shiki Taishou, but I'm not someone who cares for allegiance and affiliation.
+Media:vo eqrg002 7 tartaglia 12.ogg Childe: Good and evil, right and wrong, duty and destiny... are these things really so important? Are they really more appealing than the euphoria of battle and close combat?
+Media:vo eqrg002 7 tartaglia 13.ogg Childe: Nothing in particular. But I am telling you that we should venture forward bravely. Don't fear the monsters that lie ahead.
+Media:vo eqrg002 7 tartaglia 14.ogg Childe: If you're not up to the task, I will happily take your place in crushing all that come before us... then the burden of the slaughter will be mine and mine alone.
+Media:vo eqrg002 7 tartaglia 15.ogg Childe: Because fighting... is what I'm best at.
+Media:vo eqrg002 7 xinyan 01.ogg Xinyan: I can see why you're worried Paimon, but our only option is to trust Shiki Taishou as our guide. Otherwise, all we can do is stand here and wait.
+Media:vo eqrg002 7 xinyan 02.ogg Xinyan: Besides, we'll be even more lost if the Domain rearranges itself again!
+Media:vo eqrg002 7 xinyan 03.ogg Xinyan: You got fightin' in your veins, that's for sure. Well brother, what is it you're tryin' to say...?
+Media:vo eqrg002 7 xinyan 04.ogg Xinyan: ...
+Media:vo eqrg002 8 paimon 01.ogg Paimon: Is that a song?
+Media:vo eqrg002 8 shikishogun 01.ogg Shiki Taishou: "The mind of our master is righteous and broad, our enemies flee at the sound of our sword..."
+Media:vo eqrg002 8 shikishogun 02.ogg Shiki Taishou: It's a ballad that was once passed down by samurai through the ages. They fought alongside my replicas, and through the power of charm magic, that song is now a part of me... The emotion of that time is with me too.
+Media:vo eqrg002 9 shikishogun 01.ogg Shiki Taishou: Something's coming back to me... echoes circulating. It's the emotions and voices that they left in my memory.
+Media:vo eqrg002 9 shikishogun 02.ogg Shiki Taishou: Some of them were scared, some were discontent, others were eager to join the fray — yearning for battle through day and night...
+Media:vo eqrg002 9 shikishogun 03.ogg Shiki Taishou: The lead samurai addressed Harunosuke as Master Kamuna. He had unyielding respect for him, and always acted on his advice.
+Media:vo eqrg002 9 shikishogun 04.ogg Shiki Taishou: Strange... What was their purpose in continuing to fight here?

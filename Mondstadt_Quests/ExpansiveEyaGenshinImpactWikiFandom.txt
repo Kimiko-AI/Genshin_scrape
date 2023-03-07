@@ -1,0 +1,373 @@
+
+
+
+
+Fortunate Outcome
+
+
+Aether
+Lumine
+
+
+
+
+
+
+
+Perhaps it was your goodwill that allowed you to snatch hold of some good luck amid all that misfortune.
+
+
+
+
+No Wonder It's a Top-Class Commission
+
+
+Aether
+Lumine
+
+
+
+
+
+
+
+As expected of an A-rank commission! One misstep and we're stuck in here!
+
+ ...Die?
+Media:vo bntcop001 1904504 bennett 09.ogg Bennett: Uh... You think so!? Surely it can't be that bad!
+Media:vo bntcop001 1904504 bennett 10.ogg Bennett: It says in the notes that Eric "can't hold on anymore." That at least proves that it is possible to "hold on" up to a point.
+ All thanks to you, Bennett. (+1 heart)
+Media:vo bntcop001 1904511 bennett 09.ogg Bennett: Oh! Uh... heh, I didn't really do anything. You're the one who nailed this.
+ All the other members are gone?
+ Bennett...
+ But it shows that fortunate outcomes do exist.
+ Don't take it personally.
+Media:vo bntcop001 1904503 bennett 12.ogg Bennett: Yeah, I felt really let down at first, but I'm pretty much used to it now. It's okay!
+ Get hurt?
+Media:vo bntcop001 1904504 bennett 08.ogg Bennett: Yeah, I guess that's what the notes are referring to when they say... "Eric can't hold on anymore"...
+ Go ahead! We won't get anywhere just staring at them. (This dialogue option leads to Ending: No Wonder It's a Top-Class Commission.)
+Media:vo bntcop001 1904502 bennett 06.ogg Bennett: Hehe, leave it to me.
+Media:vo bntcop001 1904502 bennett 07.ogg Bennett: Ah, but as you know, I really don't have any luck.
+Media:vo bntcop001 1904502 bennett 08.ogg Bennett: So I'll leave it to you to decide which of these two mechanisms we should trigger.
+ The one on the left.
+Media:vo bntcop001 1904502 bennett 09.ogg Bennett: That's the one I was thinking of too! Let's see...
+ The one on the right.
+Media:vo bntcop001 1904502 bennett 10.ogg Bennett: Actually I was thinking of the one on the left, so maybe that means that the one on the right must be the correct one. Let me see...
+???: *clicking sounds*
+Media:vo bntcop001 1904502 bennett 11.ogg Bennett: What was that noise...?
+Media:vo bntcop001 1904502 bennett 12.ogg Bennett: Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one.
+Media:vo bntcop001 1904502 bennett 13.ogg Bennett: This... this is really bad...
+
+Ending: No Wonder It's a Top-Class Commission
+
+
+
+No Wonder It's a Top-Class Commission
+
+
+Aether
+Lumine
+
+
+
+
+
+
+
+As expected of an A-rank commission! One misstep and we're stuck in here!
+
+ Hmm, how can I let you face the danger alone? (This dialogue option leads to Ending: Fortunate Outcome.)
+Media:vo bntcop001 1904502 bennett 14.ogg Bennett: Hmm... I could try it out myself...
+Media:vo bntcop001 1904502 bennett 15.ogg Bennett: But... What do you think we should do? Let's do it your way!
+ Take one each, activate them simultaneously.
+Media:vo bntcop001 1904502 bennett 16.ogg Bennett: Well, that's a possibility... yeah.
+Media:vo bntcop001 1904502 bennett 17.ogg Bennett: Let's try it then! I'll take the right side, you take the left!
+ It's some very valuable guidance.
+ Quest DescriptionAn adventurer requires naught but courage and strength. The two of you prepare to head directly to the Deserted Ruins of Eya.
+ Take one each, activate them simultaneously.
+ The chest is the most important thing here.
+Media:vo bntcop001 1904506 bennett 05.ogg Bennett: Hmm... I guess you're right, finding chests is where the real romance of being an adventurer lies!
+ The feeling is mutual.
+Media:vo bntcop001 1904506 bennett 04.ogg Bennett: Really! Then I'm honored, haha.
+ The one on the left.
+Media:vo bntcop001 1904502 bennett 09.ogg Bennett: That's the one I was thinking of too! Let's see...
+ The one on the right.
+Media:vo bntcop001 1904502 bennett 10.ogg Bennett: Actually I was thinking of the one on the left, so maybe that means that the one on the right must be the correct one. Let me see...
+ They're all traitors. (-1 heart)
+Media:vo bntcop001 1904503 bennett 13.ogg Bennett: Heh, don't say that! Adventurers should be free to do what they please, so leaving an adventure team is a completely normal thing to do.
+ This is just one of the many possible outcomes.
+ Two of us won't be enough...
+ We need four people...
+ We should at least to rock, paper, scissors...
+ What's the deal with Benny's Adventure Team, anyway?
+ Who says it's up to you?
+ Why do I feel... it's a bit ominous?
+ Yeah, piece of cake.
+Media:vo bntcop001 1904511 bennett 08.ogg Bennett: Haha! That's the great adventurer I'm talking about! Awesome!
+ You can do it, Bennett!
+ You mean, the solution may be different from the previous room?
+ You mean... you're the only one left?
+ You're right, we shouldn't jump to conclusions.
+"Eric can't hold on any longer... We had no choice but to give up. I'll leave this notebook here. Maybe this treasure is destined for someone else.
+(After completing the puzzle)
+Media:vo bntcop001 1904511 bennett 07.ogg Bennett: You... you solved it?
+ Yeah, piece of cake.
+Media:vo bntcop001 1904511 bennett 08.ogg Bennett: Haha! That's the great adventurer I'm talking about! Awesome!
+ All thanks to you, Bennett. (+1 heart)
+Media:vo bntcop001 1904511 bennett 09.ogg Bennett: Oh! Uh... heh, I didn't really do anything. You're the one who nailed this.
+Media:vo bntcop001 1904511 bennett 10.ogg Bennett: Let's go and open the chest, shall we? I can't wait!
+
+(Open the Luxurious Chest)
+Media:vo bntcop001 1904506 bennett 01.ogg Bennett: Wow, that was quite a haul!
+Media:vo bntcop001 1904506 bennett 02.ogg Bennett: This must be the proudest moment for any adventurer!
+Media:vo bntcop001 1904506 bennett 03.ogg Bennett: Not only getting the chest, but having this golden opportunity to join you on an adventure. For me, that's a pretty major treasure already, hehe...
+ The feeling is mutual.
+Media:vo bntcop001 1904506 bennett 04.ogg Bennett: Really! Then I'm honored, haha.
+ The chest is the most important thing here.
+Media:vo bntcop001 1904506 bennett 05.ogg Bennett: Hmm... I guess you're right, finding chests is where the real romance of being an adventurer lies!
+Media:vo bntcop001 1904506 bennett 06.ogg Bennett: But there's one other thing that I find the most amazing of all...
+Media:vo bntcop001 1904506 bennett 07.ogg Bennett: The fact that nothing really bad happened to us this whole adventure. This is the first time in my whole adventure career that it's ever turned out this way!
+ This is just one of the many possible outcomes.
+ But it shows that fortunate outcomes do exist.
+Media:vo bntcop001 1904506 bennett 08.ogg Bennett: That sounds very deep... but I think I get what you're saying.
+Media:vo bntcop001 1904506 bennett 09.ogg Bennett: You are saying that no matter how unlucky I might be, there will always be times when luck is on my side, right?
+Media:vo bntcop001 1904506 bennett 10.ogg Bennett: Yeah... This is a really big thing for me.
+Media:vo bntcop001 1904506 bennett 11.ogg Bennett: And you know, I have a feeling that...
+Media:vo bntcop001 1904506 bennett 12.ogg Bennett: ...It was your kindness and goodwill towards me that helped me avoid a lot of bad luck... even find a little good luck...
+Media:vo bntcop001 1904506 bennett 13.ogg Bennett: Hehe, it's a bit embarrassing to say that out loud, but all in all, thank you... for everything!
+Media:vo bntcop001 1904506 bennett 14.ogg Bennett: I hope I get to go on another adventure with you soon!
+
+Ending: Fortunate Outcome
+
+
+
+Fortunate Outcome
+
+
+Aether
+Lumine
+
+
+
+
+
+
+
+Perhaps it was your goodwill that allowed you to snatch hold of some good luck amid all that misfortune.
+
+(Investigating the first clue)
+Media:vo bntcop001 1904508 paimon 01.ogg Paimon: There doesn't seem to be anything here...
+(Investigating the second clue)
+Media:vo bntcop001 1904508 paimon 02.ogg Paimon: It's so dusty. Paimon bets no one has been here in a long, long time.
+(Investigating the third clue)
+Media:vo bntcop001 1904508 paimon 03.ogg Paimon: Hey that looks like a notebook!
+Media:vo bntcop001 1904508 paimon 04.ogg Paimon: Let's grab it and check it out with Bennett, shall we?
+(Obtain Lost Adventure Notebook)
+
+(Talking to Bennett)
+Media:vo bntcop001 1904504 bennett 01.ogg Bennett: An adventurer's notebook? What's it doing here...?
+Media:vo bntcop001 1904504 bennett 02.ogg Bennett: Maybe it's got some clues on how to crack these mechanisms! Shall we take a look?
+(Opens the Lost Adventure Notebook)
+
+"Eric can't hold on any longer... We had no choice but to give up. I'll leave this notebook here. Maybe this treasure is destined for someone else.
+As you may have noticed, the mechanism installed by the door needs someone operating it constantly. Otherwise, the other mechanisms cannot be operated.
+But there's a catch...
+The person operating the mechanism by the door takes on an enormous risk.
+If the other mechanisms are operated in the wrong sequence, that person will face...
+One other word of advice:
+The number or torches does not indicate the sequence of operation... We made that mistake, and paid a painful price. Perhaps... the order has something to do with the position of the torches on the ground?
+What is the answer?
+Oh, how I wish to know...
+But Eric physically can't take any more..."
+Media:vo bntcop001 1904504 bennett 03.ogg Bennett: Whoa... It really does have some information about them.
+ It's some very valuable guidance.
+ Why do I feel... it's a bit ominous?
+Media:vo bntcop001 1904504 bennett 04.ogg Bennett: It seems that the writer is holding something back.
+Media:vo bntcop001 1904504 bennett 05.ogg Bennett: Well, since they've placed their hopes on future adventurers, we can't let them down.
+Media:vo bntcop001 1904504 bennett 06.ogg Bennett: The notes say that the mechanism at the entrance needs to be controlled by someone continuously...
+Media:vo bntcop001 1904504 bennett 07.ogg Bennett: But if the mechanisms are activated in the wrong sequence, the person in charge of the mechanism at the entrance will...
+ Get hurt?
+Media:vo bntcop001 1904504 bennett 08.ogg Bennett: Yeah, I guess that's what the notes are referring to when they say... "Eric can't hold on anymore"...
+ ...Die?
+Media:vo bntcop001 1904504 bennett 09.ogg Bennett: Uh... You think so!? Surely it can't be that bad!
+Media:vo bntcop001 1904504 bennett 10.ogg Bennett: It says in the notes that Eric "can't hold on anymore." That at least proves that it is possible to "hold on" up to a point.
+Media:vo bntcop001 1904504 bennett 11.ogg Bennett: Anyway, I'll take that role.
+ Who says it's up to you?
+ We should at least to rock, paper, scissors...
+Media:vo bntcop001 1904504 bennett 12.ogg Bennett: Haha, it's okay, it's okay. Getting injured is just part of my daily routine.
+Media:vo bntcop001 1904504 bennett 13.ogg Bennett: I'm pretty used to it by now. At the very least, I should be able to last longer than this Eric guy, haha.
+Media:vo bntcop001 1904504 bennett 14.ogg Bennett: And more importantly, I trust you!
+Media:vo bntcop001 1904504 bennett 15.ogg Bennett: You can definitely crack this mechanism puzzle, right? I mean come on! You're the great adventurer that I've always admired.
+ Bennett...
+Media:vo bntcop001 1904504 bennett 16.ogg Bennett: Alright, alright, let's just focus on solving these mechanisms!
+Media:vo bntcop001 1904504 bennett 17.ogg Bennett: Remember what the notes say... Hmm...
+Media:vo bntcop001 1904504 bennett 18.ogg Bennett: "The number of torches is not the hint for the activation sequence..."
+Media:vo bntcop001 1904504 bennett 19.ogg Bennett: "Perhaps... the sequence is related to the position of the torches on the ground."
+Media:vo bntcop001 1904504 bennett 20.ogg Bennett: Well, don't put too much pressure on yourself just because you're afraid I'll get hurt!
+Media:vo bntcop001 1904504 bennett 21.ogg Bennett: Just go with your gut and do it.
+(Talk to Bennett after following him into the next room)
+Media:vo bntcop001 1904503 bennett 01.ogg Bennett: Oh... so this room has...
+Media:vo bntcop001 1904503 bennett 02.ogg Bennett: ...Four mechanisms. Which means...
+ We need four people...
+ Two of us won't be enough...
+Media:vo bntcop001 1904503 bennett 03.ogg Bennett: That's what I'm thinking, based on the last room...
+Media:vo bntcop001 1904503 bennett 04.ogg Bennett: I think we're gonna need four people to trigger all the mechanisms at the same time.
+Media:vo bntcop001 1904503 bennett 05.ogg Bennett: Ahhh... If only the rest of Benny's Adventure Team were here...
+ What's the deal with Benny's Adventure Team, anyway?
+Media:vo bntcop001 1904503 bennett 06.ogg Bennett: ...I hate to admit it, but the truth is... it's gone. It remains in name alone.
+Media:vo bntcop001 1904503 bennett 07.ogg Bennett: The only reason Katheryne hasn't deregistered "Benny's Adventure Team" is because she took pity on me.
+Media:vo bntcop001 1904503 bennett 08.ogg Bennett: In fact... *sigh* the number of adventurers on the team has been below the registration requirements for a long time already.
+ You mean... you're the only one left?
+ All the other members are gone?
+Media:vo bntcop001 1904503 bennett 09.ogg Bennett: Haha... yeah. Royce, Heckler, and Jack were all members of Benny's Adventure Team.
+Media:vo bntcop001 1904503 bennett 10.ogg Bennett: A lot of things went down, but mostly it ended because of my bad luck.
+Media:vo bntcop001 1904503 bennett 11.ogg Bennett: I completely understand why they quit the team. I'd never want to put them in danger on my account. *sigh*
+ Don't take it personally.
+Media:vo bntcop001 1904503 bennett 12.ogg Bennett: Yeah, I felt really let down at first, but I'm pretty much used to it now. It's okay!
+ They're all traitors. (-1 heart)
+Media:vo bntcop001 1904503 bennett 13.ogg Bennett: Heh, don't say that! Adventurers should be free to do what they please, so leaving an adventure team is a completely normal thing to do.
+Media:vo bntcop001 1904503 bennett 14.ogg Bennett: Even though I'm the only one left on Benny's Adventure Team... One day, I'm gonna make sure its name is known all over Teyvat!
+ You can do it, Bennett!
+Media:vo bntcop001 1904503 bennett 15.ogg Bennett: Hehe, thank you.
+Media:vo bntcop001 1904503 bennett 16.ogg Bennett: Let's focus on the problem at hand...
+Media:vo bntcop001 1904503 bennett 17.ogg Bennett: Ah, sorry, the thought of the adventure team got me all sentimental.
+Media:vo bntcop001 1904503 bennett 18.ogg Bennett: Now that I think about it more carefully... Maybe we're making too many assumptions about the solution to these mechanisms.
+ You mean, the solution may be different from the previous room?
+ You're right, we shouldn't jump to conclusions.
+Media:vo bntcop001 1904503 bennett 19.ogg Bennett: Exactly. Okay, I'll take a quick look at these mechanisms while you look around for any other clues.
+(The first time you fail)
+Media:vo bntcop001 1904511 bennett 01.ogg Bennett: Ow! Argh... it's okay, it's okay. If this is as bad as it gets, I can handle it.
+(The second time you fail)
+Media:vo bntcop001 1904511 bennett 02.ogg Bennett: Ah! *cough* *cough* I'm fine... don't let me influence your... thinking...
+(If you fail thrice)
+Media:vo bntcop001 1904511 bennett 03.ogg Bennett: Ugh... is it over yet... I think I...
+Media:vo bntcop001 1904511 bennett 04.ogg Bennett: I'm... sorry...
+Media:vo bntcop001 1904511 bennett 05.ogg Bennett: I don't think my body... can... take this anymore...
+Media:vo bntcop001 1904511 bennett 06.ogg Bennett: I'm sorry... I failed you... (-5 Hearts)
+Hangout Event EndedJourney Over
+???: *clicking sounds*
+As you may have noticed, the mechanism installed by the door needs someone operating it constantly. Otherwise, the other mechanisms cannot be operated.
+But Eric physically can't take any more..."
+But there's a catch...
+Ending: Fortunate Outcome
+Ending: No Wonder It's a Top-Class Commission
+If the other mechanisms are operated in the wrong sequence, that person will face...
+Media:vo bntcop001 1904501 bennett 01.ogg Bennett: It feels pretty ordinary here... I was expecting some kind of sense of impending doom.
+Media:vo bntcop001 1904501 bennett 02.ogg Bennett: Could it be that because you're here with me, I'm feeling more at ease? Hehe...
+Media:vo bntcop001 1904501 bennett 03.ogg Bennett: I've caught the scent of treasure in the air! Come on, let's go!
+Media:vo bntcop001 1904502 bennett 01.ogg Bennett: This room's setup seems to be somewhat tricky.
+Media:vo bntcop001 1904502 bennett 02.ogg Bennett: The things that stand out are the two mechanisms in front of us, one on the left, and one on the right.
+Media:vo bntcop001 1904502 bennett 03.ogg Bennett: But... it seems like there's some sort of danger lurking around the mechanisms...
+Media:vo bntcop001 1904502 bennett 04.ogg Bennett: If my years of adventure experience are anything to go by, it would be a disaster if we activated the wrong mechanism, haha.
+Media:vo bntcop001 1904502 bennett 05.ogg Bennett: How about letting me try it out first?
+Media:vo bntcop001 1904502 bennett 06.ogg Bennett: Hehe, leave it to me.
+Media:vo bntcop001 1904502 bennett 07.ogg Bennett: Ah, but as you know, I really don't have any luck.
+Media:vo bntcop001 1904502 bennett 08.ogg Bennett: So I'll leave it to you to decide which of these two mechanisms we should trigger.
+Media:vo bntcop001 1904502 bennett 09.ogg Bennett: That's the one I was thinking of too! Let's see...
+Media:vo bntcop001 1904502 bennett 10.ogg Bennett: Actually I was thinking of the one on the left, so maybe that means that the one on the right must be the correct one. Let me see...
+Media:vo bntcop001 1904502 bennett 11.ogg Bennett: What was that noise...?
+Media:vo bntcop001 1904502 bennett 12.ogg Bennett: Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one.
+Media:vo bntcop001 1904502 bennett 13.ogg Bennett: This... this is really bad...
+Media:vo bntcop001 1904502 bennett 14.ogg Bennett: Hmm... I could try it out myself...
+Media:vo bntcop001 1904502 bennett 15.ogg Bennett: But... What do you think we should do? Let's do it your way!
+Media:vo bntcop001 1904502 bennett 16.ogg Bennett: Well, that's a possibility... yeah.
+Media:vo bntcop001 1904502 bennett 17.ogg Bennett: Let's try it then! I'll take the right side, you take the left!
+Media:vo bntcop001 1904503 bennett 01.ogg Bennett: Oh... so this room has...
+Media:vo bntcop001 1904503 bennett 02.ogg Bennett: ...Four mechanisms. Which means...
+Media:vo bntcop001 1904503 bennett 03.ogg Bennett: That's what I'm thinking, based on the last room...
+Media:vo bntcop001 1904503 bennett 04.ogg Bennett: I think we're gonna need four people to trigger all the mechanisms at the same time.
+Media:vo bntcop001 1904503 bennett 05.ogg Bennett: Ahhh... If only the rest of Benny's Adventure Team were here...
+Media:vo bntcop001 1904503 bennett 06.ogg Bennett: ...I hate to admit it, but the truth is... it's gone. It remains in name alone.
+Media:vo bntcop001 1904503 bennett 07.ogg Bennett: The only reason Katheryne hasn't deregistered "Benny's Adventure Team" is because she took pity on me.
+Media:vo bntcop001 1904503 bennett 08.ogg Bennett: In fact... *sigh* the number of adventurers on the team has been below the registration requirements for a long time already.
+Media:vo bntcop001 1904503 bennett 09.ogg Bennett: Haha... yeah. Royce, Heckler, and Jack were all members of Benny's Adventure Team.
+Media:vo bntcop001 1904503 bennett 10.ogg Bennett: A lot of things went down, but mostly it ended because of my bad luck.
+Media:vo bntcop001 1904503 bennett 11.ogg Bennett: I completely understand why they quit the team. I'd never want to put them in danger on my account. *sigh*
+Media:vo bntcop001 1904503 bennett 12.ogg Bennett: Yeah, I felt really let down at first, but I'm pretty much used to it now. It's okay!
+Media:vo bntcop001 1904503 bennett 13.ogg Bennett: Heh, don't say that! Adventurers should be free to do what they please, so leaving an adventure team is a completely normal thing to do.
+Media:vo bntcop001 1904503 bennett 14.ogg Bennett: Even though I'm the only one left on Benny's Adventure Team... One day, I'm gonna make sure its name is known all over Teyvat!
+Media:vo bntcop001 1904503 bennett 15.ogg Bennett: Hehe, thank you.
+Media:vo bntcop001 1904503 bennett 16.ogg Bennett: Let's focus on the problem at hand...
+Media:vo bntcop001 1904503 bennett 17.ogg Bennett: Ah, sorry, the thought of the adventure team got me all sentimental.
+Media:vo bntcop001 1904503 bennett 18.ogg Bennett: Now that I think about it more carefully... Maybe we're making too many assumptions about the solution to these mechanisms.
+Media:vo bntcop001 1904503 bennett 19.ogg Bennett: Exactly. Okay, I'll take a quick look at these mechanisms while you look around for any other clues.
+Media:vo bntcop001 1904504 bennett 01.ogg Bennett: An adventurer's notebook? What's it doing here...?
+Media:vo bntcop001 1904504 bennett 02.ogg Bennett: Maybe it's got some clues on how to crack these mechanisms! Shall we take a look?
+(Opens the Lost Adventure Notebook)
+
+"Eric can't hold on any longer... We had no choice but to give up. I'll leave this notebook here. Maybe this treasure is destined for someone else.
+As you may have noticed, the mechanism installed by the door needs someone operating it constantly. Otherwise, the other mechanisms cannot be operated.
+But there's a catch...
+The person operating the mechanism by the door takes on an enormous risk.
+If the other mechanisms are operated in the wrong sequence, that person will face...
+One other word of advice:
+The number or torches does not indicate the sequence of operation... We made that mistake, and paid a painful price. Perhaps... the order has something to do with the position of the torches on the ground?
+What is the answer?
+Oh, how I wish to know...
+But Eric physically can't take any more..."
+Media:vo bntcop001 1904504 bennett 03.ogg Bennett: Whoa... It really does have some information about them.
+Media:vo bntcop001 1904504 bennett 04.ogg Bennett: It seems that the writer is holding something back.
+Media:vo bntcop001 1904504 bennett 05.ogg Bennett: Well, since they've placed their hopes on future adventurers, we can't let them down.
+Media:vo bntcop001 1904504 bennett 06.ogg Bennett: The notes say that the mechanism at the entrance needs to be controlled by someone continuously...
+Media:vo bntcop001 1904504 bennett 07.ogg Bennett: But if the mechanisms are activated in the wrong sequence, the person in charge of the mechanism at the entrance will...
+Media:vo bntcop001 1904504 bennett 08.ogg Bennett: Yeah, I guess that's what the notes are referring to when they say... "Eric can't hold on anymore"...
+Media:vo bntcop001 1904504 bennett 09.ogg Bennett: Uh... You think so!? Surely it can't be that bad!
+Media:vo bntcop001 1904504 bennett 10.ogg Bennett: It says in the notes that Eric "can't hold on anymore." That at least proves that it is possible to "hold on" up to a point.
+Media:vo bntcop001 1904504 bennett 11.ogg Bennett: Anyway, I'll take that role.
+Media:vo bntcop001 1904504 bennett 12.ogg Bennett: Haha, it's okay, it's okay. Getting injured is just part of my daily routine.
+Media:vo bntcop001 1904504 bennett 13.ogg Bennett: I'm pretty used to it by now. At the very least, I should be able to last longer than this Eric guy, haha.
+Media:vo bntcop001 1904504 bennett 14.ogg Bennett: And more importantly, I trust you!
+Media:vo bntcop001 1904504 bennett 15.ogg Bennett: You can definitely crack this mechanism puzzle, right? I mean come on! You're the great adventurer that I've always admired.
+Media:vo bntcop001 1904504 bennett 16.ogg Bennett: Alright, alright, let's just focus on solving these mechanisms!
+Media:vo bntcop001 1904504 bennett 17.ogg Bennett: Remember what the notes say... Hmm...
+Media:vo bntcop001 1904504 bennett 18.ogg Bennett: "The number of torches is not the hint for the activation sequence..."
+Media:vo bntcop001 1904504 bennett 19.ogg Bennett: "Perhaps... the sequence is related to the position of the torches on the ground."
+Media:vo bntcop001 1904504 bennett 20.ogg Bennett: Well, don't put too much pressure on yourself just because you're afraid I'll get hurt!
+Media:vo bntcop001 1904504 bennett 21.ogg Bennett: Just go with your gut and do it.
+Media:vo bntcop001 1904505 bennett 01.ogg Bennett: Go stand by the mechanism, and when we're both ready, let's trigger them!
+Media:vo bntcop001 1904505 bennett 01.ogg Bennett: Go stand by the mechanism, and when we're both ready, let's trigger them!
+
+(After activating the mechanism)
+Media:vo bntcop001 1904507 bennett 01.ogg Bennett: Cooool! The door is open. We got it right!
+Media:vo bntcop001 1904507 bennett 02.ogg Bennett: Good thing we went with your idea. You definitely live up to your reputation.
+Media:vo bntcop001 1904507 bennett 03.ogg Bennett: And... I haven't had this feeling of working together with friends in ages. I've really missed it, hehe.
+Media:vo bntcop001 1904507 bennett 04.ogg Bennett: Anyway, let's move on!
+Media:vo bntcop001 1904506 bennett 01.ogg Bennett: Wow, that was quite a haul!
+Media:vo bntcop001 1904506 bennett 02.ogg Bennett: This must be the proudest moment for any adventurer!
+Media:vo bntcop001 1904506 bennett 03.ogg Bennett: Not only getting the chest, but having this golden opportunity to join you on an adventure. For me, that's a pretty major treasure already, hehe...
+Media:vo bntcop001 1904506 bennett 04.ogg Bennett: Really! Then I'm honored, haha.
+Media:vo bntcop001 1904506 bennett 05.ogg Bennett: Hmm... I guess you're right, finding chests is where the real romance of being an adventurer lies!
+Media:vo bntcop001 1904506 bennett 06.ogg Bennett: But there's one other thing that I find the most amazing of all...
+Media:vo bntcop001 1904506 bennett 07.ogg Bennett: The fact that nothing really bad happened to us this whole adventure. This is the first time in my whole adventure career that it's ever turned out this way!
+Media:vo bntcop001 1904506 bennett 08.ogg Bennett: That sounds very deep... but I think I get what you're saying.
+Media:vo bntcop001 1904506 bennett 09.ogg Bennett: You are saying that no matter how unlucky I might be, there will always be times when luck is on my side, right?
+Media:vo bntcop001 1904506 bennett 10.ogg Bennett: Yeah... This is a really big thing for me.
+Media:vo bntcop001 1904506 bennett 11.ogg Bennett: And you know, I have a feeling that...
+Media:vo bntcop001 1904506 bennett 12.ogg Bennett: ...It was your kindness and goodwill towards me that helped me avoid a lot of bad luck... even find a little good luck...
+Media:vo bntcop001 1904506 bennett 13.ogg Bennett: Hehe, it's a bit embarrassing to say that out loud, but all in all, thank you... for everything!
+Media:vo bntcop001 1904506 bennett 14.ogg Bennett: I hope I get to go on another adventure with you soon!
+Media:vo bntcop001 1904507 bennett 01.ogg Bennett: Cooool! The door is open. We got it right!
+Media:vo bntcop001 1904507 bennett 02.ogg Bennett: Good thing we went with your idea. You definitely live up to your reputation.
+Media:vo bntcop001 1904507 bennett 03.ogg Bennett: And... I haven't had this feeling of working together with friends in ages. I've really missed it, hehe.
+Media:vo bntcop001 1904507 bennett 04.ogg Bennett: Anyway, let's move on!
+Media:vo bntcop001 1904508 paimon 01.ogg Paimon: There doesn't seem to be anything here...
+Media:vo bntcop001 1904508 paimon 02.ogg Paimon: It's so dusty. Paimon bets no one has been here in a long, long time.
+Media:vo bntcop001 1904508 paimon 03.ogg Paimon: Hey that looks like a notebook!
+Media:vo bntcop001 1904508 paimon 04.ogg Paimon: Let's grab it and check it out with Bennett, shall we?
+(Obtain Lost Adventure Notebook)
+Media:vo bntcop001 1904511 bennett 01.ogg Bennett: Ow! Argh... it's okay, it's okay. If this is as bad as it gets, I can handle it.
+Media:vo bntcop001 1904511 bennett 02.ogg Bennett: Ah! *cough* *cough* I'm fine... don't let me influence your... thinking...
+Media:vo bntcop001 1904511 bennett 03.ogg Bennett: Ugh... is it over yet... I think I...
+Media:vo bntcop001 1904511 bennett 04.ogg Bennett: I'm... sorry...
+Media:vo bntcop001 1904511 bennett 05.ogg Bennett: I don't think my body... can... take this anymore...
+Media:vo bntcop001 1904511 bennett 06.ogg Bennett: I'm sorry... I failed you... (-5 Hearts)
+Hangout Event EndedJourney Over
+Media:vo bntcop001 1904511 bennett 07.ogg Bennett: You... you solved it?
+Media:vo bntcop001 1904511 bennett 08.ogg Bennett: Haha! That's the great adventurer I'm talking about! Awesome!
+Media:vo bntcop001 1904511 bennett 09.ogg Bennett: Oh! Uh... heh, I didn't really do anything. You're the one who nailed this.
+Media:vo bntcop001 1904511 bennett 10.ogg Bennett: Let's go and open the chest, shall we? I can't wait!
+Oh, how I wish to know...
+One other word of advice:
+The number or torches does not indicate the sequence of operation... We made that mistake, and paid a painful price. Perhaps... the order has something to do with the position of the torches on the ground?
+The person operating the mechanism by the door takes on an enormous risk.
+What is the answer?

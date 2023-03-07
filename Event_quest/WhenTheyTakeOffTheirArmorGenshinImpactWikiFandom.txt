@@ -1,0 +1,58 @@
+ Got it. Coming right up.
+ I can make you another one...
+ I think I know who he's talking about...
+ No.
+ Please come again.
+ Quest Description"Has anyone seen Captain Kaeya?" "Kaeya? you'll find him in the tavern. Hehe... You must be new here, no? Well, good luck!"
+ What about you, Kaeya? How's your drink?
+Another familiar face has arrived at the tavern.
+Media:Vo eqtj002 3 paimon 01.ogg Paimon: Huh, this doesn't look like the drink they ordered. Just give this one to Paimon and try making another.
+Media:vo eqtj002 1 kaeya 01.ogg Kaeya: Well, well. This is a surprise. I didn't expect to see you two behind the counter today.
+Media:vo eqtj002 1 kaeya 02.ogg Kaeya: In that case, I'd like a Death After Noon...
+Media:vo eqtj002 1 kaeya 03a.ogg Media:vo eqtj002 1 kaeya 03b.ogg Kaeya: Come now, I just wanted to see how (he'd/she'd) react. I admit I didn't expect to see you here today, Sister Rosaria.
+Media:vo eqtj002 1 kaeya 04.ogg Kaeya: With so many demanding customers that frequent the tavern, I only thought I'd help the Traveler gain some experience.
+Media:vo eqtj002 1 kaeya 05.ogg Kaeya: Don't get me wrong, I was only trying to be helpful! If anything, you should be thanking me. Now, how about we start with something simple like a Moonlit Alley, for instance.
+Media:vo eqtj002 1 kaeya 06.ogg Kaeya: Oh, and make it a large, please.
+Media:vo eqtj002 1 kaeya 07.ogg Kaeya: Please, take your time. Waiting in anticipation is half the fun.
+Media:vo eqtj002 1 paimon 01.ogg Paimon: There he goes with that smooth talk again!
+Media:vo eqtj002 1 rosaria 01.ogg Rosaria: Leave it to Kaeya to make things difficult right from the start...
+Media:vo eqtj002 1 rosaria 02.ogg Rosaria: I'll leave my drink up to you. Just make it a tea of some kind, and not too big.
+Media:vo eqtj002 2 kaeya 01.ogg Kaeya: Ah, I presume you're referring to the church?
+Media:vo eqtj002 2 kaeya 02.ogg Kaeya: Sounds to me like Mondstadt's just gained another black tea lover.
+Media:vo eqtj002 2 kaeya 03.ogg Kaeya: That depends. If I point out a few flaws, will you make me another one?
+Media:vo eqtj002 2 kaeya 04.ogg Kaeya: Hahaha, I'm just kidding. I'd never subject you to such treatment.
+Media:vo eqtj002 2 kaeya 05.ogg Kaeya: Hey! How could you divulge so much about your dear old drinking buddy, hmm?
+Media:vo eqtj002 2 kaeya 06.ogg Kaeya: Ooh, are we gossiping about people who take themselves too seriously, now?
+Media:vo eqtj002 2 kaeya 07.ogg Kaeya: Speaking of which, I know someone who could easily place in the "Top Three Most Serious People in Mondstadt."
+Media:vo eqtj002 2 kaeya 08.ogg Kaeya: As to their level of seriousness... Well, let me put it this way, they probably wouldn't even flinch if I said that to their face.
+Media:vo eqtj002 2 kaeya 09.ogg Kaeya: Of course. Just off the top of my head, there's a running list for the most consistent drinkers, hardest workers, worst cooks, or even... biggest hoarders of dark secrets.
+Media:vo eqtj002 2 kaeya 10.ogg Kaeya: Why, of course. How about, "Best Bartenders"?
+Media:vo eqtj002 2 kaeya 11a.ogg Kaeya: You can say that again. Just looking at these two brings a smile to my face.
+Media:vo eqtj002 2 kaeya 12.ogg Kaeya: Good bartenders create a nice atmosphere and get people in a good mood. You know, like a mascot... so I guess there's really no contest for the title of "Best Bartenders."
+Media:vo eqtj002 2 kaeya 13.ogg Kaeya: Heh, nothing. Thanks for your hospitality.
+Media:vo eqtj002 2 kaeya 14.ogg Kaeya: Until next time.
+Media:vo eqtj002 2 paimon 01.ogg Paimon: What is it, Rosaria? You don't like the drink?
+Media:vo eqtj002 2 paimon 02.ogg Paimon: Boy, you're in rare form today, Rosaria.
+Media:vo eqtj002 2 paimon 03.ogg Paimon: Gosh, Kaeya sure is a tough nut to crack, you never know what he'll say next. How can you stand to drink with this guy, Rosaria?
+Media:vo eqtj002 2 paimon 04.ogg Paimon: Are there really rankings for people like that?
+Media:vo eqtj002 2 paimon 05.ogg Paimon: Sounds to Paimon like Mondstadters have way too much time on their hands!
+Media:vo eqtj002 2 paimon 06a.ogg Media:vo eqtj002 2 paimon 06b.ogg Paimon: Aww, but what about Paimon? Is there a category that Paimon can be ranked as high as (him/her)?
+Media:vo eqtj002 2 paimon 07.ogg Paimon: R—Really!?
+Media:vo eqtj002 2 paimon 08.ogg Paimon: That's great, (Traveler)! Our names will be remembered together forever!
+Media:vo eqtj002 2 paimon 09.ogg Paimon: Huh?
+Media:vo eqtj002 2 rosaria 01.ogg Rosaria: Hmm...
+Media:vo eqtj002 2 rosaria 02.ogg Rosaria: No, the drink you made me is fine. It's just that I rarely ever drink tea. The taste always reminds me of certain... things.
+Media:vo eqtj002 2 rosaria 03.ogg Rosaria: Yes. The church once held an event that I couldn't attend, but Sister Barbara still saved some tea and dessert for me...
+Media:vo eqtj002 2 rosaria 04.ogg Rosaria: The dessert had already gone stale, so she whisked it away when I wasn't looking, but the tea tasted just like this drink you made me.
+Media:vo eqtj002 2 rosaria 05.ogg Rosaria: Heh, I'd prefer something a little stiffer.
+Media:vo eqtj002 2 rosaria 06.ogg Rosaria: Hmm? I don't really care what's going through his mind, as long as we only talk about drinks.
+Media:vo eqtj002 2 rosaria 07.ogg Rosaria: Besides, Kaeya's only interested in people or things that intrigue him, whether that's you, the innkeeper here, or anybody else...
+Media:vo eqtj002 2 rosaria 08.ogg Rosaria: You think I'm saying too much? Heh, get over yourself, it's no big deal.
+Media:vo eqtj002 2 rosaria 09.ogg Rosaria: Ugh, I'm constantly surrounded by uptight folks day-to-day. I prefer the easygoing atmosphere in the tavern.
+Media:vo eqtj002 2 rosaria 10.ogg Rosaria: Are there really that many people who don't need to work?
+Media:vo eqtj002 2 rosaria 11.ogg Rosaria: Heh...
+Media:vo eqtj002 2 rosaria 12.ogg Rosaria: Well, I must admit, the atmosphere you bring isn't half bad.
+Media:vo eqtj002 2 rosaria 13.ogg Rosaria: Yeah, I should be going, too.
+Media:vo eqtj002 2 rosaria 14.ogg Rosaria: By the way, that black tea tasted great. I'll try to make some for myself in the future... if I can manage to get up early enough in the morning, that is.
+Traveler: (Alright, this drink is looking good.)
+Traveler: (Done. Let's get started on the next drink.)

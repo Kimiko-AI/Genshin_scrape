@@ -1,0 +1,269 @@
+ "Hungry children it's time to come home~♪"
+Paimon: The stuff you make also has a different aroma, (Traveler)!
+ (I should take a little nap as well.)
+(Transitions to daytime)
+ (I think she's asleep.)
+Paimon: (She can even sleep while sitting upright! Is this some special training Forest Watchers get?)
+ (I'd better find something else to do for now.)
+(Exits dialogue)
+ (She can sleep even while sitting upright!)
+ (That's what happens when you grow up.)
+ (That's worrying.)
+ (There's still something I need to do.)
+Paimon: (Okay. If you want to rest, just come on back.)
+(Exits dialogue)
+ (Yeah, I'm gonna have a little nap, too.)
+Paimon: (Sleep well!)
+(Transitions to daytime)
+ ...
+ About Alphonso...
+ About kids going missing...
+Rana: Ah, about that... Eh? Do you have any clues?
+Paimon: We were also really worried, so we asked around! The kids said that they were in the woods, and the next thing they knew, they were in Vimara Village. They couldn't remember anything that had happened before that.
+Rana: That's right. Kavus and Sudabeh suddenly appeared in the village after going missing for a few days. Everyone was worried sick while they were gone, Alphonso even organized a search and rescue team...
+Rana: *chuckle*
+Paimon: What is it, Rana?
+Rana: Now that I think about it, it was actually kinda funny. Remember what I said about curry before? Alphonso made the search party take curry into the forest with them so the children could smell it.
+Rana: Anyway, we didn't find Kavus or Sudabeh, but they came home on their own. And with the whole memory loss situation... something about this whole thing just doesn't feel right...
+Rana: So, I've been patrolling the forest and ruling out any elements that could harm the children. Iotham is the only one left who hasn't gone missing, so I have to protect him.
+ Also, about the "Aranara"...
+(Same dialogue as "About the "Aranara"...")
+ About Alphonso...
+ About the "Aranara"...
+Rana: Ah, that's the round, plantlike little fairies you mentioned before...
+Paimon: Hmm... They said they didn't know, but they were acting like they were hiding something about the "Aranara."
+Rana: Hmm... I don't know much about these creatures myself, but I'll tell you the part I heard. First of all, they're much like you described: round and plantlike.
+Rana: The forest is vast and deep here in Sumeru, and it's constantly changing, like a gargantuan beast. So, even locals will lose their way, let alone travelers.
+Rana: Legend has it that there are countless bizarre and amazing creatures in forests like this, and the most famous among them are the Aranara, which, supposedly, means the "forest people."
+Rana: The Aranara are related to the Dendro Archon and are the guardians of the forest. They're the bridge between people and trees. They also have the ability to enter dreams.
+Rana: ...But for the people of Sumeru, dreams are very rare.
+Paimon: That sounds amazing!
+Rana: Agreed. They might not say it in front of the adults, but I think they really like the legend of the Aranara. Who knows, maybe they've seen an Aranara while playing in the forest.
+Rana: It's normal for children to have secrets amongst themselves that they keep from grown-ups. So long as they can grow up healthy, and become strong, kind, and good adults...
+ Also, about kids going missing...
+(Same dialogue as "About kids going missing...")
+ About Alphonso...
+ About what you and the children were talking about before...
+ Also, about kids going missing...
+ Also, about the "Aranara"...
+ Eek! Fire! So scary!
+Paimon: Really, quit fooling around! Don't act like we haven't burned anything along our journey...
+ I actually feel completely fine.
+ I am pretty great at chopping wood.
+Rana: Ah, you won't need to do that. You'll just need to pick up some dried branches off the ground. Collecting firewood is one of the fundamentals of wilderness survival!
+ I don't think there's anything embarrassing about that.
+ I just wanted to tell you that I'm going now.
+ I won't, don't worry.
+ I'll come help you.
+ I'm actually not that tired...
+ It doesn't have to be curry to make Paimon drool.
+Paimon: Humph, looks like you haven't noticed, (Traveler), but the food you make just smells different!
+ It's delicious! Thank you!
+ Just a little tired.
+ Just kidding, sorry about that.
+ Leave it to me.
+ Let me do it. It won't take long.
+ Let's put a pin in that for now.
+ No need, I feel great.
+ No, we'll need to collect some dried branches...
+Rana: That's right, you know your stuff, (Traveler)! You'd make a fine Forest Watcher!
+ No.
+Rana: Eh? Why...
+Paimon: Uh, (Traveler) means that we just ate so much of this curry, so maybe another time!
+ Not yet...
+ Nothing I can't handle.
+ Paimon has me on a strict training regimen.
+Paimon: Heh, well, we're always improving together as companions!
+ Piece of cake.
+ Quest DescriptionYou and Paimon put in a good amount of hard work to sort your stories into a version that the children might find interesting. Thankfully, they like your stories. Although they don't seem to have told the truth about the mysterious creatures, this isn't the time to go into detail. Now, go with Rana to clear out some Withering Zones. You're doing this so the children of Vimara Village can play safely, after all.
+ Rana, are you okay?
+ Rest? Not a chance.
+ Sounds like Rana stole Paimon's line.
+Paimon: Paimon doesn't care about such things!
+ Step DescriptionPaimon seems to really like the song about curry. Chatting by the campfire feels even more relaxing than you imagined, and Rana fell asleep before realizing it. It's rare to have such a relaxing time among all the explorations, a little rest would be nice. However, grasping this moment to get some other things done is also an option.
+ Step DescriptionThat should count as protecting the forest's natural environment. You've completed quite a bit of physical labor, so do as Rana suggested, and rest in the nearby camp.
+ Step DescriptionThe Forest Watchers seem to have a tradition when camping: It should be the most esteemed person in the group who lights the campfire.
+ Step DescriptionThe Withering Zones Rana marked on the map have been cleared out. According to Rana, the recent spike in Spinocrocodile activity was caused by the Withering, as it made them especially violent. So, besides the danger they pose to the children, they will affect the ecosystem of the forest too. Now, head over to the area where Spinocrocodiles are active and drive them away.
+ Step DescriptionThe campfire needs some dry firewood. Look around and find some.
+ Sure, I guess...
+Paimon: But we've just eaten so much of this curry. Let's make something next time!
+ Thank you.
+Paimon: Let us help you!
+ Thanks.
+ That is embarrassing.
+ The era of darkness?
+ The forest will remember?
+Paimon: Eh... Rana, what's wrong?
+ They just have to light it, right?
+ Ugh... I think I'm dying.
+Rana: Eh? I—I see, lie down, quickly! I'll go get help...
+Paimon: Hey! Don't make jokes like that, (Traveler)! You'll worry Rana.
+ Just kidding, sorry about that.
+ I actually feel completely fine.
+ We slept like babies.
+ We'll help you.
+ Well, I'm actually traveling to find someone...
+ Yay, let's go camping!
+ You can sleep even while sitting upright...
+ You must have been exhausted before...
+Paimon: "Curry, curry, in the air~♪"
+Paimon: (Okay. If you want to rest, just come on back.)
+Paimon: (Paimon feels like Rana's memory isn't too good.)
+Paimon: (She can even sleep while sitting upright! Is this some special training Forest Watchers get?)
+Paimon: (She must be exhausted. Hehe, looks like Rana doesn't have our stamina. Do you want to take a rest, (Traveler)?)
+Paimon: (Sleep well!)
+Paimon: All you need is some wood chopped? That's nothing, (Traveler) could do that.
+Paimon: But we've just eaten so much of this curry. Let's make something next time!
+Paimon: But why do we have to pick tree branches?
+Paimon: Camping! That sounds fun!
+Paimon: Eh... Rana, what's wrong?
+Paimon: Eh? So Iotham was...
+Paimon: Eh? We're not getting rid of the Withering Zones?
+Paimon: Gah, camping is tough! You have to pick branches to start a fire...
+Paimon: Heh, well, we're always improving together as companions!
+Paimon: Heh, you can count on (Traveler)! Is there any work left to do today, Rana?
+Paimon: Hey! Don't make jokes like that, (Traveler)! You'll worry Rana.
+Paimon: Hmm... They said they didn't know, but they were acting like they were hiding something about the "Aranara."
+Paimon: Humph, looks like you haven't noticed, (Traveler), but the food you make just smells different!
+Paimon: Is that so? Hm... Okay, got it. Let's go, (Traveler)!
+Paimon: Just ignore it, and after a while, it might suddenly come back to you when you're doing something else!
+Paimon: Just think of us as trainee Forest Watchers! What do you need us to do, Rana?
+Paimon: Leave it to us!
+Paimon: Let us help you!
+Paimon: Let's go find Rana!
+Paimon: Oh, speaking of him... Alphonso seems like he's really popular in Vimara Village! He organized the search party, and the kids talk about him all the time...
+Paimon: Okay, let's go!
+Paimon: Paimon doesn't care about such things!
+Paimon: Paimon gets it...
+Paimon: Really, quit fooling around! Don't act like we haven't burned anything along our journey...
+Paimon: Some things are harder to remember the more you try to remember them!
+Paimon: Still, this curry is so aromatic. What if the smell draws some critters or hilichurls over here?
+Paimon: Tee-hee, you are making Paimon blush!
+Paimon: That reminds Paimon, why do you have to pick up branches instead of chopping down trees when you want to start a fire? Does the Dendro Archon punish people who cut down trees? Wah... (Traveler), what do we do!?
+Paimon: That sounds amazing!
+Paimon: The stuff you make also has a different aroma, (Traveler)!
+Paimon: There's no need to force yourself, Rana. Paimon hopes the kids in Vimara Village are doing okay...
+Paimon: Uh, (Traveler) means that we just ate so much of this curry, so maybe another time!
+Paimon: We were also really worried, so we asked around! The kids said that they were in the woods, and the next thing they knew, they were in Vimara Village. They couldn't remember anything that had happened before that.
+Paimon: We're coming to help too!
+Paimon: What is it, Rana?
+Paimon: What's that round thing at the edge, the thing that looks like a small cabin?
+Paimon: Will these be enough, Rana?
+Paimon: Wow, it's so close to the village...
+Paimon: Yeah! Don't worry about us!
+Paimon: Yeah, now that you mention it, when we were telling stories to the children, we also asked around...
+Paimon: Yup, that should be enough!
+Rana: "...Even if you grow up and forget, don't fret. The forest will remember."
+Rana: "Curry, curry, in the air~ Hungry children it's time to come home~♪"
+Rana: (Traveler), Paimon, have you rested? You worked so hard yesterday...
+Rana: *chuckle*
+Rana: ...
+Rana: ...Ahh! It's so good. Curry tastes even better after hard work.
+Rana: ...But for the people of Sumeru, dreams are very rare.
+Rana: ...Nope, I can't remember. I'm sure someone told me a story about a (blonde girl/blond boy) before... Just like gold... and called a "Nara" or something...
+Rana: According to him, like Iotham, he doesn't have any family, so he sees this place as his real home. Iotham also sees him as his actual big brother.
+Rana: Agreed. They might not say it in front of the adults, but I think they really like the legend of the Aranara. Who knows, maybe they've seen an Aranara while playing in the forest.
+Rana: Ah! There are roses growing here!
+Rana: Ah, about that... Eh? Do you have any clues?
+Rana: Ah, that's the round, plantlike little fairies you mentioned before...
+Rana: Ah, you won't need to do that. You'll just need to pick up some dried branches off the ground. Collecting firewood is one of the fundamentals of wilderness survival!
+Rana: Ahem! Here's a little Forest Watcher trivia for you: When searching for a missing person in the forest, you want to feed them something that's easy to digest when you find them.
+Rana: Ahh... I slept so well! I don't even remember falling asleep, sorry about that, hehe...
+Rana: Alright. Thanks.
+Rana: An experienced traveler like you is just... absolutely amazing!
+Rana: Anyway, we didn't find Kavus or Sudabeh, but they came home on their own. And with the whole memory loss situation... something about this whole thing just doesn't feel right...
+Rana: Are you sure? Okay then... Thank you so much for yesterday. I feel much better now that you're here.
+Rana: Besides firewood, we have sufficient supplies of everything else here... Ah, (Traveler), you're back! Have you collected enough firewood?
+Rana: Besides, watching you fight made me realize that I still have a lot to learn, (Traveler)! Like footwork... and timing too...
+Rana: But not many documents have survived the cataclysm, so no one really knows what exactly happened. Still, I want to see a real tiger!
+Rana: But once we got older, we couldn't tell whose curry was whose anymore. They all seem about the same.
+Rana: But still, you know that it's time to go home and eat when you smell curry!
+Rana: Curry, curry, in the air~ Hungry children it's time to come home~♪
+Rana: Curry, curry, in the air~♪
+Rana: Dang it, it's like when you have to sneeze, but it just won't come out. How infuriating!
+Rana: Digestion consumes stamina. That's why you feel sleepy easily after eating. Or at least, that's what the Akademiya researchers say.
+Rana: Eh? I—I see, lie down, quickly! I'll go get help...
+Rana: Eh? Oh... I felt like I almost remembered something that was lost in my memories for a long time. Something warm and precious, but I couldn't remember it all... Just those two lines...
+Rana: Eh? Why...
+Rana: Even more amazingly, they turn into different states when encountering Electro or Pyro.
+Rana: Forest Watchers are also tasked with protecting the ecosystem. Recently, potentially because of the Withering Zones, the alligators have become... shall we say, unusually manic.
+Rana: Good luck, (Traveler)!
+Rana: Head over that way next. There's a Spinocrocodile hotspot over there...
+Rana: Here we are.
+Rana: Here we are. When I was little, I would often take this road to go down to the river valley to play.
+Rana: Hmm... I don't know much about these creatures myself, but I'll tell you the part I heard. First of all, they're much like you described: round and plantlike.
+Rana: How are you feeling, (Traveler)? Do you feel weak or nauseous? No? What a relief. Don't push yourself if you're not well.
+Rana: I always used to worry about him. But now, he and Kavus and the others are like a family. Alphonso also looks after him, just like a real older brother would.
+Rana: I can't have that! I was the one who asked you to come and help clean up the Withering Zones...
+Rana: I feel quite lucky, having run into (Traveler) and Paimon during this patrol and all!
+Rana: I see. I understand how you feel, (Traveler). I also had a friend who was very dear to me vanish out of nowhere. But they...
+Rana: I'll try. Thanks again for watching those kids in the village for me before. They're like my little brothers and sisters.
+Rana: If you two stayed in Vimara Village, I know they'd be very happy to have another (big brother and big sister/two big sisters)!
+Rana: In the end, the forest will remember.
+Rana: Is it really okay...? That's great then, I'll finally get to fight side by side with you!
+Rana: It's fine, leave it to me. Just stay here and rest up! Let me just clean up here and I'll go right away!
+Rana: It's good to have you here. But still, don't push yourself.
+Rana: It's normal for children to have secrets amongst themselves that they keep from grown-ups. So long as they can grow up healthy, and become strong, kind, and good adults...
+Rana: It's not far from here.
+Rana: Later, Khaenri'ah fell, and thus began the era of darkness.
+Rana: Legend has it that there are countless bizarre and amazing creatures in forests like this, and the most famous among them are the Aranara, which, supposedly, means the "forest people."
+Rana: Let me see... I think we're just about done here. Let's head back to Vimara Village! We can check in on the situation on our way back.
+Rana: Let's take a break! One of our forest patrol campsites isn't far from here. It should have equipment and supplies.
+Rana: Like I said before, if it's possible, I hope that you can join the ranks of the Watchers. And we will patrol together. What do you think?
+Rana: Luckily, your opponent isn't a Withering Zone this time. It's my time to shine, hehe. You rest up, (Traveler), leave this one to me.
+Rana: Next, there's another Withering Zone over there that I'll need your help to clean up, (Traveler). If that's okay, let's get going!
+Rana: Not only have they been invading other animals' territories, but they're reproducing at a faster rate. If this goes on, they won't just be a danger to the children, but to the forest's ecosystem as well.
+Rana: Not really, I just ate a lot and was feeling so relaxed that I just...
+Rana: Now that I think about it, it was actually kinda funny. Remember what I said about curry before? Alphonso made the search party take curry into the forest with them so the children could smell it.
+Rana: Oh, him? He's like an older brother to them. We've treated him like family since he arrived in the village a few years ago.
+Rana: Oh, never mind! (Traveler), Paimon, wait here for a second! I'm gonna go tidy up the campsite, get a fire going, and get some ingredients ready!
+Rana: Oh, no! It's because fresh wood has too much moisture in it, so it's hard to light. Also, the Dendro Archon isn't that petty!
+Rana: Oh, right! One of our camping traditions is to have the most esteemed person in the group light the campfire.
+Rana: Oh, that... I'm not sure where it came from, but you see them all the time in the forests of Sumeru. Maybe it's some kind of ruin!
+Rana: Oh, this is a Nilotpala Lotus. It blooms only when the moon is hanging high above the sky. I heard that Liyue has similar flowers, too. It's said that anyone who sees the Lotus bloom will have good luck for a whole day.
+Rana: Oh? Is that so? I'd like to try!
+Rana: Okay! You made clean work of those Withering Zones before, but they're still dangerous. If it gets to be too much, be sure to leave the realm and take some rest.
+Rana: Okay, but think about it. If only I could have met you and Paimon earlier...
+Rana: Okay...
+Rana: One of our camping traditions is to have the most esteemed person in the group light the campfire.
+Rana: Regardless, I'll leave it in your capable hands just like before, (Traveler). Just don't overdo it...
+Rana: Right. The origins of the Forest Rangers go way back. The earliest rangers were the forest king's royal guards! I heard that they once walked in forests where there were real tigers.
+Rana: So, I've been patrolling the forest and ruling out any elements that could harm the children. Iotham is the only one left who hasn't gone missing, so I have to protect him.
+Rana: So, when we were little, we could smell a curry and tell whether it was made by our parents.
+Rana: Starshrooms are said to be the reflections of the stars in the sky. Plus, they are quite tasty.
+Rana: Still, our teachings in Sumeru also say to respect nature and the forest, because we are the forest's subjects. So are the birds and beasts, and...
+Rana: Strange, since you've asked, I seem to have heard about this kind of house and its resident. Who was it again... It wasn't that researcher who's in Satyavada Life...
+Rana: Thank you so much, really. That reminds me, how's your condition, (Traveler)? After taking care of so many Withering Zones, do you feel dizzy or nauseous or anything?
+Rana: Thanks, (Traveler).
+Rana: That's good... You've done so much. Goodness, I feel so much better now.
+Rana: That's right, you know your stuff, (Traveler)! You'd make a fine Forest Watcher!
+Rana: That's right. Kavus and Sudabeh suddenly appeared in the village after going missing for a few days. Everyone was worried sick while they were gone, Alphonso even organized a search and rescue team...
+Rana: The Aranara are related to the Dendro Archon and are the guardians of the forest. They're the bridge between people and trees. They also have the ability to enter dreams.
+Rana: The Withering Zones are appearing so quickly now, and Tighnari and the others are too busy to deal with them in time. But it's a good thing we have you here now.
+Rana: The forest is vast and deep here in Sumeru, and it's constantly changing, like a gargantuan beast. So, even locals will lose their way, let alone travelers.
+Rana: The oldest one is Kavus. He wants to travel the world by boat when he grows up. Sudabeh is his little sister, she says she wants to be just like me. It's a little embarrassing, hehe.
+Rana: Then off we go! It's just ahead.
+Rana: Then there's Iotham. I'm more worried about him. He was raised by Granny Jehiet after being abandoned in the village.
+Rana: Then, when you finish your journey, come to Sumeru! We can patrol the forest together!
+Rana: This Withering Zone's expanding...
+Rana: This is Harra Fruit. You can ground it, use the powder and add some other ingredients to make delicious curry!
+Rana: This is a children's song from Sumeru. There's something free about curry — each family adds different ingredients and spices depending on how they make it. So, each family's curry has its own flavor.
+Rana: Well then, I'll leave lighting the campfire to you, (Traveler)!
+Rana: Well, I'm very happy that I could meet the two of you. I'm sure the children feel the same way!
+Rana: Well, if you insist, Paimon... Hmm... Could you help me get some firewood then?
+Rana: Well, let's get going then, (Traveler)!
+Rana: Well, that's not important. The (blonde girl/blond boy) you're looking for... I feel like I've heard about (her/him) somewhere before. Let me think...
+Rana: Well, the recent alligator activity has people especially worried, so we need to do some gator culling. Otherwise, the ecosystem will become imbalanced.
+Rana: When I was a trainee, Tighnari taught us to pay attention to the light shining from this type of rose. It is said to be related to something about Ley Lines...
+Rana: Whew, it's nice to have the chance to do something. This should help with our problem a little.
+Rana: Why the tradition? Probably because in the era of darkness, fire was a symbol of warmth and courage.
+Rana: Withering Zones are dangerous. If it gets to be too much for you, be sure to leave and take some rest.
+Rana: Yep, that's more than enough!
+Rana: Yes. I was still just a little girl back then. One day, the adults discovered that a traveling couple who'd been staying in the village were gone. All they left behind was this teeny tiny child.
+Rana: Yes. Thankfully it isn't on the main road.
+Rana: You guys are back! I'm almost done here as well.
+Rana: You're not only skilled but also so kind, and I'm so moved that you would worry about my little brothers and sisters in Vimara Village! I'll keep an eye out for the person you're looking for!
+Rana: Zzz...
+Rana: Zzz... Help find them... Curry...
+Using the supplies stored at the campsite and the ingredients gathered along the way, Rana makes a pot of richly fragrant curry.Everyone stuffs their faces.The rest is packed up in containers for later use.
+You briefly explain the reason for your travels to Rana.

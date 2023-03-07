@@ -1,0 +1,26 @@
+ Quest DescriptionFollowing information on the mural, you discover a hidden location on Twinning Isle and the journal left there. The journal states that if you want to break through the fog around the island, you need to set out from a certain point on the island's northeasterly section at noon and follow the wind...
+(If this is the first mural you've found)
+Paimon: Hmm? Look, there' some sort of... drawing on this stone.
+Paimon: It looks like people are getting ready to board a ship.
+(Starts The Other Side of Isle and Sea)
+(Otherwise)
+Paimon: Huh, Paimon didn't think we'd find a mural here, too...
+Paimon: It looks like it shows people getting ready to board a ship.
+(Starts The Other Side of Isle and Sea)
+Illegible Notes"If we wish to leave this place, we have to find a way to break through this fog, somehow...""Who knew that such a sight could be seen on that rock to the northwest. I'd love to bring her to see it too. I think it happened at... around 11:00?""A short-lived gap sometimes appears in the fog over the northeasterly island. Who knows, we might be able to use this to leave these islands...""...The wind, that's right! If we could use the wind, we might be able to charge through. But the wind direction in this part of the sea is very strange. We have to get the timing right. Perhaps the wind at around 12:00 might be more suitable..."
+Paimon: Hmm? Look, there' some sort of... drawing on this stone.
+Paimon: Huh, Paimon didn't think we'd find a mural here, too...
+Paimon: Huh? There's a journal here, too... Let's see what it says.
+Illegible Notes"If we wish to leave this place, we have to find a way to break through this fog, somehow...""Who knew that such a sight could be seen on that rock to the northwest. I'd love to bring her to see it too. I think it happened at... around 11:00?""A short-lived gap sometimes appears in the fog over the northeasterly island. Who knows, we might be able to use this to leave these islands...""...The wind, that's right! If we could use the wind, we might be able to charge through. But the wind direction in this part of the sea is very strange. We have to get the timing right. Perhaps the wind at around 12:00 might be more suitable..."
+Paimon: It looks like it shows people getting ready to board a ship.
+Paimon: It looks like people are getting ready to board a ship.
+Paimon: It says that there will be a gap in the fog around the northern island at noon...
+Paimon: Let's keep on our guard as we have a look around.
+Paimon: Looks like the fog's finally behind us... But Paimon never thought there'd be another island here...
+Paimon: Maybe we'll find something new...
+(Obtain Illegible Notes ×1)
+Paimon: Paimon doesn't know what all this means, but let's record this mural down first.
+Paimon: Paimon never thought that there'd be a place like this here...
+Paimon: This rock disappeared. Wh—What in the world happened...
+Paimon: Well then, why don't we do as the journal says and visit that northern island at noon?
+Paimon: Wow, the wind really picked up... Come on, let's follow it.

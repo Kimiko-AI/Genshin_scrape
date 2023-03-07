@@ -1,0 +1,469 @@
+
+(An introductory note for Fischl appears on screen)
+Fischl - Prinzessin der Verurteilung!
+"I, Fischl, Prinzessin der Verurteilung, have descended upon this realm from mine Immernachtreich, as decreed by destined doom."
+"Each and every day, mine familiar Oz and I observe every weft and weave of fate..."
+Apologies, Ms. Fischl of the Adventurers' Guild can be... hard to understand at times.
+I would like to remind you on behalf of the Guild that the "Fischl Dictionary" is there for you should you fail to comprehend her words. You may also ask her companion, Mr. Oz, for help.
+Overall, however, Ms. Fischl is a most trustworthy investigator. I hope that you will work well together.
+
+(If the player has not met Xinyan yet, an introductory note appears on screen)
+Xinyan – Blazing Riff
+Xinyan, a rock musician based in Liyue, uses her music as a form of resistance against societal stereotypes.
+Her tunes are well-loved, and the style of her tunes is much like she is: straightforward, generous, confident, and proud.
+Every time she steps onto her personally-designed stage, loyal fans will come flocking and start to rock to her rhythm.
+If you hear cheers and fireworks go up at any place in Liyue Harbor at the same time, it's most likely Xinyan, so don't miss out!
+ (Paimon, you're the one who started it...)
+ ...
+ Alright, I'll go.
+ Alright.
+ Are you coming too, Venti?
+ Do not impede our vacationing.
+ Exactly.
+ Fine, thanks.
+ For the Prinzessin!
+ Great! Looking forward to it already!
+ Hi Venti, it's me.
+ I agree.
+ I knew it...
+ I remember.
+ I thought as much.
+ I'd love to hear more.
+Media:vo yqeq101 1 katheryne 05a.ogg Katheryne: "...will be watching you as you step into the glorious castle of the Immernachtreich. Come to me at once, swear an oath to me in my blessed name, and we shall journey together to the depths of the world."
+ I'm good, thanks.
+ Is that your new nickname?
+ Kazuha, wake up! We're going wandering!
+ Lady Megistus is absolutely right!
+ Lady Megistus, leave it to me.
+ Like we told you, this island is ours.
+ Do not impede our vacationing.
+ Makes sense. I'm in.
+ Never heard of it.
+ Never mind, looks like they're enjoying this.
+ Nice to see you all again, it's been a while.
+ Oh Kazuha, it's good we can count on you.
+ Okay, I'll report this to the Knights of Favonius immediately!
+ Paimon, seriously...
+ Paimon, tell him.
+ Quest DescriptionAs summer comes into its own, you receive a mysterious letter. "To Whomsoever Finds This Letter" — the sender seems to be waiting for someone...
+ Step DescriptionAs summer comes into its own, you receive a mysterious letter from Fischl, who seems enthusiastic about inviting everyone to the Golden Apple Archipelago. With Venti and Alice's help, several friends have joined you. Now is the time to set off on your new adventure to the mysterious islands you are visiting for the first time... or not.
+ They get everywhere, like weeds...
+ Uh, I'll go with whoever Paimon says is the winner.
+ Um...ahh...
+ Venti, come with me.
+ Very well! I am the one whomst hath traveled here from beyond the stars!
+ What can I do for you, Your Highness?
+ What's that machine for?
+ Wow, that sounds impressive.
+ Yeah, I think so.
+ You guys came here from Liyue?
+"Each and every day, mine familiar Oz and I observe every weft and weave of fate..."
+"I, Fischl, Prinzessin der Verurteilung, have descended upon this realm from mine Immernachtreich, as decreed by destined doom."
+(Traveler): (It looks like the two competitors are on good terms. But it is a surprise that Mona should hold back in a contest against Fischl.)
+(Traveler): (Strange, I was just about to ask about the island...)
+(Traveler): (The number "10" has been struck out haphazardly. It is very obvious who did this. There are also some complaints scribbled next to it — something like "How dare you hold back. I need no sympathy from my opponent!" as you take a closer look.)
+A crowd of bemused Mondstadters watches on as this spectacle continues for another half hour...
+Amid the seas under a far-flung sky may the Golden Apple Archipelago be found.
+Apologies, Ms. Fischl of the Adventurers' Guild can be... hard to understand at times.
+Dodocommunication Device: Dodo! Dodo! Dodoco!
+Esteemed Prinzessin of the Immernachtreich,
+Every time she steps onto her personally-designed stage, loyal fans will come flocking and start to rock to her rhythm.
+Everyone exchanges glances before, one by one, stepping nervously but excitedly into the "Dodofortress"...
+Fischl - Prinzessin der Verurteilung!
+Her tunes are well-loved, and the style of her tunes is much like she is: straightforward, generous, confident, and proud.
+I am a witch who travels amidst the mountains and rivers of Teyvat.
+I would like to remind you on behalf of the Guild that the "Fischl Dictionary" is there for you should you fail to comprehend her words. You may also ask her companion, Mr. Oz, for help.
+I write to you, having heard from my young daughter that your kingdom has fallen and that you are searching for a way to restore it.
+If this masterless land can assist in the restoration of Your Highness's realms, that would be most wonderful!
+If you hear cheers and fireworks go up at any place in Liyue Harbor at the same time, it's most likely Xinyan, so don't miss out!
+Media:vo dialog yqeq101 fischl 01.ogg Fischl: The mortal temptations stopped the truth in its tracks, denying the verdict of my victory the chance to be announced in my presence.
+Media:vo dialog yqeq101 fischl 02.ogg Fischl: Say that again?
+Media:vo dialog yqeq101 fischl 03.ogg Fischl: Silence, Oz!
+Media:vo dialog yqeq101 fischl 04.ogg Fischl: Ahem... Lady Megistus, let us put aside the sacred matter of our trial for now. Once I have reclaimed my throne in the Immernachtreich, we shall settle this for good in the Garten Sanssouci!
+Media:vo dialog yqeq101 kazuha 01.ogg Kaedehara Kazuha: zzz... zzz...
+Media:vo dialog yqeq101 kazuha 02.ogg Kaedehara Kazuha: It was a great pleasure to enjoy a delicious meal to the gentle whisper of the sea breeze. Thank you for making dinner for everyone, Xinyan.
+Media:vo dialog yqeq101 kazuha 03.ogg Kaedehara Kazuha: Yes. The bard's description of an "emerald isle" describes this place perfectly.
+Media:vo dialog yqeq101 kazuha 04.ogg Kaedehara Kazuha: It's hard to say. But I do believe it.
+Media:vo dialog yqeq101 mona 01.ogg Mona: Wow, I'm surprised you have the nerve to bring that up again.
+Media:vo dialog yqeq101 mona 02.ogg Mona: You and Oz are like two peas in a pod, trying desperately to convince (Traveler) and Paimon that you were the victor. I hardly see how that's fair.
+Media:vo dialog yqeq101 mona 03.ogg Mona: Besides, only the loser would want to get—
+Media:vo dialog yqeq101 mona 04.ogg Mona: Oh, that's fine by me, I'll beat you no matter how many times you ask for a rematch... wait, but what is that place, exactly?
+Media:vo dialog yqeq101 oz 01.ogg Oz: Mein Fräulein, she means to say that you are the loser.
+Media:vo dialog yqeq101 paimon 01.ogg Paimon: This pointy thing looks like a tower. Pretty unique, too. Maybe it has something to do with that machine we saw.
+Media:vo dialog yqeq101 paimon 02.ogg Paimon: But... from the looks of it, it seems pretty broken...
+Media:vo dialog yqeq101 venti 01.ogg Venti: Achoo!
+Media:vo dialog yqeq101 venti 02.ogg Venti: Ugh... Guess I shouldn't get too close to the cats after all... I'll just stay on the roof.
+Media:vo dialog yqeq101 xinyan 01.ogg Xinyan: Kazuha, Kazuha! ...Ugh, he just won't wake up! Looks like we're staying in the tavern tonight.
+Media:vo dialog yqeq101 xinyan 02.ogg Xinyan: Okay, I'll start by catching ten crabs and twenty fish! Hmm... will that be enough for all of us? Maybe I should prepare something else?
+Media:vo dialog yqeq101 xinyan 03.ogg Xinyan: No problem. I'm just glad y'all enjoyed it. I was real worried that I hadn't made enough for everyone... or that I'd made too much.
+Media:vo dialog yqeq101 xinyan 04.ogg Xinyan: By the way, how was your walk today? Find any high-up spots with a good view?
+Media:vo dialog yqeq101 xinyan 05.ogg Xinyan: Oh? So what about the rest of the story, is that true as well?
+Media:vo dialog yqeq101 xinyan 06.ogg Xinyan: Well then, let's hope we wake up tomorrow morning to the sight of the Dodo-King or a Dodoco! That'd be fun.
+Media:vo dialog yqeq101 xinyan 07.ogg Xinyan: ...Of course, I don't mind if that doesn't happen. It's amazing just to be here on the island from the story, and to get to make some friends from Mondstadt.
+Media:vo yqeq101 1 katheryne 01.ogg Katheryne: Ah, Traveler. It so happens that a friend of yours asked me to pass on a voice message when I saw you.
+Media:vo yqeq101 1 katheryne 02.ogg Katheryne: "My beloved retainer, have you noticed that silver thread, of which fate is woven, now twisting and twining itself around you? The Auge der Verurteilung des... hmm? Des... Großen Kaleidophantasmas... will be watching you..."
+Media:vo yqeq101 1 katheryne 03.ogg Katheryne: ...
+Media:vo yqeq101 1 katheryne 04.ogg Katheryne: Apologies, this message is unusually difficult to recite. Would you like to hear more?
+Media:vo yqeq101 1 katheryne 05a.ogg Katheryne: "...will be watching you as you step into the glorious castle of the Immernachtreich. Come to me at once, swear an oath to me in my blessed name, and we shall journey together to the depths of the world."
+Media:vo yqeq101 1 katheryne 06.ogg Katheryne: Anyway, to summarize — Miss Fischl asked me to ask you to go to the plaza in front of the Cathedral.
+Media:vo yqeq101 1 katheryne 07.ogg Katheryne: Please meet her there when you have the time. She said that she will be waiting for you.
+Media:vo yqeq101 1 paimon 01.ogg Paimon: Someone left a message for us? Who could it be?
+Media:vo yqeq101 1 paimon 02.ogg Paimon: ...
+Media:vo yqeq101 1 paimon 03.ogg Paimon: Uh... definitely sounds like Fischl's note... What should we do?
+Media:vo yqeq101 1 paimon 04.ogg Paimon: Oh, Fischl... such a mystifying message for such a plain and simple request...
+Media:vo yqeq101 1 paimon 05.ogg Paimon: Well, if Fischl's expecting us, then let's not keep her waiting. Let's head towards the Cathedral plaza!
+Media:vo yqeq101 10 fischl 01.ogg Fischl: Haha! Utter my supreme name, and see how Lady Megistus the presumptuous is reduced to bitter tears!
+Media:vo yqeq101 10 fischl 02.ogg Fischl: Lady Paimon, the time to show your loyalty is nigh.
+Media:vo yqeq101 10 fischl 03.ogg Fischl: Ahem! I, too...
+Media:vo yqeq101 10 fischl 04.ogg Fischl: Mmm! Impressive!
+Media:vo yqeq101 10 kazuha 01.ogg Kaedehara Kazuha: Yes, we did walk quite a long way.
+Media:vo yqeq101 10 kazuha 02.ogg Kaedehara Kazuha: Since Xinyan made dinner for us, allow me to take charge of breakfast tomorrow.
+Media:vo yqeq101 10 mona 01.ogg Mona: Just in time! So (Traveler), Paimon, who do you think the real swimming champion is? Me or Fischl?
+Media:vo yqeq101 10 mona 02.ogg Mona: Now that you mention it, I'm getting a little peckish myself...
+Media:vo yqeq101 10 mona 03.ogg Mona: Ah, I love that barbecue smell... This tastes amazing.
+Media:vo yqeq101 10 oz 01.ogg Oz: Oh wise Paimon, surely you can discern who the true winner is.
+Media:vo yqeq101 10 oz 02.ogg Oz: Inviting Lady Xinyan here was an astute decision indeed.
+Media:vo yqeq101 10 paimon 01.ogg Paimon: We're back!
+Media:vo yqeq101 10 paimon 02.ogg Paimon: Oh no you don't! Don't put this on Paimon!
+Media:vo yqeq101 10 paimon 03.ogg Paimon: Ohh! Thank you, Xinyan!
+Media:vo yqeq101 10 paimon 04.ogg Paimon: Ooh! Time to eat!
+Media:vo yqeq101 10 paimon 05.ogg Paimon: Paimon's done talking, you guys carry on if you wanna go hungry!
+Media:vo yqeq101 10 paimon 06.ogg Paimon: Paimon too!
+Media:vo yqeq101 10 paimon 07.ogg Paimon: Oh, (Traveler), you forgot about something!
+Media:vo yqeq101 10 paimon 08.ogg Paimon: Uh, let's talk over there.
+Media:vo yqeq101 10 xinyan 01.ogg Xinyan: Wait, wait wait wait! Shouldn't Paimon get some food in her first? Poor thing looks starvin' after such a long trek out!
+Media:vo yqeq101 10 xinyan 02.ogg Xinyan: Right? While you were off doing your own things, I caught us some seafood and picked us a few fruits. They taste real good barbecued!
+Media:vo yqeq101 10 xinyan 03.ogg Xinyan: Well there's plenty to go around, so dig in! I can't say I've got the culinary skills of my chef friend, but I promise you'll at least eat your fill!
+Media:vo yqeq101 11 paimon 01.ogg Paimon: That whole thing with the Fatui is bothering you, too, right? Well, remember the bomb thing that Venti gave us? We can contact him using that.
+Media:vo yqeq101 11 paimon 02.ogg Paimon: Wait, no, not a bomb. Venti said it's called a "Dodocommunication Device"!
+Media:vo yqeq101 11 paimon 03.ogg Paimon: Yeah, let's ask Venti if he knows anything. He always seems clued-in on everything, so if there's any intel floating around, he'll definitely know about it!
+Media:vo yqeq101 11 paimon 04.ogg Paimon: How come you're sneezing?
+Media:vo yqeq101 11 paimon 05.ogg Paimon: Could you be any lazier!
+Media:vo yqeq101 11 paimon 06.ogg Paimon: Alright, well Venti, there's some strange things going on on this island... We ran into the Fatui!
+Media:vo yqeq101 11 paimon 07.ogg Paimon: But they're ruining our vacation!
+Media:vo yqeq101 11 paimon 08.ogg Paimon: Yeah, but something just doesn't feel right, that's why we came to you... Don't you have any information for us?
+Media:vo yqeq101 11 paimon 09.ogg Paimon: Ugh! Honestly...
+Media:vo yqeq101 11 paimon 10.ogg Paimon: Okay, bye!
+Media:vo yqeq101 11 paimon 11.ogg Paimon: So he means we don't need to worry too much about the Fatui, right?
+Media:vo yqeq101 11 paimon 12.ogg Paimon: Well, if that's what the Tone-Deaf Bard says... then fingers crossed we'll have a peaceful and relaxing vacation where nothing weird happens at all.
+Media:vo yqeq101 11 paimon 13.ogg Paimon: When you go off on a long trip with your friends, the important thing is to have fun!
+Media:vo yqeq101 11 venti 01.ogg Venti: Achoo! Ugh...
+Media:vo yqeq101 11 venti 02.ogg Venti: Heya! Miss me already, (Traveler)?
+Media:vo yqeq101 11 venti 03.ogg Venti: Haha, I know that. You're the only person who can contact me on this thing.
+Media:vo yqeq101 11 venti 04.ogg Venti: I'm at The Cat's Tail... so many cats... They gave me some allergy medicine, but it's not working... Achoo! Okay, go on then, what are you calling about?
+Media:vo yqeq101 11 venti 05.ogg Venti: The Fatui... yeah, they're everywhere, aren't they?
+Media:vo yqeq101 11 venti 06.ogg Venti: Ahaha, the Cryo Archon's minions are a capable crew. I'd be more surprised if they hadn't shown up yet.
+Media:vo yqeq101 11 venti 07.ogg Venti: Really? But... you sound fine, they can't have caused you too much trouble, surely? Or if they did, I'm sure you have everything under control by now.
+Media:vo yqeq101 11 venti 08.ogg Venti: I haven't heard anything new about the Fatui. But don't worry. I may be a lowly tone-deaf bard, but you may contact me whenever you need me.
+Media:vo yqeq101 11 venti 09.ogg Venti: I mean, I can't promise I'll be of much help, but at least you'll have someone to talk to, right? Sometimes, just talking things through is enough to calm a worried mind.
+Media:vo yqeq101 11 venti 10.ogg Venti: Adventuring is what you do best. It's only natural to encounter a few surprises when you head somewhere new, but just remember, not all unexpected encounters are dangerous.
+Media:vo yqeq101 11 venti 11.ogg Venti: The same wind graces the seaside as that which wafts over pastures green. Wherever you see clouds, it was the wind that carried them there. Don't worry, my friends, the wind will always be with you.
+Media:vo yqeq101 11 venti 12.ogg Venti: Okay then, I have to go now — my performance in the Cat's Tail is starting any second!
+Media:vo yqeq101 2 fischl 01.ogg Fischl: Oh, welcome, welcome, most loyal attendants of the Prinzessin!
+Media:vo yqeq101 2 fischl 02.ogg Fischl: And so, the whisper of eternal night summons you back to my side. Splendid! What a blessed reunion, a boon from beyond the eventide! Come, partake of this joy with me, my subjects...
+Media:vo yqeq101 2 fischl 03a.ogg Fischl: Hmph! (Traveler) and I are like intertwined stars in the vast galaxy. You of all people should very well know the fate foretold by this meeting!
+Media:vo yqeq101 2 fischl 04.ogg Fischl: Hehe, Lady Megistus has long since become a citizen of the Immernachtreich. She has been serving as Court Archmage under one's command for some time now.
+Media:vo yqeq101 2 fischl 05.ogg Fischl: Indeed so, my Archmage. Did even this appear in thy divination? Why, your powers are truly dangerous.
+Media:vo yqeq101 2 fischl 06.ogg Fischl: Oh, faithful servants! One's homeland, the Immernachtreich, which bears the darkest of all fates, draws near to this world once more. Stand with me in anticipation, for the glory of our kingdom is nigh!
+Media:vo yqeq101 2 fischl 07.ogg Fischl: Indeed! Only one's most faithful envoys are fortunate enough to be privy to this great revelation. The Immernachtreich is near Mondstadt!
+Media:vo yqeq101 2 fischl 08.ogg Fischl: Lady Megistus!
+Media:vo yqeq101 2 fischl 09.ogg Fischl: "O mortal, your sovereign's heart is touched by thy sincerity and sympathy. But nay, the Immernachtreich is an everlasting realm, and one day, it shall make its reappearance."
+Media:vo yqeq101 2 fischl 10.ogg Fischl: "Since you inquire so earnestly... give unto me a tranquil haven, promise me eternal admiration, lend me both time and wind, and one shall revive one's homeworld."
+Media:vo yqeq101 2 fischl 11.ogg Fischl: Traveler! Curtail thy umming and ahhing at once! The throne of the Immernachtreich calls for me. Come, be my blade, clear the way, and witness what is to come!
+Media:vo yqeq101 2 fischl 12.ogg Fischl: You, who have traveled to the farthest reaches of the world, fathomed the celestial path of stardust in the palm of your hand, and witnessed raindrops converge and become one with the undercurrent of destiny... You, yes, you...
+Media:vo yqeq101 2 fischl 13.ogg Fischl: Hahahaha! Excellent, most excellent!
+Media:vo yqeq101 2 fischl 14.ogg Fischl: Very well! Then it is settled. One blesses you with an undisturbed slumber, Lady Megistus. You too, Traveler.
+Media:vo yqeq101 2 mona 01.ogg Mona: Which one is it, "retainer" or "attendant"? Make up your mind...
+Media:vo yqeq101 2 mona 02.ogg Mona: A normal person in this situation would simply say: "Hi Traveler, how have you been?"
+Media:vo yqeq101 2 mona 03.ogg Mona: Ahem! That's just my surname, don't mind that... This is so embarrassing, hahaha...
+Media:vo yqeq101 2 mona 04.ogg Mona: (Traveler), you're here because Fischl asked Katheryne to ask you to come, right?
+Media:vo yqeq101 2 mona 05.ogg Mona: Oh for the love of... No, of course not! You told me yourself that you'd left a message with Katheryne!
+Media:vo yqeq101 2 mona 06.ogg Mona: Ahem! Excuse me... Anyway, in my case she practically beat the door down to get me to come along... Whatever she says, please don't be too astonished.
+Media:vo yqeq101 2 mona 07.ogg Mona: I know it sounds absurd, but there's actually something behind this, I promise.
+Media:vo yqeq101 2 mona 08.ogg Mona: Basically, what Fischl means is—
+Media:vo yqeq101 2 mona 09.ogg Mona: Urgh, alright, alright! Honestly... Look at me, a genius astrologist, forced into a juvenile role-playing game...
+Media:vo yqeq101 2 mona 10.ogg Mona: The truth is that yesterday, Her Highness encountered the Spark Knight, Klee outside of the city. Both being of great fame, they recognized one another instantly, and began to converse.
+Media:vo yqeq101 2 mona 11.ogg Mona: It was already getting dark, so in that spirit of great compassion and care for which she is known, Her Highness personally accompanied Klee back to Mondstadt.
+Media:vo yqeq101 2 mona 12.ogg Mona: On the way, Her Highness relayed to Klee the story of her origins. Upon hearing the tragic tale of the fall of Her Highness's homeworld, the tender-hearted Spark Knight inquired, with tears welling up in her eyes...
+Media:vo yqeq101 2 mona 13.ogg Mona: In short, Klee gave Fischl an island to serve as the promised land where the Immernachtreich will reappear. I didn't believe it either at first, but then I saw this letter.
+(Open Mysterious Letter)
+Mysterious Letter
+Esteemed Prinzessin of the Immernachtreich,
+I am a witch who travels amidst the mountains and rivers of Teyvat.
+I write to you, having heard from my young daughter that your kingdom has fallen and that you are searching for a way to restore it.
+Amid the seas under a far-flung sky may the Golden Apple Archipelago be found.
+If this masterless land can assist in the restoration of Your Highness's realms, that would be most wonderful!
+Media:vo yqeq101 2 mona 14.ogg Mona: I think she just wants to invite you along to the island with her. That being said, I have a feeling that I'll be better off not performing any divination where that island's concerned...
+Media:vo yqeq101 2 mona 15.ogg Mona: Klee is involved in this, which means her mother is probably involved, which means that old hag is involved... Ugh, thanks, but no thanks.
+Media:vo yqeq101 2 mona 16.ogg Mona: Behold, the watcher, the guide, the weaver of dreams... (Traveler)!
+Media:vo yqeq101 2 mona 17.ogg Mona: ...To sum up, Traveler, since you say you know the way, we'll let you take us to the island— I mean, the promised land.
+Media:vo yqeq101 2 mona 18.ogg Mona: Good, fine, done. Right, now — Lady Megistus needs to go home to pack her things and catch up on some sleep. Your Highness, your other distinguished selves, let's meet at the city gate at nine o'clock tomorrow morning.
+Media:vo yqeq101 2 oz 01.ogg Oz: My apologies. Mein Fräulein tends to use exaggerated expressions when she's in good spirits.
+Media:vo yqeq101 2 oz 02.ogg Oz: Traveler, Paimon, it's a pleasure to see you again. Mein Fräulein and I extend to you our most sincere greetings.
+Media:vo yqeq101 2 oz 03.ogg Oz: Precisely! Lady Megistus, please refrain from such unimaginative utterances.
+Media:vo yqeq101 2 oz 04.ogg Oz: No, please, that will be most unnecessary!
+Media:vo yqeq101 2 oz 05.ogg Oz: "Oh no! Is the Immernachtreich really gone? Won't it grow back?"
+Media:vo yqeq101 2 oz 06.ogg Oz: "Really? So how do we make your homeland grow back again? Oh, pwease tell me, pweeease, pweeeeease!"
+Media:vo yqeq101 2 oz 07.ogg Oz: Providence has gifted mein Fräulein with an excellent opportunity. Esteemed Traveler, as mein Fräulein's cherished retainer, you deserve to bear witness to this grand moment with us.
+Media:vo yqeq101 2 oz 08.ogg Oz: ...Must chart the course that leads the way to the land promised to mein Fräulein by fate!
+Media:vo yqeq101 2 oz 09.ogg Oz: Mein Fräulein means to say: "Good night, see you all tomorrow."
+Media:vo yqeq101 2 paimon 01.ogg Paimon: There she is! And Mona, too!
+Media:vo yqeq101 2 paimon 02.ogg Paimon: Hey Fischl! You were looking for us, right? Sounds like the fun's started without us! What's got you in such a good mood?
+Media:vo yqeq101 2 paimon 03.ogg Paimon: Paimon wants to say a proper hello too, but Paimon has no idea how to, uh... partake...
+Media:vo yqeq101 2 paimon 04.ogg Paimon: ...Lady M—Meg...? What now?
+Media:vo yqeq101 2 paimon 05.ogg Paimon: Ah, don't worry. We've been around the block, you can't faze us!
+Media:vo yqeq101 2 paimon 06.ogg Paimon: ...
+Media:vo yqeq101 2 paimon 07.ogg Paimon: Wait, what...?
+Media:vo yqeq101 2 paimon 08.ogg Paimon: Could you cut the re-enactment and just get to the point!
+Media:vo yqeq101 2 paimon 09.ogg Paimon: This island looks kinda familiar...
+Media:vo yqeq101 2 paimon 10.ogg Paimon: Huh? Why not?
+Media:vo yqeq101 2 paimon 11.ogg Paimon: Ohhh. Fischl doesn't know the way there...
+Media:vo yqeq101 2 paimon 12.ogg Paimon: Hehehe, since thou askethed for our help, Paimon can telleth you that we are good friends with the Spark Knight, Klee: The Guides of Destiny!
+Media:vo yqeq101 2 paimon 13.ogg Paimon: (Traveler), come on, just play along!
+Media:vo yqeq101 2 paimon 14.ogg Paimon: About darn time... good night!
+Media:vo yqeq101 2 paimon 15.ogg Paimon: Ugh, Paimon's exhausted! You all have proper roles! How come Paimon has to be a clock on the wall in the royal palace!?
+Media:vo yqeq101 2 paimon 16.ogg Paimon: "Cuckoo! It's twelve o'clock sharp in the Immernachtreich!"
+Media:vo yqeq101 2 paimon 17.ogg Paimon: Hmph. Anyway, since those islands are a pretty mind-blowing place, why don't we get some people with mind-boggling ideas to help us out?
+Media:vo yqeq101 2 paimon 18.ogg Paimon: Kaeya's mind works in mysterious ways, but no one in Mondstadt has ideas that boggle the mind quite like...
+Media:vo yqeq101 2 paimon 19.ogg Paimon: ...a certain somebody who's definitely going to be in the tavern at this hour. C'mon, let's go rope him into helping us!
+Media:vo yqeq101 3 kazuha 01.ogg Kaedehara Kazuha: Haha, truly a curious coincidence.
+Media:vo yqeq101 3 kazuha 02.ogg Kaedehara Kazuha: Although Xinyan can come across as unruly at times, her musical understanding is highly nuanced and original. Safe to say, our shared appreciation for music struck a chord in us both.
+Media:vo yqeq101 3 kazuha 03.ogg Kaedehara Kazuha: Similar souls tend to attract each other. (Traveler) and Paimon, you must have exceptional taste, just like that friend of yours.
+Media:vo yqeq101 3 kazuha 04.ogg Kaedehara Kazuha: I've met many bards during my travels, but none of them are as entertaining as you.
+Media:vo yqeq101 3 kazuha 05.ogg Kaedehara Kazuha: How interesting. I now have the urge to visit that island myself... This is the thing about traveling. You can't plan ahead, better to leave when the mood takes you and go where the heart leads.
+Media:vo yqeq101 3 kazuha 06.ogg Kaedehara Kazuha: In that case, I'll have a glass of juice. Hmm... this one. I like the color.
+Media:vo yqeq101 3 kazuha 07.ogg Kaedehara Kazuha: More... please more...
+Media:vo yqeq101 3 paimon 01.ogg Paimon: We're here! Tone-Deaf Bard! ...Huh!?
+Media:vo yqeq101 3 paimon 02.ogg Paimon: (Traveler), what are they doing in Mondstadt!?
+Media:vo yqeq101 3 paimon 03.ogg Paimon: Kazuha, Xinyan, what are you doing here in a Mondstadt tavern? And how'd you end up having to share a table with the Tone-Deaf Bard...?
+Media:vo yqeq101 3 paimon 04.ogg Paimon: Oh! Yeah, we know the one. Our friend owns that place.
+Media:vo yqeq101 3 paimon 05.ogg Paimon: Uh... guess so, heh...
+Media:vo yqeq101 3 paimon 06.ogg Paimon: Wow, you're too nice! Unlike some people who only ever seem to poke fun at Paimon, ahem!
+Media:vo yqeq101 3 paimon 07.ogg Paimon: Oh no! Kazuha!
+Media:vo yqeq101 3 paimon 08.ogg Paimon: Seriously!?
+Media:vo yqeq101 3 paimon 09.ogg Paimon: Oh, yeah, that's a good point... We didn't come here to drink...
+Media:vo yqeq101 3 venti 01.ogg Venti: Well look at that, you're really here! Come on, take a seat and join our delightful conversation!
+Media:vo yqeq101 3 venti 02.ogg Venti: Though sadly not a rock 'n' roll singer, or we could perform a duet.
+Media:vo yqeq101 3 venti 03.ogg Venti: So, you all know each other! My new-found friends are my old friends' friends from afar... Ah, how fantastic.
+Media:vo yqeq101 3 venti 04.ogg Venti: This is a rare opportunity indeed. Oh, we should form a poetry club and call it... the "Free Poets Society," or something like that.
+Media:vo yqeq101 3 venti 05.ogg Venti: Music is all about inspiration. Maybe the organizers canceled the show because theirs dried up.
+Media:vo yqeq101 3 venti 06.ogg Venti: But fear not, weary travelers, for your journey was not in vain. It has, after all, brought you here, to me, to the temple of music.
+Media:vo yqeq101 3 venti 07.ogg Venti: Haha, exactly! Ah, you understand the meaning of being a bard so well. To express my gratitude, I will even share one of these stories with you.
+Media:vo yqeq101 3 venti 08.ogg Venti: I'm sure it all comes down to the richness of my imagination, and by extension the poverty of theirs. And on that note, here is a fantastical tale that is sure to delight you all.
+Media:vo yqeq101 3 venti 09.ogg Venti: "Legends tell of an emerald isle in the middle of the ocean. There, the Dodo-King and his people live a blissful existence."
+Media:vo yqeq101 3 venti 10.ogg Venti: "When a Dodoco is born, it dives into the water. Some learn to swim, others are carried away by the waves all the way to Mondstadt, where they befriend the children there."
+Media:vo yqeq101 3 venti 11.ogg Venti: "One Dodoco made a new friend in Mondstadt: the little Spark Knight. But the Dodo-King did not approve. He demanded that the little knight come to the island and prove herself to him."
+Media:vo yqeq101 3 venti 12.ogg Venti: "So the little knight, together with her most important friend in all the world, braved the wind and waves, finally reaching the middle of the ocean. But Dodo-King was not there. Dodo-King had lied..."
+Media:vo yqeq101 3 venti 13.ogg Venti: "There was no trial, by fire or interrogation. The little knight's mother, who was a mage, had built an entire summer city there as a gift to her daughter along with this message:"
+Media:vo yqeq101 3 venti 14.ogg Venti: "Summer is the season of love. It is the time for freedom and fun. So everyone, please sing, dance, and enjoy yourselves here."
+Media:vo yqeq101 3 venti 15.ogg Venti: ...The end.
+Media:vo yqeq101 3 venti 16.ogg Venti: Haha, I'm glad you liked it. Well, there's wine on the table, and I have stories to tell... seems like fate is feeling kind today.
+Media:vo yqeq101 3 venti 17.ogg Venti: Don't worry, if you don't like wine, there's juice as well.
+Media:vo yqeq101 3 venti 18.ogg Venti: Oops, I think I accidentally placed some fruity cocktails out there... Ehe, my bad.
+Media:vo yqeq101 3 venti 19.ogg Venti: Anyway, guess it's time to talk about business after all that drinking. (Traveler), you came here because you need my help, I presume?
+Media:vo yqeq101 3 xinyan 01.ogg Xinyan: Wow, (Traveler), Paimon! Speak of the devil, we were literally just talking about you!
+Media:vo yqeq101 3 xinyan 02.ogg Xinyan: "Tone-Deaf Bard"? Hahaha! Now that's a fun stage name. Seems like you're a pretty well-known singer, fella.
+Media:vo yqeq101 3 xinyan 03.ogg Xinyan: Yeah, I felt like getting out and finding some new inspiration for my songwriting. Kazuha felt like going on a trip too, so we figured we'd travel together.
+Media:vo yqeq101 3 xinyan 04.ogg Xinyan: Last month, Beidou held a big booze-fueled party called the "Drink-Till-You-Sink Champion-Ship," and she put me in charge of the music. That's where I met Kazuha.
+Media:vo yqeq101 3 xinyan 05.ogg Xinyan: You can say that again! In Kazuha's hands, even a leaf becomes an instrument! That makes him an expert among my friends.
+Media:vo yqeq101 3 xinyan 06.ogg Xinyan: Startin' from Liyue, we passed through Stone Gate and kept going till we came into Mondstadt. Then, along the way, we saw this really awesome manor, it was something else!
+Media:vo yqeq101 3 xinyan 07.ogg Xinyan: Really? Y'all sure have a lot of friends! Well, whoever it is that lives in that fine place must really be lovin' life, huh?
+Media:vo yqeq101 3 xinyan 08.ogg Xinyan: By the way, do you know anything about the "Iridescence Tour"? It's supposed to be huge. Rumor has it that all seven nations of Teyvat are gonna be involved.
+Media:vo yqeq101 3 xinyan 09.ogg Xinyan: Well, so far it's mostly just empty promises. Anyway, it's supposed to be a music festival. The organizer really did a number on me last time. They canceled on me. But I hear that they're still active.
+Media:vo yqeq101 3 xinyan 10.ogg Xinyan: I'd love to give the festival another shot, but wouldn't you know it — the plans fell through again... How can they mess up this bad twice in a row?
+Media:vo yqeq101 3 xinyan 11.ogg Xinyan: Your temple of music must have more than just good tunes — you're a bard, ain't ya? A song's gotta have a good story, or it doesn't make the cut, right?
+Media:vo yqeq101 3 xinyan 12.ogg Xinyan: Hahaha, you're a funny fella. Are all bards like you?
+Media:vo yqeq101 3 xinyan 13.ogg Xinyan: Here's to music! Come on, (Traveler)!
+Media:vo yqeq101 3 xinyan 14.ogg Xinyan: Uh-oh, this fella's drunk... But wasn't he drinking fruit juice?
+Media:vo yqeq101 4 kazuha 01.ogg Kaedehara Kazuha: *snore*... adventure... can't...
+Media:vo yqeq101 4 kazuha 02.ogg Kaedehara Kazuha: Can't... miss... the adventure...
+Media:vo yqeq101 4 kazuha 03.ogg Kaedehara Kazuha: ...Hm? (Traveler)?
+Media:vo yqeq101 4 paimon 01.ogg Paimon: Yeah, thought so...
+Media:vo yqeq101 4 paimon 02.ogg Paimon: Hmm... Master Jean? Or... Lisa?
+Media:vo yqeq101 4 paimon 03.ogg Paimon: Alice and Klee!?
+Media:vo yqeq101 4 paimon 04.ogg Paimon: Ahh! It's a bomb!
+Media:vo yqeq101 4 paimon 05.ogg Paimon: Sounds like the two of you are in cahoots over this...
+Media:vo yqeq101 4 paimon 06.ogg Paimon: Fair enough... the Tone-Deaf Bard does like to joke around, but he's still one of our best friends. Besides, a vacation sounds great, hehe...
+Media:vo yqeq101 4 paimon 07.ogg Paimon: Actually, Kazuha and Xinyan seemed pretty interested in coming on this trip, too. Let's ask them if they wanna join us!
+Media:vo yqeq101 4 paimon 08.ogg Paimon: Xinyan, do you wanna come to the islands with us?
+Media:vo yqeq101 4 paimon 09.ogg Paimon: Someone's got it covered, apparently. There'll be a few others joining us on this trip, and we're meeting at the city gate tomorrow morning. We'll wait for you.
+Media:vo yqeq101 4 paimon 10.ogg Paimon: Oh yeah, they don't know Fischl yet, do they! Okay, so here's the deal, there's a princess from a faraway land and her retinue, who're also coming on this trip...
+Media:vo yqeq101 4 paimon 11.ogg Paimon: Ahhh! Why won't anyone believe Paimon!
+Media:vo yqeq101 4 paimon 12.ogg Paimon: You serious? The Tone-Deaf Bard actually has plans to do some work?
+Media:vo yqeq101 4 paimon 13.ogg Paimon: Aren't you allergic to cats?
+Media:vo yqeq101 4 venti 01.ogg Venti: Look where we are... Yup, I can sense that you're about to tell me something very interesting.
+Media:vo yqeq101 4 venti 02.ogg Venti: Klee gave a special gift from her mother to an adventurer friend? She's such a kindhearted child.
+Media:vo yqeq101 4 venti 03.ogg Venti: As I'm sure you've already guessed, that letter is most definitely written by Alice.
+Media:vo yqeq101 4 venti 04.ogg Venti: Speaking of, guess which two people I ran into on my way to the tavern today?
+Media:vo yqeq101 4 venti 05.ogg Venti: A mother and daughter, both with long elf ears and the most amazingly adorable personalities.
+Media:vo yqeq101 4 venti 06.ogg Venti: Ding-ding-ding! Correct answer!
+Media:vo yqeq101 4 venti 07.ogg Venti: The unaging mage was taking her teeny-tiny knight on a vacation, and I happened to run into them. As a friendly greeting, the mysterious woman gave me a gift...
+Media:vo yqeq101 4 venti 08.ogg Venti: She also said that if I meet any fun friends, I should share this gift with them. So now, it's yours to keep, (Traveler).
+Media:vo yqeq101 4 venti 09.ogg Venti: Minus the fuse — so don't worry, it's not going to explode. Come on, take it. This way, we can talk to each other just like this even when we're apart.
+Media:vo yqeq101 4 venti 10.ogg Venti: It's called a "Dodocommunication Device," and it allows people to stay in touch over vast distances. However, you can't just use it anytime you want, and there's also a limit on the number of times you can use it. That's why it's currently only available to a certain select few.
+Media:vo yqeq101 4 venti 11.ogg Venti: I heard that the inspiration for this comes from another world... Alice is always full of surprises.
+Media:vo yqeq101 4 venti 12.ogg Venti: She and Klee asked me to tell you: "Please take this with you when you depart for the island— no wait, the promised land with your friends, and have fun!"
+Media:vo yqeq101 4 venti 13.ogg Venti: Don't worry about how to get there. The organizers of this vacation have made arrangements. Turn right after you exit the city gates, and you'll see something that will make you very happy.
+Media:vo yqeq101 4 venti 14.ogg Venti: Haha, of course not. Is that really the sort of person you think I am?
+Media:vo yqeq101 4 venti 15.ogg Venti: (Traveler), you're my friend. And as your friend, I just want to give you something that will make you happy. How can you think this of me?
+Media:vo yqeq101 4 venti 16.ogg Venti: Well, all the more reason for you to join the island trip! You know, a lot of people have praised the beautiful scenery there — even bards.
+Media:vo yqeq101 4 venti 17.ogg Venti: Hahaha, don't worry about that for now. You'll all have the chance to get acquainted with each other tomorrow morning.
+Media:vo yqeq101 4 venti 18.ogg Venti: Whether you're a princess, a retainer, a talking raven, a samurai or a musician... You're all VIP guests of the island on your summer vacation, and that's what counts, right?
+Media:vo yqeq101 4 venti 19.ogg Venti: I'll have to pass. I have some work to take care of.
+Media:vo yqeq101 4 venti 20.ogg Venti: I promised a young lady with cat ears and a cat tail that I'd sing in her tavern to boost business and beat the competition. Ah yes, the competition being this place, which has Six-Fingered José.
+Media:vo yqeq101 4 venti 21.ogg Venti: Yup! I can always sing on their roof.
+Media:vo yqeq101 4 venti 22.ogg Venti: She told me that as long as their sales surpass their competitor, there's a whole month's worth of wine in it for me. What a fine employment opportunity, virtually tailor-made for me!
+Media:vo yqeq101 4 venti 23.ogg Venti: So have fun, and don't worry about me. Haha, I feel like this summer is going to be a very interesting one.
+Media:vo yqeq101 4 xinyan 01.ogg Xinyan: You're back. Poor Kazuha's still out for the count... seems like he can't handle alcohol so well.
+Media:vo yqeq101 4 xinyan 02.ogg Xinyan: Huh? He doesn't wanna go anymore? He seemed really interested just a moment ago.
+Media:vo yqeq101 4 xinyan 03.ogg Xinyan: Hahahaha, Kazuha might act mature, but deep down he's just another youngster eager for new experiences. That must be why he didn't think anything of the "fruit juice" earlier.
+Media:vo yqeq101 4 xinyan 04.ogg Xinyan: Okay! Sounds like a plan! (Traveler), how do we get there?
+Media:vo yqeq101 4 xinyan 05.ogg Xinyan: ...?
+Media:vo yqeq101 4 xinyan 06.ogg Xinyan: Uh, Paimon, don't get me wrong, I'm just askin' to make sure... but from the way you're plugging this trip so hard... did the Iridescence Tour folks put you up to this?
+Media:vo yqeq101 4 xinyan 07.ogg Xinyan: After all, canceling the Iridescence Tour after people already made the trip... That's kinda the same thing as tricking people into going traveling, ain't it?
+Media:vo yqeq101 4 xinyan 08.ogg Xinyan: I'm sure lookin' forward to it!
+Media:vo yqeq101 5 fischl 01.ogg Fischl: Today is the day of one's reckoning with fate, as foretold by the night sky! Humiliations suffered in the past, the shame we have carried all these years, one bids you adieu! For today, it is time for... retribution!
+Media:vo yqeq101 5 fischl 02.ogg Fischl: Of course it wasn't. I just overheard it from someone in the city... Ahem! I mean, thy Prinzessin is merely drawing on the wisest and courageous sayings she has heard in the land, to signify the importance of this day...
+Media:vo yqeq101 5 fischl 04.ogg Fischl: Xinyan, your gaze pierces the dark veil of night to arrive at the truth beyond. I am in need of one such as yourself. Very well, you shall be one's musician laureate.
+Media:vo yqeq101 5 fischl 05.ogg Fischl: What ho, Kazuha, divulge thy epithets and thy vocation.
+Media:vo yqeq101 5 fischl 06.ogg Fischl: (What? Is he really that powerful!?)
+Media:vo yqeq101 5 fischl 07.ogg Fischl: One hereby declares you Captain of the Royal Guard of the Immernachtreich.
+Media:vo yqeq101 5 kazuha 01.ogg Kaedehara Kazuha: A princess, an astrologist, and an articulate raven-retainer... In the company of giants, my humble self hardly deserves mention.
+Media:vo yqeq101 5 kazuha 02.ogg Kaedehara Kazuha: I am Kaedehara Kazuha from Inazuma. It is an honor to meet you all.
+Media:vo yqeq101 5 kazuha 03.ogg Kaedehara Kazuha: Um... I'm afraid I'm just another wanderer...
+Media:vo yqeq101 5 kazuha 04.ogg Kaedehara Kazuha: Okay, Lady M—Meg...
+Media:vo yqeq101 5 mona 01.ogg Mona: Hmm, let me see... Huh? It really is someone else's catchphrase...
+Media:vo yqeq101 5 mona 02.ogg Mona: Hi!
+Media:vo yqeq101 5 mona 03.ogg Mona: Who've you brought with you...?
+Media:vo yqeq101 5 mona 05.ogg Mona: She's trying to say, thanks, you say all the right things! Um, and the same goes for me too. Pleasure to meet you. I'm Mona, an astrologist.
+Media:vo yqeq101 5 mona 06.ogg Mona: Let me take a look... huh!? Oh, oh my...
+Media:vo yqeq101 5 mona 07.ogg Mona: Hi, Kazuha, I'm absolutely delighted to meet a great swordmaster like you. Could we ask you to be our guard while we're on the island?
+Media:vo yqeq101 5 mona 08.ogg Mona: Just call me Mona! Stop calling me that weird name.
+Media:vo yqeq101 5 oz 01.ogg Oz: Mein Fräulein, if I may be so bold, that final phrase did not sound like one of your own.
+Media:vo yqeq101 5 oz 02.ogg Oz: Oh, mein Fräulein would like to know where you work, and what your field of expertise is.
+Media:vo yqeq101 5 oz 03.ogg Oz: For even Lady Megistus to praise your skills, you are surely one of rare talent.
+Media:vo yqeq101 5 paimon 01.ogg Paimon: Wow, you're here early!
+Media:vo yqeq101 5 paimon 02.ogg Paimon: Oh! Ahem! Allow Paimon to introduce to you a fabled wandering swordsman of Inazuma, and an enchanting musical talent of Liyue.
+Media:vo yqeq101 5 paimon 03.ogg Paimon: Mona is amazing, she can find out everything about you by divination!
+Media:vo yqeq101 5 paimon 04.ogg Paimon: This guy is an expert in the sword arts. He parries blades that none have ever parried before, and strikes like lightning! Mere mortals could not hope to comprehend!
+Media:vo yqeq101 5 paimon 05.ogg Paimon: By the way, Lady Megistus, we found out how to get to the promised land.
+Media:vo yqeq101 5 paimon 06.ogg Paimon: A legendary great mage gave us a big hint. Come on, everyone follow Paimon!
+Media:vo yqeq101 5 together 01.ogg Mona and Fischl: (Oh, I like her. She can stay!)
+Media:vo yqeq101 5 xinyan 01.ogg Xinyan: Hey! I'm Xinyan, from Liyue. I like rock 'n' roll, sunny days, and good times.
+Media:vo yqeq101 5 xinyan 02.ogg Xinyan: You must be the princess Paimon told us about? You sure do look the part! I hear you're from a faraway land — it's an honor to be in the company of dignitaries!
+Media:vo yqeq101 5 xinyan 03.ogg Xinyan: And this lady over here... My family tells me that only the wisest scholars wear pointed hats like this one. Guessing that applies to you, too?
+Media:vo yqeq101 5 xinyan 04.ogg Xinyan: Oh, well it's nice to meet you too!
+Media:vo yqeq101 5 xinyan 05.ogg Xinyan: Lady M—Megi... what?
+Media:vo yqeq101 6 fischl 01.ogg Fischl: ...Hm.
+Media:vo yqeq101 6 fischl 02.ogg Fischl: I see... I see. Only by meeting the lowliest of ends can we arrive at the Immernachtreich born anew.
+Media:vo yqeq101 6 fischl 03.ogg Fischl: Haha, behold, the doorway cloven by Thundering Retribution... by such means as I once descended into this realm to bring retribution do I now venture into the next. Come, Oz! Lead the way!
+Media:vo yqeq101 6 fischl 04.ogg Fischl: Why... this truly is the path of retribution that leads to the promised land!
+Media:vo yqeq101 6 fischl 05.ogg Fischl: I thought it was a snake!
+Media:vo yqeq101 6 kazuha 01.ogg Kaedehara Kazuha: Guoba... is he the magical creature at Wanmin Restaurant? Now that you mention it... it does look quite similar.
+Media:vo yqeq101 6 kazuha 02.ogg Kaedehara Kazuha: Everyone, be careful!
+Media:vo yqeq101 6 mona 01.ogg Mona: ...
+Media:vo yqeq101 6 mona 02.ogg Mona: Somehow, I suddenly don't feel like going anymore.
+Media:vo yqeq101 6 mona 03.ogg Mona: Maybe I should just do a quick reading for safety...
+Media:vo yqeq101 6 mona 04.ogg Mona: Oh right! I completely forgot...*sigh* Alright.
+Media:vo yqeq101 6 mona 05.ogg Mona: Come on now, let's all try and stay... Ow! Fischl! You're treading on my hair!
+Media:vo yqeq101 6 oz 01.ogg Oz: I will enter first. Mein Fräulein need not worry.
+Media:vo yqeq101 6 paimon 01.ogg Paimon: Look, everyone! Here's our vehicle.
+Media:vo yqeq101 6 paimon 02.ogg Paimon: Uh... to be honest, even Paimon isn't so sure this can take us to the island after all...
+Media:vo yqeq101 6 paimon 03.ogg Paimon: ...He's in... and now he's gone!
+Media:vo yqeq101 6 paimon 04.ogg Paimon: Lady Megistus, it's fine! This is Alice's creation, it's totally safe! Spare yourself the trouble, just come with us.
+Media:vo yqeq101 6 paimon 05.ogg Paimon: It's so dark in here. Um, can someone turn on a light? Hey! Quit pushing!
+Media:vo yqeq101 6 xinyan 01.ogg Xinyan: What a... unique little thing. Looks kinda like Guoba, doesn't it?
+Media:vo yqeq101 6 xinyan 02.ogg Xinyan: Ahh! We're flying!
+Media:vo yqeq101 7 fischl 01.ogg Fischl: ...
+Media:vo yqeq101 7 fischl 02.ogg Fischl: ...O faithful retainers, this is the blessed paradise that one has been searching for. Here is where we shall witness the culmination of all things!
+Media:vo yqeq101 7 fischl 03.ogg Fischl: I, who command the darkness, shall lead you to yonder gate of dreams.
+Media:vo yqeq101 7 fischl 04.ogg Fischl: ...shall lead you... to yonder gate of dreams!
+Media:vo yqeq101 7 fischl 05.ogg Fischl: Your happiness gladdens one's heart. Ah... how it delights me to bring us all together here at this most monumentally fateful of moments.
+Media:vo yqeq101 7 fischl 06.ogg Fischl: Now, as I take my first step on this pilgrimage, I shall perceive this ocean of life with my own earthly vessel. After all, this is where my soul belongs.
+Media:vo yqeq101 7 fischl 07.ogg Fischl: On the contrary, Lady Megistus, blessed as you are with the great power of Hydro, one yet finds too many impurities in thy soul... Mm-mm.
+Media:vo yqeq101 7 fischl 08.ogg Fischl: Challenge accepted! Heed my words, lowly Lady Megistus, you shall pay for your foolishness for as long as you live!
+Media:vo yqeq101 7 kazuha 01.ogg Kaedehara Kazuha: What a beautiful place. The wind is soft and the ocean is calm... And a pleasant scent blows on the breeze.
+Media:vo yqeq101 7 kazuha 02.ogg Kaedehara Kazuha: My sincere gratitude to you for inviting me to join you on this trip, Your Highness.
+Media:vo yqeq101 7 kazuha 03.ogg Kaedehara Kazuha: I take it you have no present plans, (Traveler)? I want to start by surveying the area first. Want to come along?
+Media:vo yqeq101 7 kazuha 05.ogg Kaedehara Kazuha: Xinyan, are you coming?
+Media:vo yqeq101 7 mona 01.ogg Mona: ...
+Media:vo yqeq101 7 mona 02.ogg Mona: ...
+Media:vo yqeq101 7 mona 03.ogg Mona: Your Archmage Megistus thanks you for your kindness, Your Highness. In this moment, I offer my blessings to the Immernachtreich.
+Media:vo yqeq101 7 mona 04.ogg Mona: Don't ask, just follow my lead!
+Media:vo yqeq101 7 mona 05.ogg Mona: ...Fischl, that's enough!
+Media:vo yqeq101 7 mona 06.ogg Mona: I'm happy enough to join in with the play-acting without complaining, but how dare you ridicule my genius? Think you can swim better than me? Hah, I'll bring you to your knees, young lady!
+Media:vo yqeq101 7 mona 07.ogg Mona: Ridiculous. I've never lost a single swimming race in my life. Bring it on! First one to run to the beach wins!
+Media:vo yqeq101 7 oz 01.ogg Oz: An ocean of life, and a land filled with flora... Mein Fräulein, we have finally arrived at the promised land, whence we shall revive the Immernachtreich.
+Media:vo yqeq101 7 oz 02.ogg Oz: Mein Fräulein means Lady Megistus is perhaps not the most talented swimmer.
+Media:vo yqeq101 7 oz 03.ogg Oz: Oh my! Mein Fräulein, steel yourself, mein Fräulein!
+Media:vo yqeq101 7 paimon 01.ogg Paimon: Yup! Paimon's feeling way better already now that we can see the ocean!
+Media:vo yqeq101 7 paimon 02.ogg Paimon: Oh yeah! Swimming race, swimming race! Whoever comes in last is a rotten egg!
+Media:vo yqeq101 7 paimon 03.ogg Paimon: Thanks! Will do!
+Media:vo yqeq101 7 xinyan 01.ogg Xinyan: Whew, we finally landed! What was that all about...
+Media:vo yqeq101 7 xinyan 02.ogg Xinyan: Mona... wh—what are you, uh...
+Media:vo yqeq101 7 xinyan 03.ogg Xinyan: Oh... oh right! Praise be to the Prinzessin, who has led us here to this sacred place!
+Media:vo yqeq101 7 xinyan 04.ogg Xinyan: Are they serious? Running? I thought they were gonna swim.
+Media:vo yqeq101 7 xinyan 05.ogg Xinyan: Seems like everyone's got things to do... I'll stay here and hold down the fort for now. Mona and Fischl have gone swimming, and someone's gotta set up camp.
+Media:vo yqeq101 7 xinyan 06.ogg Xinyan: Don't worry, I got this! You're gonna take a look around, right? Well, make sure you lemme know if there are any good views!
+Media:vo yqeq101 8 kazuha 01.ogg Kaedehara Kazuha: It appears to be some sort of machine and an army cap with traces of Hydro next to it. It seems that we are not the first to set foot on this island.
+Media:vo yqeq101 8 kazuha 02.ogg Kaedehara Kazuha: Also, there are footprints here. Fresh ones, likely no more than a few days old.
+Media:vo yqeq101 8 kazuha 03.ogg Kaedehara Kazuha: ...Hmm?
+Media:vo yqeq101 8 kazuha 04.ogg Kaedehara Kazuha: ...
+Media:vo yqeq101 8 kazuha 05.ogg Kaedehara Kazuha: ...
+Media:vo yqeq101 8 kazuha 06.ogg Kaedehara Kazuha: (Traveler), Paimon, stay alert.
+Media:vo yqeq101 8 kazuha 07.ogg Kaedehara Kazuha: Someone was here... and they're still nearby. Judging from the scent... they are visitors here, like us.
+Media:vo yqeq101 8 kazuha 08.ogg Kaedehara Kazuha: We're close. Watch out.
+Media:vo yqeq101 8 paimon 01.ogg Paimon: Hey, what's that huge weird thing over there!?
+Media:vo yqeq101 8 paimon 02.ogg Paimon: Really? Paimon didn't notice them at all...
+Media:vo yqeq101 8 paimon 03.ogg Paimon: Why? Did you see something?
+Media:vo yqeq101 8 paimon 04.ogg Paimon: There's other people here? Oh, Paimon's scared now...Come on, (Traveler), we need to track 'em down!
+Media:vo yqeq101 8 paimon 05.ogg Paimon: You said the cap had traces of Hydro on it? Then let's follow the traces of elemental energy!
+Media:vo yqeq101 8 paimon 06.ogg Paimon: It's the Fatui!
+Media:vo yqeq101 9 kazuha 01.ogg Kaedehara Kazuha: Are you looking for something?
+Media:vo yqeq101 9 kazuha 02.ogg Kaedehara Kazuha: Is this the cap you're looking for?
+Media:vo yqeq101 9 kazuha 03.ogg Kaedehara Kazuha: What happened to him?
+Media:vo yqeq101 9 kazuha 04.ogg Kaedehara Kazuha: Why would the Fatui appear in such an isolated corner of the world... Whatever their reasons, it's likely more complicated than we might think.
+Media:vo yqeq101 9 kazuha 05.ogg Kaedehara Kazuha: Even though we're on vacation, we should stay vigilant, (Traveler).
+Media:vo yqeq101 9 kazuha 06.ogg Kaedehara Kazuha: Also, in the interests of keeping the ladies in good spirits, I have a suggestion.
+Media:vo yqeq101 9 kazuha 07.ogg Kaedehara Kazuha: Let's keep this between us for now. Let them enjoy their vacation while (Traveler) and I deal with any potential threats. What do you think?
+Media:vo yqeq101 9 kazuha 08.ogg Kaedehara Kazuha: Paimon, you flatter me. I simply don't think it's worth ruining anyone's vacation over a trivial matter like this.
+Media:vo yqeq101 9 kazuha 09.ogg Kaedehara Kazuha: The scenery is beautiful... I hope all of us can enjoy ourselves here.
+Media:vo yqeq101 9 paimon 01.ogg Paimon: Why are there Fatui on this island! Isn't there a single place in this world without Mint, Sweet Flowers, and Fatui?
+Media:vo yqeq101 9 paimon 02.ogg Paimon: Interesting observation.
+Media:vo yqeq101 9 paimon 03.ogg Paimon: Uh, this guy is not the sharpest sword in the sheath...
+Media:vo yqeq101 9 paimon 04.ogg Paimon: Another Fatuus! We could ask you the same question! What are YOU doing here, hmm!?
+Media:vo yqeq101 9 paimon 05.ogg Paimon: This island belongs to our friend! You better watch what you say, mister.
+Media:vo yqeq101 9 paimon 06.ogg Paimon: Yeah, and if you don't do as you're told, we'll... Oh, we'll take his cap!
+Media:vo yqeq101 9 paimon 07.ogg Paimon: Uh, by the way, why is there smoke coming out of your machine?
+Media:vo yqeq101 9 paimon 08.ogg Paimon: Oh, well just see yourselves out whenever you're ready. Bye.
+Media:vo yqeq101 9 paimon 09.ogg Paimon: Paimon can't believe we have to deal with the Fatui during our vacation...
+Media:vo yqeq101 9 paimon 10.ogg Paimon: You're so considerate, Kazuha.
+Media:vo yqeq101 9 persikov 01.ogg ???: Stop right there! What are you doing here?
+Media:vo yqeq101 9 persikov 02.ogg Persikov: Forget the cap! It's your brother we're looking for!
+Media:vo yqeq101 9 persikov 03.ogg Persikov: ...Nothing. He has a fever... he's just a little delirious, that's all.
+Media:vo yqeq101 9 persikov 04.ogg Persikov: I don't have to tell you anything. Go bother someone else.
+Media:vo yqeq101 9 persikov 05.ogg Persikov: What? I thought this island was uninhabited. That's why we came here to... Ahem, never mind.
+Media:vo yqeq101 9 persikov 06.ogg Persikov: ...Tsk, fine. I'll tell you, but then you need to leave me alone.
+Media:vo yqeq101 9 persikov 07.ogg Persikov: It's a new kind of energy generator that I invented. We were simply looking for a deserted island to test it out on. There, satisfied?
+Media:vo yqeq101 9 persikov 08.ogg Persikov: Hey, stop crying! ...Alright, I promise, we'll stay within this area. Okay!?
+Media:vo yqeq101 9 persikov 09.ogg Persikov: Because the cursed thing is broken! As much as I hate to say it, our tests did not go to plan. We were getting ready to leave anyway.
+Media:vo yqeq101 9 persikov 10.ogg Persikov: Come on! Let's go!
+Media:vo yqeq101 9 strangesoldier 01.ogg Strange Soldier: *sob* Cappy-cap's gone... where's cappy-cap...
+Media:vo yqeq101 9 strangesoldier 02.ogg Strange Soldier: A cap... I c—can't... can't lose it...
+Media:vo yqeq101 9 strangesoldier 03.ogg Strange Soldier: Ah! I don't know anything... Gimme back cappy-cap... *sob*
+Media:vo yqeq101 9 strangesoldier 04.ogg Strange Soldier: My brother's cappy-cap! Gimme, gimme, gimme!
+Media:vo yqeq101 9 strangesoldier 05.ogg Strange Soldier: Don't bully me! Or I'll punch you in the... Aah! Monster, monster! *sob*
+Media:vo yqeq101 9 strangesoldier 06.ogg Strange Soldier: Protect... cappy-cap... or brother will get mad at me...
+Media:vo yqeq101 9 strangesoldier 07.ogg Strange Soldier: Ah! Please don't... *sob*
+Media:vo yqeq101 9 strangesoldier 08.ogg Strange Soldier: O—Okay...
+Mysterious Letter
+Overall, however, Ms. Fischl is a most trustworthy investigator. I hope that you will work well together.
+Somehow, you get dragged into drinking one glass after another until... Suddenly, you notice someone is feeling very tipsy.
+Swimming Race That Must Have A Result Today: Archmage Megistus Versus Fischl the Prinzessin der Verurteilung
+Swimming Race That Must Have A Result Today: Archmage Megistus Versus Fischl the Prinzessin der Verurteilung, 10:7
+The journey is an eventful one... and maybe a little crowded...?
+Xinyan – Blazing Riff
+Xinyan, a rock musician based in Liyue, uses her music as a form of resistance against societal stereotypes.
+You return the cap to the Fatuus.
+You tell Venti about the Spark Knight giving an island to Fischl, and Fischl's plans to head there...
+ ?

@@ -1,0 +1,137 @@
+
+(Obtain Special Harra Fruit ×1)
+
+(Obtain Special Mint ×3)
+ It's nice to fish at a new spot.
+ Leave them to me.
+ Quest DescriptionKayvan the angler seems to be having some trouble...
+ Step DescriptionBait materials are all ready. Let's take them to Kayvan, and see what he can catch.
+ Step DescriptionThis time, Kayvan's bait requires one Sunsettia and one spike of Wheat. Plus, he demands another one Harra Fruit picked from a particular place...
+ Step DescriptionThis time, Kayvan's bait requires one Sunsettia and one spike of Wheat. Plus, he demands another three Zaytun Peaches picked from a particular place...
+ Step DescriptionThis time, Kayvan's bait requires one Sunsettia and one spike of Wheat. Plus, he demands another three portions of Mint picked from a particular place...
+ That's what makes Mr. Kayvan so impressive.
+ There are tons of fish in the river. Not so for relics.
+ This is certainly one of a kind I guess...
+ Well, a fisherman hooks this and that.
+ Well, if it's Kayvan who casts the rod...
+Kayvan: I cast my rod only to get fish, okay!?
+ You are being desperate...
+ You just keep fishing.
+A third soaked package is pulled out of the water by the wire after a while.
+Helbet: (Mr. Kayvan is actually... quite impressive...)
+Helbet: Ah, this is another pack of the relics! Great!
+Helbet: Alright, let me take a look... Good, there's no damage at all.
+Helbet: And you've been fishing around a lot, so I thought I'd ask you to try casting your rod, see if you could get the relics...
+Helbet: Argh! Look over there! So many Slimes!
+Helbet: But there was an accident on the ship transporting the relics. Some dropped off the ship, floating down the river to the lower reaches.
+Helbet: Come on, please help me. I've prepared your payment already.
+Helbet: Eh... Eh?
+Helbet: He's worked on the design of many popular fishing rods and baits.
+Helbet: I didn't expect it to go so well. You've recovered two relics now! What a hook, Mr. Kayvan!
+Helbet: I don't know exactly why you couldn't hook a fish. But... It doesn't hurt to ask a professional.
+Helbet: I'm counting on you two. If you find the material, give it to Mr. Kayvan, so he can get to work as soon as possible.
+Helbet: I'm paying you to catch fish! Please, I'm counting on you!
+Helbet: It takes too long to find a suitable salvage team. I've heard people call you "Supreme Hookshot" and that you fish lost items up from the river nearly every day.
+Helbet: Many thanks! Just follow me!
+Helbet: Maybe he'll be interested in you.
+Helbet: No problem. Please follow me!
+Helbet: No, Mr. Kayvan. I am Helbet with the Akademiya.
+Helbet: Perfect, Mr. Kayvan! The power of Supreme Hookshot, again!
+Helbet: Please help me drive away the Slime! They could ruin our salvage!
+Helbet: Please start fishing, or the relics could... I mean the fish...
+Helbet: Please, do me a favor! I could really use your help!
+Helbet: Sure. Leave the rest to me!
+Helbet: The Akademiya found those antiques and I'm responsible for keeping them.
+Helbet: The last fishing spot is near Vimara Village. A much safer place for fishing. Let's get moving.
+Helbet: Then... How about this, I won't ask you to hook the relics for me, I just need you to go fishing at another place. What do you say?
+Helbet: This is it! One of the lost antiques! Unscathed. No aquatic creature has gotten inside...
+Helbet: This is... Let me check!
+Helbet: This would be the last of the relics. Please find the materials to help Mr. Kayvan do his job.
+Helbet: Well, Mr. Kayvan, if you are interested, I can introduce you to a researcher who specialized in fishing.
+Helbet: Well, the relic at the first spot has been salvaged, and the next... fishing spot is just west of here.
+Helbet: When all the relics are recovered, I will apply for more compensation as your payment.
+Helbet: You actually hooked a relic! You are really the Supreme Hookshot!
+Helbet: You guys are so good! Thanks a lot!
+Kayvan begins to focus on fishing...
+Kayvan catches a wet package after a long while.
+Kayvan lifts the rod hard...
+Kayvan prepares the bait and begins fishing.
+Kayvan prepares the bait and begins fishing...
+Kayvan: (I... I'll definitely catch a big fish...)
+Kayvan: *sigh* Please help us deal with the Slimes...
+Kayvan: Ahem! I've been training to do that with the pure thought in mind. Never thought about hooking other stuff.
+Kayvan: Ahem, Miss Helbet, I feel sorry for what you have been through. But I'm only a fisherman.
+Kayvan: But I haven't caught a single fish!
+Kayvan: But do some bookworm researchers really know fishing?
+Kayvan: But it's been so many times! Even one with the worst luck should have gotten some fish!
+Kayvan: But none's ever come to me!
+Kayvan: But you are right. This is my chance to see what's wrong with my skill.
+Kayvan: Call me bad at fishing or whatever...
+Kayvan: Did you find the materials?
+(Submit Sunsettia ×1, Wheat ×1, and Special Mint ×3)
+Kayvan: Hey! I've been serious about catching a big fish, not antiques!
+Kayvan: Hey, outlander, care to help me persuade this lady here?
+Kayvan: Huh? I've never seen anything like this before.
+Kayvan: I cast my rod only to get fish, okay!?
+Kayvan: I cast my rod to catch fish and fish only.
+Kayvan: I know a place where the Harra Fruit is the finest. I'll show you the location.
+Kayvan: I need to concentrate. Please don't make any noise...
+Kayvan: I shouldn't have said that...
+Kayvan: I'm counting that on you, Traveler.
+Kayvan: I've marked the general area. I'll leave it to you. After you bring the materials, I will go over the payment in detail with you.
+Kayvan: Is that a compliment? Doesn't really make me happy...
+Kayvan: Let me think... I'll be using Mint this time. But it needs to be collected from my usual spot.
+Kayvan: Let's get rolling. The sooner I can go back and catch real fish in peace, the better.
+Kayvan: Let's see what big fish lies for me here...
+Kayvan: Looks like everything's going well. Time for one last fishing attempt.
+Kayvan: Miss Helbet and I are going to the fishing spot first. We'll meet there.
+Kayvan: Miss, why such a hurry? Trying to rake it in with the antiques?
+Kayvan: Never mind. Traveler, please find some fresh Zaytun Peaches for me this time.
+Kayvan: No can do. Please go.
+Kayvan: No rush. I need to feel the flow of the water to ensure I can cast the rod with the peace of mind.
+Kayvan: Oh... I almost forgot! Thank you for the help, Traveler. This is your payment. Please take it.
+Kayvan: Okay. Here goes the fishing again.
+Kayvan: Same as before, Traveler. Please help me find some materials for the baits.
+Kayvan: Scared away my fish and taking up my time.
+Kayvan: See it yourself... I don't want to look at it...
+Kayvan: She came to ask me to salvage some antiques. Has been bugging me all day.
+Kayvan: Since it's the last spot, I'll have to use my special bait.
+Kayvan: So you'd better find someone else.
+Kayvan: That was fast! You found the special material?
+(Submit Sunsettia ×1, Wheat ×1, and Fresh Zaytun Peach ×3)
+Kayvan: That's pretty quick! Thanks!
+Kayvan: Then go to a professional salvage team! Why bother a fisherman like me?
+Kayvan: This is so weird. Is there something wrong with my bait, or the way I fish...?
+Kayvan: Traveler, we'll be using Harra Fruit as bait this time. My gut tells me this is the most suitable material.
+Kayvan: Ugh... I am a fisherman! A fisherman!
+Kayvan: Wait, something big is on the hook!
+Kayvan: We'll head off first. Let's meet at the next fishing spot.
+Kayvan: What do I have here...?
+Kayvan: What's this...?
+Kayvan: Whew... Third time's a charm. Please let me hook some fish! Even a teeny-tiny one will do.
+Kayvan: Yeah, haha... As long as you have what you wanted...
+Kayvan: Yeah, yeah. Off we go...
+Kayvan: You are back. Found the special material?
+(Submit Sunsettia ×1, Wheat ×1, and Special Harra Fruit ×1)
+Kayvan: You guys are incessant... Fine, I guess I'll do that for a change. Where do you want me to fish?
+Kayvan: You just don't believe I can hook a real fish, do you...?
+Kayvan: You mean interested in the fact that I lift my hook with everything but fish?
+Paimon: (Traveler), we should get the Harra Fruits back!
+Paimon: Another wave of monsters at where Kayvan mentioned, again?
+Paimon: Anyway, let's just get rid of those Slimes first!
+Paimon: Done, we get the material!
+Paimon: Hehe, it actually went pretty well this time.
+Paimon: Hmm... This is strange indeed...
+Paimon: If we want that Zaytun Peach, we gotta take them down!
+Paimon: Let Paimon take a look. Hmm... The Mints are intact. Let's go back!
+Paimon: Look at the bright side. We've recovered the relics. It's a good thing.
+Paimon: One, two, three... These Zaytun Peaches should do. Let's bring them back to Mr. Kayvan.
+Paimon: This is the place Kayvan mentioned. But Paimon doesn't see any special Mint...
+Paimon: Three packs with three hooks... Yet not even one fish came to bite the hook...
+Paimon: Wait, there are monsters? Could it be that the Mints are taken by them again? Weird...
+Paimon: What's with all the troubles when Mr. Kayvan is fishing...
+Paimon: Whatever. (Traveler), let's recover the Mints!
+Paimon: Whoa! Where did this Whopperflower come from!?
+Paimon: Whoa, what's with the quarrel?
+Paimon: Why do the materials he chooses keep getting snatched by monsters...?
+Paimon: You haven't caught even one fish...

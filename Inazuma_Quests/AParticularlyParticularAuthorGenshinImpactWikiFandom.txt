@@ -1,0 +1,558 @@
+ "Feathers"?
+ "Kino's Travels"?
+Kama: Yes, Lady Sumida has mentioned it before.
+Paimon: No! That's not what Paimon means! Paimon's talking about that Maushi-something that Sumida asked us to come look for!
+ (Huh, I couldn't tell.)
+ (I can tell.)
+ (It's probably because they can't see the sun or moon due to the giant fog.)
+ (Let's beat a discreet retreat...)
+ (Well, either way, let's hear what the kid has to say.)
+ ...
+ A most unique environmental phenomenon.
+ About those monsters...
+ Adventuring is still really fun, though.
+ All the same, do you have any suggestions?
+ And what did you get written?
+Sumida: ...I couldn't get out of bed to write for those few days, so I missed the deadline.
+Paimon: Wait, then wasn't it all for nothing?
+Sumida: How could you say that? This'll come in handy next time if I should ever need to write a convincing scenario like... like "That Time I Was Swallowed Whole by an Electro Slime.",
+ And what were you cheated out of, exactly?
+ Another?
+ Are you alright?
+ Could I ask about Kama for a moment?
+Sumida: Him? ...Well, it all started when I heard Tang Wen mention Wangshu Inn's Almond Tofu. I thought it would make a good addition to my novels. For example...
+Sumida: ...Um, I mean. So he's a reliable man who can get you to all sorts of places with eyes. He can even pass through the storms of a sealed nation.
+Sumida: He's got that "keeping his true power a mystery, only to join the protagonist's party in the closing phases of the story" sort of feeling to him, you know? I've worked with him many times.
+ Could we ask you about the fog?
+Kama: Go through the great gate over there. This used to be one of Tsurumi Island's traditions.
+Kama: If not, you'll get lost in the fog very easily.
+ Could you tell me about the Maushiro...
+ Do you know anything about this fog?
+Makiri: The fog.. If it's Grandpa Mata says, and the fog is so powerful that nothing can invade Tsurumi Island, how do things from the outside get into the Perches?
+Ipe: That's because those foreign substances come from within the ground. The fog can't stop things that come from there, which is why we need to make offerings and purify the Perches.
+Makiri: Huh. And here I thought the fog could do anything.
+Ipe: It's the same for things in the sea. I've fished up some weird stuff before.
+ Easy-peasy.
+ Eh, I'd give this a 4 out of 10.
+ Even Fatui Harbingers fall before me.
+Katheryne: This is the case, yes.
+ Even harder, you say?
+ Have you ferried lots of people here to Tsurumi Island?
+Kama: ...
+Kama: I have ferried people and goods to Tsurumi Island, and also to the lands across the ocean.
+Kama: It makes no difference to me. So long as Lady Sumida asks it of me, I will do it.
+ Haven't seen those around.
+ He should be waiting for us at the entrance.
+ Hello there, I'm (Traveler).
+ Hey there, do you know anything about the feathers...
+Makiri: I can't find any feathers!
+Ipe: When you touch the Perch, the feathers will fly to nearby areas. Afterward, you're going to have to rely on your senses. If you've got a good nose for the elements, this should be easy.
+Ipe: It shouldn't be that hard...
+Makiri: But it totally is, though~
+ Honestly, I'm pretty concerned as well.
+ How do you count "a year," if I might ask?
+ How is that the point?
+Paimon: Anyway, are you sure Ku will be fine?
+ How's Ku's injury, by the way?
+ Huh, then Sumida must've...
+ I am (Traveler), yes.
+ I hope you weren't injured.
+ I suggest hiring someone else.
+Paimon: Oh, don't be like that! Paimon's really interested in Tsurumi Island, too...
+ I think you're forgetting who does the heavy lifting around here...
+ I'd give that passage an 8 out of 10.
+ I'd probably give this opening a 6.
+ I'm not trying to cheat you...
+ I'm ready.
+Kama: Good. Hop on, then.
+ I'm ready.
+Kama: Then let us go while the weather remains clement.
+ I'm the legendary (Traveler).
+Ruu: Ooh, the legendary (Traveler)?
+ I've got a bad feeling about this.
+ If he knew, Sumida wouldn't need our help.
+ If you're speaking relatively...
+ Is something wrong?
+ Is there any other way?
+ It can be, yes.
+Paimon: But adventuring is really fun, too!
+ It was alright.
+ It was pretty dicey.
+ It's gone.
+ It's not that different from the Light Actuating Ceremony.
+ Leave it to me.
+ Leave this to us.
+ Mind if I ask about Maushiro...
+ No harm in trying.
+ No wonder Katheryne had this pegged as a toughie...
+ No wonder you need them in the ceremony.
+ Not coming with us?
+ Not yet.
+Kama: ...
+ Not yet.
+Kama: Come back once you are, then.
+ Not yet.
+Sumida: Please find the Maushiro... This year's "This Novel is Amazing!" grand prize is at stake!
+ Quest DescriptionKatheryne seems to have a new commission for you.
+ See you.
+Kama: Goodbye.
+ So long as I'm being paid fairly...
+ So then, about Tsurumi Island...
+Sumida: It is an island to the distant south of Narukami Island, shrouded in a perpetual veil of fog. According to the "Tales of Distant Seas," there were settlements on that island up till several millennia ago, but they were laid waste due to some unknown reason.
+Sumida: Very interesting, no? Uh, I know it's not exactly respectful to say that a civilization's fall is "interesting," but it really does make my writing hand itch! "The Chronicles of the Sea of Fog (Working Title)" is meant to be an adventure title set on Tsurumi Island based on what we already know about its culture...
+ (Let's beat a discreet retreat...)
+ So there'll be a ceremony?
+ So what do you need me to do on Tsurumi Island?
+ So, about your commission...
+ Something like "Increasing Danger"?
+Katheryne: ...You'd consider that sort of commission difficult? Hmm, I suppose I should take that into account next time...
+Katheryne: ...
+Katheryne: Regardless, it's not that sort of commission.
+ Sounds more like you had too much Lavender Melon to eat.
+Sumida: ...
+Sumida: Huh. Now that you mention it, that's true. I should compare and contrast the two experiences next time.
+ Step DescriptionAccording to Sumida, Tsurumi Island's civilization should have ceased to be for millennia now... But somehow, there are still people alive here.
+ Step DescriptionAlthough you could not participate in the ceremony, this is not why you came to Tsurumi Island anyway. Now that you have the Maushiro, it is time to report back.
+ Step DescriptionThe Tsurumi locals are behaving a little oddly, but you take their commission to make offerings at three perches nonetheless. As long as the ceremony goes smoothly, you should be able to get your hands on the Maushiro and complete Sumida's commission.
+ Step DescriptionThere is no one at the ceremonial site, You almost feel a bit cheated.
+ Step DescriptionThis commission involves traveling to Tsurumi Island, which is shrouded in perpetual fog, to help Sumida gather material for her novel and find the Maushiro. According to Sumida, there is someone on Ritou who can take you all to Tsurumi Island.
+ Step DescriptionUsing Kama's boat, you arrive at the mysterious, fog-shrouded island to help Sumida put her novel together. Next up, you need to go deeper into the land and retrieve this so-called Maushiro.
+ Step DescriptionYou completed the three offerings to the Perch and spoke to Ruu, who appeared out of nowhere, about many things, including the saying about "The Rule of Three." Since you have made offerings at three perches, things will probably go smoothly from now on. It is time to return to the ceremonial site and speak to the priest.
+ Step DescriptionYou met a young man named Ruu rather out of blue and made offerings to the perch in a somewhat haphazard manner. According to him, Tsurumi Island must conduct a certain ceremony, and the ceremonial site is a place where Maushiro will gather. It is time to head to the site and speak with the priest responsible for the ceremony.
+ Sumida mentioned this as well.
+ Sumida sent us.
+ Tell me about the ceremony...
+ That can't be...
+ That sounds very dangerous.
+ That's it, I'm leaving.
+Sumida:  Eh? Wait! I'm sorry! I'm sorry! Don't go!
+ That's it, I'm leaving.
+Sumida: Eh!? Wait! Don't go!
+Sumida: Katheryne told me so much about you, so I assumed that you'd be more like a light novel protagonist, you know?
+Sumida: But in truth, I suppose such people are hard to find...
+ That's me, the legendary (Traveler).
+ That's real spooky.
+ Thats...
+ The "illustrious," you say...
+ The Harbinger of Dawn counts, I guess?
+ The Maushiro...
+ The Maushiro?
+Paimon: Yeah! That's it!
+ The happenings on this island are quite concerning.
+Paimon: Paimon thinks there's something odd about this place, too...
+ Then I'll do it in your stead.
+ There are hilichurls in the outside world too.
+ To ask about the whereabouts of the Maushiro.
+ To remind this kid to get to a safe spot.
+ To the point, please.
+ Tsurumi Island?
+ Uh, I didn't mean to scare you...
+ Uh, Paimon, that's not what happened...
+ Uh...
+ Wait, what?
+ We can ask if he knows anything about the Maushiro.
+Paimon: Great idea!
+ We can go have a look at those.
+ We did.
+ We should tell him to get to safety.
+Paimon: Yeah, and let's ask about the thing Miss Sumida asked us to get in the meantime.
+ We'll leave the injured person to you.
+ We're from a very, very distant place...
+ We're here to take part in the ceremony.
+ Well, I can't say I haven't...
+ Well, I suppose that's this commission done.
+ Well, I'm (Traveler).
+ Well, I'm not sure any of this matters other than getting the job done.
+Paimon: True, but there is one thing that's still very strange...
+ Well, I'm quite interested in investigating Tsurumi Island anyway.
+ Well, it was a pretty uncomfortable affair.
+ Well, that's nice.
+Paimon: That said, who is Kapatcir?
+ What are you even talking about?
+ What's the matter?
+ What's this Thunderbird you speak of?
+ What's with the "Lady"?
+Kama: I owe Lady Sumida.
+ Who's Kapatcir?
+ Why did that happen?
+Ruu: I... don't know...
+ You actually stayed on topic.
+ You can come with us if you have the chance.
+ You know what, I think I get this guy.
+ You know, I have to admit that I expected this development...
+Paimon: Don't you worry about a thing! We've got this!
+ Yup, even though the fog hasn't dissipated yet.
+???: And you've got... a little floating girl with you too! That's awesome! I haven't seen any outlanders in soooo long!
+???: Yikes!
+???: You're... an outlander...
+Abe: ...But aren't you curious about the outside world anyway?
+Abe: Even if it was only just once, I'd love to leave the Sea of Fog and see what lies beyond...
+Abe: I know, and that's why we hold ceremonies to thank the Great Thunderbird for its protection.
+Abe: Oh, how could I forget...
+Abe: Perhaps I simply wish that all went well with him...
+Boarding Kama's boat, you arrive at Tsurumi Island...
+Boarding Kama's boat, you return to Ritou...
+Ipe: ...
+Ipe: ...Did you really?
+Ipe: Afterward, the fog will purify those feathers. After all, the fog protects our island, and will not let anything pass through the sacred barrier around us.
+Ipe: And the fact that I'm the only one doing work over here makes it worse!
+Ipe: Basically, the power of the Great Thunderbird will accumulate within the Perch, and it will carry off foreign substances that infiltrate Tsurumi Island in the form of "feathers.",
+Ipe: Don't be silly.
+Ipe: Eh, didn't Grandpa Mata tell you about it? Part of the process is removing all foreign elements from the Perch.
+Ipe: I know. That said, this year's ceremony leaves a bad taste in my mouth...
+Ipe: It shouldn't be that hard...
+Ipe: It's made using the Great Thunderbird's power, so if you have keen elemental senses like Ruu does, finding them would be a cinch.
+Ipe: It's the same for things in the sea. I've fished up some weird stuff before.
+Ipe: Oh come on, less talking, more offering.
+Ipe: So we just need to find some weird looking feathers.
+Ipe: That's because those foreign substances come from within the ground. The fog can't stop things that come from there, which is why we need to make offerings and purify the Perches.
+Ipe: That's why we need to find the scattered feathers and bring them back to the Perch.
+Ipe: Well, that's done.
+Ipe: What's happened?
+Ipe: When you touch the Perch, the feathers will fly to nearby areas. Afterward, you're going to have to rely on your senses. If you've got a good nose for the elements, this should be easy.
+Ipe: Yeah, yeah, whatever. Anyway, the next step is to touch the Perch. Then, help me look for feathers around this area.
+Kama: ...
+Kama: ...It's nothing. Since Lady Sumida has recommended you, I have no complaints. Are you ready to go to Tsurumi Island?
+Kama: After two round trips, you should know which way to go now.
+Kama: Another one, huh?
+Kama: Are you ready to head back?
+Kama: Are you ready?
+Kama: Come back once you are, then.
+Kama: Go through the great gate over there. This used to be one of Tsurumi Island's traditions.
+Kama: Good. Hop on, then.
+Kama: Goodbye.
+Kama: Have you brought the item that Lady Sumida asked for?
+Kama: I have ferried people and goods to Tsurumi Island, and also to the lands across the ocean.
+Kama: I owe Lady Sumida.
+Kama: I will wait for you here.
+Kama: I've said too much.
+Kama: If not, you'll get lost in the fog very easily.
+Kama: It makes no difference to me. So long as Lady Sumida asks it of me, I will do it.
+Kama: It's about time you returned.
+Kama: It's best to enter through that great gate over there, lest you get lost in the fog all too easily.
+Kama: Look for me once you secure the Maushiro. I will send you back.
+Kama: No need to thank me. These were Lady Sumida's instructions, after all.
+Kama: Nothing. I'll send you back now. Are you ready to depart?
+Kama: Then let us go while the weather remains clement.
+Kama: Well then. Farewell.
+Kama: What is it?
+Kama: Yes, Lady Sumida has mentioned it before.
+Katheryne: ...
+Katheryne: ...You'd consider that sort of commission difficult? Hmm, I suppose I should take that into account next time...
+Katheryne: But back on the topic, the Guild has received a commission of even greater difficulty than that which you accomplished on Seirai. I wonder if you'd be interested...
+Katheryne: Regardless, it's not that sort of commission.
+Katheryne: The person who commissioned this is Miss Sumida. As for the details, it might be best for you to get them straight from her.
+Katheryne: This is the case, yes.
+Katheryne: Well then, ad astra abyssosque! I await the completion of your next feat.
+Katheryne: Your deeds on Seirai Island have been reported to me by Miss Eiko. You've done very well.
+Kina: ...Yeah, thats's cool and all, but what's that got to do with those shapes?
+Kina: That's so weird, right? Not to mention how the priests on the drawings up there don't look like Grandpa Mata or the others at all.
+Kina: Yeah, that's right. That weird round shape, and all those nut-like shapes around it...
+Kito: I asked Grandpa Mata about them. He told me that this was what the ancient world looked like... before it was swallowed up by the darkness.
+Kito: Kina, the old mural that we found previously...
+Kito: To protect Tsurumi Island, the Great Thunderbird created the great Sea of Fog such that even the darkness would lose its way and become unable to enter the island.
+Kito: Yeah, it's super weird!
+Ku: ...
+Ku: Guess that's that done. Sorry, I imagine that it was pretty rough.
+Ku: I wouldn't know how to face you if it does, Ruu.
+Ku: Ouch...
+Ku: Ow, ow, ow, think I sprained my ankle...
+Ku: Ugh, what an embarrassment... I just hope this won't affect the ceremony.
+Makiri: After all, the Perch is the keystone to the ceremony. This is the tree upon which the Great Thunderbird once descended.
+Makiri: But it totally is, though~
+Makiri: Eh~ you're just too reliable, Ipe. What's more, this is my first time making offerings to the Perch.
+Makiri: Grandpa Mata said that the maintenance of the Perch indicates our respect and worship towards the Great Thunderbird. If it is damaged...
+Makiri: Hmm~ the Perch seems to be in a good state. This year's ceremony should go well.
+Makiri: Huh. And here I thought the fog could do anything.
+Makiri: I can't find any feathers!
+Makiri: Nice!
+Makiri: Oh. Sorry.
+Makiri: Oh~ I see, I see. I get it now.
+Makiri: Probably~
+Makiri: Really? Isn't Ruu lucky~
+Makiri: The fog.. If it's Grandpa Mata says, and the fog is so powerful that nothing can invade Tsurumi Island, how do things from the outside get into the Perches?
+Mata: ...
+Mata: Ah, when will we be ready to hold the ceremony? Preparations for the Perch on Ipe's side should already be complete.
+Mata: But there are three more Perches. Who knows how the preparations there are going...
+Mata: He's there with Makiri, so there shouldn't be any issues.
+Mata: I hope that... No, the Great Thunderbird will surely be pleased with the ceremony this time...
+Onkami: Seriously now. It's almost time, and we can't start without him.
+Onkami: Where's that Ruu kid gone off to?
+Paimon: "Would make a good story," right?
+Paimon: (And his way of counting years is so weird!)
+Paimon: (Hold it just a minute there. Didn't Sumida say that Tsurumi Island's civilization has vanished for several millennia now?)
+Paimon: (Traveler) can sing too! Well, (his/her) singing turns Glaze Lilies into Whopperflowers, though.
+Paimon: ...Eh? Where'd he go?
+Paimon: ...Looks really sad! What's with this huge fog!?
+Paimon: ...Well, we've gotta do it for the Maushiro, at least!
+Paimon: Actually, Paimon's kinda interested to know...
+Paimon: Ah well. Guess we're handling this perch business.
+Paimon: Anchors aweigh!
+Paimon: And Paimon's the illustrious Paimon!
+Paimon: And all those people felt like they had a few screws loose, anyway...
+Paimon: Anyway, are you sure Ku will be fine?
+Paimon: Aw, c'mon! Why's he ignoring us?
+Paimon: But adventuring is really fun, too!
+Paimon: But hang on, what do you mean by "not long after your story began"?
+Paimon: But isn't that more like the "Rule of Four," then?
+Paimon: C'mon, (Traveler), let's show her the Maushiro we found!
+Paimon: Do Inazuman kids all run off to deserted islands to play when they've got time on their hands?
+Paimon: Don't you worry about a thing! We've got this!
+Paimon: Eh?
+Paimon: Eh? There's a kid over there...
+Paimon: Eh? Why are there monsters near that perch?
+Paimon: Found it! Let's go back to look for Ruu, (Traveler)!
+Paimon: Going to three spots to fix three smaller problems to solve a larger issue...
+Paimon: Great idea!
+Paimon: Hehe! We're specialist problem solvers, don'cha know?
+Paimon: Hehe, Paimon's sure that you'll be a wonderful adventurer when you're all grown up!
+Paimon: Hehe, of course!
+Paimon: Hehe. We're pretty seasoned travelers, after all!
+Paimon: Hello there!
+Paimon: Hey there, Paimon's Paimon!
+Paimon: Hmm, looks like there's something over there...
+Paimon: Huh, that's right, we did come from Narukami Island, didn't we... Wait a moment!
+Paimon: Huh. Feels like we've gotten our bearings now, huh?
+Paimon: Huh. Is this the "great gate" that Kama talked about?
+Paimon: If Paimon remembers correctly, we were told that we'd have to pass through there to not get lost in the fog...
+Paimon: If only there were some landmarks or lights along the way...
+Paimon: If you just say that it makes a "phweeet" noise, no one could tell the difference!
+Paimon: Is this the Maushiro?
+Paimon: It feels like we've had this happen to us a lot, huh?
+Paimon: It seems a little weird... But let's follow along and see what we'll find.
+Paimon: It went surprisingly well.
+Paimon: It's true that you can't see anything around here...
+Paimon: Kama, do you know that... Uh, what is it again?
+Paimon: Kama, do you know where we should start looking?
+Paimon: Leave this perch to us as well. There are monsters about, so you might be in danger if you just run around like that.
+Paimon: Let's finish this commission, get paid, and head over to Kiminami Restaurant for a good meal...
+Paimon: Let's go look around nearby.
+Paimon: Let's go, (Traveler).
+Paimon: Looks like it's done! Let's go back and look for Ku and Ruu!
+Paimon: Looks like the fog's super thick in some spots. Might that have anything to do with the Perch?
+Paimon: Looks like we're done here as well!
+Paimon: Nah, she was almost about to go off on some tangent or another. Still, do you really need a real Maushiro just to write a novel, Miss Sumida? Wouldn't a "dududu" or a "phweeet" do just fine if you needed to describe the sound it makes?
+Paimon: Nice! Guess Ruu didn't trick us after all!
+Paimon: No problemo!
+Paimon: No! That's not what Paimon means! Paimon's talking about that Maushi-something that Sumida asked us to come look for!
+Paimon: No, no, we've got to figure out who the "littler" person is here! How many years old are you, Ruu?
+Paimon: Oh, come on! A commission of this level was a piece of cake for us!
+Paimon: Oh, don't be like that! Paimon's really interested in Tsurumi Island, too...
+Paimon: Oh, you're here too, Ruu!
+Paimon: Once the ceremony's over, let's explore the world outside Tsurumi Island together!
+Paimon: Ooh, right! Aren't you very sensitive to the elements and all, Ruu?
+Paimon: Others!
+Paimon: Paimon doesn't get it, though. What are these Maushiro? We've heard that they're traditional instruments that the people here use...
+Paimon: Paimon doesn't quite get it, but it does sound like she's talking about you, (Traveler)...
+Paimon: Paimon reckons this is a great idea! What do you think, (Traveler)?
+Paimon: Paimon thinks there's something odd about this place, too...
+Paimon: Paimon wonders what sort of festival this'll be!
+Paimon: Paimon's almost forgotten that we're here for the Maushiro!
+Paimon: Paimon's not a "little girl" or whatever. Paimon's Paimon! And who're you, kiddo?
+Paimon: Phew, it's done! The people of Tsurumi Island have got it tough, having to look for these small feathers in this huge fog...
+Paimon: So they're that important, huh?
+Paimon: So we just need to find those feathers, right?
+Paimon: Sounds like a long story.
+Paimon: Sounds like a lot of fun!
+Paimon: Still, Miss Sumida, since Tsurumi's civilization has been lost for so long, there shouldn't be anyone who's heard the sound of the Maushiro, right?
+Paimon: Still... Paimon feels cheated!
+Paimon: Sure you'll be alright? There might be monsters out there...
+Paimon: Thanks, Kama!
+Paimon: That said, who is Kapatcir?
+Paimon: That's all the Perches done with! Ooh, Paimon's looking forward to that ceremony!
+Paimon: That's impossible! We just got it!
+Paimon: That's the number of years that've gone by since you were born.
+Paimon: That's true...
+Paimon: The world's a big place, kiddo!
+Paimon: There should've been more people here, but it looks like all of them have vanished...
+Paimon: There's a feather! Looks like there's two more, huh?
+Paimon: They said there'd be a ceremony! And we helped them out with so many things, too!
+Paimon: They sure don't look native to this place.
+Paimon: This person seems kinda eerie...
+Paimon: Th—They flew out!
+Paimon: True, but there is one thing that's still very strange...
+Paimon: Ugh, this is so annoying! Does Paimon have to do everything herself!?
+Paimon: Uh, don't worry, Paimon gets you...
+Paimon: Uh, either way, the important thing here is...
+Paimon: Uhh... Alright then. Let's just touch that perch first, shall we?
+Paimon: Um...
+Paimon: Wait, then wasn't it all for nothing?
+Paimon: We're back!
+Paimon: We're here to help, too!
+Paimon: We've finished making the offerings to the Perch over there!
+Paimon: Well, as long as it's a festival, there'll be good food, won't there?
+Paimon: Well, back to Miss Sumida we go!
+Paimon: Well, seeya later then!
+Paimon: Well, that should do it. Let's go have a look at that perch...
+Paimon: Well, this is going well. Two feathers down, one to go!
+Paimon: Well, you are very reliable, (Traveler).
+Paimon: Whaaaa...
+Paimon: What's that supposed to mean?
+Paimon: What? Gone?
+Paimon: Whatever. Let's go look for Kama first.
+Paimon: Where are those three other perches?
+Paimon: Who's that?
+Paimon: Why don't you do that yourself?
+Paimon: Woohoo, look who's controlled their urge to go off-topic!
+Paimon: Wow! So this is Tsurumi Island? This...
+Paimon: Y'know, when Katheryne said this was going to be harder, did she mean that communicating was gonna be harder?
+Paimon: Yeah! That's it!
+Paimon: Yeah, and let's ask about the thing Miss Sumida asked us to get in the meantime.
+Paimon: Yeah, didn't we get that sword from Kaeya that one time?
+Paimon: Yikes, the fog's real thick here...
+Paimon: we're back!
+Ruu: "The Rule of Three."
+Ruu: (Big Sister Makiri's just pretending to not get it.)
+Ruu: (Traveler)! Paimon! You're just in time...
+Ruu: (Traveler), Paimon, you two go ahead first!
+Ruu: ...
+Ruu: Actually, (Traveler), where are you from?
+Ruu: Alright! It's a deal, then!
+Ruu: Are the Maushiro something very important?
+Ruu: Big Brother Ku's hurt again. Could you please help us make offerings at the Perch?
+Ruu: But I've met quite a few people from the outside. That's why I know that the Sea of Silence must be inhabited somehow.
+Ruu: But none of them were as strong as you and Paimon!
+Ruu: But we'll need to do some things before the ceremony can start!
+Ruu: C'mon, you two. Let's go find those feathers! If you help make offerings to the Perch, I'm sure Kapatcir would be happy.
+Ruu: Da... Grandpa Mata said that the Maushiro can help the souls of those lost in the fog to find their way back home, so they're very important.
+Ruu: Don't worry, he's always like this.
+Ruu: Either way, (Traveler), Paimon, come with me!
+Ruu: Everyone's been looking forward to this ceremony, too! I won't disappoint them!
+Ruu: Exactly! Everyone tells me that I'll be the star of the show this time, too!
+Ruu: For example, they say that "good omens must occur three times for good fortune to truly descend"... Same for bad omens.
+Ruu: Hehe.
+Ruu: Hello again!
+Ruu: Hmm. A year passes whenever I hear the thunder, of course. Just like everyone counts it.
+Ruu: Huh, that's true! You're really good at numbers, Paimon!
+Ruu: I don't know where they came from either.
+Ruu: I don't really understand a lot of what you said, but the adults do have this saying...
+Ruu: I mean, it sure beats yelling! That really hurts the throat.
+Ruu: I mean, other people did come here before.
+Ruu: I never knew that there were so many places outside the Sea of Fog. If I leave someday, I'd love to see all of them!
+Ruu: I thought so too. I don't know when it happened, but they all seem to have vanished, and these monsters appeared in their place.
+Ruu: I'd love to climb on top of a dragon's head, too...
+Ruu: I'd love to go on adventures, too!
+Ruu: I'll be fine!
+Ruu: I'll stay here with Big Brother Ku.
+Ruu: I'll stay here with Big Brother Ku. We'll take charge of the cleanup work once you're done with the offering!
+Ruu: I'm fine, don't worry!
+Ruu: I'm gonna grow up as quick as I can, and then I'll become an adventurer, just like you!
+Ruu: I've got some preparations to make for the ceremony. I'll be meeting Kapatcir there, after all!
+Ruu: I... don't know...
+Ruu: In the past, we used to have this native animal we called "Wen Kamuy." They were very gentle... and very delicious, too.
+Ruu: Isn't that really dangerous?
+Ruu: It's hard for us to see in this fog, right? That's why we use the Maushiro to tell others where we are.
+Ruu: Kapatcir loves to hear me sing. I'll be singing for her during the ceremony!
+Ruu: Kapatcir will definitely be pleased to have new and rare guests taking part.
+Ruu: Let me introduce you to Big Sister Makiri and Big Brother Ipe.
+Ruu: Maybe they came in from outside the Sea of Fog...
+Ruu: Mm-hmm. In the past, we didn't have any such monsters on our island. There weren't any furry people or big machines either.
+Ruu: My friend!
+Ruu: My good friend!
+Ruu: My name's Ruu!
+Ruu: Oh, (Traveler)!
+Ruu: Oh, don't be like that! You've always been so nice to me!
+Ruu: Oh, you need a Maushiro? Well, we'll be heading to the ceremonial site soon.
+Ruu: Ooh, the Perch is all lit up now!
+Ruu: Ooh, the legendary (Traveler)?
+Ruu: Please help us with the Perch!
+Ruu: Right?
+Ruu: Several thousand, maybe! Sorry, I can't remember anything more specific.
+Ruu: Still, you've come at exactly the right time! Today's the day of our big ceremony!
+Ruu: Sure!
+Ruu: Thanks so much!
+Ruu: That's amazing!
+Ruu: That's right. I'm sure you'll both enjoy it very much!
+Ruu: That's so awesome...
+Ruu: The Perch looks really happy. I'm sure Kapatcir will be really happy too!
+Ruu: The Perch seems to be in a good state. I'm sure the ceremony will go well this time!
+Ruu: The number of years? Let me count...
+Ruu: The people who came before talked about places called Inazuma and Narukami Island. Are you from Inazuma?
+Ruu: They also say that "you must forge past obstacles three times to succeed on the fourth."
+Ruu: They always tell us that our souls will become lost if we leave the fog, and that the fog protects us from the darkness outside.
+Ruu: They're going to put all the Maushiro there during the ceremony. I bet Grandpa Mata is going to need help making offerings at the other Perches, too.
+Ruu: Uh... So, I did try before in previous ceremonies, but it didn't turn out so well.
+Ruu: Umm... What does "years old" mean?
+Ruu: We'll leave this Perch to you too.
+Ruu: Well then. See you both later!
+Ruu: Well, I guess they just mean that you need to do things thrice in order to get a result.
+Ruu: Wow! You even climbed on top of a dragon?
+Ruu: Wow, so this is what a real adventurer can do, huh?
+Ruu: Yeah, they came to look for Maushiro.
+Ruu: You bet!
+Ruu: You guys go first. I'd like to stay under the tree for while more.
+Ruu: You two go ahead first!
+Ruu: You two look so cool while you're fighting!
+Ruu: You're back!
+Ruu: Yup~ They make sounds and stuff.
+Sumida:  Eh? Wait! I'm sorry! I'm sorry! Don't go!
+Sumida: "When I awoke, a [insert Maushiro sound here] echoed through the bone-ashen fog that surrounded me. I felt as if I were in a dream, so I kept lying there. The sand lay against my cheek, telling me that my dream was set on a beach."
+Sumida: "[Insert aforementioned noise here] grew ever louder, and only then did I recall, like a lightning bolt piercing the fog, that promise I made with a friend. Only then did I recall that this world was not all beaches and sea, but cities and trees also..."
+Sumida: *sigh*
+Sumida: ...
+Sumida: ...I couldn't get out of bed to write for those few days, so I missed the deadline.
+Sumida: ...I'm talking about how I won't be able to write this passage if I don't know what a Maushiro sounds likes!
+Sumida: ...Or else my novel will never get written!
+Sumida: ...That is true, but right now, all I want is to finish writing "The Chronicles of the Sea of Fog (Working Title)"!
+Sumida: ...Um, I mean. So he's a reliable man who can get you to all sorts of places with eyes. He can even pass through the storms of a sealed nation.
+Sumida: Actually, I've been reflecting on that habit of mine quite often. It seeps into my writing as well, to the point where I once wrote over 20 pages before ever getting to the point.
+Sumida: Adventurers, veteran soldiers, members of Sumeru's Eremites, students of the Iwakura Art, problem-solving specialists from the Yorozuya...
+Sumida: Ah, Ah, hello there. Might you be the illustrious (Traveler)?
+Sumida: Ah, right. Sorry, I got off topic.
+Sumida: Alright then. So, tell me, have you ever "obtained the mightiest sword in the village"?
+Sumida: An unattainable commission, vanishing Maushiro...
+Sumida: As a novelist, this is unacceptable! Unacceptable! Ugh!
+Sumida: As to why I need one, the — fictional, obviously — plot of "The Chronicles of the Sea of Fog (Working Title)" takes place on Tsurumi Island, and when a nameless young (man/lady) sets foot upon it —
+Sumida: At first, I thought that they were all just making excuses for their lack of ability. But now that even you, the legendary top-rated adventurer whom the Guild recommended so strongly to me, also encountered this issue...
+Sumida: At that time, I wanted to use the legend of the Kitsune Saiguu ushering people into the underground halls of Araumi to save them from a disaster as the basis for a tale about her new incarnation's peaceful life amongst the people of Hanamizaka...
+Sumida: But in truth, I suppose such people are hard to find...
+Sumida: But now that I think about it, the fact that everything I threw up was purple might've been a result of my only being able to see in purple at the time.
+Sumida: Don't take it too hard.
+Sumida: Don't worry, I won't decrease your pay over this!
+Sumida: Eh!? Wait! Don't go!
+Sumida: For example, if you wish to describe Balethunder, you must go to Musoujin Gorge to experience it! That's the only way you can maintain authenticity and credibility!
+Sumida: Hahah, that does sound very strong. Maybe even a bit too deliberately so. Still...
+Sumida: Have you led a life surrounded by beautiful men and ladies?
+Sumida: He's got that "keeping his true power a mystery, only to join the protagonist's party in the closing phases of the story" sort of feeling to him, you know? I've worked with him many times.
+Sumida: Him? ...Well, it all started when I heard Tang Wen mention Wangshu Inn's Almond Tofu. I thought it would make a good addition to my novels. For example...
+Sumida: Hmm, I can't feel that sense of "destiny" that a protagonist should have from you.
+Sumida: How could you say that? This'll come in handy next time if I should ever need to write a convincing scenario like... like "That Time I Was Swallowed Whole by an Electro Slime.",
+Sumida: Huh, now that I think about it, such a motley crew would've made for a good story. A team of people with diverse backgrounds, characters, and abilities adventuring together...
+Sumida: Huh. Now that you mention it, that's true. I should compare and contrast the two experiences next time.
+Sumida: I really hope you've brought the Maushiro this time... Or else...
+Sumida: I was laid up in bed for a few days after that rescue. Everything I could see, everything I threw up... It was all purple.
+Sumida: I'll contact the people I commissioned before. Give me a while to prepare, and then we'll meet back here.
+Sumida: If you don't mind... I can contact all the other people who took this commission before. Perhaps a discussion might yield some kind of breakthrough...
+Sumida: In any case, this letter is for you. Pass it to a man named Kama in Ritou, and he will take you to Tsurumi Island.
+Sumida: In which an outlander named Kino who doesn't quite fit in anywhere strides across many strange lands. She meets all sorts of people, and she is drawn into all kinds of wicked plots and all manner of cruel wars. Yet each one of her adventures shall someday coalesce into shining gold...
+Sumida: It is an island to the distant south of Narukami Island, shrouded in a perpetual veil of fog. According to the "Tales of Distant Seas," there were settlements on that island up till several millennia ago, but they were laid waste due to some unknown reason.
+Sumida: Katheryne told me so much about you, so I assumed that you'd be more like a light novel protagonist, you know?
+Sumida: Looks like it happened to you, too... What a headache.
+Sumida: My bad, my bad... So, please go to Tsurumi Island and find a way to bring a Maushiro back to me. This is a traditional instrument of the civilization native to the island, which has been lost for several millennia now.
+Sumida: My name's Sumida. As for my pen name... I haven't finished thinking about it yet. I've got plans to take part in this year's "This Novel Is Amazing!" As such, I need a reliable adventurer to help me make a trip to Tsurumi Island
+Sumida: Oh, you're back.
+Sumida: Or are you, perhaps, in fact a traveler from "another world," just like the main character in "Flowers for Princess Fischl"?
+Sumida: Please find the Maushiro... This year's "This Novel is Amazing!" grand prize is at stake!
+Sumida: Please, this year's "This Novel is Amazing!" grand prize is at stake!
+Sumida: Regardless, they, like you, took this job from me, but they all wound up being unable to retrieve the Maushiro that they could've sworn they got.
+Sumida: Thank you... Thank you so much for your trouble.
+Sumida: That's right. Now, the name of my novel is currently "The Chronicles of the Sea of Fog." The broad strokes of its plot are as such: a nameless young (man/lady) and (his/her) adventures in a nation shrouded in perpetual fog.
+Sumida: The Maushiro, huh...
+Sumida: To be honest, I haven't given you full disclosure either. I did commission other people before sending you.
+Sumida: True, and I almost died back then, too. If I hadn't instructed Kama to get me out of there if he saw that something was going awry...
+Sumida: Very interesting, no? Uh, I know it's not exactly respectful to say that a civilization's fall is "interesting," but it really does make my writing hand itch! "The Chronicles of the Sea of Fog (Working Title)" is meant to be an adventure title set on Tsurumi Island based on what we already know about its culture...
+Sumida: Well then, did you defeat a giant dragon not long after your story began? Or perhaps, did you get wrapped up in some crisis upon which the survival of a nation hung? Have you ever faced off against "an elite antagonistic force with a numbered ranking scheme"?
+Sumida: Well, the plot details are currently still in the works. But my eventual goal is to write an epic novel that can move hearts and souls, like "Kino's Travels"!
+Sumida: Wonderful! You have my gratitude.
+Sumida: Writing is a most serious endeavor. You must treat the things you are describing with the utmost respect.
+Sumida: You're back. Do you have the Maushiro?
+Sumida: Yup, it's that very same "Kino's Travels"!
+Sumida: —They hear a strange sound but it's actually the sound of the traditional Maushiro recording in folktales so please I want to properly describe its sound and that's why IneedarealMaushiro!  [sic]
+Sumida: —Uh, hold on! This isn't the time for such thoughts.
+Una: Are you an idiot? It's utter darkness out there.
+Una: Didn't the priest say that if we leave the fog, our souls will become lost shadows that roam the Realm of Silence beyond?
+Una: If it wasn't for the Great Thunderbird using the fog to protect the island, we'd have been goners long ago.
+Una: There were those who tried to leave this place and follow the Great Thunderbird's light to seek new lands. None of them returned alive. You do remember the Kama family's boy, don't you, old man?
+You and Paimon sort through your belongings the whole day, but you fail to find the Maushiro.
+You choose an interesting tale of your adventures to tell Ruu...
+You give Sumida's letter to Kama. Kama reads the letter carefully.

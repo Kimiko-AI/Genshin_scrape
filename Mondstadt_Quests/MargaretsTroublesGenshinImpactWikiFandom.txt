@@ -1,0 +1,20 @@
+ I need more time...
+Margaret: Take all the time you need.
+ Quest DescriptionSomething seems to be troubling Margaret...
+ Sorry, I'm too busy.
+Margaret: Never mind then. I can keep looking, it'll just take me a lot longer...
+(Does not accept the quest)
+ Sure did.
+Margaret: Let's see... Perfect! This is for you.
+ Sure!
+Margaret: Great! I'll keep looking around here in the meantime.
+Margaret: When you're done, come and see me.
+Margaret: Could you help me? I only need (1/3) (Item)(s).
+Margaret: Found anything yet?
+Margaret: Great! I'll keep looking around here in the meantime.
+Margaret: I'm out looking for (Item), but not having much luck so far...
+Margaret: Let's see... Perfect! This is for you.
+Margaret: Never mind then. I can keep looking, it'll just take me a lot longer...
+Margaret: Take all the time you need.
+Margaret: What are you doing here, Traveler?
+Margaret: When you're done, come and see me.

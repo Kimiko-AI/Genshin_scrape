@@ -1,0 +1,12 @@
+ Quest DescriptionA group of angry Fungi has been sighted out in the wild, threatening the safety of nearby areas. Defeat them and put an end to this problem.
+Initial enemies: Winged Cryoshroom ×1 Whirling Electro Fungus ×3
+Initial enemies: Winged Dendroshroom ×1 Stretchy Pyro Fungus ×1 Floating Dendro Fungus ×2
+Reinforcements (spawn after 2 enemies have been defeated): Floating Anemo Fungus ×2 Stretchy Pyro Fungus ×1
+Reinforcements (spawn after 2 enemies have been defeated): Floating Dendro Fungus ×3
+Wave 1: Grounded Hydroshroom ×1 Stretchy Pyro Fungus ×2
+Wave 1: Stretchy Pyro Fungus ×2 Whirling Electro Fungus ×2
+Wave 1: Winged Cryoshroom ×1 Floating Dendro Fungus ×2
+Wave 1: Winged Dendroshroom ×1 Floating Hydro Fungus ×3
+Wave 2 (spawns after 3(?) enemies are defeated): Whirling Electro Fungus ×3
+Wave 2: Grounded Geoshroom ×2
+Wave 2: Winged Dendroshroom ×1 Whirling Electro Fungus ×2

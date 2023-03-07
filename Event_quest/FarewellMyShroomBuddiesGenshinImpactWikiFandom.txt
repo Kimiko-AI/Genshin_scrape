@@ -1,0 +1,42 @@
+ "Kindlejoy"?
+ Congratulations to you too, Kindlejoy.
+ Congratulations, Haniyyah.
+ Quest DescriptionIt's about time to say goodbye to your shroom buddies...
+ We'll meet again... that's a promise!
+ You knew there was something up with Elchingen.
+ You were helping behind the scenes.
+Media:vo eqpm006 1 paimon 01.ogg Paimon: (Traveler), Bongo-Head! It's time for us to meet up with everyone in Port Ormos!
+Media:vo eqpm006 1 paimon 02.ogg Paimon: Let's go see Layla first, then Miko, and finally... go give our Fungi over to Haniyyah.
+Media:vo eqpm006 2 layla 01.ogg Layla: (Traveler), Paimon, Bongo-Head! Over here!
+Media:vo eqpm006 2 layla 02.ogg Layla: Definitely! With Twirly-Whirly helping me carry my luggage, we could go camping really far away, and I got to see the stars from a different perspective. I even managed to make some progress with my paper!
+Media:vo eqpm006 2 layla 03.ogg Layla: Although... I've tried making almost everything on my food list now. Every time I used flour or something, it got in the air and gave me a coughing fit... But after all that, I still haven't figured out what Twirly-Whirly likes.
+Media:vo eqpm006 2 layla 04.ogg Layla: It would be great if the improved Wisdom Orb allowed us to communicate directly with the Fungi... Oh! I should mention that in my letter and get someone to ask a senior Amurta scholar!
+Media:vo eqpm006 2 layla 05.ogg Layla: Whew, I think I might've overexerted myself though... I'm flagging hard. Let's go see Miss Yae before I crash ...
+Media:vo eqpm006 2 paimon 01.ogg Paimon: Hey, Layla! Have you and Twirly-Whirly been having fun these past few days?
+Media:vo eqpm006 2 paimon 02.ogg Paimon: Paimon's never seen you in such good spirits, Layla! You spoke a lot more than usual just now, and you're still full of life... You really go the extra mile for your shroom buddies.
+Media:vo eqpm006 3 paimon 01.ogg Paimon: Miko, you're not leaving, are you? It feels like you never got to properly enjoy your vacation here...
+Media:vo eqpm006 3 paimon 02.ogg Paimon: True! It all makes sense now. You dropped so many hints, but it went over Paimon's head at the time!
+Media:vo eqpm006 3 paimon 03.ogg Paimon: Why didn't you expose Elchingen right away, though? Why wait for things to escalate like they did?
+Media:vo eqpm006 3 paimon 04.ogg Paimon: Paimon's getting confused again... In the future, we should take notes when Miko's talking and carefully look over them later...
+Media:vo eqpm006 3 yaemiko 01.ogg Yae Miko: Oh? You're earlier than I expected...
+Media:vo eqpm006 3 yaemiko 02.ogg Yae Miko: Oh, my needs for amusement have been more than met. Thanks to your help, our little inspiration hunt went perfectly. Not only did we gain invaluable experience in the tournament, we also had all the excitement of exposing a criminal conspiracy...
+Media:vo eqpm006 3 yaemiko 03.ogg Yae Miko: Yes, I think I might ask Souka to ditch her original characters and just make you the protagonists in her next novel.
+Media:vo eqpm006 3 yaemiko 04.ogg Yae Miko: Going for the big reveal right at the beginning would have been an anti-climax of the most literal kind. I wanted to see how you'd react in a situation like this, and you did not disappoint...
+Media:vo eqpm006 3 yaemiko 05.ogg Yae Miko: I thought that the story between you and the Fungi would follow a master-servant paradigm, but you offered something even better: companionship, based on mutual understanding.
+Media:vo eqpm006 3 yaemiko 06.ogg Yae Miko: From a certain point of view, it seems fitting that Elchingen, the one person who could barely keep the word "Master" from his lips, met his downfall at your hand. Of course, considering what he's capable of, I'm sure he'll have his ways of continuing to put up a fight...
+Media:vo eqpm006 3 yaemiko 07.ogg Yae Miko: That's enough chatting for now. I'll leave Blitzara in your hands. Remember to take good care of it.
+Media:vo eqpm006 3 yaemiko 08.ogg Yae Miko: I hope you really give this a good shot, you and Haniyyah. The future of this highly entertaining tournament depends on the decisions you make from now on... I'm excited to see what you've got in store for us.
+Media:vo eqpm006 4 haniyyah 01.ogg Haniyyah: Hello, all. Right on time.
+Media:vo eqpm006 4 haniyyah 02.ogg Haniyyah: I've collected all the other contestants' Wisdom Orbs and found a suitable place for our Fungi friends to live. I'll make absolutely sure the surrounding environment is not affected.
+Media:vo eqpm006 4 haniyyah 03.ogg Haniyyah: Say hello to everyone, Kindlejoy.
+Media:vo eqpm006 4 haniyyah 04.ogg Haniyyah: That's Pyro-1's new name. When I saw how well-behaved it was when we first met, a sense of joy welled up inside me.
+Media:vo eqpm006 4 haniyyah 05.ogg Haniyyah: If I'd just let go of my preconceived notions about Fungi and allowed myself to truly feel that moment... Maybe I could have felt like that all this time.
+Media:vo eqpm006 4 haniyyah 06.ogg Haniyyah: I will commit to giving these gentle creatures the highest standard of care I can provide. Please rest assured that your Fungi friends will be safe with me.
+Media:vo eqpm006 4 haniyyah 07.ogg Haniyyah: I hope that the day when humans and Fungi can live in harmony will come quickly...
+Media:vo eqpm006 4 haniyyah 08.ogg Haniyyah: I believe in you all, you'll make it happen! I look forward to the good news!
+Media:vo eqpm006 4 layla 01.ogg Layla: I'm so glad Haniyyah has finally worked things out...
+Media:vo eqpm006 4 layla 02.ogg Layla: I guess it's... time for us to say goodbye...
+Media:vo eqpm006 4 layla 03.ogg Layla: Go on, Twirly-Whirly. Be a good Fungus now, and do everything that Haniyyah says...
+Media:vo eqpm006 4 paimon 01.ogg Paimon: Yeah! Even though Paimon has gotten used to the name "Pyro-1" at this point, the new name holds so much more significance!
+Media:vo eqpm006 4 paimon 02.ogg Paimon: Blitzara, Miko will be back to visit when the next beast tamers tournament comes around.
+Media:vo eqpm006 4 paimon 03.ogg Paimon: High five, Bongo-Head! It was really fun having you around. Paimon hopes you have a good time at Haniyyah's, and is really looking forward to seeing you again next time!

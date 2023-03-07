@@ -1,0 +1,285 @@
+
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Hmm...
+Media:vo mdaq053 3b guardproud 07.ogg Greedy Guard: Hehe...
+Media:vo mdaq053 3b guardproud 08.ogg Greedy Guard: Think you can look down your nose at me, huh?
+Media:vo mdaq053 3b guardproud 09.ogg Greedy Guard: The will of Snezhnaya is as solid as the permafrost! I will not yield!
+(Fight the Fatui Electro Cicin Mage)
+
+Media:vo mdaq053 3a guardproud 07.ogg Greedy Guard: Okay...
+Media:vo mdaq053 3a guardproud 08.ogg Greedy Guard: Okay. Sounds like a plan.
+Media:vo mdaq053 3a guardproud 09a 1.ogg Greedy Guard: Alright. You're free to go.
+(If it is not the last room to be searched)
+
+Media:vo mdaq053 3a guardproud 09a 2.ogg Greedy Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+(Talk again)
+Media:vo dialog mdaq053 guardproud 02.ogg Greedy Guard: What're you still doing here? Don't get me into trouble.
+(If it is the last room to be searched)
+
+Media:vo mdaq053 3a guardproud 09b.ogg Greedy Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+(Talk again)
+Media:vo dialog mdaq053 guardproud 01.ogg Greedy Guard: Don't even try to say you don't owe me...
+
+Media:vo mdaq053 3a guardproud 09a 2.ogg Greedy Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+(Talk again)
+Media:vo dialog mdaq053 guardproud 02.ogg Greedy Guard: What're you still doing here? Don't get me into trouble.
+
+Media:vo mdaq053 3a guardproud 09b.ogg Greedy Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+(Talk again)
+Media:vo dialog mdaq053 guardproud 01.ogg Greedy Guard: Don't even try to say you don't owe me...
+
+Media:vo mdaq053 3a guardscared 08a 2.ogg Timid Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+(Talk again)
+Media:vo dialog mdaq053 guardscared 02.ogg Timid Guard: G—Go, quickly! Get out of here! Go find someone else!
+
+Media:vo mdaq053 3a guardscared 08b.ogg Timid Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+(Talk again)
+Media:vo dialog mdaq053 guardscared 01.ogg Timid Guard: Scram! You already got what you wanted!
+ Enough talk. Stick 'em up!
+Media:vo mdaq053 3 guardscared 02a.ogg Timid Guard: Ahh!? You're just going to attack me!?
+Media:vo mdaq053 3a guardscared 06.ogg Timid Guard: Ah...
+Media:vo mdaq053 3b guardscared 08.ogg Timid Guard: I am a proud citizen of Snezhnaya! I will not falter!
+(Fight a Wooden Shield Mitachurl)
+ Give up. No one's coming to rescue you.
+Media:vo mdaq053 3 guardscared 03.ogg Timid Guard: Did you already beat all the other guards?
+ I kicked their Snezhnayan butts.
+ No, but they got called back to Snezhnaya on urgent business.
+Media:vo mdaq053 3 guardscared 04b.ogg Timid Guard: What!? I—I'm not scared of you. An Agent will come to my aid!
+ Oh, I already dealt with him already.
+Media:vo mdaq053 3a guardscared 05.ogg Timid Guard: Wow...
+Media:vo mdaq053 3a guardscared 06.ogg Timid Guard: Ah...
+Media:vo mdaq053 3a guardscared 07.ogg Timid Guard: Fine. Not like I have a choice anyway.
+Media:vo mdaq053 3a guardscared 08a 1.ogg Timid Guard: Alright. You're free to go.
+(If it is not the last room to be searched)
+
+Media:vo mdaq053 3a guardscared 08a 2.ogg Timid Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+(Talk again)
+Media:vo dialog mdaq053 guardscared 02.ogg Timid Guard: G—Go, quickly! Get out of here! Go find someone else!
+(If it is the last room to be searched)
+
+Media:vo mdaq053 3a guardscared 08b.ogg Timid Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+(Talk again)
+Media:vo dialog mdaq053 guardscared 01.ogg Timid Guard: Scram! You already got what you wanted!
+ We both know you're making that up.
+Media:vo mdaq053 3a guardscared 05.ogg Timid Guard: Ugh...
+Media:vo mdaq053 3a guardscared 06.ogg Timid Guard: Ah...
+Media:vo mdaq053 3b guardscared 06.ogg Timid Guard: Hehe...
+Media:vo mdaq053 3b guardscared 07.ogg Timid Guard: I've had enough!
+Media:vo mdaq053 3b guardscared 08.ogg Timid Guard: I am a proud citizen of Snezhnaya! I will not falter!
+(Fight a Wooden Shield Mitachurl)
+ He's getting drunk at the Cat's Tail.
+Media:vo mdaq053 3a guardscared 05.ogg Timid Guard: Ugh...
+Media:vo mdaq053 3a guardscared 06.ogg Timid Guard: Ah...
+Media:vo mdaq053 3b guardscared 06.ogg Timid Guard: Hehe...
+Media:vo mdaq053 3b guardscared 07.ogg Timid Guard: I've had enough!
+Media:vo mdaq053 3b guardscared 08.ogg Timid Guard: I am a proud citizen of Snezhnaya! I will not falter!
+(Fight a Wooden Shield Mitachurl)
+ Have an apple!
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+Media:vo mdaq053 3b guardproud 07.ogg Greedy Guard: Hehe...
+Media:vo mdaq053 3b guardproud 08.ogg Greedy Guard: Think you can look down your nose at me, huh?
+Media:vo mdaq053 3b guardproud 09.ogg Greedy Guard: The will of Snezhnaya is as solid as the permafrost! I will not yield!
+(Fight the Fatui Electro Cicin Mage)
+ He's getting drunk at the Cat's Tail.
+Media:vo mdaq053 3a guardscared 05.ogg Timid Guard: Ugh...
+Media:vo mdaq053 3a guardscared 06.ogg Timid Guard: Ah...
+Media:vo mdaq053 3b guardscared 06.ogg Timid Guard: Hehe...
+Media:vo mdaq053 3b guardscared 07.ogg Timid Guard: I've had enough!
+Media:vo mdaq053 3b guardscared 08.ogg Timid Guard: I am a proud citizen of Snezhnaya! I will not falter!
+(Fight a Wooden Shield Mitachurl)
+ How does 500,000 Mora sound?
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+(If have 500k Mora)
+
+Media:vo mdaq053 3a guardproud 07.ogg Greedy Guard: Okay...
+Media:vo mdaq053 3a guardproud 08.ogg Greedy Guard: Okay. Sounds like a plan.
+Media:vo mdaq053 3a guardproud 09a 1.ogg Greedy Guard: Alright. You're free to go.
+(If it is not the last room to be searched)
+
+Media:vo mdaq053 3a guardproud 09a 2.ogg Greedy Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+(Talk again)
+Media:vo dialog mdaq053 guardproud 02.ogg Greedy Guard: What're you still doing here? Don't get me into trouble.
+(If it is the last room to be searched)
+
+Media:vo mdaq053 3a guardproud 09b.ogg Greedy Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+(Talk again)
+Media:vo dialog mdaq053 guardproud 01.ogg Greedy Guard: Don't even try to say you don't owe me...
+(Else)
+
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Hmm...
+Media:vo mdaq053 3b guardproud 07.ogg Greedy Guard: Hehe...
+Media:vo mdaq053 3b guardproud 08.ogg Greedy Guard: Think you can look down your nose at me, huh?
+Media:vo mdaq053 3b guardproud 09.ogg Greedy Guard: The will of Snezhnaya is as solid as the permafrost! I will not yield!
+(Fight the Fatui Electro Cicin Mage)
+ I kicked their Snezhnayan butts.
+ No, but they got called back to Snezhnaya on urgent business.
+ Oh, I already dealt with him already.
+Media:vo mdaq053 3a guardscared 05.ogg Timid Guard: Wow...
+Media:vo mdaq053 3a guardscared 06.ogg Timid Guard: Ah...
+Media:vo mdaq053 3a guardscared 07.ogg Timid Guard: Fine. Not like I have a choice anyway.
+Media:vo mdaq053 3a guardscared 08a 1.ogg Timid Guard: Alright. You're free to go.
+(If it is not the last room to be searched)
+
+Media:vo mdaq053 3a guardscared 08a 2.ogg Timid Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+(Talk again)
+Media:vo dialog mdaq053 guardscared 02.ogg Timid Guard: G—Go, quickly! Get out of here! Go find someone else!
+(If it is the last room to be searched)
+
+Media:vo mdaq053 3a guardscared 08b.ogg Timid Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+(Talk again)
+Media:vo dialog mdaq053 guardscared 01.ogg Timid Guard: Scram! You already got what you wanted!
+ Quest DescriptionThe person Diluc called in turned out to be Jean from the Knights of Favonius. After some discussions, it is discovered that it was the Fatui who stole the Holy Lyre der Himmel. You must retrieve it to rescue Dvalin.
+ There's nothing to discuss. Give up now.
+Media:vo mdaq053 3 guardproud 02a.ogg Greedy Guard: Ha... Like hell!
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Hmm...
+Media:vo mdaq053 3b guardproud 09.ogg Greedy Guard: The will of Snezhnaya is as solid as the permafrost! I will not yield!
+(Fight the Fatui Electro Cicin Mage)
+ We are goodwill ambassadors from the Snezhno-Mondstadtian Association.
+Media:vo mdaq053 3 guardproud 02b.ogg Greedy Guard: Never heard of that association before...
+Media:vo mdaq053 3 guardproud 03.ogg Greedy Guard: What are you lot doing here?
+ We wish to borrow the Holy Lyre der Himmel.
+Media:vo mdaq053 3 guardproud 04a.ogg Greedy Guard: That lie's way too obvious. You really haven't got anything better?
+ We are here to do goodwill... stuff.
+Media:vo mdaq053 3 guardproud 04b 1.ogg Greedy Guard: Oh? Keep talking...
+Media:vo mdaq053 3 guardproud 04b 2.ogg Greedy Guard: Hmm, you're here for the Lyre, aren't you?
+ We are investigating you for alleged corruption.
+Media:vo mdaq053 3 guardproud 04c 1.ogg Greedy Guard: What? How did you little brats creep in here? You take me for a fool?
+Media:vo mdaq053 3 guardproud 04c 2.ogg Greedy Guard: Hmm, you're here for the Lyre, aren't you?
+Media:vo mdaq053 3 guardproud 05.ogg Greedy Guard: And just how do you plan to "borrow" it?
+ How does 500,000 Mora sound?
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+(If have 500k Mora)
+
+Media:vo mdaq053 3a guardproud 07.ogg Greedy Guard: Okay...
+Media:vo mdaq053 3a guardproud 08.ogg Greedy Guard: Okay. Sounds like a plan.
+Media:vo mdaq053 3a guardproud 09a 1.ogg Greedy Guard: Alright. You're free to go.
+(If it is not the last room to be searched)
+
+Media:vo mdaq053 3a guardproud 09a 2.ogg Greedy Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+(Talk again)
+Media:vo dialog mdaq053 guardproud 02.ogg Greedy Guard: What're you still doing here? Don't get me into trouble.
+(If it is the last room to be searched)
+
+Media:vo mdaq053 3a guardproud 09b.ogg Greedy Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+(Talk again)
+Media:vo dialog mdaq053 guardproud 01.ogg Greedy Guard: Don't even try to say you don't owe me...
+(Else)
+
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Hmm...
+Media:vo mdaq053 3b guardproud 07.ogg Greedy Guard: Hehe...
+Media:vo mdaq053 3b guardproud 08.ogg Greedy Guard: Think you can look down your nose at me, huh?
+Media:vo mdaq053 3b guardproud 09.ogg Greedy Guard: The will of Snezhnaya is as solid as the permafrost! I will not yield!
+(Fight the Fatui Electro Cicin Mage)
+ We'll recommend you to the Association.
+ Have an apple!
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+Media:vo mdaq053 3b guardproud 07.ogg Greedy Guard: Hehe...
+Media:vo mdaq053 3b guardproud 08.ogg Greedy Guard: Think you can look down your nose at me, huh?
+Media:vo mdaq053 3b guardproud 09.ogg Greedy Guard: The will of Snezhnaya is as solid as the permafrost! I will not yield!
+(Fight the Fatui Electro Cicin Mage)
+ We are here to do goodwill... stuff.
+Media:vo mdaq053 3 guardproud 04b 1.ogg Greedy Guard: Oh? Keep talking...
+Media:vo mdaq053 3 guardproud 04b 2.ogg Greedy Guard: Hmm, you're here for the Lyre, aren't you?
+ We are investigating you for alleged corruption.
+Media:vo mdaq053 3 guardproud 04c 1.ogg Greedy Guard: What? How did you little brats creep in here? You take me for a fool?
+Media:vo mdaq053 3 guardproud 04c 2.ogg Greedy Guard: Hmm, you're here for the Lyre, aren't you?
+ We both know you're making that up.
+Media:vo mdaq053 3a guardscared 05.ogg Timid Guard: Ugh...
+Media:vo mdaq053 3a guardscared 06.ogg Timid Guard: Ah...
+Media:vo mdaq053 3b guardscared 06.ogg Timid Guard: Hehe...
+Media:vo mdaq053 3b guardscared 07.ogg Timid Guard: I've had enough!
+Media:vo mdaq053 3b guardscared 08.ogg Timid Guard: I am a proud citizen of Snezhnaya! I will not falter!
+(Fight a Wooden Shield Mitachurl)
+ We have come for the Holy Lyre der Himmel.
+Media:vo mdaq053 2 fatuusguard 03a.ogg Fatui Guard: H—How did you guys know the lyre's here?
+ We have come for your life.
+Media:vo mdaq053 2 fatuusguard 03b 1.ogg Fatui Guard: Ahh, Ah, Ah!
+Media:vo mdaq053 2 fatuusguard 03b 2.ogg Fatui Guard: No, don't! I have valuable information! I'll tell you!
+Media:vo mdaq053 2 fatuusguard 03b 3.ogg Fatui Guard: We hid the Holy Lyre in the depths of these ruins.
+ We wish to borrow the Holy Lyre der Himmel.
+Media:vo mdaq053 3 guardproud 04a.ogg Greedy Guard: That lie's way too obvious. You really haven't got anything better?
+ We'll recommend you to the Association.
+Media:vo dialog mdaq053 guardproud 01.ogg Greedy Guard: Don't even try to say you don't owe me...
+Media:vo dialog mdaq053 guardproud 02.ogg Greedy Guard: What're you still doing here? Don't get me into trouble.
+Media:vo dialog mdaq053 guardscared 01.ogg Timid Guard: Scram! You already got what you wanted!
+Media:vo dialog mdaq053 guardscared 02.ogg Timid Guard: G—Go, quickly! Get out of here! Go find someone else!
+Media:vo mdaq053 1 diluc 01.ogg Diluc: The God of Anemo? ...Hasn't been seen for more than a thousand years. What makes you think that's their intention?
+Media:vo mdaq053 1 diluc 02.ogg Diluc: ...
+Media:vo mdaq053 1 diluc 03.ogg Diluc: Forget it. I don't like having to pry. (Traveler), here. Take this.
+Media:vo mdaq053 1 diluc 04.ogg Diluc: A disguise, to protect your identity. Put it on before you run into the Fatui.
+Media:vo mdaq053 1 diluc 05.ogg Diluc: Unfortunately, they are still one of Mondstadt's allies. At least that's the facade we're maintaining...
+Media:vo mdaq053 1 diluc 06.ogg Diluc: Our actions are going to get them stirred up. Better to not implicate yourself on a personal level.
+Media:vo mdaq053 1 paimon 01.ogg Paimon: What is it?
+Media:vo mdaq053 1 venti 01.ogg Venti: Jean just said the Fatui are trying to take Dvalin's power for the Cryo God...
+Media:vo mdaq053 1 venti 02.ogg Venti: I fear this might fall short of their true intentions.
+Media:vo mdaq053 1 venti 03.ogg Venti: I think they intend to use Barbatos' connection to the wind to draw him out.
+Media:vo mdaq053 1 venti 04.ogg Venti: Just like Lisa traced the source of the storm to the temples.
+Media:vo mdaq053 1 venti 05.ogg Venti: Oh... ah...
+Media:vo mdaq053 2 diluc 01.ogg Diluc: No. 8 of The Eleven Harbingers. Goes by the name Signora.
+Media:vo mdaq053 2 diluc 02.ogg Diluc: The fact the Fatui can run amok across the seven nations like they do is entirely because of The Eleven Harbingers.
+Media:vo mdaq053 2 diluc 03.ogg Diluc: We need to act quickly before she gets wind of what's going on.
+Media:vo mdaq053 2 fatuusguard 01.ogg Fatui Guard: No, NO! Don't eat me! Ah? You're... You're human?
+Media:vo mdaq053 2 fatuusguard 02.ogg Fatui Guard: The entire floor's defenses... have been broken. I thought it was the Abyss Order attacking...
+Media:vo mdaq053 2 fatuusguard 03a.ogg Fatui Guard: H—How did you guys know the lyre's here?
+Media:vo mdaq053 2 fatuusguard 03b 1.ogg Fatui Guard: Ahh, Ah, Ah!
+Media:vo mdaq053 2 fatuusguard 03b 2.ogg Fatui Guard: No, don't! I have valuable information! I'll tell you!
+Media:vo mdaq053 2 fatuusguard 03b 3.ogg Fatui Guard: We hid the Holy Lyre in the depths of these ruins.
+Media:vo mdaq053 2 fatuusguard 04.ogg Fatui Guard: The place it's being kept is locked up tight. If you're after the key, keep going further into the ruins, but d—don't come after me!
+Media:vo mdaq053 2 fatuusguard 05.ogg Fatui Guard: I don't know which one of the guards has it, but I'm sure you can find the guards and find out for yourselves.
+Media:vo mdaq053 2 fatuusguard 06.ogg Fatui Guard: Y—You just worry about yourselves!
+Media:vo mdaq053 2 fatuusguard 07.ogg Fatui Guard: One of the Harbingers is already in Mondstadt.
+Media:vo mdaq053 2 fatuusguard 08.ogg Fatui Guard: Signora. When she gets her hands on you she's going to string you up and torture you. When that time comes, don't you dare say a word about me.
+Media:vo mdaq053 2 paimon 01.ogg Paimon: This guy looks like he's about to wet himself...
+Media:vo mdaq053 2 paimon 02.ogg Paimon: Did he say Signora? What a strange name...
+Media:vo mdaq053 3 guardproud 01.ogg Greedy Guard: W—Who are you? How'd you get in here!?
+Media:vo mdaq053 3 guardproud 02a.ogg Greedy Guard: Ha... Like hell!
+Media:vo mdaq053 3 guardproud 02b.ogg Greedy Guard: Never heard of that association before...
+Media:vo mdaq053 3 guardproud 03.ogg Greedy Guard: What are you lot doing here?
+Media:vo mdaq053 3 guardproud 04a.ogg Greedy Guard: That lie's way too obvious. You really haven't got anything better?
+Media:vo mdaq053 3 guardproud 04b 1.ogg Greedy Guard: Oh? Keep talking...
+Media:vo mdaq053 3 guardproud 04b 2.ogg Greedy Guard: Hmm, you're here for the Lyre, aren't you?
+Media:vo mdaq053 3 guardproud 04c 1.ogg Greedy Guard: What? How did you little brats creep in here? You take me for a fool?
+Media:vo mdaq053 3 guardproud 04c 2.ogg Greedy Guard: Hmm, you're here for the Lyre, aren't you?
+Media:vo mdaq053 3 guardproud 05.ogg Greedy Guard: And just how do you plan to "borrow" it?
+Media:vo mdaq053 3 guardscared 01.ogg Timid Guard: Wh—Who are you? Wh—What are you doing here? Argh!
+Media:vo mdaq053 3 guardscared 02a.ogg Timid Guard: Ahh!? You're just going to attack me!?
+Media:vo mdaq053 3 guardscared 03.ogg Timid Guard: Did you already beat all the other guards?
+Media:vo mdaq053 3 guardscared 04b.ogg Timid Guard: What!? I—I'm not scared of you. An Agent will come to my aid!
+Media:vo mdaq053 3 paimon 01.ogg Paimon: He says the key isn't here. Shall we try another room?
+Media:vo mdaq053 3 paimon 02.ogg Paimon: Seems like we've turned this room inside out... but no key. Time to move on to another room!
+Media:vo mdaq053 3 paimon 03.ogg Paimon: There's one room left that we haven't tried. Surely the key must be in there?
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Hmm...
+Media:vo mdaq053 3a guardproud 06.ogg Greedy Guard: Wow...
+Media:vo mdaq053 3a guardproud 07.ogg Greedy Guard: Okay...
+Media:vo mdaq053 3a guardproud 08.ogg Greedy Guard: Okay. Sounds like a plan.
+Media:vo mdaq053 3a guardproud 09a 1.ogg Greedy Guard: Alright. You're free to go.
+Media:vo mdaq053 3a guardproud 09a 2.ogg Greedy Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+Media:vo mdaq053 3a guardproud 09b.ogg Greedy Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+Media:vo mdaq053 3a guardscared 05.ogg Timid Guard: Ugh...
+Media:vo mdaq053 3a guardscared 05.ogg Timid Guard: Wow...
+Media:vo mdaq053 3a guardscared 06.ogg Timid Guard: Ah...
+Media:vo mdaq053 3a guardscared 07.ogg Timid Guard: Fine. Not like I have a choice anyway.
+Media:vo mdaq053 3a guardscared 08a 1.ogg Timid Guard: Alright. You're free to go.
+Media:vo mdaq053 3a guardscared 08a 2.ogg Timid Guard: But I don't have the key unfortunately. You'll have to ask the next guard you come across.
+Media:vo mdaq053 3a guardscared 08b.ogg Timid Guard: I have the key here. You can head in from the hall outside, but don't tell anyone that it was me who gave you the key.
+Media:vo mdaq053 3b guardproud 07.ogg Greedy Guard: Hehe...
+Media:vo mdaq053 3b guardproud 08.ogg Greedy Guard: Think you can look down your nose at me, huh?
+Media:vo mdaq053 3b guardproud 09.ogg Greedy Guard: The will of Snezhnaya is as solid as the permafrost! I will not yield!
+Media:vo mdaq053 3b guardproud 09.ogg Greedy Guard: The will of Snezhnaya is as solid as the permafrost! I will not yield!
+(Fight the Fatui Electro Cicin Mage)
+Media:vo mdaq053 3b guardscared 06.ogg Timid Guard: Hehe...
+Media:vo mdaq053 3b guardscared 07.ogg Timid Guard: I've had enough!
+Media:vo mdaq053 3b guardscared 08.ogg Timid Guard: I am a proud citizen of Snezhnaya! I will not falter!
+Media:vo mdaq053 3b guardscared 08.ogg Timid Guard: I am a proud citizen of Snezhnaya! I will not falter!
+(Fight a Wooden Shield Mitachurl)
+Media:vo mdaq054 3 agent 01.ogg Agent: Where did you rats scurry out from...
+Media:vo mdaq054 3 agent 02.ogg Agent: Signora is not going to tolerate this kind of interference in our affairs.
+Media:vo mdaq054 3 agent 03.ogg Agent: So I'll be the one to take care of you — save her the trouble of having to deal with you herself.
+Media:vo mdaq054 5 agent 01.ogg Agent: Signora is going to end you. The songs bards sing of your demise will be so terrifying — the people of Mondstadt will never sleep again for the nightmares they give them.
+Media:vo mdaq054 5 paimon 01.ogg Paimon: Finally, the lyre is back in safe hands!
+Media:vo mdaq054 5 paimon 02.ogg Paimon: Where did that guy go, though? He was here a second ago...
+Media:vo mdaq054 5 paimon 03.ogg Paimon: Big talk for a guy who still ran off in the end... Chicken.
+We need a key. It might be in... a nearby room?

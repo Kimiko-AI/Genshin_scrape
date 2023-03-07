@@ -1,0 +1,34 @@
+
+Troubled Lianne: Still not found anything?
+Troubled Lianne: Never mind, take your time.
+ I need more time...
+Troubled Lianne:: Take all the time you need.
+ Quest DescriptionSomething seems to be troubling Troubled Lianne...
+ Sorry, I'm too busy.
+Troubled Lianne: Never mind then. I can keep looking, it'll just take me a lot longer...
+(Quest not accepted)
+ Sure did.
+Troubled Lianne: Let's see... Perfect! This is for you.
+ Sure!
+Troubled Lianne: Great! I'll keep looking around here in the meantime.
+Troubled Lianne: When you're done, come and see me.
+Troubled Lianne: Could you help me? I only need (1/2/3) (Item)(s).
+Troubled Lianne: Found anything yet?
+(If enough items)
+ Sure did.
+Troubled Lianne: Let's see... Perfect! This is for you.
+ I need more time...
+Troubled Lianne:: Take all the time you need.
+(If not enough items)
+
+Troubled Lianne: Still not found anything?
+Troubled Lianne: Never mind, take your time.
+Troubled Lianne: Great! I'll keep looking around here in the meantime.
+Troubled Lianne: I'm out looking for (Item), but not having much luck so far...
+Troubled Lianne: Let's see... Perfect! This is for you.
+Troubled Lianne: Never mind then. I can keep looking, it'll just take me a lot longer...
+Troubled Lianne: Never mind, take your time.
+Troubled Lianne: Still not found anything?
+Troubled Lianne: What are you doing here, Traveler?
+Troubled Lianne: When you're done, come and see me.
+Troubled Lianne:: Take all the time you need.

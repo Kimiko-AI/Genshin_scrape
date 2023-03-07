@@ -1,0 +1,35 @@
+ Leave it up to me.
+Riese: I shall be counting on you, then. *sigh* If only those adventurers had as good a sword-arm and as sensible a head on their shoulders as you do...
+ Place Supplies
+(Opens submission menu)
+ Quest DescriptionRiese is preparing emergency supplies to protect some reckless adventurers from getting in trouble on Dragonspine...
+ They're all where they need to be.
+ What do you need?
+ Will they be of any use?
+Riese: Whether they will or not... It's better to have them than not.
+Riese: In such terrible conditions as the ones we have on this mountain, the more supplies we have, the better. All told, I'm counting on your help.
+Emergency Supply Point: Dragonspine is a dangerous place. Please do not go too far in.
+Emergency Supply Point: This is an emergency supply point. If you should need anything, you may help yourself to the materials here.
+Paimon: The snow's too deep around here. Looks like we need to shovel it out first.
+Riese: *sigh* I wish those adventurers had a little more self-awareness...
+Riese: As you've no doubt seen, the conditions up here are horrendous. Even experienced adventurers would not dare to claim that they can handle all that Dragonspine can throw at them.
+Riese: Come to think of it, your clothes seem a little thin, too. Is this the latest fashion in Mondstadt or something?
+Riese: Don't forget, you need to go to three locations, and deposit one serving of Ham at each place.
+Riese: Have you placed all the supplies?
+Riese: However, if some reckless fool drunk on their good fortune were to get too far up, then they'd only have themselves to rely on...
+Riese: However, while I have been able to persuade many citizens not to do so, those adventurers...
+Riese: I have orders from the Acting Grand Master to stand guard here and warn all citizens not to go up the mountain.
+Riese: I shall be counting on you, then. *sigh* If only those adventurers had as good a sword-arm and as sensible a head on their shoulders as you do...
+Riese: I wish those adventurers had a little more self-awareness...
+Riese: I'm sure you know what I mean when I say that there's no use trying to convince them. They just want to go up that mountain.
+Riese: I've lost count of the number of matters I've had to resolve involving the adventurers... But they just keep coming anyway, and their ranks never thin.
+Riese: I've marked three locations out on your map. You simply have to place one serving of Ham at each place.
+Riese: In such terrible conditions as the ones we have on this mountain, the more supplies we have, the better. All told, I'm counting on your help.
+Riese: In this way, those adventurers who have suffered a reverse and are preparing to turn back will have more opportunities to extricate themselves from the mountain.
+Riese: So, could you help bring these supplies up the mountain?
+Riese: Still, I hope that those who go up the mountain will come sufficiently prepared and that they shan't have to use these emergency foodstuffs.
+Riese: That's wonderful. I can rest easy now.
+Riese: Traveler! Wonderful timing. Could you do me a favor?
+Riese: Trying to manage them all is an impossible task... As such, I've decided to prepare some supplies for them in designated spots on Dragonspine.
+Riese: Whatever the case, please take these as a token of my thanks, and go put on some extra layers.
+Riese: Whether they will or not... It's better to have them than not.

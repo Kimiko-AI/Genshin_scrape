@@ -1,0 +1,896 @@
+ "...the days grow dark, the stars are rising."
+ (Oh jeez, has he discovered that Venti is...)
+ ...It would have to be transparent?
+ About Dodo-King...
+Media:vo eqyq003 12 klee 03a 1a.ogg Media:vo eqyq003 12 klee 03a 1b.ogg Klee: That big meanie must be a bad guy! (Mr./Miss) Honorary Knight must be careful.
+Media:vo eqyq003 12 klee 03a 2.ogg Klee: Even though I haven't seen him yet, I will definitely protect Dodoco. I won't let Dodoco be taken away!
+Media:vo eqyq003 12 klee 03a 3.ogg Klee: Even if he's Dodoco's, Dodoco's... uh, grandpa? Brother? Or whatever...
+Media:vo eqyq003 12 klee 03a 4.ogg Klee: No matter who Dodo-King is, I won't lose!
+(Dialogue returns to option selection)
+ About how you felt riding a dragon...
+Media:vo eqyq003 13 albedo 04a.ogg Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+Media:vo eqyq003 13 albedo 04a 1.ogg Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+Media:vo eqyq003 13 albedo 04a 2.ogg Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+Media:vo eqyq003 13 albedo 04a 3.ogg Albedo: I suppose this can be considered an unforgettable memory.
+(Dialogue returns to option selection)
+ About the scent...
+Media:vo eqyq003 16 razor 06a.ogg Razor: Scent is very strong. In the sky, can smell.
+Media:vo eqyq003 16 razor 06a 1.ogg Razor: So, I came down...
+Media:vo eqyq003 16 razor 06a 2.ogg Razor: This place... is salty. There also leaves, grass, fruit.
+Media:vo eqyq003 16 razor 06a 3.ogg Razor: Your scent... smells nice.
+(Dialogue returns to option selection)
+ About the strange letters...
+Media:vo eqyq003 15 diluc 04b.ogg Diluc: I was skeptical of the letter from the beginning.
+Media:vo eqyq003 15 diluc 04b 1.ogg Diluc: But out of caution, I asked others about it. Sure enough, I wasn't the only recipient.
+Media:vo eqyq003 15 diluc 04b 2.ogg Diluc: This is clearly a premeditated act. The responsible party's objective has yet to be revealed, so I came here to investigate.
+Media:vo eqyq003 15 diluc 04a.ogg Diluc: Now that I'm here, you can relax.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 10 qin 04d.ogg Jean: I honestly never thought that all of us would end up here...
+Media:vo eqyq003 10 qin 04d 1.ogg Jean: I don't know if this is right, but... I think it's made Klee very happy.
+Media:vo eqyq003 10 qin 04d 2.ogg Jean: She likes having fun and being around people. She can take care of the excitement, and I'll take care of everyone's safety.
+Media:vo eqyq003 10 qin 04d 3.ogg Jean: What a beautiful view. The ocean is good company... I hope we can all find some peace and happiness while we're here.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 11 barbara 04d.ogg Barbara: I had no idea the others would be here, too. It was so nice to have everyone suddenly together like that.
+Media:vo eqyq003 11 barbara 04d 1.ogg Barbara: I want to use this opportunity to get closer to everyone... especially my sister.
+Media:vo eqyq003 11 barbara 04d 2.ogg Barbara: It might just be her personality, but she's always incredibly busy. She carries a lot on her shoulders.
+Media:vo eqyq003 11 barbara 04d 3.ogg Barbara: I hope she can start to take more time for herself and relax a little more... At the very least, I hope I can make her happy when I'm around.
+Media:vo eqyq003 11 barbara 04d 4.ogg Barbara: I wonder if I should sing her a song? Hmm...
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 12 klee 03d 1.ogg Klee: Hmm. I still don't understand some things.
+Media:vo eqyq003 12 klee 03d 2.ogg Klee: But everyone's here now, and even Mr. Albedo and Razor are here, too. It's nice!
+Media:vo eqyq003 12 klee 03d 3.ogg Klee: Hehe... There are even more games we can play. I love being with everyone!
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 13 albedo 04d.ogg Albedo: Today's events didn't feel that out of the ordinary.
+Media:vo eqyq003 13 albedo 04d 1.ogg Albedo: Hmm? Sorry, do you mean when I left by myself?
+Media:vo eqyq003 13 albedo 04d 2.ogg Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+Media:vo eqyq003 13 albedo 04d 3.ogg Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+Media:vo eqyq003 13 albedo 04d 4.ogg Albedo: You're intelligent, and I like to talk to intelligent people.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 14 kaeya 04d.ogg Kaeya: What's the matter? Diluc's scowl still bothering you?
+Media:vo eqyq003 14 kaeya 04d 1.ogg Kaeya: He's has that expression on his face for years now. He internalizes a lot of his feelings.
+Media:vo eqyq003 14 kaeya 04d 2.ogg Kaeya: So I'm afraid that his face is stuck like that. Just treat him like a big kid.
+Media:vo eqyq003 14 kaeya 04d 3.ogg Kaeya: In my opinion, it would be a good thing if people could stay young forever.
+Media:vo eqyq003 14 kaeya 04d 4.ogg Kaeya: Hm? What is that you ask? Hahaha, would I do such a thing? I wasn't jibing him.
+Media:vo eqyq003 14 kaeya 04d 5.ogg Kaeya: Whether they be adults or children, everyone on this island sure is a source of concern.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 15 diluc 04d.ogg Diluc: Today? ...Oh, you mean that.
+Media:vo eqyq003 15 diluc 04d 1.ogg Diluc: Frivolous happenings aren't worth your attention.
+Media:vo eqyq003 15 diluc 04d 2.ogg Diluc: And as for Kaeya... Hmph, he seems to be in high spirits.
+Media:vo eqyq003 15 diluc 04d 3.ogg Diluc: Even after all these years, he still enjoys summer as much as he did as a kid.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 16 razor 06d.ogg Razor: Today, I find you all.
+Media:vo eqyq003 16 razor 06d 1.ogg Razor: Everyone's okay. That's good.
+Media:vo eqyq003 16 razor 06d 2.ogg Razor: No bad things! I... would be scared.
+Media:vo eqyq003 16 razor 06d 3.ogg Razor: I'll protect everyone.
+(Dialogue returns to option selection)
+ About why you came to the island...
+Media:vo eqyq003 14 kaeya 04a.ogg Kaeya: Let me guess, you're thinking something along the lines of, "Kaeya seized an opportunity to shirk his duties"?
+Media:vo eqyq003 14 kaeya 04a 1.ogg Kaeya: *sigh* Why do you think of me so? Of course I have a special reason for coming here.
+Media:vo eqyq003 14 kaeya 04a 2.ogg Kaeya: Generally speaking, I'm responsible for wrapping up various cases... But this particular incident is special.
+Media:vo eqyq003 14 kaeya 04a 3.ogg Kaeya: You see, not only is the Acting Grand Master here, but the former fiery Cavalry Captain as well. Naturally, I had to see it for myself.
+Media:vo eqyq003 14 kaeya 04a 4.ogg Kaeya: Also, it seems like I ought to appreciate the splendid scenery and enjoy every second of summer.
+(Dialogue returns to option selection)
+ Albedo is skilled at avoiding difficult situations.
+ Albedooo!
+ Barbara, did you change back?
+Media:vo eqyq003 1 barbara 04a.ogg Barbara: Mm-hmm, my big sist— Ahem! M—Master Jean said that this whole situation is more than we bargained for. Even if it feels like a vacation destination, our primary objective is to protect everyone.
+Media:vo eqyq003 1 barbara 04a 1.ogg Barbara: For safety, we changed back into our original clothes. I guess it does dampen the summery feel a little...
+ Come out and face her! You hear!?
+ Do you want to chat?
+Media:vo eqyq003 10 qin 03.ogg Jean: Sure! What would you like to talk about, Traveler?
+ How's work these days with the Knights...
+Media:vo eqyq003 10 qin 04a.ogg Jean: Work? As long as Lisa's there, I'm not worried. She's more hardworking than anyone once she gets going.
+Media:vo eqyq003 10 qin 04a 1.ogg Jean: Still, I put a lot on her plate this time. I do feel a little guilty...
+Media:vo eqyq003 10 qin 04a 2.ogg Jean: Hmm, I must send her a gift. It's a good thing that I know what she likes.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 10 qin 04b.ogg Jean: I've never visited an archipelago like this before. It certainly is a place like no other. It has something of the unknown about it, and seems to have its fair share of dangers... and yet the mystery is all part of its beauty.
+Media:vo eqyq003 10 qin 04b 1.ogg Jean: It has a charm that I can't quite put my finger on. I think I'm slowly beginning to understand what drives adventurers to go in search of unknown places.
+Media:vo eqyq003 10 qin 04b 2.ogg Jean: Traveler, you're an adventurer... do you understand what I mean?
+Media:vo eqyq003 10 qin 04b 3.ogg Jean: Of course, safety still comes first when adventuring.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 10 qin 04c.ogg Jean: You know... I think I've come to realize that I'm lacking a certain... fun side?
+Media:vo eqyq003 10 qin 04c 1.ogg Jean: Sorry, I don't know exactly how to put it... Traveler, I want to ask you something.
+ Sure.
+Media:vo eqyq003 10 qin 04c 2.ogg Jean: Do you think that I'm... too serious?
+Media:vo eqyq003 10 qin 04c 3.ogg Jean: I guess that's why everyone wants me to get more rest and relaxation... Apologies.
+ No, no, that's what makes Jean so sweet.
+Media:vo eqyq003 10 qin 04c 4.ogg Jean: Huh? I—I never thought that anyone would consider my personality as "sweet"...
+Media:vo eqyq003 10 qin 04c 5.ogg Jean: Thank you for your constant kind words and comfort, Traveler.
+Media:vo eqyq003 10 qin 04c 6.ogg Jean: Whatever the case, I think I know what everyone is getting at. I'll do my best to improve.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 10 qin 04d.ogg Jean: I honestly never thought that all of us would end up here...
+Media:vo eqyq003 10 qin 04d 1.ogg Jean: I don't know if this is right, but... I think it's made Klee very happy.
+Media:vo eqyq003 10 qin 04d 2.ogg Jean: She likes having fun and being around people. She can take care of the excitement, and I'll take care of everyone's safety.
+Media:vo eqyq003 10 qin 04d 3.ogg Jean: What a beautiful view. The ocean is good company... I hope we can all find some peace and happiness while we're here.
+(Dialogue returns to option selection)
+ I won't disturb you. (After choosing at least one dialogue option)
+(Same as below)
+ Do you want to chat?
+Media:vo eqyq003 11 barbara 03.ogg Barbara: Okay, is there anything you wanted to talk about?
+ Tell me about Ludi Harpastum...
+Media:vo eqyq003 11 barbara 04a.ogg Barbara: You're probably familiar already but, Ludi Harpastum is a traditional Mondstadt festival.
+Media:vo eqyq003 11 barbara 04a 1.ogg Barbara: During the festivities, we throw beautiful, brightly-colored harpasta into the air. It's a way for us to commemorate the Anemo Archon and send them glad tidings. A festival for all ages!
+Media:vo eqyq003 11 barbara 04a 2.ogg Barbara: Klee loves Ludi Harpastum. Still, it's not quite here yet... so I made her that special harpastum.
+Media:vo eqyq003 11 barbara 04a 3.ogg Barbara: I hope it cheers her up. She has such a contagious smile, I can't help but smile myself when I see her... such a great feeling.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 11 barbara 04b.ogg Barbara: I know my sister is always telling us to keep our guards up, but for me, these islands are a lot of fun.
+Media:vo eqyq003 11 barbara 04b 1.ogg Barbara: Sitting on the beach, looking out into the starry summer sky, humming along to the rolling waves...
+Media:vo eqyq003 11 barbara 04b 2.ogg Barbara: It's so romantic...
+Media:vo eqyq003 11 barbara 04b 3.ogg Barbara: And with you here, the summer feels just that much more special.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 11 barbara 04c.ogg Barbara: Oh... me?
+Media:vo eqyq003 11 barbara 04c 1.ogg Barbara: Well, I—I... Actually, I...
+Media:vo eqyq003 11 barbara 04c 2.ogg Barbara: *sigh* You wanna know the truth?
+Media:vo eqyq003 11 barbara 04c 3.ogg Barbara: I only came to the islands out of concern for everyone's safety... Though, I admit.... that I didn't want to miss out on traveling together with all of you either.
+Media:vo eqyq003 11 barbara 04c 4.ogg Barbara: I—I hope you won't laugh at me. After all, a deaconess shouldn't concern herself with matters of fun and games...
+ I wouldn't dare.
+Media:vo eqyq003 11 barbara 04c 5.ogg Barbara: Phew... then I'm glad.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 11 barbara 04d.ogg Barbara: I had no idea the others would be here, too. It was so nice to have everyone suddenly together like that.
+Media:vo eqyq003 11 barbara 04d 1.ogg Barbara: I want to use this opportunity to get closer to everyone... especially my sister.
+Media:vo eqyq003 11 barbara 04d 2.ogg Barbara: It might just be her personality, but she's always incredibly busy. She carries a lot on her shoulders.
+Media:vo eqyq003 11 barbara 04d 3.ogg Barbara: I hope she can start to take more time for herself and relax a little more... At the very least, I hope I can make her happy when I'm around.
+Media:vo eqyq003 11 barbara 04d 4.ogg Barbara: I wonder if I should sing her a song? Hmm...
+(Dialogue returns to option selection)
+ I won't disturb you. (After choosing at least one dialogue option)
+(Same as below)
+ Do you want to chat?
+Media:vo eqyq003 12 klee 02.ogg Klee: Ooh, okay!
+ About Dodo-King...
+Media:vo eqyq003 12 klee 03a 1a.ogg Media:vo eqyq003 12 klee 03a 1b.ogg Klee: That big meanie must be a bad guy! (Mr./Miss) Honorary Knight must be careful.
+Media:vo eqyq003 12 klee 03a 2.ogg Klee: Even though I haven't seen him yet, I will definitely protect Dodoco. I won't let Dodoco be taken away!
+Media:vo eqyq003 12 klee 03a 3.ogg Klee: Even if he's Dodoco's, Dodoco's... uh, grandpa? Brother? Or whatever...
+Media:vo eqyq003 12 klee 03a 4.ogg Klee: No matter who Dodo-King is, I won't lose!
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 12 klee 03b 1.ogg Klee: I love it here!
+Media:vo eqyq003 12 klee 03b 2.ogg Klee: There are beaches, the ocean...
+Media:vo eqyq003 12 klee 03b 3.ogg Klee: And the harpastum that Barbara gave me, and all the other wonderful things! Everyone here makes it really exciting!
+Media:vo eqyq003 12 klee 03b 4.ogg Klee: I'm super happy!
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 12 klee 03c 1.ogg Klee: Actually, I'm a little scared...
+Media:vo eqyq003 12 klee 03c 2.ogg Klee: If I fail, then Dodoco will leave me...
+Media:vo eqyq003 12 klee 03c 3a.ogg Media:vo eqyq003 12 klee 03c 3b.ogg Klee: (Mr./Miss) Honorary Knight, will you protect Dodoco?
+ I certainly will.
+Media:vo eqyq003 12 klee 03c 4.ogg Klee: Really? As long as you're around, Dodoco and me are safe. Hehe, thank you!
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 12 klee 03d 1.ogg Klee: Hmm. I still don't understand some things.
+Media:vo eqyq003 12 klee 03d 2.ogg Klee: But everyone's here now, and even Mr. Albedo and Razor are here, too. It's nice!
+Media:vo eqyq003 12 klee 03d 3.ogg Klee: Hehe... There are even more games we can play. I love being with everyone!
+(Dialogue returns to option selection)
+ I won't disturb you. (After choosing at least one dialogue option)
+(Same as below)
+ Do you want to chat?
+Media:vo eqyq003 13 albedo 03.ogg Albedo: Okay. What would you like to discuss?
+ About how you felt riding a dragon...
+Media:vo eqyq003 13 albedo 04a.ogg Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+Media:vo eqyq003 13 albedo 04a 1.ogg Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+Media:vo eqyq003 13 albedo 04a 2.ogg Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+Media:vo eqyq003 13 albedo 04a 3.ogg Albedo: I suppose this can be considered an unforgettable memory.
+(Dialogue returns to option selection)
+ Tell me more about these islands...
+Media:vo eqyq003 13 albedo 04b.ogg Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+Media:vo eqyq003 13 albedo 04b 1.ogg Albedo: And yet, the island still contains traces of human activity.
+Media:vo eqyq003 13 albedo 04b 2.ogg Albedo: Additionally, a plethora of organisms are present here.
+Media:vo eqyq003 13 albedo 04b 3.ogg Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 13 albedo 04c.ogg Albedo: Me? I'm doing quite well here. Thank you for your concern.
+Media:vo eqyq003 13 albedo 04c 1.ogg Albedo: How do you feel here, if I might ask?
+ Pretty good.
+Media:vo eqyq003 13 albedo 04c 2.ogg Albedo: Okay, that's good to hear.
+Media:vo eqyq003 13 albedo 04c 3.ogg Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 13 albedo 04d.ogg Albedo: Today's events didn't feel that out of the ordinary.
+Media:vo eqyq003 13 albedo 04d 1.ogg Albedo: Hmm? Sorry, do you mean when I left by myself?
+Media:vo eqyq003 13 albedo 04d 2.ogg Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+Media:vo eqyq003 13 albedo 04d 3.ogg Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+Media:vo eqyq003 13 albedo 04d 4.ogg Albedo: You're intelligent, and I like to talk to intelligent people.
+(Dialogue returns to option selection)
+ I won't disturb you. (After choosing at least one dialogue option)
+(Same as below)
+ Do you want to chat?
+Media:vo eqyq003 14 kaeya 03.ogg Kaeya: Sure. Let's take advantage of the precious time left until lizard duty.
+ About why you came to the island...
+Media:vo eqyq003 14 kaeya 04a.ogg Kaeya: Let me guess, you're thinking something along the lines of, "Kaeya seized an opportunity to shirk his duties"?
+Media:vo eqyq003 14 kaeya 04a 1.ogg Kaeya: *sigh* Why do you think of me so? Of course I have a special reason for coming here.
+Media:vo eqyq003 14 kaeya 04a 2.ogg Kaeya: Generally speaking, I'm responsible for wrapping up various cases... But this particular incident is special.
+Media:vo eqyq003 14 kaeya 04a 3.ogg Kaeya: You see, not only is the Acting Grand Master here, but the former fiery Cavalry Captain as well. Naturally, I had to see it for myself.
+Media:vo eqyq003 14 kaeya 04a 4.ogg Kaeya: Also, it seems like I ought to appreciate the splendid scenery and enjoy every second of summer.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 14 kaeya 04b.ogg Kaeya: A lovely place, wouldn't you agree?
+Media:vo eqyq003 14 kaeya 04b 1.ogg Kaeya: When beholding a beautiful view, your expression should complement its beauty.
+Media:vo eqyq003 14 kaeya 04b 2.ogg Kaeya: ...
+Media:vo eqyq003 14 kaeya 04b 3.ogg Kaeya: Just listening to the waves and recalling old memories... is also nice.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 14 kaeya 04c.ogg Kaeya: Hmm, I just thought of something.
+Media:vo eqyq003 14 kaeya 04c 1.ogg Kaeya: Wouldn't it be great if we could age in reverse? To be a child again and free yourself from the strife of the adult world.
+Media:vo eqyq003 14 kaeya 04c 2.ogg Kaeya: To be like Klee, unrestrained and free to do whatever you want.
+Media:vo eqyq003 14 kaeya 04c 3.ogg Kaeya: Hahaha, do you not also yearn for such a thing?
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 14 kaeya 04d.ogg Kaeya: What's the matter? Diluc's scowl still bothering you?
+Media:vo eqyq003 14 kaeya 04d 1.ogg Kaeya: He's has that expression on his face for years now. He internalizes a lot of his feelings.
+Media:vo eqyq003 14 kaeya 04d 2.ogg Kaeya: So I'm afraid that his face is stuck like that. Just treat him like a big kid.
+Media:vo eqyq003 14 kaeya 04d 3.ogg Kaeya: In my opinion, it would be a good thing if people could stay young forever.
+Media:vo eqyq003 14 kaeya 04d 4.ogg Kaeya: Hm? What is that you ask? Hahaha, would I do such a thing? I wasn't jibing him.
+Media:vo eqyq003 14 kaeya 04d 5.ogg Kaeya: Whether they be adults or children, everyone on this island sure is a source of concern.
+(Dialogue returns to option selection)
+ I won't disturb you. (After choosing at least one dialogue option)
+(Same as below)
+ Do you want to chat?
+Media:vo eqyq003 15 diluc 03.ogg Diluc: Sure.
+ About the strange letters...
+Media:vo eqyq003 15 diluc 04b.ogg Diluc: I was skeptical of the letter from the beginning.
+Media:vo eqyq003 15 diluc 04b 1.ogg Diluc: But out of caution, I asked others about it. Sure enough, I wasn't the only recipient.
+Media:vo eqyq003 15 diluc 04b 2.ogg Diluc: This is clearly a premeditated act. The responsible party's objective has yet to be revealed, so I came here to investigate.
+Media:vo eqyq003 15 diluc 04a.ogg Diluc: Now that I'm here, you can relax.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 15 diluc 04b 3.ogg Diluc: The scenery here is not bad...
+Media:vo eqyq003 15 diluc 04b 4.ogg Diluc: Walking on the shore at night almost makes you feel like you're on a vacation.
+Media:vo eqyq003 15 diluc 04b 5.ogg Diluc: Could this be a ploy to lower our guard?
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 15 diluc 04c.ogg Diluc: Me? My affairs are hardly worth discussion.
+Media:vo eqyq003 15 diluc 04c 1.ogg Diluc: Rather, I'm more concerned about your situation.
+Media:vo eqyq003 15 diluc 04c 2.ogg Diluc: How is it? Getting used to island life?
+ It's not bad.
+Media:vo eqyq003 15 diluc 04c 3.ogg Diluc: If you need help, come find me any time.
+Media:vo eqyq003 15 diluc 04c 4.ogg Diluc: And if you find any clues, contact me at once.
+Media:vo eqyq003 15 diluc 04c 5.ogg Diluc: Speaking of which, Klee just asked me to help her catch fish. *sigh* Come with me, if you want to.
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 15 diluc 04d.ogg Diluc: Today? ...Oh, you mean that.
+Media:vo eqyq003 15 diluc 04d 1.ogg Diluc: Frivolous happenings aren't worth your attention.
+Media:vo eqyq003 15 diluc 04d 2.ogg Diluc: And as for Kaeya... Hmph, he seems to be in high spirits.
+Media:vo eqyq003 15 diluc 04d 3.ogg Diluc: Even after all these years, he still enjoys summer as much as he did as a kid.
+(Dialogue returns to option selection)
+ I won't disturb you. (After choosing at least one dialogue option)
+(Same as below)
+ Do you want to chat?
+Media:vo eqyq003 16 razor 04.ogg Razor: I'm... not good at it.
+Media:vo eqyq003 16 razor 05.ogg Razor: But, I'll stay with you.
+ About the scent...
+Media:vo eqyq003 16 razor 06a.ogg Razor: Scent is very strong. In the sky, can smell.
+Media:vo eqyq003 16 razor 06a 1.ogg Razor: So, I came down...
+Media:vo eqyq003 16 razor 06a 2.ogg Razor: This place... is salty. There also leaves, grass, fruit.
+Media:vo eqyq003 16 razor 06a 3.ogg Razor: Your scent... smells nice.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 16 razor 06b.ogg Razor: Too... too much water.
+Media:vo eqyq003 16 razor 06b 1.ogg Razor: Left, right, everywhere.
+Media:vo eqyq003 16 razor 06b 2.ogg Razor: But, I like swimming.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 16 razor 06c.ogg Razor: I was worried.
+Media:vo eqyq003 16 razor 06c 1.ogg Razor: So I came to look. Yes.
+Media:vo eqyq003 16 razor 06c 2.ogg Razor: Right now, I'm hungry...
+Media:vo eqyq003 16 razor 06c 3.ogg Razor: I want to eat fish. And meat...
+(Dialogue returns to option selection)
+ About what happened today...
+Media:vo eqyq003 16 razor 06d.ogg Razor: Today, I find you all.
+Media:vo eqyq003 16 razor 06d 1.ogg Razor: Everyone's okay. That's good.
+Media:vo eqyq003 16 razor 06d 2.ogg Razor: No bad things! I... would be scared.
+Media:vo eqyq003 16 razor 06d 3.ogg Razor: I'll protect everyone.
+(Dialogue returns to option selection)
+ I won't disturb you. (After choosing at least one dialogue option)
+(Same as below)
+ He left ages ago...
+ He's trying to tell us something.
+ How characteristic of him.
+ How's work these days with the Knights...
+Media:vo eqyq003 10 qin 04a.ogg Jean: Work? As long as Lisa's there, I'm not worried. She's more hardworking than anyone once she gets going.
+Media:vo eqyq003 10 qin 04a 1.ogg Jean: Still, I put a lot on her plate this time. I do feel a little guilty...
+Media:vo eqyq003 10 qin 04a 2.ogg Jean: Hmm, I must send her a gift. It's a good thing that I know what she likes.
+(Dialogue returns to option selection)
+ Huh...?
+ Huh? Barbara, you're...?
+ I certainly will.
+ I hope you can get some proper rest here.
+ I wish I had the same self-discipline.
+ I won't disturb you.
+ I won't disturb you.
+Media:vo eqyq003 10 qin 02.ogg Jean: Alright, good night.
+ I won't disturb you.
+Media:vo eqyq003 12 klee 01.ogg Klee: Okay~ When you want to go fish bombing, just remember to find me!
+ I won't disturb you.
+Media:vo eqyq003 13 albedo 02.ogg Albedo: Alright, good night.
+ I won't disturb you.
+Media:vo eqyq003 14 kaeya 02.ogg Kaeya: Going so soon? Huh... Then have a good night.
+ I won't disturb you.
+Media:vo eqyq003 16 razor 03.ogg Razor: Mmm... Okay.
+ I won't disturb you. (After choosing at least one dialogue option)
+(Same as below)
+ I wouldn't dare.
+ Impressive willpower. Good job, Jean.
+ It's not bad.
+ Jean, why did you change back?
+Media:vo eqyq003 1 qin 02b.ogg Jean: Well, this is a complex and evolving situation, so we should be ready for any eventuality. For security reasons, we changed back into more combat-ready attire.
+Media:vo eqyq003 1 qin 02b 1.ogg Jean: Even though it may not allow us to make the most of the surroundings... My apologies.
+Media:vo eqyq003 1 barbara 04b.ogg Barbara: Don't apologize, it's in everyone's best interest!
+ Me?
+ Must've found something he's more interested in.
+ No, no, that's what makes Jean so sweet.
+ Pretty good.
+ Quest DescriptionThe party learns from Barbara that their surroundings seem to be changing once again. Where will the trail lead this time? How many stories lay buried among these islands? And who knows what the next surprise will be?
+ Sure.
+ Tell me about Ludi Harpastum...
+Media:vo eqyq003 11 barbara 04a.ogg Barbara: You're probably familiar already but, Ludi Harpastum is a traditional Mondstadt festival.
+Media:vo eqyq003 11 barbara 04a 1.ogg Barbara: During the festivities, we throw beautiful, brightly-colored harpasta into the air. It's a way for us to commemorate the Anemo Archon and send them glad tidings. A festival for all ages!
+Media:vo eqyq003 11 barbara 04a 2.ogg Barbara: Klee loves Ludi Harpastum. Still, it's not quite here yet... so I made her that special harpastum.
+Media:vo eqyq003 11 barbara 04a 3.ogg Barbara: I hope it cheers her up. She has such a contagious smile, I can't help but smile myself when I see her... such a great feeling.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 10 qin 04b.ogg Jean: I've never visited an archipelago like this before. It certainly is a place like no other. It has something of the unknown about it, and seems to have its fair share of dangers... and yet the mystery is all part of its beauty.
+Media:vo eqyq003 10 qin 04b 1.ogg Jean: It has a charm that I can't quite put my finger on. I think I'm slowly beginning to understand what drives adventurers to go in search of unknown places.
+Media:vo eqyq003 10 qin 04b 2.ogg Jean: Traveler, you're an adventurer... do you understand what I mean?
+Media:vo eqyq003 10 qin 04b 3.ogg Jean: Of course, safety still comes first when adventuring.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 11 barbara 04b.ogg Barbara: I know my sister is always telling us to keep our guards up, but for me, these islands are a lot of fun.
+Media:vo eqyq003 11 barbara 04b 1.ogg Barbara: Sitting on the beach, looking out into the starry summer sky, humming along to the rolling waves...
+Media:vo eqyq003 11 barbara 04b 2.ogg Barbara: It's so romantic...
+Media:vo eqyq003 11 barbara 04b 3.ogg Barbara: And with you here, the summer feels just that much more special.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 12 klee 03b 1.ogg Klee: I love it here!
+Media:vo eqyq003 12 klee 03b 2.ogg Klee: There are beaches, the ocean...
+Media:vo eqyq003 12 klee 03b 3.ogg Klee: And the harpastum that Barbara gave me, and all the other wonderful things! Everyone here makes it really exciting!
+Media:vo eqyq003 12 klee 03b 4.ogg Klee: I'm super happy!
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 14 kaeya 04b.ogg Kaeya: A lovely place, wouldn't you agree?
+Media:vo eqyq003 14 kaeya 04b 1.ogg Kaeya: When beholding a beautiful view, your expression should complement its beauty.
+Media:vo eqyq003 14 kaeya 04b 2.ogg Kaeya: ...
+Media:vo eqyq003 14 kaeya 04b 3.ogg Kaeya: Just listening to the waves and recalling old memories... is also nice.
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 15 diluc 04b 3.ogg Diluc: The scenery here is not bad...
+Media:vo eqyq003 15 diluc 04b 4.ogg Diluc: Walking on the shore at night almost makes you feel like you're on a vacation.
+Media:vo eqyq003 15 diluc 04b 5.ogg Diluc: Could this be a ploy to lower our guard?
+(Dialogue returns to option selection)
+ Tell me about these islands...
+Media:vo eqyq003 16 razor 06b.ogg Razor: Too... too much water.
+Media:vo eqyq003 16 razor 06b 1.ogg Razor: Left, right, everywhere.
+Media:vo eqyq003 16 razor 06b 2.ogg Razor: But, I like swimming.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 10 qin 04c.ogg Jean: You know... I think I've come to realize that I'm lacking a certain... fun side?
+Media:vo eqyq003 10 qin 04c 1.ogg Jean: Sorry, I don't know exactly how to put it... Traveler, I want to ask you something.
+ Sure.
+Media:vo eqyq003 10 qin 04c 2.ogg Jean: Do you think that I'm... too serious?
+Media:vo eqyq003 10 qin 04c 3.ogg Jean: I guess that's why everyone wants me to get more rest and relaxation... Apologies.
+ No, no, that's what makes Jean so sweet.
+Media:vo eqyq003 10 qin 04c 4.ogg Jean: Huh? I—I never thought that anyone would consider my personality as "sweet"...
+Media:vo eqyq003 10 qin 04c 5.ogg Jean: Thank you for your constant kind words and comfort, Traveler.
+Media:vo eqyq003 10 qin 04c 6.ogg Jean: Whatever the case, I think I know what everyone is getting at. I'll do my best to improve.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 11 barbara 04c.ogg Barbara: Oh... me?
+Media:vo eqyq003 11 barbara 04c 1.ogg Barbara: Well, I—I... Actually, I...
+Media:vo eqyq003 11 barbara 04c 2.ogg Barbara: *sigh* You wanna know the truth?
+Media:vo eqyq003 11 barbara 04c 3.ogg Barbara: I only came to the islands out of concern for everyone's safety... Though, I admit.... that I didn't want to miss out on traveling together with all of you either.
+Media:vo eqyq003 11 barbara 04c 4.ogg Barbara: I—I hope you won't laugh at me. After all, a deaconess shouldn't concern herself with matters of fun and games...
+ I wouldn't dare.
+Media:vo eqyq003 11 barbara 04c 5.ogg Barbara: Phew... then I'm glad.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 12 klee 03c 1.ogg Klee: Actually, I'm a little scared...
+Media:vo eqyq003 12 klee 03c 2.ogg Klee: If I fail, then Dodoco will leave me...
+Media:vo eqyq003 12 klee 03c 3a.ogg Media:vo eqyq003 12 klee 03c 3b.ogg Klee: (Mr./Miss) Honorary Knight, will you protect Dodoco?
+ I certainly will.
+Media:vo eqyq003 12 klee 03c 4.ogg Klee: Really? As long as you're around, Dodoco and me are safe. Hehe, thank you!
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 13 albedo 04c.ogg Albedo: Me? I'm doing quite well here. Thank you for your concern.
+Media:vo eqyq003 13 albedo 04c 1.ogg Albedo: How do you feel here, if I might ask?
+ Pretty good.
+Media:vo eqyq003 13 albedo 04c 2.ogg Albedo: Okay, that's good to hear.
+Media:vo eqyq003 13 albedo 04c 3.ogg Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 14 kaeya 04c.ogg Kaeya: Hmm, I just thought of something.
+Media:vo eqyq003 14 kaeya 04c 1.ogg Kaeya: Wouldn't it be great if we could age in reverse? To be a child again and free yourself from the strife of the adult world.
+Media:vo eqyq003 14 kaeya 04c 2.ogg Kaeya: To be like Klee, unrestrained and free to do whatever you want.
+Media:vo eqyq003 14 kaeya 04c 3.ogg Kaeya: Hahaha, do you not also yearn for such a thing?
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 15 diluc 04c.ogg Diluc: Me? My affairs are hardly worth discussion.
+Media:vo eqyq003 15 diluc 04c 1.ogg Diluc: Rather, I'm more concerned about your situation.
+Media:vo eqyq003 15 diluc 04c 2.ogg Diluc: How is it? Getting used to island life?
+ It's not bad.
+Media:vo eqyq003 15 diluc 04c 3.ogg Diluc: If you need help, come find me any time.
+Media:vo eqyq003 15 diluc 04c 4.ogg Diluc: And if you find any clues, contact me at once.
+Media:vo eqyq003 15 diluc 04c 5.ogg Diluc: Speaking of which, Klee just asked me to help her catch fish. *sigh* Come with me, if you want to.
+(Dialogue returns to option selection)
+ Tell me about yourself...
+Media:vo eqyq003 16 razor 06c.ogg Razor: I was worried.
+Media:vo eqyq003 16 razor 06c 1.ogg Razor: So I came to look. Yes.
+Media:vo eqyq003 16 razor 06c 2.ogg Razor: Right now, I'm hungry...
+Media:vo eqyq003 16 razor 06c 3.ogg Razor: I want to eat fish. And meat...
+(Dialogue returns to option selection)
+ Tell me more about these islands...
+Media:vo eqyq003 13 albedo 04b.ogg Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+Media:vo eqyq003 13 albedo 04b 1.ogg Albedo: And yet, the island still contains traces of human activity.
+Media:vo eqyq003 13 albedo 04b 2.ogg Albedo: Additionally, a plethora of organisms are present here.
+Media:vo eqyq003 13 albedo 04b 3.ogg Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+(Dialogue returns to option selection)
+ Thanks, Jean.
+ That platform!
+ We should ask the expert.
+ What are you doing here?
+ What did the letters say?
+ Yeah!
+ Yes... three crystals.
+ You mean they abandoned you.
+ You want me to do it?
+ You're a very hardworking person.
+ I hope you can get some proper rest here.
+ You're right... Let's do this.
+ You're the best, Jean.
+Media:vo eqyq003 1 barbara 01.ogg ???: Honorary Knight...! Honorary Knight!
+Media:vo eqyq003 1 barbara 02.ogg Barbara: You're awake! Morning!
+Media:vo eqyq003 1 barbara 03.ogg Barbara: Did you have a good rest?
+Media:vo eqyq003 1 barbara 04a 1.ogg Barbara: For safety, we changed back into our original clothes. I guess it does dampen the summery feel a little...
+Media:vo eqyq003 1 barbara 04a.ogg Barbara: Mm-hmm, my big sist— Ahem! M—Master Jean said that this whole situation is more than we bargained for. Even if it feels like a vacation destination, our primary objective is to protect everyone.
+Media:vo eqyq003 1 barbara 04b.ogg Barbara: Don't apologize, it's in everyone's best interest!
+Media:vo eqyq003 1 barbara 05.ogg Barbara: We didn't want to wake you, but I noticed some white smoke coming from one of the other islands. I think it'd be best if we went and investigated it together.
+Media:vo eqyq003 1 klee 01.ogg Klee: It must be Dodo-King!
+Media:vo eqyq003 1 paimon 01.ogg Paimon: Jean, your clothes!
+Media:vo eqyq003 1 paimon 02.ogg Paimon: Well, that certainly takes the fun out of things... *sigh* Back to work already. Ladies and gentlemen, the Knights of Favonius Acting Grand Master.
+Media:vo eqyq003 1 paimon 03.ogg Paimon: *sigh* Even Paimon's starting to believe that this Dodo-King might actually show up...
+Media:vo eqyq003 1 qin 01.ogg Jean: Good Morning, Traveler.
+Media:vo eqyq003 1 qin 02b 1.ogg Jean: Even though it may not allow us to make the most of the surroundings... My apologies.
+Media:vo eqyq003 1 qin 02b.ogg Jean: Well, this is a complex and evolving situation, so we should be ready for any eventuality. For security reasons, we changed back into more combat-ready attire.
+Media:vo eqyq003 1 qin 03.ogg Jean: You're too kind. Actually, I think we could learn a lot more from your talents. That's why we can place so much trust in you.
+Media:vo eqyq003 1 qin 04.ogg Jean: I'm also keen to lay eyes on this so-called Dodo-King. All of you, follow me. Let's investigate.
+Media:vo eqyq003 10 qin 01.ogg Jean: The ocean really is beautiful at night...
+Media:vo eqyq003 10 qin 02.ogg Jean: Alright, good night.
+Media:vo eqyq003 10 qin 03.ogg Jean: Sure! What would you like to talk about, Traveler?
+Media:vo eqyq003 10 qin 04a 1.ogg Jean: Still, I put a lot on her plate this time. I do feel a little guilty...
+Media:vo eqyq003 10 qin 04a 2.ogg Jean: Hmm, I must send her a gift. It's a good thing that I know what she likes.
+Media:vo eqyq003 10 qin 04a.ogg Jean: Work? As long as Lisa's there, I'm not worried. She's more hardworking than anyone once she gets going.
+Media:vo eqyq003 10 qin 04b 1.ogg Jean: It has a charm that I can't quite put my finger on. I think I'm slowly beginning to understand what drives adventurers to go in search of unknown places.
+Media:vo eqyq003 10 qin 04b 2.ogg Jean: Traveler, you're an adventurer... do you understand what I mean?
+Media:vo eqyq003 10 qin 04b 3.ogg Jean: Of course, safety still comes first when adventuring.
+Media:vo eqyq003 10 qin 04b.ogg Jean: I've never visited an archipelago like this before. It certainly is a place like no other. It has something of the unknown about it, and seems to have its fair share of dangers... and yet the mystery is all part of its beauty.
+Media:vo eqyq003 10 qin 04c 1.ogg Jean: Sorry, I don't know exactly how to put it... Traveler, I want to ask you something.
+Media:vo eqyq003 10 qin 04c 2.ogg Jean: Do you think that I'm... too serious?
+Media:vo eqyq003 10 qin 04c 3.ogg Jean: I guess that's why everyone wants me to get more rest and relaxation... Apologies.
+Media:vo eqyq003 10 qin 04c 4.ogg Jean: Huh? I—I never thought that anyone would consider my personality as "sweet"...
+Media:vo eqyq003 10 qin 04c 5.ogg Jean: Thank you for your constant kind words and comfort, Traveler.
+Media:vo eqyq003 10 qin 04c 6.ogg Jean: Whatever the case, I think I know what everyone is getting at. I'll do my best to improve.
+Media:vo eqyq003 10 qin 04c.ogg Jean: You know... I think I've come to realize that I'm lacking a certain... fun side?
+Media:vo eqyq003 10 qin 04d 1.ogg Jean: I don't know if this is right, but... I think it's made Klee very happy.
+Media:vo eqyq003 10 qin 04d 2.ogg Jean: She likes having fun and being around people. She can take care of the excitement, and I'll take care of everyone's safety.
+Media:vo eqyq003 10 qin 04d 3.ogg Jean: What a beautiful view. The ocean is good company... I hope we can all find some peace and happiness while we're here.
+Media:vo eqyq003 10 qin 04d.ogg Jean: I honestly never thought that all of us would end up here...
+Media:vo eqyq003 11 barbara 01.ogg Barbara: Honorary Knight, good timing! Would you like to watch the ocean together?
+Media:vo eqyq003 11 barbara 02.ogg Barbara: No problem, see you later!
+Media:vo eqyq003 11 barbara 03.ogg Barbara: Okay, is there anything you wanted to talk about?
+Media:vo eqyq003 11 barbara 04a 1.ogg Barbara: During the festivities, we throw beautiful, brightly-colored harpasta into the air. It's a way for us to commemorate the Anemo Archon and send them glad tidings. A festival for all ages!
+Media:vo eqyq003 11 barbara 04a 2.ogg Barbara: Klee loves Ludi Harpastum. Still, it's not quite here yet... so I made her that special harpastum.
+Media:vo eqyq003 11 barbara 04a 3.ogg Barbara: I hope it cheers her up. She has such a contagious smile, I can't help but smile myself when I see her... such a great feeling.
+Media:vo eqyq003 11 barbara 04a.ogg Barbara: You're probably familiar already but, Ludi Harpastum is a traditional Mondstadt festival.
+Media:vo eqyq003 11 barbara 04b 1.ogg Barbara: Sitting on the beach, looking out into the starry summer sky, humming along to the rolling waves...
+Media:vo eqyq003 11 barbara 04b 2.ogg Barbara: It's so romantic...
+Media:vo eqyq003 11 barbara 04b 3.ogg Barbara: And with you here, the summer feels just that much more special.
+Media:vo eqyq003 11 barbara 04b.ogg Barbara: I know my sister is always telling us to keep our guards up, but for me, these islands are a lot of fun.
+Media:vo eqyq003 11 barbara 04c 1.ogg Barbara: Well, I—I... Actually, I...
+Media:vo eqyq003 11 barbara 04c 2.ogg Barbara: *sigh* You wanna know the truth?
+Media:vo eqyq003 11 barbara 04c 3.ogg Barbara: I only came to the islands out of concern for everyone's safety... Though, I admit.... that I didn't want to miss out on traveling together with all of you either.
+Media:vo eqyq003 11 barbara 04c 4.ogg Barbara: I—I hope you won't laugh at me. After all, a deaconess shouldn't concern herself with matters of fun and games...
+Media:vo eqyq003 11 barbara 04c 5.ogg Barbara: Phew... then I'm glad.
+Media:vo eqyq003 11 barbara 04c.ogg Barbara: Oh... me?
+Media:vo eqyq003 11 barbara 04d 1.ogg Barbara: I want to use this opportunity to get closer to everyone... especially my sister.
+Media:vo eqyq003 11 barbara 04d 2.ogg Barbara: It might just be her personality, but she's always incredibly busy. She carries a lot on her shoulders.
+Media:vo eqyq003 11 barbara 04d 3.ogg Barbara: I hope she can start to take more time for herself and relax a little more... At the very least, I hope I can make her happy when I'm around.
+Media:vo eqyq003 11 barbara 04d 4.ogg Barbara: I wonder if I should sing her a song? Hmm...
+Media:vo eqyq003 11 barbara 04d.ogg Barbara: I had no idea the others would be here, too. It was so nice to have everyone suddenly together like that.
+Media:vo eqyq003 12 klee 01.ogg Klee: Okay~ When you want to go fish bombing, just remember to find me!
+Media:vo eqyq003 12 klee 02.ogg Klee: Ooh, okay!
+Media:vo eqyq003 12 klee 03a 1a.ogg Media:vo eqyq003 12 klee 03a 1b.ogg Klee: That big meanie must be a bad guy! (Mr./Miss) Honorary Knight must be careful.
+Media:vo eqyq003 12 klee 03a 2.ogg Klee: Even though I haven't seen him yet, I will definitely protect Dodoco. I won't let Dodoco be taken away!
+Media:vo eqyq003 12 klee 03a 3.ogg Klee: Even if he's Dodoco's, Dodoco's... uh, grandpa? Brother? Or whatever...
+Media:vo eqyq003 12 klee 03a 4.ogg Klee: No matter who Dodo-King is, I won't lose!
+Media:vo eqyq003 12 klee 03b 1.ogg Klee: I love it here!
+Media:vo eqyq003 12 klee 03b 2.ogg Klee: There are beaches, the ocean...
+Media:vo eqyq003 12 klee 03b 3.ogg Klee: And the harpastum that Barbara gave me, and all the other wonderful things! Everyone here makes it really exciting!
+Media:vo eqyq003 12 klee 03b 4.ogg Klee: I'm super happy!
+Media:vo eqyq003 12 klee 03c 1.ogg Klee: Actually, I'm a little scared...
+Media:vo eqyq003 12 klee 03c 2.ogg Klee: If I fail, then Dodoco will leave me...
+Media:vo eqyq003 12 klee 03c 3a.ogg Media:vo eqyq003 12 klee 03c 3b.ogg Klee: (Mr./Miss) Honorary Knight, will you protect Dodoco?
+Media:vo eqyq003 12 klee 03c 4.ogg Klee: Really? As long as you're around, Dodoco and me are safe. Hehe, thank you!
+Media:vo eqyq003 12 klee 03d 1.ogg Klee: Hmm. I still don't understand some things.
+Media:vo eqyq003 12 klee 03d 2.ogg Klee: But everyone's here now, and even Mr. Albedo and Razor are here, too. It's nice!
+Media:vo eqyq003 12 klee 03d 3.ogg Klee: Hehe... There are even more games we can play. I love being with everyone!
+Media:vo eqyq003 12 klee 04a.ogg Media:vo eqyq003 12 klee 04b.ogg Klee: Oh, it's (Mr./Miss) Honorary Knight!
+Media:vo eqyq003 13 albedo 01.ogg Albedo: Hm? Oh, it's you. Taking a walk around these parts?
+Media:vo eqyq003 13 albedo 02.ogg Albedo: Alright, good night.
+Media:vo eqyq003 13 albedo 03.ogg Albedo: Okay. What would you like to discuss?
+Media:vo eqyq003 13 albedo 04a 1.ogg Albedo: It was a good experience. In the sky, just speaking requires you to muster all your strength since the winds are so strong.
+Media:vo eqyq003 13 albedo 04a 2.ogg Albedo: Opportunities to communicate loudly with others are scarce. Although I have little interest in it, the process was interesting.
+Media:vo eqyq003 13 albedo 04a 3.ogg Albedo: I suppose this can be considered an unforgettable memory.
+Media:vo eqyq003 13 albedo 04a.ogg Albedo: I have conducted all manner of research, but flying from Mondstadt to this island on a dragon... That was a first.
+Media:vo eqyq003 13 albedo 04b 1.ogg Albedo: And yet, the island still contains traces of human activity.
+Media:vo eqyq003 13 albedo 04b 2.ogg Albedo: Additionally, a plethora of organisms are present here.
+Media:vo eqyq003 13 albedo 04b 3.ogg Albedo: Ever since we arrived, I've been thinking: What is the limit to life? Even in the most desolate of places, will some form of life exist?
+Media:vo eqyq003 13 albedo 04b.ogg Albedo: The nature of this island is extraordinary. Like a sealed-away secret, it opens only at specific times.
+Media:vo eqyq003 13 albedo 04c 1.ogg Albedo: How do you feel here, if I might ask?
+Media:vo eqyq003 13 albedo 04c 2.ogg Albedo: Okay, that's good to hear.
+Media:vo eqyq003 13 albedo 04c 3.ogg Albedo: There are many landscapes worth drawing here. If you'd like to see, you may accompany me.
+Media:vo eqyq003 13 albedo 04c.ogg Albedo: Me? I'm doing quite well here. Thank you for your concern.
+Media:vo eqyq003 13 albedo 04d 1.ogg Albedo: Hmm? Sorry, do you mean when I left by myself?
+Media:vo eqyq003 13 albedo 04d 2.ogg Albedo: That was a personal choice. Don't stress over it. Sometimes, I like to be alone.
+Media:vo eqyq003 13 albedo 04d 3.ogg Albedo: Communicating with others can be a taxing affair, but if I were to choose someone to talk to, I would pick you.
+Media:vo eqyq003 13 albedo 04d 4.ogg Albedo: You're intelligent, and I like to talk to intelligent people.
+Media:vo eqyq003 13 albedo 04d.ogg Albedo: Today's events didn't feel that out of the ordinary.
+Media:vo eqyq003 14 kaeya 01.ogg Kaeya: Oh, you've arrived at a most opportune time, Honorary Knight. Klee just invited me to catch lizards with her. Care to join?
+Media:vo eqyq003 14 kaeya 02.ogg Kaeya: Going so soon? Huh... Then have a good night.
+Media:vo eqyq003 14 kaeya 03.ogg Kaeya: Sure. Let's take advantage of the precious time left until lizard duty.
+Media:vo eqyq003 14 kaeya 04a 1.ogg Kaeya: *sigh* Why do you think of me so? Of course I have a special reason for coming here.
+Media:vo eqyq003 14 kaeya 04a 2.ogg Kaeya: Generally speaking, I'm responsible for wrapping up various cases... But this particular incident is special.
+Media:vo eqyq003 14 kaeya 04a 3.ogg Kaeya: You see, not only is the Acting Grand Master here, but the former fiery Cavalry Captain as well. Naturally, I had to see it for myself.
+Media:vo eqyq003 14 kaeya 04a 4.ogg Kaeya: Also, it seems like I ought to appreciate the splendid scenery and enjoy every second of summer.
+Media:vo eqyq003 14 kaeya 04a.ogg Kaeya: Let me guess, you're thinking something along the lines of, "Kaeya seized an opportunity to shirk his duties"?
+Media:vo eqyq003 14 kaeya 04b 1.ogg Kaeya: When beholding a beautiful view, your expression should complement its beauty.
+Media:vo eqyq003 14 kaeya 04b 2.ogg Kaeya: ...
+Media:vo eqyq003 14 kaeya 04b 3.ogg Kaeya: Just listening to the waves and recalling old memories... is also nice.
+Media:vo eqyq003 14 kaeya 04b.ogg Kaeya: A lovely place, wouldn't you agree?
+Media:vo eqyq003 14 kaeya 04c 1.ogg Kaeya: Wouldn't it be great if we could age in reverse? To be a child again and free yourself from the strife of the adult world.
+Media:vo eqyq003 14 kaeya 04c 2.ogg Kaeya: To be like Klee, unrestrained and free to do whatever you want.
+Media:vo eqyq003 14 kaeya 04c 3.ogg Kaeya: Hahaha, do you not also yearn for such a thing?
+Media:vo eqyq003 14 kaeya 04c.ogg Kaeya: Hmm, I just thought of something.
+Media:vo eqyq003 14 kaeya 04d 1.ogg Kaeya: He's has that expression on his face for years now. He internalizes a lot of his feelings.
+Media:vo eqyq003 14 kaeya 04d 2.ogg Kaeya: So I'm afraid that his face is stuck like that. Just treat him like a big kid.
+Media:vo eqyq003 14 kaeya 04d 3.ogg Kaeya: In my opinion, it would be a good thing if people could stay young forever.
+Media:vo eqyq003 14 kaeya 04d 4.ogg Kaeya: Hm? What is that you ask? Hahaha, would I do such a thing? I wasn't jibing him.
+Media:vo eqyq003 14 kaeya 04d 5.ogg Kaeya: Whether they be adults or children, everyone on this island sure is a source of concern.
+Media:vo eqyq003 14 kaeya 04d.ogg Kaeya: What's the matter? Diluc's scowl still bothering you?
+Media:vo eqyq003 15 diluc 01.ogg Diluc: Walking along the shore by yourself at this time of night seems lonesome.
+Media:vo eqyq003 15 diluc 02.ogg Diluc: Good night. Get some rest.
+Media:vo eqyq003 15 diluc 03.ogg Diluc: Sure.
+Media:vo eqyq003 15 diluc 04a.ogg Diluc: Now that I'm here, you can relax.
+Media:vo eqyq003 15 diluc 04b 1.ogg Diluc: But out of caution, I asked others about it. Sure enough, I wasn't the only recipient.
+Media:vo eqyq003 15 diluc 04b 2.ogg Diluc: This is clearly a premeditated act. The responsible party's objective has yet to be revealed, so I came here to investigate.
+Media:vo eqyq003 15 diluc 04b 3.ogg Diluc: The scenery here is not bad...
+Media:vo eqyq003 15 diluc 04b 4.ogg Diluc: Walking on the shore at night almost makes you feel like you're on a vacation.
+Media:vo eqyq003 15 diluc 04b 5.ogg Diluc: Could this be a ploy to lower our guard?
+Media:vo eqyq003 15 diluc 04b.ogg Diluc: I was skeptical of the letter from the beginning.
+Media:vo eqyq003 15 diluc 04c 1.ogg Diluc: Rather, I'm more concerned about your situation.
+Media:vo eqyq003 15 diluc 04c 2.ogg Diluc: How is it? Getting used to island life?
+Media:vo eqyq003 15 diluc 04c 3.ogg Diluc: If you need help, come find me any time.
+Media:vo eqyq003 15 diluc 04c 4.ogg Diluc: And if you find any clues, contact me at once.
+Media:vo eqyq003 15 diluc 04c 5.ogg Diluc: Speaking of which, Klee just asked me to help her catch fish. *sigh* Come with me, if you want to.
+Media:vo eqyq003 15 diluc 04c.ogg Diluc: Me? My affairs are hardly worth discussion.
+Media:vo eqyq003 15 diluc 04d 1.ogg Diluc: Frivolous happenings aren't worth your attention.
+Media:vo eqyq003 15 diluc 04d 2.ogg Diluc: And as for Kaeya... Hmph, he seems to be in high spirits.
+Media:vo eqyq003 15 diluc 04d 3.ogg Diluc: Even after all these years, he still enjoys summer as much as he did as a kid.
+Media:vo eqyq003 15 diluc 04d.ogg Diluc: Today? ...Oh, you mean that.
+Media:vo eqyq003 16 razor 01.ogg Razor: Oh, it's you.
+Media:vo eqyq003 16 razor 02.ogg Razor: Hmm, do you want to eat fish?
+Media:vo eqyq003 16 razor 03.ogg Razor: Mmm... Okay.
+Media:vo eqyq003 16 razor 04.ogg Razor: I'm... not good at it.
+Media:vo eqyq003 16 razor 05.ogg Razor: But, I'll stay with you.
+Media:vo eqyq003 16 razor 06a 1.ogg Razor: So, I came down...
+Media:vo eqyq003 16 razor 06a 2.ogg Razor: This place... is salty. There also leaves, grass, fruit.
+Media:vo eqyq003 16 razor 06a 3.ogg Razor: Your scent... smells nice.
+Media:vo eqyq003 16 razor 06a.ogg Razor: Scent is very strong. In the sky, can smell.
+Media:vo eqyq003 16 razor 06b 1.ogg Razor: Left, right, everywhere.
+Media:vo eqyq003 16 razor 06b 2.ogg Razor: But, I like swimming.
+Media:vo eqyq003 16 razor 06b.ogg Razor: Too... too much water.
+Media:vo eqyq003 16 razor 06c 1.ogg Razor: So I came to look. Yes.
+Media:vo eqyq003 16 razor 06c 2.ogg Razor: Right now, I'm hungry...
+Media:vo eqyq003 16 razor 06c 3.ogg Razor: I want to eat fish. And meat...
+Media:vo eqyq003 16 razor 06c.ogg Razor: I was worried.
+Media:vo eqyq003 16 razor 06d 1.ogg Razor: Everyone's okay. That's good.
+Media:vo eqyq003 16 razor 06d 2.ogg Razor: No bad things! I... would be scared.
+Media:vo eqyq003 16 razor 06d 3.ogg Razor: I'll protect everyone.
+Media:vo eqyq003 16 razor 06d.ogg Razor: Today, I find you all.
+Media:vo eqyq003 17 lisa 01.ogg Lisa: Hmmm. Both Jean and Kaeya are absent... How peculiar.
+Media:vo eqyq003 17 lisa 02.ogg Lisa: But rather than suddenly embarking on some journey, I much prefer to stay in the office and read while I work.
+Media:vo eqyq003 2 barbara 01.ogg Barbara: Huh? So it's not Dodo-King?
+Media:vo eqyq003 2 barbara 02.ogg Barbara: Wow!
+Media:vo eqyq003 2 barbara 03.ogg Barbara: Also, what was that white smoke I just saw?
+Media:vo eqyq003 2 barbara 04.ogg Barbara: Oh, so what I saw earlier was just steam from vaporized water?
+Media:vo eqyq003 2 barbara 05.ogg Barbara: R—Regardless, things seem to be livelier now, which is good.
+Media:vo eqyq003 2 diluc 01.ogg Diluc: ...
+Media:vo eqyq003 2 diluc 02.ogg Diluc: Hmm. Dodo-King... huh.
+Media:vo eqyq003 2 diluc 03.ogg Diluc: You seem surprised. Dragon flights are a fairly conspicuous affair. Eye-catching, one could say.
+Media:vo eqyq003 2 diluc 04.ogg Diluc: It would seem that people noticed a dragon, but not necessarily a cargo. Still, word spread quickly that a dragon was in town.
+Media:vo eqyq003 2 diluc 05.ogg Diluc: Ugh.
+Media:vo eqyq003 2 diluc 06.ogg Diluc: Albedo and Razor.
+Media:vo eqyq003 2 diluc 07.ogg Diluc: Ugh... is that so.
+Media:vo eqyq003 2 diluc 08.ogg Diluc: For some reason, I remember that our initial landing zone was the island over there with the higher mountains. Only at your insistence did we change course and land here.
+Media:vo eqyq003 2 diluc 09.ogg Diluc: Sure.
+Media:vo eqyq003 2 diluc 10.ogg Diluc: For now, it's impossible to locate Razor. As for Albedo, he went that way.
+Media:vo eqyq003 2 kaeya 01.ogg Kaeya: ...
+Media:vo eqyq003 2 kaeya 02.ogg Kaeya: Huh! I had no idea we'd run into you here. An unexpected pleasure.
+Media:vo eqyq003 2 kaeya 03.ogg Kaeya: So it was Dodo-King who invited you to these islands.
+Media:vo eqyq003 2 kaeya 04.ogg Kaeya: What a coincidence.
+Media:vo eqyq003 2 kaeya 05.ogg Kaeya: I'll get to that. But first, I want to enjoy some of this island sunshine. Master Diluc might actually get a tan.
+Media:vo eqyq003 2 kaeya 06.ogg Kaeya: Storms and fog? We must've gotten lucky. When we arrived here, there wasn't a single patch of fog in sight. Now it feels like I'm on vacation.
+Media:vo eqyq003 2 kaeya 07.ogg Kaeya: But as you know, a boat wouldn't have made it over. We had no choice but to use the same method of transport as you did.
+Media:vo eqyq003 2 kaeya 08.ogg Kaeya: Who knew that everyone's favorite bard had the power to summon dragons?
+Media:vo eqyq003 2 kaeya 09.ogg Kaeya: I guess Dvalin must be a die-fan of classical ballads...
+Media:vo eqyq003 2 kaeya 10.ogg Kaeya: Hahaha, you assume? The Acting Grand Master's jokes have improved as of late. Do we seem like fitting travel companions to you?
+Media:vo eqyq003 2 kaeya 11.ogg Kaeya: There were actually two others that arrived with us on the island. They wandered off, for various reasons.
+Media:vo eqyq003 2 kaeya 12.ogg Kaeya: Let's just say that big egos aren't conductive to team cohesion...
+Media:vo eqyq003 2 kaeya 13.ogg Kaeya: Hahahaha, an incisive observation. Nothing ever gets past the Honorary Knight.
+Media:vo eqyq003 2 kaeya 14.ogg Kaeya: The mighty Librarian, Lisa, of course.
+Media:vo eqyq003 2 kaeya 15.ogg Kaeya: Not to worry. In some ways, she's stricter than either of us. Any evildoers in Mondstadt need to watch out for the next several days.
+Media:vo eqyq003 2 kaeya 16.ogg Kaeya: Ah yes, that... I should start with how we ended up here...
+Media:vo eqyq003 2 kaeya 17.ogg Kaeya: We arrived by dragon, but as soon as we entered the island's vicinity, something caught Razor's eye. He jumped straight off of the dragon's back and vanished into the ocean.
+Media:vo eqyq003 2 kaeya 18.ogg Kaeya: We worried that he'd be in danger, so we also leaped off the dragon and glided onto this island. But, as you can see, this is but a deserted land.
+Media:vo eqyq003 2 kaeya 19.ogg Kaeya: Based on previous experience, I decided that it would be best to wait for contact, while Diluc believed that Razor wouldn't return to find us. During our little dispute, Albedo quietly disappeared on us.
+Media:vo eqyq003 2 kaeya 20.ogg Kaeya: Hahaha... Who knows, perhaps we're fated to be doomed together. Right, Master Diluc?
+Media:vo eqyq003 2 kaeya 21.ogg Kaeya: Albedo is an alchemist and skilled at his craft. If I could use those beautiful artificial flowers of his, it would be a simple affair to traverse these islands.
+Media:vo eqyq003 2 kaeya 22.ogg Kaeya: Oh my, but your footsteps melted the water that I took such effort to freeze. Who made Cryo and Pyro so incompatible? If you had a Geo Vision, I'd be long asleep on one of the other islands.
+Media:vo eqyq003 2 kaeya 23.ogg Kaeya: But of course.
+Media:vo eqyq003 2 klee 01.ogg Klee: It's Kaeya and the weird grown-up!
+Media:vo eqyq003 2 klee 02.ogg Klee: Albedo and Razor? Yay!
+Media:vo eqyq003 2 paimon 01.ogg Paimon: Look, there are two figures over there!
+Media:vo eqyq003 2 paimon 02.ogg Paimon: Hmm... Huh? It looks like...
+Media:vo eqyq003 2 paimon 03.ogg Paimon: What the heck are they doing here!?
+Media:vo eqyq003 2 paimon 04.ogg Paimon: Wait, did you two sail here? How did you get past the storms and fog?
+Media:vo eqyq003 2 paimon 05.ogg Paimon: Eh!? You mean Dvalin carried you over here, too!?
+Media:vo eqyq003 2 paimon 06.ogg Paimon: So who were the two others?
+Media:vo eqyq003 2 paimon 07.ogg Paimon: Huh!?
+Media:vo eqyq003 2 paimon 08.ogg Paimon: Don't tell us you all came here for a vacation!
+Media:vo eqyq003 2 paimon 09.ogg Paimon: Hold on! How come he was able to walk off but you two are stuck here?
+Media:vo eqyq003 2 paimon 10.ogg Paimon: Paimon still can't tell if you guys are really close or hate each other's guts...
+Media:vo eqyq003 2 paimon 11.ogg Paimon: Then there's no time to lose, let's go look for him!
+Media:vo eqyq003 2 qin 01.ogg Jean: What are you two doing here?
+Media:vo eqyq003 2 qin 02.ogg Jean: What do you mean?
+Media:vo eqyq003 2 qin 03.ogg Jean: Wait, so everyone found out that I...?
+Media:vo eqyq003 2 qin 04.ogg Jean: Phew, thank goodness.
+Media:vo eqyq003 2 qin 05.ogg Jean: Hehe...
+Media:vo eqyq003 2 qin 06.ogg Jean: I—I assume you two traveled here together?
+Media:vo eqyq003 2 qin 07.ogg Jean: Various reasons?
+Media:vo eqyq003 2 qin 08.ogg Jean: Wait. Kaeya, if you're here, then who is is overseeing the Knights of Favonius?
+Media:vo eqyq003 2 qin 09.ogg Jean: Thankfully Lisa's there...
+Media:vo eqyq003 2 qin 10.ogg Jean: Um, where did Albedo and Razor go?
+Media:vo eqyq003 2 qin 11.ogg Jean: Yes, it's a boon to have extra allies in an unknown situation. You two, please join our travels.
+Media:vo eqyq003 2 qin 12.ogg Jean: Our top priority is to find Albedo and Razor. Do you know which direction they went?
+Media:vo eqyq003 3 albedo 01.ogg ???: Hm? Is that the Traveler and Paimon?
+Media:vo eqyq003 3 albedo 02.ogg Albedo: Hello everyone, hello Klee.
+Media:vo eqyq003 3 albedo 03.ogg Albedo: I thought that we might convene around this time.
+Media:vo eqyq003 3 albedo 04.ogg Albedo: Please, don't mention it. I felt that the two of you could do with some alone time.
+Media:vo eqyq003 3 albedo 05.ogg Albedo: I received a letter.
+Media:vo eqyq003 3 albedo 06.ogg Albedo: Everyone's letter was different, and yet all of them drew us to this archipelago.
+Media:vo eqyq003 3 albedo 07.ogg Albedo: My letter was very simple: "I have Klee. If you wish to see her, come to the Golden Apple Archipelago."
+Media:vo eqyq003 3 albedo 08.ogg Albedo: Correct. It would appear that I have been successfully coerced.
+Media:vo eqyq003 3 albedo 09.ogg Albedo: Something caught Razor's attention on the journey over, or he wouldn't have leaped from the dragon's back.
+Media:vo eqyq003 3 albedo 10.ogg Albedo: I've examined this island. His footprints are nowhere to be found, and there's no sign of a boat having left.
+Media:vo eqyq003 3 albedo 11.ogg Albedo: Based on our position and bearing when he made the jump... if he didn't land here, then he must've made his way over there.
+Media:vo eqyq003 3 albedo 12.ogg Albedo: You've already been there?
+Media:vo eqyq003 3 albedo 13.ogg Albedo: Could that be what caught Razor's attention?
+Media:vo eqyq003 3 barbara 01.ogg Barbara: Oh! Didn't Razor get a letter too?
+Media:vo eqyq003 3 diluc 01.ogg Diluc: They were all signed, Dodo-King.
+Media:vo eqyq003 3 diluc 02.ogg Diluc: "There is an Abyss Order stronghold among the deserted islands. Make haste."
+Media:vo eqyq003 3 diluc 03.ogg Diluc: I never trusted the letter to begin with.
+Media:vo eqyq003 3 diluc 04.ogg Diluc: Having heard the contents of the letters, it became abundantly clear that something wasn't right.
+Media:vo eqyq003 3 diluc 05.ogg Diluc: I don't believe this so-called Dodo-King exists. But there is someone or something with a reason for luring us here together.
+Media:vo eqyq003 3 diluc 06.ogg Diluc: ...If you say so.
+Media:vo eqyq003 3 kaeya 01.ogg Kaeya: I trust you enjoyed your stroll? How kind of you to maroon us on that neighboring island.
+Media:vo eqyq003 3 kaeya 02.ogg Kaeya: On the way over, the four of us shared what we knew. A mysterious letter appeared outside each of our doors.
+Media:vo eqyq003 3 kaeya 03.ogg Kaeya: Anyone else find it hard not to crack a smile when Master Diluc says "Dodo-King"?
+Media:vo eqyq003 3 kaeya 04.ogg Kaeya: My letter was similarly straightforward. "Among the deserted islands you will find a sunken pirate ship. Within lies great treasure and long-lost antique vases of incredible rarity."
+Media:vo eqyq003 3 kaeya 05.ogg Kaeya: Haha, it would appear that someone came to learn of the circumstances surrounding the eyepatch that my grandfather left me.
+Media:vo eqyq003 3 kaeya 06.ogg Kaeya: You have to admire their strategy. The right bait for the right fish.
+Media:vo eqyq003 3 kaeya 07.ogg Kaeya: Yes, it would appear that the grown-ups among us came here primarily to understand what was behind the curtain.
+Media:vo eqyq003 3 kaeya 08.ogg Kaeya: He did, though he couldn't read it. A certain kindhearted, cat-eared gentleman that he encountered on the way over was able to relay the contents to him.
+Media:vo eqyq003 3 kaeya 09.ogg Kaeya: The content of Razor's letter was no more complex: "The red, burny girl has gone to the islands. She needs help."
+Media:vo eqyq003 3 klee 01.ogg Klee: Mr. Albedooo!
+(The party walks around the island in search of Albedo)
+Media:vo eqyq003 3 klee 02.ogg Klee: Mr. Albedo!
+Media:vo eqyq003 3 klee 03.ogg Klee: No, no! Dodo-King is real! He's... He's Dodo-King!
+Media:vo eqyq003 3 paimon 01.ogg Paimon: This island is really big... Where could he be?
+Media:vo eqyq003 3 paimon 02.ogg Paimon: Albedooo! Come ouuut!
+Media:vo eqyq003 3 paimon 03.ogg Paimon: Whoa, he just came outta nowhere behind us!
+Media:vo eqyq003 3 paimon 04.ogg Paimon: That's blackmail! Dodo-King's trying to coerce you!
+Media:vo eqyq003 3 paimon 05.ogg Paimon: Classic Kaeya. Does anyone have a clue what he's talking about?
+Media:vo eqyq003 3 paimon 06.ogg Paimon: Anyway, so what's your story, Diluc?
+Media:vo eqyq003 3 paimon 07.ogg Paimon: So strange, they're all personalized... But why did Dodo-King gather everyone here?
+Media:vo eqyq003 3 paimon 08.ogg Paimon: Oh! Paimon knows, Paimon knows! It must be Draff, right?
+Media:vo eqyq003 3 paimon 09.ogg Paimon: We were there a few days ago. There was a mysterious machine. Jean said that it came from Inazuma.
+Media:vo eqyq003 3 qin 01.ogg Jean: Albedo, why did you come here?
+Media:vo eqyq003 3 qin 02.ogg Jean: *sigh* This is indeed a mysterious case.
+Media:vo eqyq003 3 qin 03.ogg Jean: A kindhearted cat-eared gentleman... On the way over...
+Media:vo eqyq003 3 qin 04.ogg Jean: Everyone, let's head to the central platform.
+Media:vo eqyq003 4 albedo 01.ogg Albedo: Oh?
+Media:vo eqyq003 4 barbara 01.ogg Barbara: Are you hurt? Do you need healing?
+Media:vo eqyq003 4 barbara 02.ogg Barbara: It might reawaken Dodo-King himself!
+Media:vo eqyq003 4 diluc 01.ogg Diluc: Razor did mention that his letter had a peculiar smell.
+Media:vo eqyq003 4 diluc 02.ogg Diluc: Not so fast! We need to think this through. What will happen if we reinsert the missing component?
+Media:vo eqyq003 4 kaeya 01.ogg Kaeya: Then we will be ready for him. Honorary Knight, prepare yourself.
+Media:vo eqyq003 4 klee 01.ogg Klee: Razor!
+Media:vo eqyq003 4 klee 02a.ogg Klee: Yeah! Klee trusts the Honorary Knight too...
+Media:vo eqyq003 4 paimon 01.ogg Paimon: Look! Over there!
+Media:vo eqyq003 4 paimon 02.ogg Paimon: What's this? Is this a part of the machine?
+Media:vo eqyq003 4 paimon 03.ogg Paimon: You sure have a great sense of smell, Razor. *gasp* Did Dodo-King factor that in, too?
+Media:vo eqyq003 4 paimon 04.ogg Paimon: Klee really wanted to meet Dodo-King. That's why we came here, right, (Traveler)?
+Media:vo eqyq003 4 qin 01.ogg Jean: Razor, are you okay?
+Media:vo eqyq003 4 qin 02.ogg Jean: This Inazuman machine could well be something that Dodo-King left here for us to find... and activate.
+Media:vo eqyq003 4 razor 01.ogg Razor: Everyone.
+Media:vo eqyq003 4 razor 02.ogg Razor: I am here.
+Media:vo eqyq003 4 razor 03.ogg Razor: No need. Okay.
+Media:vo eqyq003 4 razor 04.ogg Razor: I... smelled something.
+Media:vo eqyq003 4 razor 05.ogg Razor: This, give to you.
+Media:vo eqyq003 4 razor 06.ogg Razor: Clear smell... Same as letter.
+Media:vo eqyq003 4 razor 07.ogg Razor: Also, this one and that one. *sniff* Same smell.
+Media:vo eqyq003 4 razor 08.ogg Razor: This thing... Put inside metal person. Same.
+Media:vo eqyq003 4 razor 09.ogg Razor: Here.
+Media:vo eqyq003 4 razor 10.ogg Razor: Yes! I... don't understand how...
+Media:vo eqyq003 4 razor 11.ogg Razor: Traveler is clever... Razor trusts.
+Media:vo eqyq003 5 klee 01.ogg Klee: Wow! Moving, it's moving!
+Media:vo eqyq003 5 paimon 01.ogg Paimon: Wait! Did... D—Did it move!?
+Media:vo eqyq003 6 albedo 01.ogg Albedo: Let's hope your faith in me is not misplaced.
+Media:vo eqyq003 6 albedo 02.ogg Albedo: Before we get to the crystals, why don't we start with the machine itself?
+Media:vo eqyq003 6 albedo 03.ogg Albedo: Our previous conjecture was correct. This giant in Inazuman attire is a machine modeled on the human form.
+Media:vo eqyq003 6 albedo 04.ogg Albedo: I'm afraid so. It possesses significant combat capabilities, and seems to be autonomous... But for it to attack us indiscriminately like this, I believe it must have been damaged some time ago.
+Media:vo eqyq003 6 albedo 05.ogg Albedo: Its outward appearance confirms its Inazuman origin.
+Media:vo eqyq003 6 albedo 06.ogg Albedo: It seems the answer to that question disappeared with the people that used to inhabit this archipelago.
+Media:vo eqyq003 6 albedo 07.ogg Albedo: I'm sure the shrewdest among you have already come to the same conclusion. These deserted islands bear signs of human activity.
+Media:vo eqyq003 6 albedo 08.ogg Albedo: I would go so far as to infer that this archipelago once held a human population. They were most likely visitors from elsewhere — not indigenous to the islands.
+Media:vo eqyq003 6 albedo 09.ogg Albedo: They may have spent a long time here before finding a way to return home. Since then, the island has been empty, with only a few scattered remnants of the past.
+Media:vo eqyq003 6 albedo 10.ogg Albedo: As for the crystals... hmm. They've been manufactured from a particularly rare type of ore... transparent... I believe they must have a specific function.
+Media:vo eqyq003 6 albedo 11.ogg Albedo: It sounds like someone wanted to commemorate the machine.
+Media:vo eqyq003 6 albedo 12.ogg Albedo: Hmm, I see.
+Media:vo eqyq003 6 albedo 13.ogg Albedo: What about the rest of you? Who do you think would want to commemorate a machine in this way?
+Media:vo eqyq003 6 albedo 14.ogg Albedo: If the machine co-existed with that first group of humans, then the memorial isn't so hard to understand. Of course, this is only a hypothesis.
+Media:vo eqyq003 6 albedo 15.ogg Albedo: As long as you didn't activate any mechanisms.
+Media:vo eqyq003 6 barbara 01.ogg Barbara: Yes, I had a look at it myself. How can I put it... It almost feels like someone left a heartfelt offering of... gratitude.
+Media:vo eqyq003 6 barbara 02.ogg Barbara: Co-existed... You mean, before it became damaged? I wonder what exactly happened to it.
+Media:vo eqyq003 6 barbara 03.ogg Barbara: What could it mean... does it have anything to do with those crystals?
+Media:vo eqyq003 6 diluc 01.ogg Diluc: Hmm... There is a hilichurl presence here. Perhaps this machine's indiscriminate attack is actually supposed to be targeted at hilichurls... to protect the inhabitants.
+Media:vo eqyq003 6 diluc 02.ogg Diluc: I'd say it's about time we went and investigated instead of standing here making wild guesses.
+Media:vo eqyq003 6 diluc 03.ogg Diluc: *sigh* Where does she get the energy...
+Media:vo eqyq003 6 kaeya 01.ogg Kaeya: Perhaps someone who was truly grateful. Only people that had benefited directly from the machine would leave a memorial like this.
+Media:vo eqyq003 6 kaeya 02.ogg Kaeya: An unlikely coincidence, I would've thought. In any case, this is all speculation. If we want to get to the bottom of it, we'll need more evidence.
+Media:vo eqyq003 6 kaeya 03.ogg Kaeya: And also... "southwesterly isle"..? Now, which island would that be?
+Media:vo eqyq003 6 kaeya 04.ogg Kaeya: You know, I had the exact same thought just now.
+Media:vo eqyq003 6 kaeya 05.ogg Kaeya: Haha, my apologies, Acting Grand Master. Honorary Knight, let's go and take a look.
+Media:vo eqyq003 6 klee 01.ogg Klee: Look! What's that?
+Media:vo eqyq003 6 klee 02.ogg Klee: People?
+Media:vo eqyq003 6 klee 03.ogg Klee: Look! Another letter! It must be Dodo-King!
+Media:vo eqyq003 6 klee 04.ogg Klee: "Mysterious Dodo-King, mysterious Dodo-King, he sleeps alone on the southwesterly isle. The bad child made him wait too long, the days grow dark, the stars are rising."
+Media:vo eqyq003 6 klee 05.ogg Klee: "Greedy spirit, greedy spirit, you made the moon run a ring. Keys of three colors guarded by a strange fish, the secret lies here, do you dare to proceed?"
+Media:vo eqyq003 6 klee 06.ogg Klee: There is, too! The island over there is really weird.
+Media:vo eqyq003 6 klee 07.ogg Klee: It has a big huge round thingy on it!
+Media:vo eqyq003 6 klee 08.ogg Klee: Oh, sorry. I just wanted to go for a walk...
+Media:vo eqyq003 6 klee 09.ogg Klee: I thought Master Jean is always busy with other things... You really mean it?
+Media:vo eqyq003 6 klee 10.ogg Klee: Yay! Okay!
+Media:vo eqyq003 6 paimon 01.ogg Paimon: Phew, finally...
+Media:vo eqyq003 6 paimon 02.ogg Paimon: Was it built for fighting? Like Ruin Guards?
+Media:vo eqyq003 6 paimon 03.ogg Paimon: We found a pile of stones and small flowers nearby. Do you think there's any connection?
+Media:vo eqyq003 6 paimon 04.ogg Paimon: A letter? Quick, read it!
+Media:vo eqyq003 6 paimon 05.ogg Paimon: We've looked all over these islands, but there's nothing interesting here...
+Media:vo eqyq003 6 paimon 06.ogg Paimon: If Paimon didn't know better, Paimon would think that Jean was Klee's mother!
+Media:vo eqyq003 6 qin 01.ogg Jean: Are those crystals?
+Media:vo eqyq003 6 qin 02.ogg Jean: But... as far as I know, Inazuma is still under the Sakoku Decree. How could such a massive piece of offensive weaponry have found its way here?
+Media:vo eqyq003 6 qin 03.ogg Jean: Yes, though we don't have any clues to go on... We should sweep the area again soon. But first, let's focus our attention on the problem at hand.
+Media:vo eqyq003 6 qin 04.ogg Jean: More cryptic riddles?
+Media:vo eqyq003 6 qin 05.ogg Jean: Klee, did you go off by yourself without authorization again?
+Media:vo eqyq003 6 qin 06.ogg Jean: *sigh* Even if it seems completely empty here, it's easy to run into danger when you're by yourself. Klee, next time you want to go anywhere, please tell me first, okay? We'll go together. How does that sound?
+Media:vo eqyq003 6 qin 07.ogg Jean: Of course.
+Media:vo eqyq003 6 qin 08.ogg Jean: Kaeya...
+Media:vo eqyq003 7 albedo 01.ogg Albedo: A reasonable inference. I agree.
+Media:vo eqyq003 7 barbara 01.ogg Barbara: I think Klee's right. It's such a huge energy shield. There must be some reason for it to be here.
+Media:vo eqyq003 7 diluc 01.ogg Diluc: Seems like some kind of energy shield.
+Media:vo eqyq003 7 kaeya 01.ogg Kaeya: Careful. All of you. Don't touch it. It might send us flying for all we know.
+Media:vo eqyq003 7 klee 01.ogg Klee: Big shield, big shield! Hmph, Klee knows you're in there!
+Media:vo eqyq003 7 klee 02.ogg Klee: Hey, Dodo-King! It's me! Klee! Come out and face me!
+Media:vo eqyq003 7 klee 03.ogg Klee: No! He's gotta be here!
+Media:vo eqyq003 7 klee 04.ogg Klee: The bigger the shield, the badder the Dodo-King must be!
+Media:vo eqyq003 7 klee 05.ogg Klee: Ready... Steady... Dadada!
+Media:vo eqyq003 7 paimon 01.ogg Paimon: Huh? Is this a shield? Hmm, it doesn't look very solid though...
+Media:vo eqyq003 7 paimon 02.ogg Paimon: No answer... Maybe he's not here.
+Media:vo eqyq003 7 paimon 03.ogg Paimon: Sounds like Klee logic to Paimon...
+Media:vo eqyq003 7 paimon 04.ogg Paimon: Come on, you don't wanna finish last place, do ya, (Traveler)? Let's go!
+Media:vo eqyq003 7 qin 01.ogg Jean: ...
+Media:vo eqyq003 7 qin 02.ogg Jean: An energy shield needs an energy source. If we can find the connected devices to the source, we should be able to destroy it.
+Media:vo eqyq003 7 qin 03.ogg Jean: Let's all look for any potential devices in the vicinity.
+Media:vo eqyq003 7 qin 04.ogg Jean: Klee! Walk, don't run!
+Media:vo eqyq003 8 albedo 01.ogg Albedo: Hmm...
+Media:vo eqyq003 8 albedo 02.ogg Albedo: These light-emitting devices each have a small frame in front of them. Looking at the shape here, it seems like something is supposed to be fixed in place.
+Media:vo eqyq003 8 albedo 03.ogg Albedo: Whatever it is, we'd be placing it into the frames in front of the light-emitting device... which means...
+Media:vo eqyq003 8 albedo 04.ogg Albedo: Would you look at that... The light being emitted is white, but the installations themselves each have their own color: red, blue, and yellow.
+Media:vo eqyq003 8 barbara 01.ogg Barbara: But all the shells we've seen were either bigger or smaller than this shape...
+Media:vo eqyq003 8 barbara 02.ogg Barbara: So that's what they're for...
+Media:vo eqyq003 8 barbara 03.ogg Barbara: Honorary Knight, didn't that big machine we just defeated drop something?
+Media:vo eqyq003 8 barbara 04.ogg Barbara: Light red like flower petals, light blue like ocean waves, light yellow like autumn leaves...
+Media:vo eqyq003 8 diluc 01.ogg Diluc: An oblong circle... Fan-shaped, I suppose.
+Media:vo eqyq003 8 diluc 02.ogg Diluc: If I'm not mistaken, this is a very particular type of installation. Light is integral to its function.
+Media:vo eqyq003 8 diluc 03.ogg Diluc: I've seen similar designs elsewhere. The light has to meet certain requirements or emit on a specific path. The mechanism is only activated if the light conditions are met.
+Media:vo eqyq003 8 diluc 04.ogg Diluc: It looks like these three crystals might be the answer to this whole riddle.
+Media:vo eqyq003 8 kaeya 01.ogg Kaeya: Hmm, what could it be... We're by the ocean... This shape is a seashell, perhaps?
+Media:vo eqyq003 8 kaeya 02.ogg Kaeya: If it's not a shell, then it's got to be... Ah — a fish scale.
+Media:vo eqyq003 8 kaeya 03.ogg Kaeya: It would appear that these three installations are the keys to activating the energy shield.
+Media:vo eqyq003 8 kaeya 04.ogg Kaeya: Huh, that's right.
+Media:vo eqyq003 8 klee 01.ogg Klee: Quick! Look, look!
+Media:vo eqyq003 8 klee 02.ogg Klee: Um, I don't get it! Someone explain...
+Media:vo eqyq003 8 klee 03.ogg Klee: It will work! Don't jinx it!
+Media:vo eqyq003 8 paimon 01.ogg Paimon: Hmm... This does look like it could have something to do with the shield...
+Media:vo eqyq003 8 paimon 02.ogg Paimon: What shape is that?
+Media:vo eqyq003 8 paimon 03.ogg Paimon: A fish scale? But why would we want to put a fish scale there?
+Media:vo eqyq003 8 paimon 04.ogg Paimon: Right!
+Media:vo eqyq003 8 paimon 05.ogg Paimon: "Keys of three colors guarded by a strange fish"!
+Media:vo eqyq003 8 paimon 06.ogg Paimon: So that's the plan! In that case, Paimon's got something to say!
+Media:vo eqyq003 8 paimon 07.ogg Paimon: On the way over, Paimon saw a huge conch shell with lots of fish swimming around it.
+Media:vo eqyq003 8 paimon 08.ogg Paimon: If we're placing the crystals in the sea, then surely that's the best place to do it! Plus, the water is pretty shallow over there — it'll be easy to get the crystals back if the plan doesn't work.
+Media:vo eqyq003 8 paimon 09.ogg Paimon: Okay, okay it'll work! Everyone, follow Paimon!
+Media:vo eqyq003 8 qin 01.ogg Jean: Three devices in total. And look, the light converges in one place. Albedo, are we able to deactivate the shield from here?
+Media:vo eqyq003 8 qin 02.ogg Jean: Are there any other clues around?
+Media:vo eqyq003 8 qin 03.ogg Jean: I've never seen anything like this...
+Media:vo eqyq003 8 qin 04.ogg Jean: Give precious things to the "greedy spirit" in the sea... Is that what we have to do?
+Media:vo eqyq003 8 qin 05.ogg Jean: If my understanding is correct... Honorary Knight, I suggest that you place the crystals in the sea.
+Media:vo eqyq003 8 qin 06.ogg Jean: I believe that this "greedy spirit" is most likely an ocean-dwelling fish. If the crystals do attract it to us, then we're a step closer to obtaining our fish scales.
+Media:vo eqyq003 8 razor 01.ogg Razor: Yes, just like the letter.
+Media:vo eqyq003 9 barbara 01.ogg Barbara: Klee, was there anything else in that letter?
+Media:vo eqyq003 9 barbara 02.ogg Barbara: So... maybe this type of fish only comes out after dark?
+Media:vo eqyq003 9 barbara 03.ogg Barbara: Albedo said that he wanted to spend some time alone painting.
+Media:vo eqyq003 9 diluc 01.ogg Diluc: Or to put it another way, we're gonna be here all night... Hmph.
+Media:vo eqyq003 9 diluc 02.ogg Diluc: Ugh...
+Media:vo eqyq003 9 diluc 03.ogg Diluc: Hardly. I'm more interested in peace and quiet.
+Media:vo eqyq003 9 diluc 04.ogg Diluc: Amuse yourselves however you see fit. I'm taking my leave.
+Media:vo eqyq003 9 kaeya 01.ogg Kaeya: Is it time for a break already? Fantastic, I was just thinking about taking a stroll.
+Media:vo eqyq003 9 kaeya 02.ogg Kaeya: Haha, who knows? These are big islands... there are bound to be more than a few secrets hidden away.
+Media:vo eqyq003 9 kaeya 03.ogg Kaeya: Captain Kaeya's on the case!
+Media:vo eqyq003 9 klee 01.ogg Klee: Uh... Um... What was it...
+Media:vo eqyq003 9 klee 02.ogg Klee: Yeah! Yeah! Let's go fish blasting!
+Media:vo eqyq003 9 klee 03.ogg Klee: Will Master Jean come too? Jean said if Klee wants to go anywhere, she must tell Jean, and then we can go together! Right?
+Media:vo eqyq003 9 klee 04.ogg Klee: It's way worth it! The fish will taste sooo goood!
+Media:vo eqyq003 9 klee 05.ogg Klee: Find some fish, find some fish! Let's go!
+Media:vo eqyq003 9 klee 06.ogg Klee: Klee's gonna get there first!
+Media:vo eqyq003 9 paimon 01.ogg Paimon: That should do it, right?
+Media:vo eqyq003 9 paimon 02.ogg Paimon: But... where are the fish?
+Media:vo eqyq003 9 paimon 03.ogg Paimon: Is Paimon hearing things? Jean and Klee are gonna go fish blasting!?
+Media:vo eqyq003 9 paimon 04.ogg Paimon: Well, there they go...
+Media:vo eqyq003 9 paimon 05.ogg Paimon: Meaning... You're off on another pirate treasure hunt?
+Media:vo eqyq003 9 paimon 06.ogg Paimon: Master Diluc, aren't you interested in pirate treasure?
+Media:vo eqyq003 9 paimon 07.ogg Paimon: Paimon doesn't think you'll settle for nothing to do...
+Media:vo eqyq003 9 paimon 08.ogg Paimon: For a bunch of grown-ups, they really can't sit still for more than a few seconds. So restless!
+Media:vo eqyq003 9 paimon 09.ogg Paimon: At least Albedo's able to sit and enjoy the... Eh!? Albedo!?
+Media:vo eqyq003 9 paimon 10.ogg Paimon: Jeez, what's up with everyone!? Seems like we're all overdue for a vacation!
+Media:vo eqyq003 9 paimon 11.ogg Paimon: That's Jean for you, always reliable.
+Media:vo eqyq003 9 qin 01.ogg Jean: "Greedy spirit, greedy spirit, you made the moon run a ring..."
+Media:vo eqyq003 9 qin 02.ogg Jean: Hold on, Klee...
+Media:vo eqyq003 9 qin 03.ogg Jean: ...Yes, I did say that.
+Media:vo eqyq003 9 qin 04.ogg Jean: *sigh* Alright then... Time to go fish blasting with Klee.
+Media:vo eqyq003 9 qin 05.ogg Jean: This is a deserted island, so explosions shouldn't trouble anyone... It's just a bit of relaxation, right?
+Media:vo eqyq003 9 qin 06.ogg Jean: Wait! Wait!
+Media:vo eqyq003 9 qin 07.ogg Jean: It's not often that we get a taste of island living, I'm not surprised that everyone wants some time to themselves.
+Media:vo eqyq003 9 qin 08.ogg Jean: Everyone should enjoy the break while it lasts! I'll convene everyone when the fish arrives.
+Media:vo eqyq003 9 qin 09.ogg Jean: I suppose we have to let our focus drift a little... but at the end of the day, you can't deny that this ocean view really is something.
+Media:vo eqyq003 9 qin 10.ogg Jean: Traveler, make sure you take a little time to enjoy yourself, too.
+Media:vo eqyq003 9 qin 11.ogg Jean: No, I... I was just...
+Media:vo eqyq003 9 qin 12.ogg Jean: ...
+Media:vo eqyq003 9 qin 13.ogg Jean: What I mean is... I hope you enjoy yourself here.
+Media:vo eqyq003 9 qin 14.ogg Jean: No matter what is waiting for us down the line, I will protect everyone... especially Klee. This is my duty as the Acting Grand Master of the Knights of Favonius.
+Media:vo eqyq003 9 qin 15.ogg Jean: Traveler...
+Media:vo eqyq003 9 qin 16.ogg Jean: Thank you. It is nice of you to say so.
+Media:vo eqyq003 9 qin 17.ogg Jean: Anyway, I hope we can all find moments of peace and happiness on this beach.
+Media:vo eqyq003 9 qin 18.ogg Jean: Well... if Razor is going, then I suppose it's fine. Once everyone is settled in, I will go after them.
+Media:vo eqyq003 9 razor 01.ogg Razor: Catch fish... eat.
+Media:vo eqyq003 9 razor 02.ogg Razor: *grunt*
+Media:vo eqyq003 9 razor 03.ogg Razor: There... many fish.

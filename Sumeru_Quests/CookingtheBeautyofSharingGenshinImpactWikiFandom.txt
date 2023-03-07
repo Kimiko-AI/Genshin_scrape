@@ -1,0 +1,185 @@
+
+(After defeating the Ruin Drake)
+Paimon: Well, the Ruin Drake is gone. Let's go wake up Araphala.
+Paimon: He won't be afraid to leave that cave now!
+
+Araphala: I don't want to go outside while such a scary and huge monster is roaming the area. I'm sorry, my "sister."
+Paimon: Oh, Paimon sees. But Festival Utsava is coming, you should return home.
+Araphala: Festival Utsava is meant to be carefree, but I'll care for my life if I leave this place. *snore* I can't do that for Festival Utsava...
+Araphala: *snore* *snore* Nara Varuna...
+Paimon: Ugh... This guy...
+Paimon: What do we do, (Traveler)?
+ Let's deal with the big scary monster.
+ Ah, that huge monster! So scary!
+Paimon: ...Paimon doesn't think anything can be scarier than Stormterror. In fact, Paimon wonders how Aranara would describe Stormterror?
+ "A million Araphalas tall!"
+Paimon: "To walk from its tail to the head, the moon will rise and fall!"
+Paimon: C'mon, let's help him deal with that monster outside.
+(Talk to Araphala again)
+Araphala: *snore* When will you be back? *snore*
+ (Let's wake him up once we take care of the monster...)
+
+Paimon: Speaking of which, we did see a Ruin Drake on the way here. Is that the huge monster you mentioned?
+Araphala: Is that how Nara call it? Perhaps. Very likely.
+ We've taken care of it.
+ Ah, that huge monster! So scary!
+Paimon: ...Was it that scary though?
+Araphala: Yes, looks like Nara understands that it's very scary.
+Paimon: Don't worry. (Traveler) had defeated that huge monster before we met you!
+Araphala: Whoa! I didn't expect Nara (Traveler) who looks smaller than the monster to be so strong!
+Araphala: Alright, then let's go. Good Nara, let's eat fruits together.
+ "A million Araphalas tall!"
+ (Let's wake him up once we take care of the monster...)
+ Ah, that huge monster! So scary!
+ Ah, that huge monster! So scary!
+Paimon: ...Was it that scary though?
+Araphala: Yes, looks like Nara understands that it's very scary.
+Paimon: Don't worry. (Traveler) had defeated that huge monster before we met you!
+ I don't think so...
+Paimon: Right? It's kinda strange to call something that hasn't been, y'know, processed... a dish.
+ I think so?
+Paimon: It still seems a bit strange to Paimon...
+ Indeed he is.
+ It is a fruit after all.
+ It sounds really tough...
+ It sounds so convenient!
+ It was alright.
+ It was quite difficult.
+ Let's deal with the big scary monster.
+ No one will make you into porridge.
+ Paimon, can you turn into a seed?
+Paimon: Hey, do you have any problem with Paimon!?
+ Quest DescriptionAccording to Arachatora, his brother Araphala is doing "cooking training" close by Devantaka Mountain. Look for a pillar of smoke near Devantaka Mountain!
+ Seven.
+Paimon: Whoa! As expected of (Traveler)! What an amazing memory!
+ Step DescriptionDefeat the Ruin Drake in the cave entrance so Araphala will not be afraid anymore.
+ We've taken care of it.
+ You do look pretty tasty!
+Araphala: Waaah!!
+Paimon: Hey! (Traveler), don't make jokes like that! Araphala, no one will cook you!
+ Your memory is amazing as well, Paimon.
+Paimon: Hee—hee...
+(Talk to Araphala)
+Araphala: *snore* *snore*
+Paimon: Araphala!
+Araphala: Huh? Oh, it's Paimon.
+Paimon: Yeah, we are here to tell you that (Traveler) has taken down the huge monster outside!
+Araphala: Whoa! I didn't expect Nara (Traveler) who looks smaller than the monster to be so strong!
+ It was alright.
+ It was quite difficult.
+Araphala: Alright, then let's go. Good Nara, let's eat fruits together.
+???: *snore* *snore*
+???: Mmm... Tasty fruits... *snore*
+???: Oh? It's you. Long time no see.
+???: Who am I... Ugh, so dizzy. Let me think... My name is...
+???: Whoa, where am I? Is this a cave? Ugh... I'm feeling dizzy.
+Araphala starts cooking right away...He divides the fruits equally...Then, he gives a few portions to you and Paimon.
+Araphala: "Sleeping"? Oh, I was just thinking about the past. It wasn't that serious.
+Araphala: *snore* *snore*
+Araphala: *snore* *snore* Nara Varuna...
+Araphala: *snore* When will you be back? *snore*
+Araphala: *sob* I'm not ready yet. Don't make porridge out of me...
+Araphala: ...Really?
+Araphala: Ah, it's time for Festival Utsava, is it?
+Araphala: Alright, then let's go. Good Nara, let's eat fruits together.
+Araphala: And it was so tough! Even if Arama and Arabalika were there, it would take them some effort to tear it apart.
+Araphala: Arapacati? Is she doing well? How long have I been here...
+Araphala: Araphala... You know my name...
+Araphala: But I know that all Nara must sleep. I had a Nara friend once, a Golden Nara just like you.
+Araphala: But still... How did I drop so many...
+Araphala: But while I was picking fruits... Yes, while I was picking fruits, a really huge monster appeared.
+Araphala: Did I drop that many? But it's okay, hehe... I've kept the freshest and tastiest with me.
+Araphala: Don't you Nara have a dish where you cut fruits and serve them on a wooden board too?
+Araphala: Eh? Nara!?
+Araphala: Festival Utsava is coming, I must... *snore* I must hurry up...
+Araphala: Festival Utsava is meant to be carefree, but I'll care for my life if I leave this place. *snore* I can't do that for Festival Utsava...
+Araphala: Hmm... How should I put this... We hibernate when we are in grave danger, and we compress our memories and dreams into a seed.
+Araphala: Huh? Oh, it's Paimon.
+Araphala: I can return proudly to Vanarana.
+Araphala: I don't want to go outside while such a scary and huge monster is roaming the area. I'm sorry, my "sister."
+Araphala: I once came here with (her/him) to gather the Unrivaled Fresh Fruits.
+Araphala: I remember leaving with my brothers for cooking training. But they didn't know that fresh fruits are the best ingredients...
+Araphala: I understand. To Nara, all fruits may be the same, but they are different.
+Araphala: I've picked Unrivaled Fresh Fruits and made my Supreme Delicacy. My cooking training is complete.
+Araphala: I've picked so many of them this time... Eh? Where did they go?
+Araphala: If the crisis is averted and the time is right, the seed will return to the forest and grow into Aranara again.
+Araphala: Indeed, indeed... Sister will scold me if I miss Festival Utsava... Just the thought of it is scary enough.
+Araphala: Is that how Nara call it? Perhaps. Very likely.
+Araphala: It sure is.
+Araphala: Just taste it and you will understand.
+Araphala: My name is Araphala! Hehe, I remember now...
+Araphala: M—My sister said that if I'm always half asleep like this, a bad Nara will take me and make porridge out of me...
+Araphala: Not kidding?
+Araphala: Oh, I would've missed Festival Utsava if Nara (Traveler) and Paimon didn't take care of that huge monster that blocked me here in this cave.
+Araphala: Oh, don't be a stickler for things like that. Finding better ingredients is a form of cooking too.
+Araphala: Oh, it's been so long. Oh no.
+Araphala: Okay, let's start cooking with the Unrivaled Fresh Fruits.
+Araphala: Only strong trees can bear Unrivaled Fresh Fruits. Strong trees sing first when the wind blows.
+Araphala: So good. Thank you, strong trees.
+Araphala: So, I've been picking them here since then. If (she/he) returns, or if I make new Nara friends, we can eat them together.
+Araphala: That huge monster was five Araphalas tall and had a long tail. Even the ground quaked beneath its stomps. Besides that, I think I sensed Marana's aura inside it.
+Araphala: The Unrivaled Fresh Fruit itself is the best Supreme Delicacy. It doesn't need any extra processing to present its best taste...
+Araphala: The bearings of the strong trees, these Unrivaled Fresh Fruits, are a blessing to us. That Nara friend said these fruits are so tasty they sing in your stomach.
+Araphala: Ugh... But I haven't completed my cooking training yet...
+Araphala: Waaah!!
+Araphala: While searching for ingredients, I can travel the forest and get closer to it. That's the true meaning of my cooking training.
+Araphala: Whoa! I didn't expect Nara (Traveler) who looks smaller than the monster to be so strong!
+Araphala: Yes, but I'm not. So, I had to hide here. I was thinking about the past as I waited for it to leave, and the next thing I knew, you two were standing in front of me.
+Araphala: Yes, looks like Nara understands that it's very scary.
+Leaf With Careful Penmanship: "...Branches turned green. I didn't find any fruits..."
+Leaf With Careful Penmanship: "...Leaves turned yellow. I picked a fresh and tasty Sunsettia."
+Leaf With Careful Penmanship: "Leaves are growing again, and 40 moons have passed. I picked Sunsettias outside the campsite and brought them back to Vanarana, but sister said they were still very unripe..."
+Leaf With Careful Penmanship: (A huge leaf. Someone has written on it with neat handwriting...)
+Paimon: "How long," you say? Well, if Paimon recalls correctly...
+Paimon: "To walk from its tail to the head, the moon will rise and fall!"
+Paimon: ...Paimon doesn't think anything can be scarier than Stormterror. In fact, Paimon wonders how Aranara would describe Stormterror?
+Paimon: ...Was it that scary though?
+Paimon: Alright, hurry back to Vanarana!
+Paimon: Anyway, let's bring you up to speed. Festival Utsava is coming up...
+Paimon: Araphala!
+Paimon: C'mon, let's help him deal with that monster outside.
+Paimon: Don't worry. (Traveler) had defeated that huge monster before we met you!
+Paimon: He won't be afraid to leave that cave now!
+Paimon: He's wide awake now.
+Paimon: Hee—hee...
+Paimon: Hey! (Traveler), don't make jokes like that! Araphala, no one will cook you!
+Paimon: Hey! Hello—!
+Paimon: Hey, do you have any problem with Paimon!?
+Paimon: Hi there!
+Paimon: Huh? Do we? Wait! Are you talking about a fruit platter?
+Paimon: Huh? Is sleeping something serious for Aranara?
+Paimon: Huh? It's an Aranara... Could it be Arapacati's older brother?
+Paimon: Huh? Weren't you sleeping? Paimon thought...
+Paimon: Huh? Why are these fruits scattered on the ground?
+Paimon: Huh? Why would anyone want to make porridge out of you!?
+Paimon: Is a fruit platter considered a dish?
+Paimon: Is it?
+Paimon: It is tasty, but it's just... it's just like eating fruits...
+Paimon: It still seems a bit strange to Paimon...
+Paimon: Let's return to Arapacati...
+Paimon: No kidding! Anyway, Paimon's name is Paimon, and this tall Nara is (Traveler). Arapacati sent us...
+Paimon: Oh, Paimon sees. But Festival Utsava is coming, you should return home.
+Paimon: Paimon can't wait to see what kind of delicacy will be made from them!
+Paimon: Paimon will leave it to you, (Traveler).
+Paimon: Really!
+Paimon: Right? It's kinda strange to call something that hasn't been, y'know, processed... a dish.
+Paimon: So you're Araphala! We were wondering where you'd gone... and here you were, sleeping in this cave the whole time!
+Paimon: So, it's you who dropped those Sunsettias we saw all along the way.
+Paimon: Speaking of which, we did see a Ruin Drake on the way here. Is that the huge monster you mentioned?
+Paimon: There is a camp here... But Arapha... Ara... Ugh! Aranara names are so difficult!
+Paimon: Ugh, he's in deep slumber. Oh, right. Arapacati mentioned that the power of Dendro should do the trick.
+Paimon: Ugh... This guy...
+Paimon: Uhh... Many, many moons ago, the seedlings sprouted from the earth, and became trees... How many Arapacatis tall were they again?
+Paimon: Wait! You call that cooking?
+Paimon: Wait!? They are that strong!?
+Paimon: Well, Aracha... Ara... Er, forget it. The four brothers have all been notified!
+Paimon: Well, the Ruin Drake is gone. Let's go wake up Araphala.
+Paimon: What do we do, (Traveler)?
+Paimon: What's the difference between this "Unrivaled Fresh Fruit" and ordinary fruits?
+Paimon: Who are you? Why are you sleeping here?
+Paimon: Whoa! As expected of (Traveler)! What an amazing memory!
+Paimon: Yeah, Paimon guesses so...
+Paimon: Yeah, so Arapacati wants you back in Vanarana.
+Paimon: Yeah, we are here to tell you that (Traveler) has taken down the huge monster outside!
+You bring Araphala up to speed on the events so far...
+You try the fresh fruits together.It sort of lives up to your expectations. They do taste like fresh fruits.

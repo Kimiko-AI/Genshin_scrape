@@ -1,0 +1,18 @@
+ Quest DescriptionYou must first break the five seals on Watatsumi Island if you wish to enter Enkanomiya.
+ Step DescriptionAn ancient stone tablet stands beside the shrine. Will there be anything of use written on it?
+ Step DescriptionWith the help of the stone tablet's instructions, perhaps breaking the shrine seal will not be a problem... Right?
+ Step DescriptionYou have finally broken the shrine's seal, and the Spirit Pearl is yours to claim. Go forth and take it!
+Ancient Stone Tablet: "...From the depths it arose, from the south, o'er the north, and all about the western mound..."
+Ancient Stone Tablet: "...The tree eyes shone mercilessly to ward off the dragon's heir..."
+Ancient Stone Tablet: "...They say that Omikami's envoy had three eyes: one for the 'soul', one a 'mirror', and the last the 'truth'..."
+Paimon: All the seals have been removed. Let's see if anything changed at the shrine!
+Paimon: And that's a third! We're getting close!
+Paimon: Fourth Spirit Pearl obtained! Let's go find Tsuyuko!
+Paimon: It doesnt look like there are any clues around here either, so why don't we try using Elemental Sight?
+Paimon: Oh no, the elemental energy from the broken seal has attracted slimes!
+Paimon: Paimon... knows all these words... but none of them mean anything when strung together.
+Paimon: There's another Spirit Pearl!
+Paimon: This must be the "Eye" that Tsuyuko was talking about!
+Paimon: We found a pearl. Is this the Spirit Pearl Tsuyuko talked about?
+Paimon: We've broken one seal!
+Paimon: Where did these Specters come from? Were they attracted here by the sealed elemental power?

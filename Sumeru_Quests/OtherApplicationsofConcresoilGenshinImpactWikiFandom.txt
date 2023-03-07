@@ -1,0 +1,107 @@
+ How did you find this place...?
+ How's your Concresoil coming along?
+ Leave it to me.
+ Quest DescriptionAkim seems to be troubled by something...
+ So you've made progress in your soil research?
+ What about other materials?
+Akim: I have made purchases from different channels or asked others for help.
+Akim: I just didn't expect that Slime Condensate could run out so quickly...
+ What about other materials?
+Akim: I've made purchases through various means and asked others for help.
+Akim: But I'm out of this particular type of soil. I really should have stored more of it...
+ What is Adri, anyway?
+ What's going on?
+ Why is it so far away...
+Akim starts to mix the soil...
+Akim: (Anyways, my experiments have finally yielded results.)
+Akim: (How's this possible! Where did it go wrong!?)
+Akim: (Slime Condensate... If I had any other choices, I wouldn't use it.)
+Akim: *sigh* Anyway, I have to go fix those cracks for them.
+Akim: *sigh* I'm just not smart enough. If it was those wise folks, they would have definitely come up with more good ideas...
+Akim: *sigh* There's something wrong with my Concresoil...
+Akim: *sigh* Where did it all go wrong...
+Akim: Ah! It's... it's you, Traveler...
+Akim: Ahem, anyway, please help me send this pot of soil to Nima.
+Akim: Amazing, actually! As it turns out, this soil can be used for a wide variety of purposes.
+Akim: But I'm out of this particular type of soil. I really should have stored more of it...
+Akim: But there seems to be a lot of monsters over there too, so  wouldn't dare to go myself...
+Akim: By making small adjustment to the mix ratio, I can even build houses with this soil.
+Akim: Could you please help me look for some fertile soil this time?
+Akim: Critically, I've ran out of Slime Condensate. Traveler, could you please bring me three more portions of Slime Condensate?
+Akim: Did you get the soil?
+Akim: Did you get the soil?
+(Give Akim the soil)
+Akim: Did you get those pots of Concresoil back?
+(Submit Discarded "Concresoil" ×3)
+Akim: Even the Whopperflower soil has run out... Traveler, could you please go and get me some more of that?
+Akim: For example, it can be used to make pottery and fix cracks in houses.
+Akim: For example, perhaps the soil can also be highly water-retentive and nutrient-rich...
+Akim: Give me a second while I mix the Concresoil...
+Akim: He even gave these pot warriors a name, called Ad... Well, forget it, I don't remember.
+Akim: He has been waiting for it for ages.
+Akim: He said that he enjoys growing flowers and the thing that troubles him most is finding the right soil.
+Akim: Hmm... I'd better mix it with some other soil types...
+Akim: How could this happen? Do I need to adjust the ratio again...
+Akim: However... I'm running low on materials due to a surge in orders.
+Akim: I asked around, of course. It's a little out of the way, but they say the soil there is very fertile.
+Akim: I found it worth researching, so I'm looking for other materials to further upgrade my Concresoil.
+Akim: I have made purchases from different channels or asked others for help.
+Akim: I just didn't expect that Slime Condensate could run out so quickly...
+Akim: I still need more materials...
+Akim: I'll go to the other places to retrieve the Concresoil. You should hurry too. I'm counting on you.
+Akim: I'll mark the location of the soil on the map for you.
+Akim: I'm counting on you, Traveler!
+Akim: I'm thinking that there might be other ways to improve the Concresoil...
+Akim: I've made purchases through various means and asked others for help.
+Akim: Knowing that I've made such improvements to the Concresoil, he asked me if I could devise a version of it for flowers.
+Akim: Many customers who have built their kitchens using Concresoil have reported cracking after only a few days.
+Akim: Nima told me he wanted to make a group of talking "pot warriors" that can roll over enemies and have all sorts of magical powers.
+Akim: Okay, it's done. Please take the soil to Nima.
+Akim: Once his pot warriors are complete, maybe he will appoint us both "pot generals" as well!
+(Obtain Special "Concresoil" for Toys)
+Akim: Perhaps the temperature grew so high that some parts of the soil just failed to work?
+Akim: Please take these as your reward.
+Akim: So I thought, why not give him the soil as a toy gift?
+Akim: So, Traveler, could you please fetch three more portions of Slime Condensate for me?
+Akim: Thank you, these should last me for a while.
+Akim: Thank you. Don't forget, it's the soil where Whopperflowers grow that we're looking for!
+Akim: Thank you. I'll evaluate this batch of soil.
+Akim: Thank you. Then I have all the materials I need for now.
+Akim: The power of these warriors will vary with the materials stuffed in their pot bodies.
+Akim: The soil needs to have good permeability and adequate nutrients. Plus, it should be water retentive but not soggy...
+Akim: There were too many people needing repairs for me to take all the scraped Concresoil away, so I asked them to just keep it in some pots. And ah, there were very many pots indeed...
+Akim: This child is... um... unusually imaginative.
+Akim: This is exactly what I'm looking for! Thank you so much.
+Akim: This way, he can make his own pot warriors and command them like a general!
+Akim: Traveler! Thank goodness you're here. I was just in need of someone's help!
+Akim: Traveler, could you please help me collect the used Concresoil from this house, while I go to another one?
+Akim: Traveler, have you obtained the Slime Condensate?
+Akim: Ugh, this is awful. Where did I go wrong...
+Akim: Ugh, why is making the ideal soil so hard?
+Akim: Unfortunately, I can't really make pot warriors with magical powers. But still, it's an interesting idea.
+Akim: Was it the mix ratio? Or the lack of experimental trials...
+Akim: Well... I don't think I could call it "progress," but a customer of mine did give me some useful advice.
+Akim: Well... as fertile as it is, this soil is pretty weighty, and it doesn't seem to have great permeability...
+Akim: With a small adjustment of the mix ratio, I can even build houses with this soil.
+Nima: After Adri is done, I'll make Ivar, his adjutant, and Lasson, his disciple.
+Nima: Didn't Akim tell you about it, (Mister/Miss)?
+Nima: He is a kind warrior with a good temper. When he awakens as a pot warrior, the first thing he will do is to apologize to the grass under him.
+Nima: Hello, (Mister/Miss), what can I do for you?
+Nima: His power is... is...
+Nima: I'm making some pot warriors. Adri is gonna be the first and the best of them!
+Nima: I—I haven't decided on it yet... but you'll be the first to know once I have!
+Nima: Now I can make "Adri"!
+Nima: The three of them... no, the three pot warriors... They will embark on a long, long journey...
+Nima: Wow, this must be the soil that can make everything. Just like Akim told me!
+Nima: Yay! Thank you, (Mister/Miss)!
+Paimon: Fertile soil... Fertile soil... It should be around here somewhere.
+Paimon: Is this filled with Concresoil? That sure would explain the weight...
+Paimon: Is this the pot we're looking for? Ergh, it's full of lumpy soil on the inside...
+Paimon: Let's bring the soil back to Akim!
+Paimon: Look at those Whopperflowers over there. Time to beat 'em like we always do!
+Paimon: Look over there. The vegetation is really lush. That means that the soil under those planted must be very fertile, right?
+Paimon: Okay, let's go over there and dig some out to bring back.
+Paimon: Okay, this should do it. Let's get it back to Akim.
+Paimon: This pot looks so heavy... How much Concresoil is in there?
+Paimon: This should be enough.
+Paimon: This should be the place. Paimon remembers Akim saying that the Concresoil is stored in some pots... Let's have a look around.

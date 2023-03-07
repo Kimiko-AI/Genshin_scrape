@@ -1,0 +1,556 @@
+
+ Floaty Paimon is like that, it's true.
+Paimon: Hey! Paimon's not silly!
+ Aragaru sent us here.
+Aranakin: I know. All the grass and trees, one by one, were passing the message, and it got to me. So I knew I would see you here!
+
+ Floaty Paimon is like that, it's true.
+Paimon: Hey! Paimon's not silly!
+ Is there something we can do for you?
+Aranakin: Yes, something very important! So very important! Mawtiyima is in great danger, the grass and trees in the forest... Everyone is worried! She asked us to find you. We waited for so long.
+Aranakin: First, we need to find Zohrah Mushroom. Zohrah Mushroom, is little shiny spots, just like my songs!
+Aranakin: But to find Zohrah Mushroom, you need "Kusava."
+Aranakin: Um, that's fine. You guys are great. Aranakin can entrust Kusava to you.
+Paimon: Hmm... it comes again, things Paimon can't understand. Kusawan? What is that?
+Aranakin: Fatty fruit, bitter fruit. Temporary home of Aranara memories. Kusava makes Aranara strong.
+
+Aranakin: Oh yeah, friend Aragaru is waiting for you too. I'll tell the plants along the way to inform him that you're coming.
+Aranakin: He'll be waiting for you in the cave where the moon falls. He'll guide you to the dead Nara's old home. The walking Shroom-Kin now live there. Be careful.
+
+Aranakin: Speaking of the Mawtiyima Forest, Aranaga is waiting for you there. He presides over the Arahaoma ritual. Go see him!
+
+Paimon: Paimon's name is Paimon! Ara...
+Lunja: Ara...?
+
+Paimon: Paimon's name is Paimon! We're here to...
+
+Paimon: They're gone... They better not try to scam us again next time. Anyway, we got the Zohrah Mushroom!
+Aranakin: The bad "sand grains" are terrifying, but Nara (Traveler) is even more so sometimes... Scaring people away with strange words.
+Paimon: Well, yeah, (Traveler) is like that sometimes.
+
+Paimon: Well, you picked on the wrong person! The Zohrah Mushroom is ours now!
+Aranakin: Impressive! Nara (Traveler) made those bad "sand grains" run off in a couple of moves! Pow! Smash!
+Paimon: That's super fighter Nara (Traveler) for you!
+ (Ready for combat) I can offer you a lesson.
+Paimon: Yeah, you're extorting the wrong people!
+Lunja: I see. I respect your proposal.
+Lunja: Hmph... Your tenacity is so infuriating! We're deep in the red for this one! All right, boys, get ready to fight!
+(Engage in combat)
+ (Ready for combat) Your losses aren't my problem.
+Lunja: ...Don't want to do business, eh?
+Lunja: *sigh* Get them, boys!
+(Engage in combat)
+ (They are weird.)
+ (We should leave as soon as we can.)
+ Aragaru sent us here.
+Aranakin: I know. All the grass and trees, one by one, were passing the message, and it got to me. So I knew I would see you here!
+ Are you two serious?
+ Bad minds...?
+Aranakin: Bad minds, bad bad minds!
+ But I don't have that much Mora on me right now.
+ But where is the Zohrah Mushroom?
+ Floaty Paimon is like that, it's true.
+Paimon: Hey! Paimon's not silly!
+ Give me the mushroom and I promise you'll get your money later.
+ Giving you guys a good thrashing seems to be the better deal here.
+Lunja: Ha! Is that the so-called buyer's pride? I like it!
+Lunja: Take everything valuable from them!
+(Engage in combat)
+ Guarding something important, perhaps?
+ Hand over the Zohrah Mushroom.
+ He's talking about those people from just now.
+ How come it's you again?
+Lunja: "Again"? Well, I guess fate works in mysterious ways. It's got plans for us.
+ How much more do you think you can afford Anqa and Isan's medical bills?
+ I accept your offer.
+Paimon: What!?
+Lunja: Haha, all right! 550,000 Mora it is!
+Paimon: What the heck!?
+Lunja: Because that's how I like it!
+ But I don't have that much Mora on me right now.
+Lunja: Sorry, no IOU! Perhaps you can give me that squawking flying pet of yours as collateral?
+Paimon: Eh!? Don't do that!
+ That's not what I meant...
+ Please hear me out...
+Lunja: You're kinda cute when you bargain. I'm listening.
+ Give me the mushroom and I promise you'll get your money later.
+Lunja: I didn't think a promise could be worth that much. But what are you going to do if I don't believe you?
+ Minum's kneecaps look brittle to me.
+ It will be interesting to see how I smash Ziri's nose in.
+ How much more do you think you can afford Anqa and Isan's medical bills?
+Lunja: ...
+Lunja: Don't be full of yourself. They're The Farrokhzadan and also my boys.
+ I've already taken down two of you. What's a few more?
+ Now just think about how much Mora you will lose if you tick me off.
+Lunja: Hmph... Interesting offer you have there. I'll believe you... this time. Let's go, boys.
+ Not so fast.
+Lunja: Why? You changed your mind?
+ I'm pondering how you're going to compensate us.
+Lunja: Interesting. And why would we do that?
+Paimon: Because you laid the trap and tricked us! Plus... ahem, Ziri's nose, Minum's kneecaps, Anqa and Isan's injuries...
+Lunja: Tsk, name your price.
+ Mora is the best compensation.
+Paimon: That's right, Mora!
+ It's more sincere when it's something precious.
+Paimon: Yeah! Got to be valuable, at least!
+Lunja: I see. If this would prevent my boys from getting hurt...
+Paimon: Well, you should've seen it coming!
+Lunja: ...That's not a good way to do business. Agha Farrokh will never forget your offense, and you will get it when the table is turned.
+Lunja: Let's go, boys, and remember their faces!
+Lunja: Final advice: Keep one eye open when you sleep at night. Don't forget, my "friends," you haven't paid for what you bought yet.
+(Lunja and the Eremites leave without engaging in combat)
+ I'll bear that in mind.
+ I'm all ears. Please continue.
+ I'm no commoner.
+ I'm not done yet.
+ I'm not giving up yet.
+ I'm pondering how you're going to compensate us.
+ I've already taken down two of you. What's a few more?
+ Is that a threat?
+ Is the Zohrah Mushroom not here?
+ Is there something we can do for you?
+Aranakin: Yes, something very important! So very important! Mawtiyima is in great danger, the grass and trees in the forest... Everyone is worried! She asked us to find you. We waited for so long.
+ Is this how you treat your "friends"?
+ It depends on what we'll find.
+ It will be interesting to see how I smash Ziri's nose in.
+ It's more sincere when it's something precious.
+Paimon: Yeah! Got to be valuable, at least!
+Lunja: I see. If this would prevent my boys from getting hurt...
+ It's not what you think.
+ Just call me (Traveler).
+ Just get to the point.
+ Ko~se~han~♪
+ Ko~se~han~♪
+Aranakin: Wow, that was terrible.
+ Let's hear your offer first.
+Paimon: Are you serious about doing business with her?
+Lunja: I'll make it short, then. A rich old man in the Akademiya hired us, the Eremites, to find the Zohrah Mushroom in the forest.
+Lunja: The pay's very good, but the deadline's very tight. And as you can see, a young and charming woman like me really needed Mora.
+Paimon: ...
+Lunja: You know the rest. Sorry for using you to get this Zo... and almost killing... Uh, almost stopping you from pursuing me.
+Lunja: But since you're alive and kicking, we'll still be friends and let bygones be bygones, right?
+Paimon: No! That's attempted murder. Let bygones be bygones!? Someone could have gotten killed!
+Lunja: Well, that's exactly what I'm worried about. They're all my family. I don't want to endanger anyone, or it's a bad deal.
+Lunja: Therefore, it seems that a peaceful resolution is the way to go. But what do you want the mushroom for, anyway?
+ We need it to save the forest.
+Lunja: Hmph... That old man did mention the Zohrah Mushroom is the key to eradicating The Withering, and that was why he wanted us to get it at all cost.
+Lunja: But it ain't anything valuable, and The Withering in these blasted woods have nothing to do with us desert dwellers.
+Lunja: The intrinsic value of the mushroom, plus labor, medical expenses for Anqa and Isan, fines for breach of contract, and... a little extra to compensate a friend.
+Lunja: That comes out to 450,000 Mora and not a penny less. How's that? You're getting off cheap.
+Paimon: What!? That's robbery!
+Lunja: 500,000 Mora for calling me a robber and hurting my feelings! We're traders, so watch your words.
+ I accept your offer.
+Paimon: What!?
+Lunja: Haha, all right! 550,000 Mora it is!
+Paimon: What the heck!?
+Lunja: Because that's how I like it!
+ But I don't have that much Mora on me right now.
+Lunja: Sorry, no IOU! Perhaps you can give me that squawking flying pet of yours as collateral?
+Paimon: Eh!? Don't do that!
+ That's not what I meant...
+ Please hear me out...
+Lunja: You're kinda cute when you bargain. I'm listening.
+ Give me the mushroom and I promise you'll get your money later.
+Lunja: I didn't think a promise could be worth that much. But what are you going to do if I don't believe you?
+ Minum's kneecaps look brittle to me.
+ It will be interesting to see how I smash Ziri's nose in.
+ How much more do you think you can afford Anqa and Isan's medical bills?
+Lunja: ...
+Lunja: Don't be full of yourself. They're The Farrokhzadan and also my boys.
+ I've already taken down two of you. What's a few more?
+ Now just think about how much Mora you will lose if you tick me off.
+Lunja: Hmph... Interesting offer you have there. I'll believe you... this time. Let's go, boys.
+ Not so fast.
+Lunja: Why? You changed your mind?
+ I'm pondering how you're going to compensate us.
+Lunja: Interesting. And why would we do that?
+Paimon: Because you laid the trap and tricked us! Plus... ahem, Ziri's nose, Minum's kneecaps, Anqa and Isan's injuries...
+Lunja: Tsk, name your price.
+ Mora is the best compensation.
+Paimon: That's right, Mora!
+ It's more sincere when it's something precious.
+Paimon: Yeah! Got to be valuable, at least!
+Lunja: I see. If this would prevent my boys from getting hurt...
+Paimon: Well, you should've seen it coming!
+Lunja: ...That's not a good way to do business. Agha Farrokh will never forget your offense, and you will get it when the table is turned.
+Lunja: Let's go, boys, and remember their faces!
+Lunja: Final advice: Keep one eye open when you sleep at night. Don't forget, my "friends," you haven't paid for what you bought yet.
+(Lunja and the Eremites leave without engaging in combat)
+ Giving you guys a good thrashing seems to be the better deal here.
+Lunja: Ha! Is that the so-called buyer's pride? I like it!
+Lunja: Take everything valuable from them!
+(Engage in combat)
+ (Ready for combat) Your losses aren't my problem.
+Lunja: ...Don't want to do business, eh?
+Lunja: *sigh* Get them, boys!
+(Engage in combat)
+ Marana.
+ Minum's kneecaps look brittle to me.
+ Mora is the best compensation.
+Paimon: That's right, Mora!
+ Not so fast.
+ Now just think about how much Mora you will lose if you tick me off.
+ Out on a date, perchance?
+ Please hear me out...
+ Quest DescriptionA group of Eremites are wandering through the forest, looking like they are up to no good. Approach them and inquire about their intentions.
+ Quest DescriptionLook for Aranakin upon Aragaru's request.
+ Someone sent us here.
+Lunja: Someone sent you? It must be someone of high standing, or at least someone very rich, right?
+ Well... I wouldn't exactly say that.
+ It's not what you think.
+Lunja: Is that so...
+Lunja: So, if, and I mean if, you're rival bounty hunters, what should I do with you?
+Paimon: Eh?
+Lunja: Freaked you out, didn't I? Minum, Ziri, did you see that? They freaked out!
+Minum: ...Yeah.
+Ziri: They freaked out, obviously.
+Paimon: Uh, no, not at all! Grow up, people!
+Lunja: Sorry, don't mind that, it was just a joke!
+Paimon: Well, it wasn't funny at all!
+Lunja: Relax. To us Eremites, daring to harm our guests is to court the wrath of the merciless desert.
+ Step DescriptionA little one named Aranakin entrusts you with the "Kusava," which is said to have the power to repair broken stones. Use it to get rid of obstacles and solve puzzles along your way.
+ Step DescriptionAccording to Aranakin, the plants and Shroom-Kin in the cave know where the Zohrah Mushroom is.
+ Step DescriptionAfter Lunja and her group left, a little Aranara pops his head out, looking desperate for help. see what he needs help with.
+ Step DescriptionAfter having a not-so-pleasant talk with Lunja and her gang, you finally resume your search for the Zohrah Mushroom. The target you're after should be in the cave.
+ Step DescriptionBased on the clue provided by the mushroom, head over to the mountain cave containing the Zohrah Mushroom together with Aranakin.
+ Step DescriptionDefeat Lunja and her flunkies.
+ Step DescriptionFollow the guidance and head over to the exit of the cave.
+ Step DescriptionLeave the cave and go to the mountain cavern where the Zohrah Mushroom is located.
+ Step DescriptionNext, you just need to drain the water, and you should be able to obtain the Zohrah Mushroom.
+ Step DescriptionSo Lunja was behind all this after all! Seize the Zohrah Mushroom back from her.
+ Step DescriptionTalk to Aranakin
+ Step DescriptionThe Kusava holds the power to repair broken stones. Use it to get rid of obstacles and mysteries along your way.
+ Step DescriptionThe Zohrah Mushroom seal has been lifted, but some Eremite assassins have suddenly appeared...
+ Step DescriptionUse the Kusava to break the seal on the Zohrah Mushroom.
+ Step DescriptionUse the Kusava to repair the ancient broken stone to drain the water... Looks like you'll have to repeat the process again.
+ Step DescriptionUse the Kusava to repair the ancient stones, and let the water drain away... Well, at least Aranakin says so.
+ Step DescriptionYou arrived at the cave containing the Zohrah Mushroom. However, the entrance to the cave seems to be blocked by some familiar — but unpleasant — people...
+ Step DescriptionYou finally caught up with Lunja after great effort. It is time to get the Zohrah Mushroom back.
+ Strong to the point of hiding?
+Aranakin: No, no! Hmph! Nara (Traveler) only says irritating things!
+ Thank you, I'll cherish it.
+ That is classified information.
+ That's not what I meant...
+ The Withering.
+ They must have some sort of a scheme.
+ We can sing it together sometime.
+ We have to be careful from now on.
+Aranakin: Nara (Traveler) is right. Be careful of those bad "sand grains" and their wicked thoughts.
+ We need it to save the forest.
+Lunja: Hmph... That old man did mention the Zohrah Mushroom is the key to eradicating The Withering, and that was why he wanted us to get it at all cost.
+Lunja: But it ain't anything valuable, and The Withering in these blasted woods have nothing to do with us desert dwellers.
+Lunja: The intrinsic value of the mushroom, plus labor, medical expenses for Anqa and Isan, fines for breach of contract, and... a little extra to compensate a friend.
+Lunja: That comes out to 450,000 Mora and not a penny less. How's that? You're getting off cheap.
+Paimon: What!? That's robbery!
+Lunja: 500,000 Mora for calling me a robber and hurting my feelings! We're traders, so watch your words.
+ I accept your offer.
+Paimon: What!?
+Lunja: Haha, all right! 550,000 Mora it is!
+Paimon: What the heck!?
+Lunja: Because that's how I like it!
+ But I don't have that much Mora on me right now.
+Lunja: Sorry, no IOU! Perhaps you can give me that squawking flying pet of yours as collateral?
+Paimon: Eh!? Don't do that!
+ That's not what I meant...
+ Please hear me out...
+Lunja: You're kinda cute when you bargain. I'm listening.
+ Give me the mushroom and I promise you'll get your money later.
+Lunja: I didn't think a promise could be worth that much. But what are you going to do if I don't believe you?
+ Minum's kneecaps look brittle to me.
+ It will be interesting to see how I smash Ziri's nose in.
+ How much more do you think you can afford Anqa and Isan's medical bills?
+Lunja: ...
+Lunja: Don't be full of yourself. They're The Farrokhzadan and also my boys.
+ I've already taken down two of you. What's a few more?
+ Now just think about how much Mora you will lose if you tick me off.
+Lunja: Hmph... Interesting offer you have there. I'll believe you... this time. Let's go, boys.
+ Not so fast.
+Lunja: Why? You changed your mind?
+ I'm pondering how you're going to compensate us.
+Lunja: Interesting. And why would we do that?
+Paimon: Because you laid the trap and tricked us! Plus... ahem, Ziri's nose, Minum's kneecaps, Anqa and Isan's injuries...
+Lunja: Tsk, name your price.
+ Mora is the best compensation.
+Paimon: That's right, Mora!
+ It's more sincere when it's something precious.
+Paimon: Yeah! Got to be valuable, at least!
+Lunja: I see. If this would prevent my boys from getting hurt...
+Paimon: Well, you should've seen it coming!
+Lunja: ...That's not a good way to do business. Agha Farrokh will never forget your offense, and you will get it when the table is turned.
+Lunja: Let's go, boys, and remember their faces!
+Lunja: Final advice: Keep one eye open when you sleep at night. Don't forget, my "friends," you haven't paid for what you bought yet.
+(Lunja and the Eremites leave without engaging in combat)
+ Giving you guys a good thrashing seems to be the better deal here.
+Lunja: Ha! Is that the so-called buyer's pride? I like it!
+Lunja: Take everything valuable from them!
+(Engage in combat)
+ We'd better be careful.
+ We're adventurers just passing by.
+Lunja: Is that so? What could be in this rainforest that is worth risking your lives for?
+ That is classified information.
+ It depends on what we'll find.
+Lunja: Haha! You adventurers are such interesting people. May the gale and sand never blind you and may you find what you seek!
+ Well... I wouldn't exactly say that.
+ What are the "sand grains" you are talking about?
+Aranakin: Sand is Valuka, and those sand grains are a group of bad Nara Valuka. I don't like sand, it's coarse, rough, and irritating. And it gets everywhere...
+ Why the singing all of a sudden?
+ You two think you can stop me?
+???: Ha, friends! How nice to see someone alive in this dump!
+???: Hey! You startled me!!
+???: Huh!?
+???: Yes, yes, you should be careful.
+Anqa: Darn it! We've got to get outta here!
+Anqa: I apologize, but please stop here.
+Aranakin and the mushroom speak in whispers.
+Aranakin: *humming* Kusava~ Kusava~♪
+Aranakin: And here, let me show you. It's this stone right here!
+Aranakin: Aranakin can repair the rocks and make the water leave, so we can find Zohrah Mushroom.
+Aranakin: Aranakin is going to the Mawtiyima Forest and meet up with friends. You must come see us and join the ritual coming up!
+Aranakin: Aranakin isn't a "little one," Aranakin is Aranakin!
+Aranakin: Aranakin loves to sing and share songs with friends. But Aranakin doesn't know if Nara could hear Aranara's songs.
+Aranakin: Aranakin sings happy songs because there's hope for Mawtiyima, because Nara is willing to help!
+Aranakin: Aranakin smart. When you talked to them, I listened. I heard that Nara's name is "(Traveler)" and that your name is "Paimon."
+Aranakin: Aranakin's right to trust you. Nara (Traveler) is no sand grain but a mighty seed! Aranakin must sing about it and let everyone in the woods know!
+Aranakin: Bad minds, bad bad minds!
+Aranakin: Because Marana moves too fast and must be stopped. Zohrah Mushroom can stop Marana, but won't hold up for long.
+Aranakin: Broken rocks sealed off the path to Zohrah Mushroom and protected him.
+Aranakin: But Floaty Paimon is silly and doesn't understand Aranakin.
+Aranakin: But to find Zohrah Mushroom, you need "Kusava."
+Aranakin: Correct, it is Marana. It permeates the water and dances like mist... So you can't drink the water, and it makes the plants sick.
+Aranakin: Fatty fruit, bitter fruit. Temporary home of Aranara memories. Kusava makes Aranara strong.
+Aranakin: First, we need to find Zohrah Mushroom. Zohrah Mushroom, is little shiny spots, just like my songs!
+Aranakin: He'll be waiting for you in the cave where the moon falls. He'll guide you to the dead Nara's old home. The walking Shroom-Kin now live there. Be careful.
+Aranakin: Here, here! The stone left by Nara Varuna!
+Aranakin: Here, underwater. Rocks and vines protect and cover him, so he's safe in water.
+Aranakin: Hmm... It's sealed. We need to look around for the stones that can lift the seal. Use the Kusava!
+Aranakin: Hmm... Look at that odd old rock over there! Repair it and the crack in the pond should open big enough... to drain the water away.
+Aranakin: I know where Zohrah Mushroom is, I take you there!
+Aranakin: I know. All the grass and trees, one by one, were passing the message, and it got to me. So I knew I would see you here!
+Aranakin: I'm here! Nara (Traveler), and White Floaty!
+Aranakin: Impressive! Nara (Traveler) made those bad "sand grains" run off in a couple of moves! Pow! Smash!
+Aranakin: It is just an ordinary mushroom, very cunning. Very clever.
+Aranakin: It said, Zohrah Mushroom went to a cave that has Marana, which has dissolved in the water. It's very dangerous.
+Aranakin: It's okay, though, I can take it...!
+Aranakin: Ku! Sa! Va! Happy!
+Aranakin: Mawtiyima is feeling sick, Marana is getting bigger. We must go quickly. Quickly!
+Aranakin: Mm, this is...
+Aranakin: More water has been drained. And Marana has been revealed!
+Aranakin: Nara (Traveler) is right. Be careful of those bad "sand grains" and their wicked thoughts.
+Aranakin: Nara (Traveler) smart, that's what Aranakin means.
+Aranakin: No, no! Hmph! Nara (Traveler) only says irritating things!
+Aranakin: Of course! They don't have roots but can absorb nutrients in rocks. They don't have legs but can run, for they are mushrooms, not plants! But don't fret, Nara (Traveler), let me ask this fellow.
+Aranakin: Oh yeah, friend Aragaru is waiting for you too. I'll tell the plants along the way to inform him that you're coming.
+Aranakin: Oh, and... Uh, don't go yet...
+Aranakin: Over here, Nara (Traveler), Floaty Paimon!
+Aranakin: Rocks blessed by Nara Varuna broke apart by themselves after many many moonsets.
+Aranakin: Sand is Valuka, and those sand grains are a group of bad Nara Valuka. I don't like sand, it's coarse, rough, and irritating. And it gets everywhere...
+Aranakin: Some bad "sand grains" were here. They were up to no good, so I didn't want to come out.
+Aranakin: Speaking of the Mawtiyima Forest, Aranaga is waiting for you there. He presides over the Arahaoma ritual. Go see him!
+Aranakin: Thanks to Zohrah Mushroom, Marana has withdrawn a little. But Marana is still too much around. Zohrah Mushroom is not feeling well. He's in danger.
+Aranakin: The Kusava can temporarily wake up plants tainted by Marana... And also let them sprout new vines, but very painful, very uncomfortable...
+Aranakin: The awful "sand grains"! Follow them!
+Aranakin: The bad "sand grains" are terrifying, but Nara (Traveler) is even more so sometimes... Scaring people away with strange words.
+Aranakin: The water level has been lowered! There's the Zohrah Mushroom!
+Aranakin: The water level has lowered... Look, there's another broken stone over there! Use the Kusava to piece it together!
+Aranakin: Then Aranakin will give you this song. Please take the songleaf. Follow its veins with Nara's voice and the song will come out.
+Aranakin: There's the last one. Let's use the Kusava on it!
+Aranakin: This is it... Quick, let's put it together!
+Aranakin: This stone is beautifully cracked. We should be able to fix it...
+Aranakin: Um, that's fine. You guys are great. Aranakin can entrust Kusava to you.
+Aranakin: Use the Kusava to summon Aranakin's power. Aranakin... trusts you will treat the Kusava well?
+Aranakin: Well... We'll worry about that later! We also have to break the seal protecting Zohrah Mushroom to let him join us!
+Aranakin: White Floaty is silly, so White Floaty didn't get it.
+Aranakin: White Floaty wrong! I'm not afraid! They're weak, I'm strong!
+Aranakin: Wow, that was terrible.
+Aranakin: Yay~ Kusava~ Kusava~♪
+Aranakin: Yes, something very important! So very important! Mawtiyima is in great danger, the grass and trees in the forest... Everyone is worried! She asked us to find you. We waited for so long.
+Aranakin: Yes, together!
+Aranakin: Yes, we must hurry!
+Aranakin: Yes, yes! Paimon the White Floaty can be smart sometimes!
+Aranakin: You can't listen to those sand grains. They're liars with bad minds who are here for the Aranara!
+Aranakin: Zohrah Mushroom is no ordinary mushroom, thus more cunning and clever. He's probably escaped by now.
+Aranakin: Zohrah Mushroom! We need Zohrah Mushroom, to prepare Arahaoma. We need Arahaoma, to help Mawtiyima be lively again!
+Isan: I'm sorry for what's to come, my friend!
+Isan: Retreat! This is a tough nut to crack!
+Lunja: "Again"? Well, I guess fate works in mysterious ways. It's got plans for us.
+Lunja: (Who threw a frog into the pot? ...Uh, does it taste good?)
+Lunja: *sigh* Get them, boys!
+Lunja: *sigh* I just can't get rid of you, can I...
+Lunja: ...
+Lunja: ...Don't want to do business, eh?
+Lunja: ...It's three. Three at least.
+Lunja: ...That's not a good way to do business. Agha Farrokh will never forget your offense, and you will get it when the table is turned.
+Lunja: 500,000 Mora for calling me a robber and hurting my feelings! We're traders, so watch your words.
+Lunja: A threat? Why would I threaten my friends? It's just a kind reminder! Who do you think I am?
+Lunja: Ahem, excuse me, but I didn't get your names. Where did you come from and what are you doing here?
+Lunja: Ahem, let's go!
+Lunja: Ahem, right, Minum, Ziri?
+Lunja: Ahem, show some enthusiasm, boys!
+Lunja: Ahem. Regardless, my friends, the cave is treacherous and unpredictable. I suggest you leave right now.
+Lunja: All right. We've got to run, my friends. Sorry we can't extend our hospitality.
+Lunja: Alright, alright... Don't listen to me, then. Like I said, I warned you out of the goodness of my heart. Go in if you insist... It's not like you're hiring us to be your bodyguards, right?
+Lunja: Ara...?
+Lunja: Because that's how I like it!
+Lunja: But I'd rather not see more of my people get hurt over a lousy mushroom. The pay's just not worth it. So, let's make a deal...
+Lunja: But it ain't anything valuable, and The Withering in these blasted woods have nothing to do with us desert dwellers.
+Lunja: But moisture and plants? I'm out. They make me uncomfortable the whole time, and I feel like I'll never be able to deal with them.
+Lunja: But since you're alive and kicking, we'll still be friends and let bygones be bygones, right?
+Lunja: Come on, boys. We're out of here.
+Lunja: Come, my friends, sit down and have some tea! So, did whatever it was in the cave scare you away?
+Lunja: Didn't you hear what I said? What are you waiting for?
+Lunja: Don't be full of yourself. They're The Farrokhzadan and also my boys.
+Lunja: Final advice: Keep one eye open when you sleep at night. Don't forget, my "friends," you haven't paid for what you bought yet.
+Lunja: Freaked you out, didn't I? Minum, Ziri, did you see that? They freaked out!
+Lunja: Ha! Is that the so-called buyer's pride? I like it!
+Lunja: Haha! You adventurers are such interesting people. May the gale and sand never blind you and may you find what you seek!
+Lunja: Haha, all right! 550,000 Mora it is!
+Lunja: Haha, it's fine, really! You're still alive, aren't you? Nothing matters more than that. Some things you just have to let go.
+Lunja: Hi, call me Lunja, of The Farrokhzadan, even though technically, I'm a Farrokhdokht, haha! These are my boys...
+Lunja: Hmph... Interesting offer you have there. I'll believe you... this time. Let's go, boys.
+Lunja: Hmph... That old man did mention the Zohrah Mushroom is the key to eradicating The Withering, and that was why he wanted us to get it at all cost.
+Lunja: Hmph... Your tenacity is so infuriating! We're deep in the red for this one! All right, boys, get ready to fight!
+Lunja: How irritating... Come, Minum and Ziri, let's go!
+Lunja: I admire warriors like you. It's my honor to be your friend. But... business is business. I'm sure you understand, right? I hate to break our friendship.
+Lunja: I didn't think a promise could be worth that much. But what are you going to do if I don't believe you?
+Lunja: I see. I respect your proposal.
+Lunja: I see. If this would prevent my boys from getting hurt...
+Lunja: I'll make it short, then. A rich old man in the Akademiya hired us, the Eremites, to find the Zohrah Mushroom in the forest.
+Lunja: Interesting. And why would we do that?
+Lunja: Is that so...
+Lunja: Is that so? That's great. Minum, Ziri, you guys heard that? Let's make a toast to this great adventurer!
+Lunja: Is that so? What could be in this rainforest that is worth risking your lives for?
+Lunja: It would be such a shame to let some boring business get in between us friends!
+Lunja: It's humid and stuffy. You can wring water out of your shirt, pants, and bandana. It's such a mess after every fight...
+Lunja: Just leave it there for our new friends! Let's go!
+Lunja: Let's go, boys, and remember their faces!
+Lunja: Minum, Ziri, I got it! Find a messenger to inform the client! And we're leaving now!
+Lunja: My apologies! They're from the desert and haven't gotten used to the rainforest.
+Lunja: Once we part, you're on your own. Without the desert folk watching your back, you'd better keep an eye out for wild beasts...
+Lunja: Pardon my boys, they're not good with words. I've already made it clear that I'd never threaten friends. It was just a warning, that's all.
+Lunja: Relax. To us Eremites, daring to harm our guests is to court the wrath of the merciless desert.
+Lunja: Seriously, you've proven you're extraordinary by giving Anqa and Isan a good thrashing.
+Lunja: So, if, and I mean if, you're rival bounty hunters, what should I do with you?
+Lunja: Someone sent you? It must be someone of high standing, or at least someone very rich, right?
+Lunja: Sorry, don't mind that, it was just a joke!
+Lunja: Sorry, my "friends," we just wanted the Zohrah Mushroom for our client. Just business, nothing personal.
+Lunja: Sorry, no IOU! Perhaps you can give me that squawking flying pet of yours as collateral?
+Lunja: Take everything valuable from them!
+Lunja: Take it easy, my friend. You're the ones who are cornered in this cave. You wanna risk your life for it? Not a problem.
+Lunja: Tell me now, where's the circle!
+Lunja: That comes out to 450,000 Mora and not a penny less. How's that? You're getting off cheap.
+Lunja: That's enough of my nagging. Job comes first... And too much complaining hurts morale! After all, life is life, but business is still business, right?
+Lunja: That's what we all thought when we picked up our first sword! Until we saw blood for the first time.
+Lunja: The intrinsic value of the mushroom, plus labor, medical expenses for Anqa and Isan, fines for breach of contract, and... a little extra to compensate a friend.
+Lunja: The pay's very good, but the deadline's very tight. And as you can see, a young and charming woman like me really needed Mora.
+Lunja: The savage jungle is just like desert. In the desert, when you leave your tribe, you're on your own. You will be an easy prey for the hungry beasts.
+Lunja: Therefore, it seems that a peaceful resolution is the way to go. But what do you want the mushroom for, anyway?
+Lunja: Those were tough opponents. The Withering couldn't stop them, Anqa and Isan got hurt too. So before they catch up with us...
+Lunja: To the bleak paths ahead and the treacherous exits to come! Cheers!
+Lunja: Tsk, name your price.
+Lunja: Very good, very upbeat! As you can see, me and the boys welcome you here. Please help yourself to a hot meal!
+Lunja: We discovered a Withering Zone inside. That's why we've drawn a circle at the entrance to warn commoners from wandering in.
+Lunja: Well, that depends on how much you're willing to pay.
+Lunja: Well, that's exactly what I'm worried about. They're all my family. I don't want to endanger anyone, or it's a bad deal.
+Lunja: What do you mean, little one? I already apologized. Let's just let bygones be bygones, okay?
+Lunja: Whatever you want is not in this cave, unless it's death. Everything dies in there, no matter what it is.
+Lunja: Where's the circle?
+Lunja: Why would I try to scare you when I'm elated to see you again? I'm just worried about your safety.
+Lunja: Why? You changed your mind?
+Lunja: You know the rest. Sorry for using you to get this Zo... and almost killing... Uh, almost stopping you from pursuing me.
+Lunja: You probably know we have three thousand terms to classify sand, and tens of thousands of ways to deal with it.
+Lunja: You're kinda cute when you bargain. I'm listening.
+Lunja: You're our guests. Make yourselves at home.
+Minum: (There is a... frog in the pot. Should I remind the boss of it...)
+Minum: *sigh*...
+Minum: ...
+Minum: ...Minum.
+Minum: ...Yeah.
+Minum: Boss...
+Minum: I, uh, he, uh...
+Minum: Stop.
+Minum: To courage...
+Minum: Wait...
+Minum: We don't mean to interrupt, boss, but...
+Minum: You can't enter.
+Paimon: (Hey, (Traveler), Paimon thinks we just ran into a bunch of weirdos.)
+Paimon: ...
+Paimon: ...Mushrooms can run away too?
+Paimon: Aaahh!! You...!
+Paimon: Alright... Hey, wait for us!
+Paimon: Anyway, the water here... It's showing some strange colors. Do you think it's because of...
+Paimon: Aranakin...? Where did he go all of a sudden...
+Paimon: Are you referring to those Eremite mercenaries? Are you afraid of them?
+Paimon: Are you serious about doing business with her?
+Paimon: Because you laid the trap and tricked us! Plus... ahem, Ziri's nose, Minum's kneecaps, Anqa and Isan's injuries...
+Paimon: But the place is all affected by The Withering. How are we supposed to get close?
+Paimon: But why would the Zohrah Mushroom go there?
+Paimon: But... even if we can drain the water, what are we going to do with The Withering here?
+Paimon: Cool~seek~wan~♪
+Paimon: Don't try to scare us. We've experienced all kinds of danger!
+Paimon: Eh!? Don't do that!
+Paimon: Eh!? Them again!?
+Paimon: Eh?
+Paimon: Eh? So we wasted all that effort?
+Paimon: Friends? We're not friends! How can you still call us that?
+Paimon: Hey! Paimon's not silly!
+Paimon: Hm... Speaking of which, little one, who are you?
+Paimon: Hmm... it comes again, things Paimon can't understand. Kusawan? What is that?
+Paimon: Hmph, you can't even come up with an answer, that's so suspicious!
+Paimon: Huh!?
+Paimon: Huh? You know our names?
+Paimon: Is this the Zohrah Mushroom? It looks so... mundane.
+Paimon: It's the Eremites...! Gah, Paimon knew that there was something up with Lunja! They must be after the Zohrah Mushroom!
+Paimon: Let's catch up with her from here!
+Paimon: Mmm... Then we better get going and save the mushroom!
+Paimon: No! That's attempted murder. Let bygones be bygones!? Someone could have gotten killed!
+Paimon: Of course. We'll cherish anything you entrust us with!
+Paimon: Okay, got it. Let's get to work then!
+Paimon: Okay, that probably came out wrong, but thanks!
+Paimon: Paimon wonders what scheme they're up to...
+Paimon: Paimon's name is Paimon! Ara...
+Paimon: Paimon's name is Paimon! We're here to...
+Paimon: Phew... We are finally out! Let's look for the cave where the Zohrah Mushroom is!
+Paimon: So you mean that, uh, we can follow the score and learn your song?
+Paimon: That's Paimon's line!
+Paimon: That's right, Mora!
+Paimon: That's super fighter Nara (Traveler) for you!
+Paimon: The Zohrah Mushroom is gone! Look, over there...
+Paimon: There's water everywhere. That "Zohrah Mushroom" you mentioned... Is it really here?
+Paimon: These guys are weird, so eager to get chummy...
+Paimon: These guys really are sly as foxes.
+Paimon: They're gone... They better not try to scam us again next time. Anyway, we got the Zohrah Mushroom!
+Paimon: Uh, no, not at all! Grow up, people!
+Paimon: Uh... Ms. Lunja, they don't look very enthusiastic...
+Paimon: Watch out for traps!
+Paimon: Well, it wasn't funny at all!
+Paimon: Well, nothing comes easy...
+Paimon: Well, since you both say so...
+Paimon: Well, yeah, (Traveler) is like that sometimes.
+Paimon: Well, you picked on the wrong person! The Zohrah Mushroom is ours now!
+Paimon: Well, you should've seen it coming!
+Paimon: What are these guys doing here?
+Paimon: What the heck!?
+Paimon: What!?
+Paimon: What!? That's robbery!
+Paimon: What...? Paimon didn't get that at all...
+Paimon: Wha— Hey!
+Paimon: Where's the circle then?
+Paimon: Who would trust a scammer like you?
+Paimon: Whoa, where have you been?
+Paimon: Why are you people here again? Come on! What are you doing here?
+Paimon: W—Wait a second, we don't even know where we're going!
+Paimon: Yeah! Got to be valuable, at least!
+Paimon: Yeah, you're extorting the wrong people!
+Paimon: Yes, we can! Paimon loves to sing too!
+Ziri: (He/She) is here already.
+Ziri: (Little do they know that... I was to blame for the frog in the pot...)
+Ziri: Be careful in the cave.
+Ziri: It's time we get going.
+Ziri: The pot...!
+Ziri: They freaked out, obviously.
+Ziri: To health.
+Ziri: Welcome, strangers.
+Ziri: You can't enter, and that's that.
+Ziri: You can't enter.
+Ziri: You're the boss, so there's one if you say so.
+Ziri: Ziri.

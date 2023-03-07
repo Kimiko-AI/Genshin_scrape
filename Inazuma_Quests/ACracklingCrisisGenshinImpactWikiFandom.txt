@@ -1,0 +1,38 @@
+ Quest DescriptionA band of rogues have triggered a dangerous thunderstorm that is attacking everyone indiscriminately. Head over there and stop them.
+(after a large Hydro slime/Electro Whopperflower is defeated, another one will spawn in to replace it until there are no more of it remaining)
+Defeat 14 enemies in 4:00.
+Defeat 15 enemies in 4:00.
+Defeat 3 enemies in 4:00.  Thunderhelm Lawachurl ×1 Electro Hilichurl Shooter ×1 Cryo Hilichurl Shooter ×1
+Defeat 4 enemies in 4:00.
+Defeat 4 enemies in 5:00.
+Defeat 5 enemies in 4:00.
+Initial  Blazing Axe Mitachurl ×1 Crackling Axe Mitachurl ×1
+Initial  Electro Hilichurl Grenadier ×1 Hilichurl Grenadier ×1
+Initial  Electro Samachurl ×1
+Initial  Wooden Shield Hilichurl Guard ×3
+Remaining enemies:  Large Hydro Slime ×9 Electro Whopperflower ×2
+Respawn  Electro Samachurl ×1
+Respawns  Wooden Shield Hilichurl Guard ×3
+Respawns (in this order, regardless of the enemy defeated)  Electro Hilichurl Grenadier ×1 Hilichurl Grenadier ×1
+This version of the commission uses complex spawn pools, much like in many domains.
+Spawn pool A
+Initial  Electro Hilichurl Grenadier ×1 Hilichurl Grenadier ×1
+Respawns (in this order, regardless of the enemy defeated)  Electro Hilichurl Grenadier ×1 Hilichurl Grenadier ×1
+Spawn pool B
+Initial  Electro Samachurl ×1
+Respawn  Electro Samachurl ×1
+Spawn pool C1
+Initial  Wooden Shield Hilichurl Guard ×3
+Respawns  Wooden Shield Hilichurl Guard ×3
+Spawn pool C2 (spawns after spawn pool C1 is depleted)
+Initial  Blazing Axe Mitachurl ×1 Crackling Axe Mitachurl ×1
+Wave 1:  Fatui Cryogunner Legionnaire ×1 Fatui Geochanter Bracer ×1
+Wave 1:  Large Cryo Slime ×2 Large Pyro Slime ×2 Anemo Specter ×1
+Wave 1:  Large Hydro Slime ×3 Electro Whopperflower ×1
+Wave 1:  Nobushi: Hitsukeban ×1 Nobushi: Jintouban ×1 Nobushi: Kikouban ×1
+Wave 1:  Nobushi: Jintouban ×1 Nobushi: Hitsukeban ×1 Nobushi: Kikouban ×1
+Wave 2:  Fatui Hydrogunner Legionnaire ×1 Fatui Anemoboxer Vanguard ×1
+Wave 2:  Kairagi: Fiery Might ×1
+Wave 2:  Kairagi: Fiery Might ×2
+Wave 2:  Large Anemo Slime ×2 Large Geo Slime ×2 Hydro Specter ×1
+Wave 3:  Large Hydro Slime ×3 Geo Specter ×2

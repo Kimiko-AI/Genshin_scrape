@@ -1,0 +1,80 @@
+ (I'm not sure how we can console Sabbah...)
+Affan: Don't be sad. Look, in the end, he still managed to leave us the Golden Rose.
+Affan: They are the proof that Uncle Shafaqat once existed in this world.
+ About Affan...
+ Did you think of something, Sabbah?
+ Doing the dirty work again...
+ Have the seeds germinated?
+ I'm on it.
+ Keep your chin up.
+Affan: Yes, child. You still have a long way to go, and lots of things to do.
+Affan: Don't be trapped in melancholy. I don't want to see a second old ghost.
+ Quest DescriptionFollow Sabbah's advice and try to "Awaken" the seeds
+ Same here.
+ Step DescriptionFollow Sabbah's advice. First, use Blunt Attacks to break the seed casings, then use the power of Dendro to "Awaken" the seeds.
+Affan: "Blooming from the stone, the Golden Rose sang to me."
+Affan: "No land but folk songs bore my spirit."
+Affan: "Rose, oh roses, grant me my wish."
+Affan: "She sang:"
+Affan: "Songs shall defy my fate, and overcome my destiny."
+Affan: "They will surpass me, surpass time. They will surpass the ever-lasting withering of life."
+Affan: Do you mean to break the seeds open by force?
+Affan: Don't be sad. Look, in the end, he still managed to leave us the Golden Rose.
+Affan: Don't be trapped in melancholy. I don't want to see a second old ghost.
+Affan: He taught the folk song he composed to the generation before me, and they taught it to their own children.
+Affan: I was about to lose hope. Didn't expect this flower to actually grow. I guess as long as we're alive, wonderful things can still happen to us.
+Affan: I'm really... *sigh* I'm old and useless.
+Affan: Little one, are you still sad about Uncle Shafaqat? Don't worry. The living have to carry on ith the wishes of those who passed away. We can't let them down.
+Affan: Oh, you probably don't know about this. The village has a rose folk song that has been passed down, and it was originally composed by Uncle Shafaqat.
+Affan: So they're stones, huh? Then I suppose all hope is lost. Golden Roses can't grow from stones.
+Affan: There are already people in my generation who have never heard of this song, and when our generation is gone, no one will remember him anymore.
+Affan: They are the proof that Uncle Shafaqat once existed in this world.
+Affan: They're finally sprouting! Finally...
+Affan: This is the song Uncle Shafaqat taught us.
+Affan: This must be the person you found to help me, right? I said something harsh to her just a few days ago...
+Affan: Yes, child. You still have a long way to go, and lots of things to do.
+Affan: Yes... He was exiled to this village, and he lived in the house behind us his whole life.
+Affan: You're here.
+After you wait in silence for some time, young shoots slowly emerge from the soil...
+Paimon: Are you thinking about your own future as well...
+Paimon: Paimon... Paimon doesn't really get it. Are you saying that the seeds have turned to stone?
+Paimon: Wow, Sabbah's method really worked!
+Sabbah: (They can cultivate a new species? Well, I have to say I still have a long way to go.)
+Sabbah: (Traveler), can you do it?
+Sabbah: Aren't we having a friendly chat right now? Don't take it to heart, sir.
+Sabbah: As the song hinted, perhaps breaking the stone shell will let the seeds sprout from the stones.
+Sabbah: Based on my observations, these seeds appear to have gone through petrifaction. There are two possible reasons for this:
+Sabbah: But I agree. Since we're alive, we may as well try our best to live a happy life.
+Sabbah: But this rose breed has a seed casing that is too hard for the sprout to break through. So we can try lending them a hand instead.
+Sabbah: Golden Rose? Do you refer to the Golden Rose that the folk song sings of?
+Sabbah: Here for a chat? I've been wanting to talk to somebody.
+Sabbah: Hmm? Did something happen?
+Sabbah: I see, so that's why you have come to me for help.
+Sabbah: I see. That's probably how all of us exiles will end up.
+Sabbah: I will visit Mr. Affan's nursery when I have some time. You can look for me there later.
+Sabbah: I'm honored that I am the one you thought of when something like this came up.
+Sabbah: If the above hypothesis is true, this means that these seeds can be preserved for a long time.
+Sabbah: If this is the case, the seeds will be unable to germinate. However, the probability of this hypothesis proving true is low.
+Sabbah: Is this fine with you, Mr. Affan?
+Sabbah: It takes a very long time for petrifaction to take place, and these seeds do not meet that time requirement.
+Sabbah: It's a great pity that a person like him faded into nameless obscurity so far away from the Akademiya.
+Sabbah: Let's give them more time to absorb more nutrients. We'll reconvene later and watch them bloom.
+Sabbah: Looks like Mr. Shafaqat's wish can finally be fulfilled after all.
+Sabbah: Mr. Affan and I went to take a look, and they haven't, unfortunately.
+Sabbah: Mr. Affan, you told me before that this breed of rose is something that he cultivated.
+Sabbah: Mr. Affan... I'm not so young anymore. Those friends I grew up with... their kids must be old enough now to go buy spices at the store.
+Sabbah: Normally, an ideal planting environment needs to be created to awaken the seeds and let them break through the seed casing on their own.
+Sabbah: Obviously, we're not going to completely smash the seeds. We have to get someone nimble to do this.
+Sabbah: Speaking of which, cultivating new species is something only the top researchers can do.
+Sabbah: Still, I will try my best. The gentleman you mentioned who cultivated a new species of rose also interests me.
+Sabbah: That is to say that they can gather enough Geo elements while in seed form to form a stony shell over their exteriors.
+Sabbah: That said, I did not specialize in plant cultivation, and my experience is limited. I'm not sure that I'll be of much help.
+Sabbah: That's right... We can make the stones bloom!
+Sabbah: The first possibility is that they lost all possibility of growth after a long period of natural weathering and have thus transformed into a petrified state.
+Sabbah: The second possibility is that this breed has a strong affinity for Geo.
+Sabbah: These Golden Roses have only just sprouted. They have yet to bloom. I want to keep watching over them until they bloom. How about you all?
+Sabbah: To be able to cultivate a new species, he must have been a researcher who was exiled here, just like me, right?
+Sabbah: Try using Blunt Attacks to break the petrified seed casings, then use the power of Dendro to awaken the seeds.
+Sabbah: You must be careful. Use Blunt Attacks to break the seed casings first, then use the power of Dendro to awaken the seeds.
+Sabbah: You're right. I shouldn't be getting all melancholic at a happy time like this. Let's get back on topic.
+You tell Sabbah about the difficulties Affan has encountered.

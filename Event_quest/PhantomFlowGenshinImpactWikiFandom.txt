@@ -1,0 +1,13 @@
+ — Abyss Herald: Wicked Torrents — Abyss Lector: Violet Lightning
+ — Cryo Hilichurl Shooter — Ice Shield Hilichurl Guard — Hilichurl Berserker — Electro Samachurl — Thunderhelm Lawachurl
+ — Electro Hilichurl Grenadier — Hilichurl Fighter — Frostarm Lawachurl
+ — Electro Samachurl — Electro Hilichurl Shooter — Electro Hilichurl Grenadier — Crackling Axe Mitachurl
+ — Electro Samachurl — Electro Hilichurl Shooter — Pyro Hilichurl Shooter — Hilichurl Grenadier — Electro Hilichurl Grenadier — Blazing Axe Mitachurl — Stonehide Lawachurl
+ — Electro Slime — Large Electro Slime — Mutant Electro Slime — Hilichurl Berserker — Crackling Axe Mitachurl
+ — Large Electro Slime — Electro Hilichurl Grenadier — Electro Samachurl — Crackling Axe Mitachurl
+ — Nobushi: Jintouban — Nobushi: Hitsukeban — Nobushi: Kikouban — Kairagi: Dancing Thunder — Kairagi: Fiery Might — Treasure Hoarders: Marksman — Treasure Hoarders: Seaman
+ — Nobushi: Jintouban — Nobushi: Hitsukeban — Nobushi: Kikouban — Treasure Hoarders: Scout — Treasure Hoarders: Gravedigger — Treasure Hoarders: Seaman
+ — Ruin Guard
+ — Ruin Guard — Ruin Grader
+ — Treasure Hoarders: Handyman — Treasure Hoarders: Seaman — Treasure Hoarders: Marksman — Treasure Hoarders: Gravedigger — Treasure Hoarders: Scout — Treasure Hoarders: Crusher
+ — Treasure Hoarders: Scout — Treasure Hoarders: Handyman — Treasure Hoarders: Marksman — Mirror Maiden

@@ -1,0 +1,236 @@
+ (...Or were they coerced?)
+ (Is she embarrassed to admit that she likes books like that?)
+ (She clearly recognized it as the latest volume with a single glance...)
+ (Were they convinced...)
+ ...But I suppose the principle is the same.
+ ...Is completely different from how she treats researchers.
+ ...She keeps asking you to become her student?
+ ...What other learning methods does Collei use?
+ Did I end up giving her a bad idea?
+ How about "The Legend of Antara," then?
+ How do we choose our course materials, then?
+ How old is that story, exactly...?
+ I doubt this counts as a book written in an ancient language...
+ I guess that's a language researcher from Haravatat for you...
+ I propose "Appreciation of Popular Literature."
+ I think it's because such names are "cool"...
+ I think it's because such names are "fancy"...
+ I think we can ignore the whole dark history thing, just for now...
+ I'm afraid not.
+ If even a centenarian like you finds that tale old...
+ It doesn't look valuable.
+ It doesn't matter if it's a classic or a fad. What matters is that you like it.
+ It's for readers who don't care about plot.
+ It's for readers who don't care much for logic.
+ It's good to reminisce on an old tale in a while.
+ Our learning objective is to teach people to read, right?
+ Perhaps "Analysis of Popular Literature" might do the trick?
+ Quest DescriptionFor Collei's future and that of all Sumeru, Faruzan decides to start a certain class...
+ She was able to say those phrases in such a serious tone...
+ So she's a teacher with no students...
+ So we've got teaching methods sorted out.
+ So you're scared of her because...
+ So, other than teaching materials for children...
+ That book's only 100 years old, Collei...
+ That sounds like something a grandmother might do for her granddaughter...
+ That was fast!
+ The most popular book back then?
+ The problem here is not actually about improving your reading skills...
+ The story's decline might not have been due to changing trends...
+ The way she treats you...
+ There might be people out there who will.
+ Those are what we call "tropes."
+ What's wrong?
+ Who was the passerby, in any case?
+ You don't have to worry about that.
+ The story's decline might not have been due to changing trends...
+ It doesn't matter if it's a classic or a fad. What matters is that you like it.
+ You know, I think...
+ The story's decline might not have been due to changing trends...
+ It doesn't matter if it's a classic or a fad. What matters is that you like it.
+ You seem quite scared of her.
+ You should think about the present first.
+ You should think about your income first.
+Faruzan quickly flips through the pages...
+Media:vo frzcop001 1917102 collei 01.ogg Collei: I can't believe she rushed right in after we arrived. She's really headstrong... *sigh* How did things turn out like this?
+Media:vo frzcop001 1917102 collei 02.ogg Collei: No, not really. Madam Faruzan is a brilliant scholar — even Master thinks so. If she's really going to teach me how to read, it'll definitely be much better than me bashing my head against the wall.
+Media:vo frzcop001 1917102 collei 03.ogg Collei: It's just that she can get a bit TOO passionate sometimes. I don't know how to handle that.
+Media:vo frzcop001 1917102 collei 04.ogg Collei: Maybe it's because she wants to take me in as a student?
+Media:vo frzcop001 1917102 collei 05.ogg Collei: It's just like that researcher said: the Akademiya has completely changed during the 100 years that Faruzan was gone.
+Media:vo frzcop001 1917102 collei 06.ogg Collei: I don't really get it, but it does seem like Haravatat's students aren't optimistic about the prospects of doing research with her.
+Media:vo frzcop001 1917102 collei 07.ogg Collei: Students who are interested in mechanisms and applications of the elements generally enroll in Kshahrewar and Spantamad.
+Media:vo frzcop001 1917102 collei 08.ogg Collei: Madam Faruzan also refuses to accept random students just to make up numbers. She still hasn't found a student she likes, even after all this time back.
+Media:vo frzcop001 1917102 collei 09.ogg Collei: But she seems to like my attitude toward learning, so she often asks me if I'm willing to become her student.
+Media:vo frzcop001 1917102 collei 10.ogg Collei: Agh, it's because I'm a slow learner that I have no choice but to stay up late and study! Whenever she compliments me, I feel really guilty...
+Media:vo frzcop001 1917102 collei 11.ogg Collei: It's not that... Madam Faruzan respects my choices. She hasn't been trying to persuade me, especially since she knows I need to rest and recuperate.
+Media:vo frzcop001 1917102 collei 12.ogg Collei: She sometimes brings food to Gandharva Ville for me, and each time, she says that Master can't find out...
+Media:vo frzcop001 1917102 collei 13.ogg Collei: Now that you mention it, it does feel a bit like that. ...Do I really look that young?
+Media:vo frzcop001 1917102 collei 14.ogg Collei: A—Amazing...
+Media:vo frzcop001 1917102 collei 15.ogg Collei: That's true! If we use children's teaching materials, we'll only end up wasting a lot of time on things that students would already know...
+Media:vo frzcop001 1917102 collei 16.ogg Collei: Hmm... Master always tells me that practice is the best way to learn. That's why I often ask him to help me find simple books to read.
+Media:vo frzcop001 1917102 collei 17.ogg Collei: Me...? I've been reading light novels from Inazuma. I heard that ever since we were allowed to sell books in Sumeru again, some people set up stalls at Treasures Street to sell light novels. I've been meaning to go there and check it out!
+Media:vo frzcop001 1917102 collei 18.ogg Collei: W—Wait for us, Madam Faruzan!
+Media:vo frzcop001 1917102 collei 19.ogg Collei: Gah, you wouldn't think someone as fast as her is over 100...! Let's pick up the pace and catch up to her!
+Media:vo frzcop001 1917102 faruzan 01.ogg Faruzan: Collei, (Traveler), thank you for waiting. The issue has been resolved.
+Media:vo frzcop001 1917102 faruzan 02.ogg Faruzan: I argued with the higher-ups and convinced them of the practicality and necessity of educating the general public.
+Media:vo frzcop001 1917102 faruzan 03.ogg Faruzan: If I'm not mistaken, they're the students of my classmates' students. They're a lot less forceful than their predecessors, though. I'd say they caved rather quickly.
+Media:vo frzcop001 1917102 faruzan 04.ogg Faruzan: It's just that we need to fill in every single page of the application. Tch, it's been a century, but the Akademiya is as picky as ever.
+Media:vo frzcop001 1917102 faruzan 05.ogg Faruzan: Let's see now, what do we need to fill in... Course name, learning objectives, teaching methods, course materials... Hmm, I suppose we can fill in the course name last.
+Media:vo frzcop001 1917102 faruzan 06.ogg Faruzan: That's a bit too general, I'd say. After all, this class's target audience isn't toddlers or children, but rather people who already know the basics of reading.
+Media:vo frzcop001 1917102 faruzan 07.ogg Faruzan: As such, we'll need a more specific learning objective. How about... proficiency in reading and writing?
+Media:vo frzcop001 1917102 faruzan 08.ogg Faruzan: And you have your job as a Forest Ranger, Collei. People who attend this course in the future are also likely to have life commitments. We need more effective teaching methods.
+Media:vo frzcop001 1917102 faruzan 09.ogg Faruzan: It must have been difficult to get books in Sumeru in recent years, no? Tighnari really went the extra mile for you.
+Media:vo frzcop001 1917102 faruzan 10.ogg Faruzan: Expanding literacy is a capital notion. Now that the Akademiya is easing restrictions on the circulation of books, there should be more people who have become interested in reading. It's a great time to conduct this course.
+Media:vo frzcop001 1917102 faruzan 11.ogg Faruzan: Hmm, so that's next on the list... I fear that I'm at a loss as to which books youngsters like nowadays. Would "The Legend of Antara" be too old of a story?
+Media:vo frzcop001 1917102 faruzan 12.ogg Faruzan: Hm, fair... Collei, what have you been reading lately?
+Media:vo frzcop001 1917102 faruzan 13.ogg Faruzan: Light novels? This is my first time hearing about such a thing, but I doubt I will procure suitable teaching materials from the House of Daena... Treasures Street it is!
+Media:vo frzcop001 1917103 collei 01.ogg Collei: Ah, I heard that this book's author describes action in vivid detail.
+Media:vo frzcop001 1917103 collei 02.ogg Collei: S—Subjects? Predicates?
+Media:vo frzcop001 1917103 collei 03.ogg Collei: A reincarnation isekai story? Those are pretty popular right now.
+Media:vo frzcop001 1917103 collei 04.ogg Collei: Uh, sorry, what is this distancing effect?
+Media:vo frzcop001 1917103 collei 05.ogg Collei: Oh! That's the latest volume of "Onibudou"!
+Media:vo frzcop001 1917103 collei 06.ogg Collei: Y—Yes, but I—I don't like it THAT much! Ha ha...
+Media:vo frzcop001 1917103 collei 07.ogg Collei: Uh... Madam, are you going to use this series as teaching material?
+Media:vo frzcop001 1917103 collei 08.ogg Collei: Haha, I also thought those names were strange when I was reading them...
+Media:vo frzcop001 1917103 collei 09.ogg Collei: Y—You're right... It's such a weird book, haha... but you keep wanting to read the next page...
+Media:vo frzcop001 1917103 collei 10.ogg Collei: Madam, wait! Oh no, this is bad...
+Media:vo frzcop001 1917103 collei 11.ogg Collei: You asked me why I'm scared of Madam Faruzan, right? It's not because I don't know how to respond to her kindness...
+Media:vo frzcop001 1917103 collei 12.ogg Collei: It's because I'm afraid of that ancient language she researches, because I can barely understand any of it. What if she uses ancient texts as teaching material!?
+Media:vo frzcop001 1917103 collei 13.ogg Collei: Even so, what if researchers from 100 years ago liked to use ancient languages in their books? We've got to catch up to her!
+Media:vo frzcop001 1917103 farrokh 01.ogg Farruq: Is this your first time seeing a light novel, ma'am? They're the most popular of books nowadays. Would you like me to recommend something?
+Media:vo frzcop001 1917103 farrokh 02.ogg Farruq: Of course. Why don't you try this one? It's "Outlander Brigade: When the Wind of Death Blew Towards the Blond Samurai"!
+Media:vo frzcop001 1917103 farrokh 03.ogg Farruq: Uh, how about "The Good Thing About Being Reincarnated as a Hilichurl Is That I Only Need to Eat Sunsettias to Become Stronger"?
+Media:vo frzcop001 1917103 farrokh 04.ogg Farruq: H—How about this? I had to fight tooth and nail to get this in stock!
+Media:vo frzcop001 1917103 farrokh 05.ogg Farruq: Is there a book like that in Sumeru? I've never heard of such a thing before. What's the title?
+Media:vo frzcop001 1917103 farrokh 06.ogg Farruq: Tales of Shahryar? I don't think I've heard of that before. When was it published?
+Media:vo frzcop001 1917103 farrokh 07.ogg Farruq: 100 years ago? Are you pulling my leg? What sort of book can remain popular for 100 years?
+Media:vo frzcop001 1917103 farrokh 08.ogg Farruq: Even if that is the case, I really don't carry that book here in my store...
+Media:vo frzcop001 1917103 farrokh 09.ogg Farruq: Tales of Shahryar... Oh wait, I think I heard an antique seller on the other end of Treasures Street mention that name before.
+Media:vo frzcop001 1917103 farrokh 10.ogg Farruq: I mean, it is a book from 100 years ago... Why don't you try asking for it there?
+Media:vo frzcop001 1917103 faruzan 01.ogg Faruzan: What a long and mildly ungrammatical title. And why is the cover so colorful?
+Media:vo frzcop001 1917103 faruzan 02.ogg Faruzan: Fine. One shouldn't judge a book by its cover, after all. May we browse through the books here?
+Media:vo frzcop001 1917103 faruzan 03.ogg Faruzan: Hmm... Now, I've only skimmed through a few pages, but it feels like it's all fight scenes. There are only subjects and predicates, and the syntax is a tad simple.
+Media:vo frzcop001 1917103 faruzan 04.ogg Faruzan: The protagonist just ends up fighting in every scene with no proper build-up. Will anyone even enjoy a story that's only comprised of fights?
+Media:vo frzcop001 1917103 faruzan 05.ogg Faruzan: "Isekai"? What in the world is that? Also, why does it become stronger by eating Sunsettias?
+Media:vo frzcop001 1917103 faruzan 06.ogg Faruzan: "Tropes"? Ah, those fictional rules used to push the plot forward, yes? They're definitely effective in achieving a distancing effect.
+Media:vo frzcop001 1917103 faruzan 07.ogg Faruzan: However, this book doesn't explain how reincarnation correlates to becoming stronger. Such an illogical rule will affect the coherence of the story. Will readers really accept this?
+Media:vo frzcop001 1917103 faruzan 08.ogg Faruzan: Hmm? Now that's a rather normal title length. ...Oh, Collei, do you like this series?
+Media:vo frzcop001 1917103 faruzan 09.ogg Faruzan: Let me see... The dialogue flows quite well, but there are too many phrases here that I don't recognize.
+Media:vo frzcop001 1917103 faruzan 10.ogg Faruzan: "Third Eye of Perception," "Illusory Mirror," and so on. Are these terms that are tied to tropes?
+Media:vo frzcop001 1917103 faruzan 11.ogg Faruzan: It's impossible to derive the meaning of these phrases in isolation. Also, their morphological properties are quite pedestrian, really.
+Media:vo frzcop001 1917103 faruzan 12.ogg Faruzan: Or did the protagonist purposely create these strange names to disorient their foes?
+Media:vo frzcop001 1917103 faruzan 13.ogg Faruzan: So there's no deeper purpose? My, it's quite hard to understand stories written these days.
+Media:vo frzcop001 1917103 faruzan 14.ogg Faruzan: *sigh* Even the most popular book in Sumeru back then had greater depth than anything written today.
+Media:vo frzcop001 1917103 faruzan 15.ogg Faruzan: Yes — a Vahumana researcher wrote it while researching folk legends.
+Media:vo frzcop001 1917103 faruzan 16.ogg Faruzan: The plot had many twists, the world-building was fantastic, and even the writing could withstand scrutiny. When it was still being published, many people in the Akademiya were reading it.
+Media:vo frzcop001 1917103 faruzan 17.ogg Faruzan: Even the sages back then all described the story as a timeless classic. The series must have concluded after so many years, right? Perhaps it's even more popular now.
+Media:vo frzcop001 1917103 faruzan 18.ogg Faruzan: It's called "Tales of Shahryar." Do you sell it here?
+Media:vo frzcop001 1917103 faruzan 19.ogg Faruzan: About 100 years ago...
+Media:vo frzcop001 1917103 faruzan 20.ogg Faruzan: "The Legend of Antara" is popular to this very day, isn't it? I just heard someone telling it a few days ago in a cafe.
+Media:vo frzcop001 1917103 faruzan 21.ogg Faruzan: If an old story like that is still being shared, then "Tales of Shahryar" must be even more popular.
+Media:vo frzcop001 1917103 faruzan 22.ogg Faruzan: What? Hmm, is that because of the Akademiya's strict control over books in recent years?
+Media:vo frzcop001 1917103 faruzan 23.ogg Faruzan: I can't believe they've allowed the people of Sumeru to become so uncivilized. How can they not know about the Tales of Shahryar?
+Media:vo frzcop001 1917103 faruzan 24.ogg Faruzan: Tales of Shahryar is considered an antique now? How could the Akademiya have let such an excellent work of literature be forgotten like this?
+Media:vo frzcop001 1917103 faruzan 25.ogg Faruzan: (Traveler), Collei, I'm going to get to the bottom of this. Let's meet at the antique seller's.
+Media:vo frzcop001 1917104 collei 01.ogg Collei: Wow, you actually found it!
+Media:vo frzcop001 1917104 collei 02.ogg Collei: C—Can I take a look...?
+Media:vo frzcop001 1917104 collei 03.ogg Collei: Phew... Luckily, the language being used here isn't ancient at all. I can recognize a few words here and there... Huh? But why aren't there pictures in this book?
+Media:vo frzcop001 1917104 collei 04.ogg Collei: Then let's go ask around at the cafe... Um, Madam Faruzan?
+Media:vo frzcop001 1917104 derafsh 01.ogg Derafsh: I never thought that this book would ever get sold...
+Media:vo frzcop001 1917104 derafsh 02.ogg Derafsh: Uh, I don't think so.
+Media:vo frzcop001 1917104 derafsh 03.ogg Derafsh: Uh, I don't have those either. Actually, this is the only volume I have.
+Media:vo frzcop001 1917104 derafsh 04.ogg Derafsh: No, no, no. It's not popular at all. Rather, there's absolutely no demand for it.
+Media:vo frzcop001 1917104 derafsh 05.ogg Derafsh: Seriously? No one told me that this book was anything special when I first got it.
+Media:vo frzcop001 1917104 derafsh 06.ogg Derafsh: I'm afraid not. This book was sold together with a whole bunch of antique furniture. I didn't even notice it initially.
+Media:vo frzcop001 1917104 derafsh 07.ogg Derafsh: Otherwise, the matra would've come knocking... Wait, is this book actually worth a lot? It can't be, right?
+Media:vo frzcop001 1917104 derafsh 08.ogg Derafsh: Ah, I do remember a passerby skimming through the book a few days ago. However, he simply sighed and left.
+Media:vo frzcop001 1917104 derafsh 09.ogg Derafsh: Well, that passerby reacted in much the same way.
+Media:vo frzcop001 1917104 derafsh 10.ogg Derafsh: It's Maddah from the cafe over there. You know, the fellow who spends all day telling "The Legend of Antara."
+Media:vo frzcop001 1917104 derafsh 11.ogg Derafsh: Since that's also a very old story, maybe he knows a thing or two about that, uh... Tales of... uh, whatever it's called.
+Media:vo frzcop001 1917104 farrokh 01.ogg Farruq: A book that was popular 100 years ago? It doesn't sound like something that'd be popular now, to be frank.
+Media:vo frzcop001 1917104 faruzan 01.ogg Faruzan: Found it! The fifth volume of "Tales of Shahryar"!
+Media:vo frzcop001 1917104 faruzan 02.ogg Faruzan: All right, that's our teaching material secured. We also now know what to name this course: "Analysis of Classical Texts." After all, this book is definitely worthy of being called a classic!
+Media:vo frzcop001 1917104 faruzan 03.ogg Faruzan: As long as the writing is good, readers won't need any illustrations to imagine the scenes.
+Media:vo frzcop001 1917104 faruzan 04.ogg Faruzan: Worry not, I shall thoroughly explain the difficult sections. You'll like this book, I know it!
+Media:vo frzcop001 1917104 faruzan 05.ogg Faruzan: Ah, after all this time. I wonder if Aliyah and Aziz ended up together. And who obtained the Desert Gem in the end...?
+Media:vo frzcop001 1917104 faruzan 06.ogg Faruzan: Sir, do you have the subsequent volumes of this series?
+Media:vo frzcop001 1917104 faruzan 07.ogg Faruzan: Is that so? And here I thought I could finally read the ending... Never mind, I'll keep searching for the later volumes myself.
+Media:vo frzcop001 1917104 faruzan 08.ogg Faruzan: If I'm to use it as a teaching material, it's better to start earlier in the series. Where are the first four volumes? Why aren't they all together?
+Media:vo frzcop001 1917104 faruzan 09.ogg Faruzan: Is this series really that popular?
+Media:vo frzcop001 1917104 faruzan 10.ogg Faruzan: No demand? Impossible! Back then, I'd come across at least three groups of people talking about it during a single stroll at the Akademiya!
+Media:vo frzcop001 1917104 faruzan 11.ogg Faruzan: Where did you get this from? Can you still contact the seller?
+Media:vo frzcop001 1917104 faruzan 12.ogg Faruzan: That's impossible! No matter how strict the Akademiya was, there's no way "Tales of Shahryar" could have fallen into such a state...
+Media:vo frzcop001 1917104 faruzan 13.ogg Faruzan: He sighed? Why would he react like that? Given the quality of "Tales of Shahryar," he should've been entranced after a single glance.
+Media:vo frzcop001 1917104 faruzan 14.ogg Faruzan: ...I'm sorry, Traveler, Collei. Please give me a moment. I'd like to look through this book first.
+Media:vo frzcop001 1917104 faruzan 15.ogg Faruzan: ...Why is there another misunderstanding between Aliyah and Aziz? Also, why is there no mention of the Desert Gem at all?
+Media:vo frzcop001 1917104 faruzan 16.ogg Faruzan: ...And a new character is introduced with no foreshadowing at all? Also, what are all these new names and terms?
+Media:vo frzcop001 1917104 faruzan 17.ogg Faruzan: Is this really the "Tales of Shahryar" I know...?
+Media:vo frzcop001 1917104 faruzan 18.ogg Faruzan: *sigh*
+Media:vo frzcop001 1917104 faruzan 19.ogg Faruzan: ...Oh, yes... Let's go.
+Media:vo frzcop001 1917105 collei 01.ogg Collei: Excuse me, but are you Maddah?
+Media:vo frzcop001 1917105 collei 02.ogg Collei: Uh, well, we actually came to ask about something else.
+Media:vo frzcop001 1917105 collei 03.ogg Collei: S—Sorry...
+Media:vo frzcop001 1917105 collei 04.ogg Collei: Madam Faruzan...?
+Media:vo frzcop001 1917105 collei 05.ogg Collei: Y—Yeah! Master helped me find a lot of famous books at first, but in the end, I realized that I couldn't get into them...
+Media:vo frzcop001 1917105 collei 06.ogg Collei: No matter how good those stories are, I can't improve my skills if I can't bring myself to read them in the first place. I think the best books for me are the ones I like!
+Media:vo frzcop001 1917105 collei 07.ogg Collei: Huh? Our conversation just got a lot more serious...
+Media:vo frzcop001 1917105 collei 08.ogg Collei: Um... Yes, but I don't really—
+Media:vo frzcop001 1917105 collei 09.ogg Collei: Huh? Um... Uh...
+Media:vo frzcop001 1917105 collei 10.ogg Collei: M—Maddah! You know, I suddenly have the urge to hear a story about Antara!
+Media:vo frzcop001 1917105 derafsh 01.ogg Derafsh: Anyway, is there anything else here that has caught your eye? As long as the price is reasonable, I can give you this book as a bonus!
+Media:vo frzcop001 1917105 faruzan 01.ogg Faruzan: Do you know about "Tales of Shahryar"?
+Media:vo frzcop001 1917105 faruzan 02.ogg Faruzan: Your master?
+Media:vo frzcop001 1917105 faruzan 03.ogg Faruzan: And then? What happened next? Why doesn't anyone know about "Tales of Shahryar" now?
+Media:vo frzcop001 1917105 faruzan 04.ogg Faruzan: How could that be...? Then, what happened to "Tales of Shahryar" in the end?
+Media:vo frzcop001 1917105 faruzan 05.ogg Faruzan: What...? So there's no ending? The readers didn't care?
+Media:vo frzcop001 1917105 faruzan 06.ogg Faruzan: So Antara's story is the one that lasted through the years...
+Media:vo frzcop001 1917105 faruzan 07.ogg Faruzan: Only time...?
+Media:vo frzcop001 1917105 faruzan 08.ogg Faruzan: It's been a hundred years... Perhaps some things I once believed to be great aren't so after all.
+Media:vo frzcop001 1917105 faruzan 09.ogg Faruzan: ...Indeed.
+Media:vo frzcop001 1917105 faruzan 10.ogg Faruzan: That is true. Readers' interests and trends of a time are not things that are so easily predicted.
+Media:vo frzcop001 1917105 faruzan 11.ogg Faruzan: What was popular a hundred years ago could be completely forgotten in modern times. And yet a hundred years, as far as history is concerned, is but a blink of an eye.
+Media:vo frzcop001 1917105 faruzan 12.ogg Faruzan: If "Tales of Shahryar" hadn't chased after trends and instead stuck to its original style from start to finish...
+Media:vo frzcop001 1917105 faruzan 13.ogg Faruzan: It might have stood some chance of gaining renewed popularity... No, even if that didn't happen, at least it would be a work that was true to itself.
+Media:vo frzcop001 1917105 faruzan 14.ogg Faruzan: Hah, how unseemly. I almost got carried away because of a single book. Well then, we should get back to the matter of our teaching material... It looks like we can't use "Tales of Shahryar" now.
+Media:vo frzcop001 1917105 faruzan 15.ogg Faruzan: No, it's much too old.
+Media:vo frzcop001 1917105 faruzan 16.ogg Faruzan: Collei, you found a book that you liked at the book stall, yes?
+Media:vo frzcop001 1917105 faruzan 17.ogg Faruzan: Then we'll use that book as our teaching material. Now that I think about it, using a book that you like is the most suitable choice for teaching you how to read.
+Media:vo frzcop001 1917105 faruzan 18.ogg Faruzan: As for the Akademiya... As long as we come up with an appropriate course name, we should be able to get away with this...
+Media:vo frzcop001 1917105 faruzan 19.ogg Faruzan: My, it sounds like you've dealt with the Akademiya before! Let's go with that.
+Media:vo frzcop001 1917105 faruzan 20.ogg Faruzan: Now then, let's return to the book vendor in a bit and buy the latest volume of this "Onibudou" for Collei.
+Media:vo frzcop001 1917105 faruzan 21.ogg Faruzan: Ah, but if I wish to use it as teaching material, I have to read it first.
+Media:vo frzcop001 1917105 faruzan 22.ogg Faruzan: Speaking of which, other than "Third Eye of Perception" and "Illusory Mirror," I also espy some unfamiliar phrases from the readers' messages at the back of the book.
+Media:vo frzcop001 1917105 faruzan 23.ogg Faruzan: Such things as "Even if it reminds me of my dark history, I still can't help but be drawn in by the story," and "The author has written all the things that I only dare whisper into a tree hollow!"...
+Media:vo frzcop001 1917105 faruzan 24.ogg Faruzan: Why do people use "dark history" to refer to awkward or embarrassing memories? Is this some slang that was invented in the last century?
+Media:vo frzcop001 1917105 faruzan 25.ogg Faruzan: If one of our learning objectives was researching linguistic changes over the past hundred years, it might make it easier to get these books approved as teaching material.
+Media:vo frzcop001 1917105 faruzan 26.ogg Faruzan: Huh? Why so suddenly?
+Media:vo frzcop001 1917105 maddah 01.ogg Maddah: *sigh* Another day, another empty room...
+Media:vo frzcop001 1917105 maddah 02.ogg Maddah: Yes. Are you here to listen to my story?
+Media:vo frzcop001 1917105 maddah 03.ogg Maddah: *sigh* I see...
+Media:vo frzcop001 1917105 maddah 04.ogg Maddah: It's fine. I'm used to it, more or less. So, how can this terribly unpopular storyteller help you?
+Media:vo frzcop001 1917105 maddah 05.ogg Maddah: Huh? "Tales of Shahryar"? Why, I can barely remember the last time anyone talked about it.
+Media:vo frzcop001 1917105 maddah 06.ogg Maddah: My master always talked about how incredibly popular that book used to be. However, I tried reciting a few chapters of it at the cafe, and I found that it's even less popular than "The Legend of Antara"...
+Media:vo frzcop001 1917105 maddah 07.ogg Maddah: Yes, the one who taught me how to be a storyteller. He said that "Tales of Shahryar" was written by his master's master's master.
+Media:vo frzcop001 1917105 maddah 08.ogg Maddah: He also said that this great-great-grandmaster was an Akademiya researcher, and that even the sages liked the series!
+Media:vo frzcop001 1917105 maddah 09.ogg Maddah: He wrote four volumes back then, and the reviews just got better and better! You couldn't find a single person in Sumeru who hadn't read his books.
+Media:vo frzcop001 1917105 maddah 10.ogg Maddah: Oh, it's hard to tell when it comes to trends. One day, everyone likes stories like that, and the next day, their tastes change completely.
+Media:vo frzcop001 1917105 maddah 11.ogg Maddah: Instead of writing a proper ending, this great-great-grandmaster kept trying to extend the story...
+Media:vo frzcop001 1917105 maddah 12.ogg Maddah: To tap into popular trends, he added a lot of tropes. Then, starting from the fifth volume, the reviews started to go downhill.
+Media:vo frzcop001 1917105 maddah 13.ogg Maddah: In the end? There's no ending. The great-great-grandmaster tried to write a few more volumes, following whatever trends were popular at the time, but the trends kept changing right as he published his books.
+Media:vo frzcop001 1917105 maddah 14.ogg Maddah: He got so infuriated that he stopped writing altogether and focused on his research instead.
+Media:vo frzcop001 1917105 maddah 15.ogg Maddah: Haha, by that time, only a very small number of people were reading "Tales of Shahryar."
+Media:vo frzcop001 1917105 maddah 16.ogg Maddah: Anyway, my master probably exaggerated. How could a work possibly have been that popular?
+Media:vo frzcop001 1917105 maddah 17.ogg Maddah: The only tangible thing my great-great-grandmaster left is the original draft of "Legend of Antara."
+Media:vo frzcop001 1917105 maddah 18.ogg Maddah: He also left behind many theses from his research phase. When my master talked about "Legend of Antara," he'd even quote from those theses.
+Media:vo frzcop001 1917105 maddah 19.ogg Maddah: My master is a much better storyteller than me. Even when we're telling the same story about Antara, he's always able to draw in a huge crowd!
+Media:vo frzcop001 1917105 maddah 20.ogg Maddah: But even he won't recite "Tales of Shahryar" due to its ever-changing writing style and its lack of an ending.
+Media:vo frzcop001 1917105 maddah 21.ogg Maddah: Well, not even sages can definitively ascertain the quality of something like a story. In the end, only time can separate the classics from the fads.
+Media:vo frzcop001 1917105 maddah 22.ogg Maddah: I don't really get what you're talking about, but it does sound sensible. Looks like I also have to hang in there and tell Antara's story well!
+Media:vo frzcop001 1917105 maddah 23.ogg Maddah: Oh...
+Media:vo frzcop001 1917105 maddah 24.ogg Maddah: Oh, I can tell you what that's all about! Apparently, in their youth, some people used to imagine themselves as someone "burdened by fate," "fighting against the world," et cetera.
+Media:vo frzcop001 1917105 maddah 25.ogg Maddah: But as they grew older, they started to become embarrassed by such memories. Some would write those fantasies into novels, while others would entrust such tales to tree hollows...
+Media:vo frzcop001 1917105 maddah 26.ogg Maddah: Heh, I knew it — there will always be people who love the golden oldies! Ahem. Now, let me tell you all about the ancient hero, Antara...
+Media:vo frzcop001 1917301 derafsh 01.ogg Derafsh: (Who in their right mind would have any interest in this?)
+Media:vo frzcop001 1917301 farrokh 01.ogg Farruq: (These folks had better be buying...)
+Media:vo frzcop001 1917301 faruzan 02.ogg Faruzan: (Got to pick a true classic...)
+Media:vo frzcop001 1917301 maddah 01.ogg Maddah: (That book I saw earlier... Ah, what a shame.)

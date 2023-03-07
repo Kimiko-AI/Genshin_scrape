@@ -1,0 +1,67 @@
+ Alright, I'll do it.
+ How have you dealt with similar conditions in the past?
+Pharez: Well, hiring an adventurer is the usual solution. We've also turned to our tutor before, asking him to help find us some trustworthy Eremite members.
+Pharez: But you know, a tutor's patience is not always infinite. Given the current circumstances, we're hesitant to trouble him again...
+Ladep: So please, help us Traveler! You're our only hope!
+ Quest DescriptionTwo people are arguing over something next to an enormous root system...
+ Ugh... *cough*cough* *cough*
+ What are you arguing about?
+Ladep: (What's the hurry...)
+Ladep: *cough* *cough*, *cough*! Those Fungi just broke the potion jar, stay away!
+Ladep: *cough*, *cough*, *cough*... We should be fine here...
+Ladep: Alright, we'll look after this jar now. Thanks for your help, Traveler. Please take these.
+Ladep: Also, where on earth did Yasmin go? She didn't even sprinkle the potions today...
+Ladep: Especially here in Spantamad, where a single error in the submitted data will result in serious criticism...
+Ladep: How can your devices function without data to support them?
+Ladep: How many times have I explained to you that I added physiological emetics, huh?
+Ladep: Huh? The lids of the potions haven't been opened yet...
+Ladep: I have... explained multiple times that I added physiological emetics!
+Ladep: I never changed anything about the formula or its proportions, I swear. As such, this must have been due to... Um, some unforeseen circumstances.
+Ladep: It has nothing to do with whether you are used to it or not, the smell just triggers automatic vomiting in anyone.
+Ladep: It has nothing to do with whether you are used to it. The smell just triggers automatic vomiting in anyone.
+Ladep: It's an honour to meet you, Traveler! An honor indeed!
+Ladep: Judging from how things look... that's probably the case. Did you see any monsters on your way here?
+Ladep: Look at that box. I think it's got the potions in it. Yasmin must have been here already.
+Ladep: More data - that's what we need!
+Ladep: More importantly, even if the Fungi are not that dangerous, if the problem created by our potions reaches our tutor's ears...
+Ladep: My name is Ladep, and I'm a student of Spantamad.
+Ladep: Now I see why you never actually catch any fish.
+Ladep: Seriously, why do I even repeat myself? You won't understand anyway...
+Ladep: Seriously, why do I even repeat myself? You won't understand anyway... Blergh...
+Ladep: So please, help us Traveler! You're our only hope!
+Ladep: That's quite odd... Very odd indeed.
+Ladep: We will... discuss that later. Traveler, thanks so much for your help. Please take this as your payment.
+Ladep: What!? The field tests didn't demonstrate anything like that...
+Ladep: What? There weren't any before. What's going on?
+Ladep: Where did it go wrong...
+Ladep: Whoo, lucky us, huh? Good thing the jar didn't break, or we might be experiencing some serious vomiting right now...
+Ladep: You're...
+Paimon: Gah! What's this smell!? *cough* ... *cough* *cough*!
+Paimon: Let's not listen to their nagging any longer, (Traveler). Let's go!
+Paimon: Wah! There are Fungi emerging behind you!
+Pharez: (Ugh, stop torturing my ears...)
+Pharez: But you know, a tutor's patience is not always infinite. Given the current circumstances, we're hesitant to trouble him again...
+Pharez: Come on! You've never studied at Haravatat yourself! So just cut it with the wordplay, okay? We should really get to work.
+Pharez: Don't uncap them!
+Pharez: Monsters of all kinds often appear at the potion-sprinkling sites.
+Pharez: My name is Pharez, and I study at Kshahrewar.
+Pharez: Our thesis proposals will be doomed for sure...
+Pharez: She must have gone sampling some rare plants she found. Typical Amurta behavior and stuff... I mean, how do you still not know how they're like?
+Pharez: So you suggest doing nothing till you get every single piece of data, huh?
+Pharez: There are probably lots of monsters, which precludes us from going there ourselves... We're going to need a companion with great martial prowess.
+Pharez: Traveler, we could really use a favor from you.
+Pharez: Ugh, these Amurta... They're just...
+Pharez: Ugh... Blargh... You... This was your handiwork! How are you vomiting too?
+Pharez: Wait. You're not used to the smell? Didn't you make that yourself?
+Pharez: We can't afford more delays. Ours and Yasmin's theses might become obsolete if we take too long!
+Pharez: Well, hiring an adventurer is the usual solution. We've also turned to our tutor before, asking him to help find us some trustworthy Eremite members.
+Pharez: Well, now you've seen it with your own eyes, can you be a little more realistic?
+Pharez: Well... Um... The potions seem to have caused a little problem recently...
+Pharez: What's so odd about this? Your potion is what attracted them here, obviously!
+Pharez: Whatever you say... Anyway, Traveler, please come with us to check the sites where Yasmin sprinkled the potions.
+Pharez: Will you analyze every incoming wave while trying to catch fish? No! You just need to focus on the one that comes with the fish!
+Pharez: You know that Yasmin has been sprinkling those potions around the Divine Tree's roots, right?
+Pharez: You must be the Traveler Yasmin mentioned. You've really helped us a lot.
+Yasmin: And the potion jar is broken... Was there some kind of monster attack?
+Yasmin: Eh? Ladep, Pharez, and the Traveler, too? What brings all of you here?
+Yasmin: No. In fact, I even took some time to sample several plants around here.

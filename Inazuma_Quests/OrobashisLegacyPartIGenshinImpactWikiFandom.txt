@@ -1,0 +1,23 @@
+ I'm still working on it.
+ Not yet.
+ Quest DescriptionPay attention to the strange stone lantern, and you may find a way to light it up again. A rock pillar stands sentinel at Musoujin Gorge, waiting silently for someone to come to repair it...
+ Step DescriptionUse Elemental Sight to search for the missing part
+ Submit Item
+ You got it!
+Kaji: And if you don't manage it, just leave it. The most important thing is that you shouldn't stay in this place too long — it's dangerous.
+Kaji: By the way, you can find me on the west side of the island once you're done. Fort Mumei came under rebel assault previously, and I suspect that the attack is related to these changes.
+Kaji: How're things going? Have you finished repairing the wards already?
+Kaji: I still don't know when it'll happen, but it seems that the time for my reunion with family and friends is drawing a little closer...
+Kaji: If you don't mind, I'll leave those two wards to you, too.
+Kaji: It's fine. Take your time.
+Kaji: Next, the two wards at the Serpent's Head and Jakotsu Mine still need to be repaired.
+Kaji: Not bad, outlander! The clouds are almost gone. It seems as though my guess was right.
+Kaji: Thank you very much for your help. Although I am by no means a man of wealth, I promise that you will be paid fairly.
+Paimon: Alright, we got it!
+Paimon: Something seems to be missing from this ward. Best to look around the area for the missing parts.
+Paimon: The stone lamp lit up! And it looks like the weather's changing too...
+Paimon: Use your Elemental Sight to scan for scattered traces of elements nearby. Maybe you'll find something!
+Place: It seems that two critical components are missing from the ward.
+Touch Ward: The lantern has finally been repaired. The weather seems to have changed as well.
+Touch Ward: You gaze at the ward, and suddenly, a strange energy flows towards you.
+Touch Ward: You realize that it is not resisting you, but is asking you for something...

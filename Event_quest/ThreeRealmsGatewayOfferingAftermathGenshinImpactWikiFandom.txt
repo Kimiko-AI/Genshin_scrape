@@ -1,0 +1,146 @@
+ ...Why does it always end like this.
+ Don't worry. He's a glutton for punishment.
+ Don't worry. I've been waiting for a chance to let loose on him.
+ I think deep down, you already know the answer.
+ Maybe Kokomi knows.
+ Oh, then I'm not finished just yet!
+ Quest DescriptionAlthough you solved the issue of the towers of the three realms in the three corners, and the darkness covering Enkanomiya has been cleared, a specter of unease still hangs over the Dainichi Mikoshi...
+ Reptilian...
+ Step DescriptionTsumi has made her choice. Regardless, the situation has now been settled. You decide to return to Watatsumi Island and  report back.
+ Step DescriptionYou have dispelled the darkness over the Dainichi Mikoshi, but Tsumi is nowhere to be found. You decide to head beneath the Dainichi Mikoshi...
+ Technically speaking, he's never really lied to us.
+ Tsumi, do you recognize these?
+ Tsumi, these are for you.
+ You belong to Watatsumi Island.
+ You think you have what it takes?
+Media:vo eqyx005 1 paimon 01.ogg Paimon: Tsumi, we did it!
+Media:vo eqyx005 1 tsumi 01.ogg Tsumi: I can tell. It looks like all three towers have been successfully taken care of.
+Media:vo eqyx005 1 tsumi 02.ogg Tsumi: The evacuation is now going much more quickly thanks to the improved environmental conditions. Most of the soldiers have gotten out...
+Media:vo eqyx005 1 tsumi 03.ogg Tsumi: But it seems like something happened that I hadn't foreseen. Please come with me.
+Media:vo eqyx005 12 paimon 01.ogg Paimon: Paimon's shocked. It actually worked!
+Media:vo eqyx005 12 paimon 02.ogg Paimon: For once, he didn't lie to us.
+Media:vo eqyx005 12 paimon 03.ogg Paimon: Well maybe with his sneaky way of explaining things, he doesn't have to! Why does Paimon feel like you two have reached some sort of mutual understanding!? That is not okay!
+Media:vo eqyx005 12 paimon 04.ogg Paimon: The Dainichi Mikoshi should be accessible again now. Let's get down there and see.
+Media:vo eqyx005 13 paimon 01.ogg Paimon: Oh, looks like we need to ride this thing down.
+Media:vo eqyx005 14 paimon 01.ogg Paimon: Bathysmal Vishaps! And dangerous ones by the looks of it. Guess they're the elites, huh.
+Media:vo eqyx005 14 paimon 02.ogg Paimon: Still no sign of Tsumi, though...
+Media:vo eqyx005 16 paimon 01.ogg Paimon: After a careful headcount, it seems like the baby vishaps aren't here anymore. Guess they got rescued...
+Media:vo eqyx005 16 paimon 02.ogg Paimon: If the Bathysmal Vishaps really did come down here, that means that guy was telling the truth...
+Media:vo eqyx005 16 paimon 03.ogg Paimon: So... Tsumi really is a Vishap-person?
+Media:vo eqyx005 16 paimon 04.ogg Paimon: But we still haven't seen her anywhere. Where the heck is she?
+Media:vo eqyx005 16 paimon 05.ogg Paimon: *sigh* Whatever. Let's head back up.
+Media:vo eqyx005 18 paimon 01.ogg Paimon: It's Tsumi! Uh, what is she doing in front of the Dainichi Mikoshi?
+Media:vo eqyx005 18 paimon 02.ogg Paimon: Some baby vishaps were rescued before we got there. But the old and weak vishaps went back in the water to hide after we defeated the elites.
+Media:vo eqyx005 18 paimon 03.ogg Paimon: Um, Tsumi... Are you really a Vishap-person?
+Media:vo eqyx005 18 paimon 04.ogg Paimon: Oh no, this is way more serious than losing access to the Bloodbranch Coral! What're we gonna do, (Traveler)?
+Media:vo eqyx005 18 paimon 05.ogg Paimon: It's a pendant in the shape of... are those three entwined snakes?
+Media:vo eqyx005 18 paimon 06.ogg Paimon: Paimon doesn't understand... This one is Kokomi's, this one is from the Dainichi Mikoshi, and Tsumi's has been with her all along...
+Media:vo eqyx005 18 paimon 07.ogg Paimon: Tsumi...
+Media:vo eqyx005 18 paimon 08.ogg Paimon: Tsumi is gone.
+Media:vo eqyx005 18 paimon 09.ogg Paimon: Why did she suddenly change her mind in the end?
+Media:vo eqyx005 18 paimon 10.ogg Paimon: Right. Kokomi will have definitely anticipated this possibility. That would be why she gave us the pendant fragment in the first place.
+Media:vo eqyx005 18 paimon 11.ogg Paimon: Everything's resolved here. Let's go back and tell her.
+Media:vo eqyx005 18 tsumi 01.ogg Tsumi: Since you came back, I'm curious to know — did our rescue operation succeed?
+Media:vo eqyx005 18 tsumi 02.ogg Tsumi: I have no intention of explaining anything. Although I can communicate with you, I know all too well that interaction with humans can only end in betrayal.
+Media:vo eqyx005 18 tsumi 03.ogg Tsumi: The conflict between our two kinds will go on forever.
+Media:vo eqyx005 18 tsumi 04.ogg Tsumi: Before I leave, I'm going to destroy this light.
+Media:vo eqyx005 18 tsumi 05.ogg Tsumi: Do not come any closer. And don't even think about trying to sneak up on me.
+Media:vo eqyx005 18 tsumi 06.ogg Tsumi: This tower seems to hear my wishes... I just need to think the thought and it will change its brightness.
+Media:vo eqyx005 18 tsumi 07.ogg Tsumi: And if I so desire, it will collapse before me.
+Media:vo eqyx005 18 tsumi 08.ogg Tsumi: With the cognitive equivalent of a click of the fingers, I could destroy this source of great pain for the vishaps.
+Media:vo eqyx005 18 tsumi 09.ogg Tsumi: So why... why can't I do it...?
+Media:vo eqyx005 18 tsumi 10.ogg Tsumi: It's...
+Media:vo eqyx005 18 tsumi 11.ogg Tsumi: This pendant has been with me for as long as I can remember. Why does it fit with your two pieces?
+Media:vo eqyx005 18 tsumi 12.ogg Tsumi: Don't be ridiculous. Are you trying to say that... that I...
+Media:vo eqyx005 18 tsumi 13.ogg Tsumi: ...
+Media:vo eqyx005 18 tsumi 14.ogg Tsumi: I grew up with the vishaps. My only possessions were this pendant and a few boxes of books. I learned human language and writing from them.
+Media:vo eqyx005 18 tsumi 15.ogg Tsumi: But not long after that, Enkanomiya was left without a single human being. It became completely empty.
+Media:vo eqyx005 18 tsumi 16.ogg Tsumi: Only recently did I finally have the chance to make contact with humans and learn what the things I'd read in the books really meant.
+Media:vo eqyx005 18 tsumi 17.ogg Tsumi: There is a saying in your human books that I've never understood until right now.
+Media:vo eqyx005 18 tsumi 18.ogg Tsumi: "People belong where they are born, but creatures belong where they are fed." I am a vishap, not a human. So I'm going back to where I belong.
+Media:vo eqyx005 18 tsumi 19.ogg Tsumi: I guess the Dainichi Mikoshi isn't my concern. But we'll be back one day.
+Media:vo eqyx005 19 kokomi 01.ogg Sangonomiya Kokomi: Ah, you're back. The soldiers briefed me about what happened.
+Media:vo eqyx005 19 kokomi 02.ogg Sangonomiya Kokomi: You successfully worked with a shrine maiden named Tsumi to clear the darkness, but then there was an unexpected change at the Dainichi Mikoshi. Is that so?
+Media:vo eqyx005 19 kokomi 03.ogg Sangonomiya Kokomi: Really?
+Media:vo eqyx005 19 kokomi 04.ogg Sangonomiya Kokomi: There's no need to apologize. As I said, Watatsumi Island has no further need for it.
+Media:vo eqyx005 19 kokomi 05.ogg Sangonomiya Kokomi: It's a relic from back in the very beginning, when the Watatsumi Omikami reorganized the court and reformed Enkanomiya. The three pendants were given to the Dainichi Mikoshi, the Sangonomiya line, and the Vassals of Watatsumi.
+Media:vo eqyx005 19 kokomi 06.ogg Sangonomiya Kokomi: The original intention was that the common folk, the officials, and the divine vassals would all hold each other accountable. But today, only the common folk have flourished, while the other two bloodlines have declined. So the pendant is of little use anymore.
+Media:vo eqyx005 19 kokomi 07.ogg Sangonomiya Kokomi: That's not true. Vassals of Watatsumi typically take on a half-human, half-snake form, symbolizing that they are the familiars of our serpent god. At least, they used to. Over time, the vassals gradually became identical to humans — all except for the pupils of their eyes.
+Media:vo eqyx005 19 kokomi 08.ogg Sangonomiya Kokomi: But Vishap-people and Reptilians... they're pure fiction. There is no evidence for their existence anywhere among Sangonomiya's classified documents.
+Media:vo eqyx005 19 kokomi 09.ogg Sangonomiya Kokomi: The Watatsumi Omikami exhausted its power to create Watatsumi Island, and after that, it grew weaker and weaker. No more Vassals of Watatsumi were born after that. But the records do mention the very last of the vassals...
+Media:vo eqyx005 19 kokomi 10.ogg Sangonomiya Kokomi: All our hopes were placed onto her. She was going to be the one who could communicate between the vishaps and the humans. But when she was just an infant girl, she and her guardian shrine maiden were attacked by vishaps at the border of Enkanomiya. Her whereabouts have been unknown ever since.
+Media:vo eqyx005 19 kokomi 11.ogg Sangonomiya Kokomi: Most believe she died that day. But some believe she was raised by the vishaps.
+Media:vo eqyx005 19 kokomi 12.ogg Sangonomiya Kokomi: The people of Watatsumi owe a great debt of gratitude to the Vassals of Watatsumi. Now that the vishaps and Watatsumi Islanders no longer have a territorial dispute, I sincerely hope that she will find her way to where she belongs... wherever that is for her.
+Media:vo eqyx005 19 kokomi 13.ogg Sangonomiya Kokomi: Still, now that we know how Bloodbranch Coral works, I, as Divine Priestess of Sangonomiya, may need to think of a new way to counteract the Holy Soil phenomenon.
+Media:vo eqyx005 19 kokomi 14.ogg Sangonomiya Kokomi: For the time being, however, the issue is resolved, and all thanks to you. Watatsumi Island will be at peace for many decades to come.
+Media:vo eqyx005 19 kokomi 15.ogg Sangonomiya Kokomi: I can't thank you enough.
+Media:vo eqyx005 19 paimon 01.ogg Paimon: Hey, Kokomi!
+Media:vo eqyx005 19 paimon 02.ogg Paimon: Yeah, that's right. But after that is where things started to get all kinds of weird.
+Media:vo eqyx005 19 paimon 03.ogg Paimon: Uhh, sorry, Kokomi... Paimon feels kinda bad that we ended up giving your pendant away.
+Media:vo eqyx005 19 paimon 04.ogg Paimon: Funny you should say vassals... One of the soldiers seemed to think that Tsumi was one of those. But actually, her vertical pupils meant that she was a reptile... She fooled us all.
+Media:vo eqyx005 19 paimon 05.ogg Paimon: Oh, so Tsumi isn't actually a vishap?
+Media:vo eqyx005 19 paimon 06.ogg Paimon: What a story...
+Media:vo eqyx005 2 paimon 01.ogg Paimon: There's darkness churning inside the Dainichi Mikoshi!
+Media:vo eqyx005 2 paimon 02.ogg Paimon: How did this happen?
+Media:vo eqyx005 2 tsumi 01.ogg Tsumi: Logically speaking, all of Enkanomiya should be back to normal by now...
+Media:vo eqyx005 2 tsumi 02.ogg Tsumi: Unfortunately, this place has now become the most dangerous of all. I don't know why this is happening or what to do about it.
+Media:vo eqyx005 2 tsumi 03.ogg Tsumi: But what I can tell you is the location of the guy behind all of this. I'm going to have to ask you to confront him and make him reveal his whole plan.
+Media:vo eqyx005 2 tsumi 04.ogg Tsumi: I've been observing the flow of the darkness and I've noticed something peculiar.
+Media:vo eqyx005 2 tsumi 05.ogg Tsumi: There was a faint vortex continuously absorbing the darkness. I can only assume that the flow must be triggered by his need for Abyssal energy.
+Media:vo eqyx005 2 tsumi 06.ogg Tsumi: He is extremely dangerous. Even most vishaps would be no match for him...
+Media:vo eqyx005 2 tsumi 07.ogg Tsumi: Music to my ears. Thank you.
+Media:vo eqyx005 2 tsumi 08.ogg Tsumi: If I have deduced correctly, he should be in the library area right now.
+Media:vo eqyx005 3 fuchikamialter 01.ogg The Thing Calling Itself "Enjou": Oh, hey. I would say this is a nice surprise, but... it's really not that surprising. Look at you, venturing out into the darkness, doggedly fighting your way through, just to come and see me.
+Media:vo eqyx005 3 fuchikamialter 02.ogg The Thing Calling Itself "Enjou": You're the only person I can think of who could actually pull that off. Still, what's with you joining forces with them? Didn't expect that.
+Media:vo eqyx005 3 fuchikamialter 03.ogg The Thing Calling Itself "Enjou": ...Huh. I guess maybe you're not so clued up after all.
+Media:vo eqyx005 3 fuchikamialter 04.ogg The Thing Calling Itself "Enjou": Look, I understand that seeing me has gotten you a little agitated. But frankly, the fact that you're still so fired up and raring to go after the long journey here is a bit of a problem for me.
+Media:vo eqyx005 3 fuchikamialter 05.ogg The Thing Calling Itself "Enjou": So let's burn off that excess energy with a little exercise, huh! Just to calm you down enough to hear me out.
+Media:vo eqyx005 3 paimon 01.ogg Paimon: It's him!
+Media:vo eqyx005 3 paimon 02.ogg Paimon: You're just trying to stall for time with small talk again!
+Media:vo eqyx005 5 fuchikamialter 01.ogg The Thing Calling Itself "Enjou": Stop, stop! My life is flashing before my eyes!
+Media:vo eqyx005 5 fuchikamialter 02.ogg The Thing Calling Itself "Enjou": That woman, with the slender pupils, what does she call herself?
+Media:vo eqyx005 5 fuchikamialter 03.ogg The Thing Calling Itself "Enjou": Her name. What is it?
+Media:vo eqyx005 5 fuchikamialter 04.ogg The Thing Calling Itself "Enjou": Hmph. That Reptilian seems to be doing a pretty good job of human imitation.
+Media:vo eqyx005 5 fuchikamialter 05.ogg The Thing Calling Itself "Enjou": Makes sense, doesn't it? The Bathysmal Vishaps are a highly intelligent and fast-evolving kind. There have been legends about this for over a thousand years now.
+Media:vo eqyx005 5 fuchikamialter 06.ogg The Thing Calling Itself "Enjou": The "Vishap-people."
+Media:vo eqyx005 5 fuchikamialter 07.ogg The Thing Calling Itself "Enjou": Well this one comes from an old Enkanomiyan legend. When the Bathysmal Vishaps were defeated, they began evolving to survive. That is to say, they imitated the victors.
+Media:vo eqyx005 5 fuchikamialter 08.ogg The Thing Calling Itself "Enjou": Eventually, this gave rise to a line of vishaps who were indistinguishable from humans except for their pupils. These were the Vishap-people. The story goes that they gradually infiltrated Enkanomiya and took over many high-ranking positions.
+Media:vo eqyx005 5 fuchikamialter 09.ogg The Thing Calling Itself "Enjou": Remind you of anyone?
+Media:vo eqyx005 5 fuchikamialter 10.ogg The Thing Calling Itself "Enjou": Yep. In good lighting, you can see that reptiles' pupils are thin, vertical lines. That's hard evidence that she's betrayed you right there.
+Media:vo eqyx005 5 fuchikamialter 11.ogg The Thing Calling Itself "Enjou": She is just using you to get revenge on me. I mean, I betrayed them first.
+Media:vo eqyx005 5 fuchikamialter 12.ogg The Thing Calling Itself "Enjou": I formed an alliance with the vishaps. I said I'd plunge all of Enkanomiya into darkness so they could send their elites into the Dainichi Mikoshi and rescue their captive kin.
+Media:vo eqyx005 5 fuchikamialter 13.ogg The Thing Calling Itself "Enjou": In return, they'd allow the Abyss Order safe passage through their territory and help me rebuild the three towers.
+Media:vo eqyx005 5 fuchikamialter 14.ogg The Thing Calling Itself "Enjou": But they didn't know that the darkness of the Abyss was a terrible poison to elemental beings.
+Media:vo eqyx005 5 fuchikamialter 15.ogg The Thing Calling Itself "Enjou": I mean, I totally did betray them. To be fair, it'd be pretty humiliating for the Abyss Order if we unleashed the power of the Abyss on them and they were just frolicking around with no side effects.
+Media:vo eqyx005 5 fuchikamialter 16.ogg The Thing Calling Itself "Enjou": Well, here's where we are now: Once she's done with you, she'll use the power of the Dainichi Mikoshi to suppress the Sangacorallia and create darkness to protect the vishaps.
+Media:vo eqyx005 5 fuchikamialter 17.ogg The Thing Calling Itself "Enjou": They are probably diving down into the depths to rescue their imprisoned companions as we speak. It won't be long before the source of Bloodbranch Coral is completely cut off.
+Media:vo eqyx005 5 fuchikamialter 18.ogg The Thing Calling Itself "Enjou": If you still want to save Watatsumi Island, you're gonna have to hurry.
+Media:vo eqyx005 5 fuchikamialter 19.ogg The Thing Calling Itself "Enjou": You can use the mechanism I left behind to guide the light and dispel the darkness in the Dainichi Mikoshi.
+Media:vo eqyx005 5 fuchikamialter 20.ogg The Thing Calling Itself "Enjou": Ugh, come on guys, do you honestly have another choice?
+Media:vo eqyx005 5 fuchikamialter 21.ogg The Thing Calling Itself "Enjou": This is just another fruitless trip to Enkanomiya for me at this point. But no biggie. I'm just a marginal figure in the Order.
+Media:vo eqyx005 5 fuchikamialter 22.ogg The Thing Calling Itself "Enjou": Unlike those who are falling over themselves to serve our Highness, I'm interested in more inconsequential things.
+Media:vo eqyx005 5 fuchikamialter 23.ogg The Thing Calling Itself "Enjou": Yikes, I think I'm all out of time here. I'd better go. I would say "see ya," but... I probably won't. Here, I've got a parting gift for you. It's something I picked up at the Dainichi Mikoshi.
+Media:vo eqyx005 5 paimon 01.ogg Paimon: Huh, how do you know about her?
+Media:vo eqyx005 5 paimon 02.ogg Paimon: She calls herself Tsumi.
+Media:vo eqyx005 5 paimon 03.ogg Paimon: "Vishap-people"? Huh, sounds like the kind of nickname Paimon comes up with all the time.
+Media:vo eqyx005 5 paimon 04.ogg Paimon: We did hear that Tsumi's pupils are vertical...
+Media:vo eqyx005 5 paimon 05.ogg Paimon: But she's been helping us.
+Media:vo eqyx005 5 paimon 06.ogg Paimon: So they thought you had betrayed them?
+Media:vo eqyx005 5 paimon 07.ogg Paimon: You are pure evil!
+Media:vo eqyx005 5 paimon 08.ogg Paimon: Hmm, poor Bathysmal Vishaps, but still...
+Media:vo eqyx005 5 paimon 09.ogg Paimon: We don't believe a single word that comes out of your mouth!
+Media:vo eqyx005 5 paimon 10.ogg Paimon: This looks like part of the same set as the one that Kokomi gave us... Wait, now's not the time for that...
+Media:vo eqyx005 5 paimon 11.ogg Paimon: Ugh, Paimon's so angry! He got away again!
+Media:vo eqyx005 5 paimon 12.ogg Paimon: We can't trust that guy, even if he sounds like he's making sense. So let's go back to Tsumi and ask her about all this.
+Media:vo eqyx005 6 paimon 01.ogg Paimon: Oh no, Tsumi's gone...
+Media:vo eqyx005 6 paimon 02.ogg Paimon: We couldn't have missed her on the way here...
+Media:vo eqyx005 6 paimon 03.ogg Paimon: Aw, c'mon, it's okay. Don't be sad.
+Media:vo eqyx005 6 paimon 04.ogg Paimon: On the bright side, most of the soldiers have been successfully evacuated. If any vishaps did come through here just now, at least no one will have gotten hurt.
+Media:vo eqyx005 6 paimon 05.ogg Paimon: Even though just thinking about that guy drives Paimon nuts, it seems we've got no choice but to give what he said a shot. Let's get some light in here.
+Media:vo eqyx005 7 paimon 01.ogg Paimon: This must be the mechanism he mentioned, but how do we reach it?
+Media:vo eqyx005 7 paimon 02.ogg Paimon: How does it work? Hmm... since it has something to do with light, maybe the Bokuso Box should be able to activate it!
+Media:vo eqyx005 8 paimon 01.ogg Paimon: That's the mechanism, right?
+Media:vo eqyx005 9 paimon 01.ogg Paimon: Ohh, that's where the mechanism is!
+Tsumi remembers her pendant. She combines it with the other pieces.
+You and Paimon return to the Dainichi Mikoshi above...
+You tell Kokomi what had happened.

@@ -1,0 +1,31 @@
+ All done.
+ I can help.
+Adelinde: Do you know how to sweep? Actually, scrap that, we're so short-staffed that I should be taking all the help I can get.
+ I'm an excellent sweeper.
+Adelinde: Really? That's wonderful. Well, since you're willing, I'll gladly take you up on the offer.
+ Quest DescriptionAfter the storm, head housemaid Adelinde is preparing to render the Dawn Winery spick and span on the inside and out, but things aren't going so smoothly...
+ What's up?
+Adelinde: Ah, hello, Traveler. Welcome to the Dawn Winery. The storm may have passed, but here at the Winery we're still cleaning up the mess it made.
+Adelinde: And if I'd gotten the girls to do it... Who knows how many items they'd end up destroying in the process...
+Adelinde: Clean the place again, and I want it spotless this time! This is about making a good first impression!
+Adelinde: Do you know how to sweep? Actually, scrap that, we're so short-staffed that I should be taking all the help I can get.
+Adelinde: Finished?
+Adelinde: Follow me indoors, there's plenty of cleaning that needs doing in there, too.
+Adelinde: I'm extremely grateful for your help. If you could, please clean up as soon as you can.
+Adelinde: I'm trying to organize the cleanup operation, but these girls, they—
+Adelinde: I've finally made some progress with the cleaning now that the storm is over, but the floor is a whole other story... it's so dusty, I don't know if it'll ever be fully clean again. Ugh, what a nuisance...
+Adelinde: It's so wonderful that you are able to help out. I know I have Moco and Hillie, but... *sigh* they're more a hindrance, to be honest...
+Adelinde: Next time you visit, the Winery will be spotless.
+Adelinde: Really? That's wonderful. Well, since you're willing, I'll gladly take you up on the offer.
+Adelinde: Thank you, please take these. I do apologize for troubling you, a visitor, with the work of a Winery maid.
+Adelinde: That storm brought tons of dust in, and even though we closed the doors and windows, they still flew in through the tiny gaps.
+Adelinde: These kids... Ugh, they're so sloppy. I don't know how we'll ever get through it all at their rate of progress. And even after that, there's still the indoors that needs cleaning.
+Adelinde: While the storm was still raging, I had to store the plates and bowls upside down every night, because by the following morning they'd be caked in dust.
+Adelinde: Wonderful, this was a huge help. I can't imagine how long this would have taken me by myself.
+Adelinde: Yes, you've said that already, thank you very much! Now, why don't you put your efforts into cleaning instead of standing here apologizing to me? Shoo!
+Hillie: Ugh, the Winery is just too big. How are we supposed to clean the whole place?
+Hillie: We'll be more careful this time, Ms. Adelinde!
+Moco: After cleaning the outside, there's still the inside to do. Are we ever gonna get this place clean...
+Moco: Sorry, Ms. Adelinde!
+Paimon: Looks like we're all done and dusted with doing the dusting! Let's report back to Adelinde.
+Paimon: The floorboards are really dirty. What happened here...

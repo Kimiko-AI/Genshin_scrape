@@ -1,0 +1,6 @@
+ Quest DescriptionA rock pillar stands sentinel at the Serpent's Head, waiting silently for someone to come to repair it...Search for the ward's location based on Kaji's description.Use Elemental Sight to find the Rock Pillar Pearl and Rock Pillar Warding Stone that the ward is missing, and place them back onto the ward.
+ Submit Item
+Paimon: Alright, this should be it.
+Paimon: Something seems to be missing from this ward. Let's try to find it with Elemental Sight, shall we?
+Place: It seems that two critical components are missing from the ward.
+Touch Ward: The lantern has finally been repaired. The weather seems to have changed as well.

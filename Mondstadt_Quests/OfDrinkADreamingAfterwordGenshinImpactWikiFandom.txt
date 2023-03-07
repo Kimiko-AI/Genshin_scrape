@@ -1,0 +1,15 @@
+ He's not entirely wrong...
+ In some sense...
+ Quest Description"Bartender Academy Week" has come to an end. It is time to bid farewell to Luka.
+ Sure thing.
+Media:vo eqtj009 1 luka 01.ogg Luka: Wow... Business certainly has been picking up in the tavern recently.
+Media:vo eqtj009 1 luka 02.ogg Luka: Some customers came for the drinks, but most came for you.
+Media:vo eqtj009 1 luka 03.ogg Luka: I've never seen a more successful Bartender Academy Week. We earned both money and reputation this time.
+Media:vo eqtj009 1 luka 04.ogg Luka: Anyway, well done my friends.
+Media:vo eqtj009 1 luka 05.ogg Luka: I've been meaning to ask, would you consider staying and working here?
+Media:vo eqtj009 1 luka 06.ogg Luka: Okay then, I won't twist your arm. In fact, Charles had mentioned that to me, as well.
+Media:vo eqtj009 1 luka 07.ogg Luka: Well, feel free to come back and visit the Angel's Share whenever you like. And, remember to bring your friends!
+Media:vo eqtj009 1 luka 08.ogg Luka: Good luck on your journey, Traveler!
+Media:vo eqtj009 1 paimon 01.ogg Paimon: Hmm... Why is that still hard to believe...
+Media:vo eqtj009 1 paimon 02.ogg Paimon: Huh, it's only been a few days and now we're buddies?
+Media:vo eqtj009 1 paimon 03a.ogg Media:vo eqtj009 1 paimon 03b.ogg Paimon: No can do. Though unlimited refills is enticing, Paimon made a promise to keep traveling with (him/her).

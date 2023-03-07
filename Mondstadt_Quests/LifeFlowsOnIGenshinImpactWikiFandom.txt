@@ -1,0 +1,93 @@
+ (Let's take a sip...)
+ Maybe you'll figure it out in the future.
+ Mondstadt's economy?
+ Perhaps your vocabulary could use a little more breadth.
+ Quest DescriptionThe water source near the winery has become bitter for no apparent reason. The Adventurers' Guild hopes for your cooperation in resolving this matter.
+ Really? I don't remember.
+ So you're saying that you can help us, then?
+ Well, we've got a bottle right here.
+ What's the matter, then?
+ Yes, I think so.
+Connor: Anyway, that's the situation. If you're looking for somewhere to start, my gut tells me you should investigate northward. Additionally, I wonder if Liyue's Bishui River or the waters of Qingce Village have been affected...
+Connor: Are you the people sent by the Adventurers' Guild?
+Connor: As such, this water can't be used to make wine at all.
+Connor: There doesn't seem to be anything wrong with the water from Dragonspine or Springvale. The problem probably stems from Liyue.
+Connor: This bitterness cannot be removed via conventional purification processes, so it's not an issue of the water's composition. I suspect it must be some mysterious elemental phenomenon.
+Connor: This is a bottle of water that we drew just recently. It is hygienic, don't worry — we've put it through its purification paces. Have a taste and see.
+Connor: We tried cooking some of the fish killed by the bitter water. All the food we made turned out bitter, too.
+Connor: Well, that's a relief. Now, as for the matter at hand — rather than listening to me explain it, you may as well experience it for yourselves.
+Endora: "The stream of life flows on." It's a little melancholic. A short but enigmatic poem. I don't understand it.
+Endora: ...
+Endora: Ah!
+Endora: Bitterness... an enemy. It will kill... Endora.
+Endora: But... Endora doesn't understand it...
+Endora: Endora and... same species, make the water sweet. Bitterness... Rhodeia's doing.
+Endora: Endora still has much to learn.
+Endora: Endora... can endure. But... not for long.
+Endora: Endora... need water to move. No water. Nowhere to go.
+Endora: Endora... still small! Endora... still learning.
+Endora: Endora... wants to talk to her. Can take a message. What do you want to say?
+Endora: I am Endora. I am a Lochfolk.
+Endora: I do not... understand. Lochfolk like to join together.
+Endora: I have found something!
+Endora: My grasp of language has expanded from merging with those Oceanid Creatures. I can now comprehend the message from Springvale.
+Endora: Need... sweet water. Must go to... spring.
+Endora: Oh? Why not?
+Endora: Powerful water... changes shape into animals. Very dangerous. But joining with them... we learn new things.
+Endora: Rhodeia has been going wild lately. I must face her, and perhaps we can solve the problem that way.
+Endora: Rhodeia's gaze... near the Stone Gate! Small water animals. Her scouts.
+Endora: She is still here. Name... unknown. She will not answer Endora.
+Endora: She is... one mind. All alone.
+Endora: She said some... strange things. Endora does not understand.
+Endora: Take me there. Rhodeia is uneasy. Rhodeia... makes water bitter. Endora will learn to speak. Explain to her.
+Endora: The spring's message is... a poem.
+Endora: The stream... hmm... I did not understand. Asked, received no reply.
+Endora: They... carry messages. Learn... by joining with them.
+Endora: This would happen to Endora too... Mist Flowers... strongest in Teyvat.
+Endora: Water here... sweet. Endora finds... same species.
+Endora: Yes. Yes.
+Endora: You are lonely... We love all... We love all people.
+Katheryne: Compared to previous major incidents, this one is not the most peculiar. However, it is still quite serious, as it risks having a great impact on Mondstadt's economy.
+Katheryne: For more details, please speak with Connor at the winery.
+Katheryne: Hello there, Traveler. How have things been?
+Katheryne: Recently, the bodies of water near the winery have turned bitter without any warning. If this persists, Mondstadt's wine industry may be wiped out in just a few years.
+Old Finch: ...Hmm.
+Old Finch: ...Mm-hmm.
+Old Finch: ...Tell her I said hello.
+Old Finch: ...Who are you?
+Old Finch: I'm so old now, I...
+Old Finch: She is real, after all. But why does she no longer speak?
+Old Finch: Well, your appearance proves to me that she was real. It wasn't just a dream.
+Old Finch: You're saying she's been here all this time? And you can give her a message for me?
+Old Finch: You're the spitting image of her. Just a fair bit smaller.
+Paimon: Actually, that makes them super duper scary, doesn't it?
+Paimon: But first things first, let's get rid of the bitter water from our bottle and refill it from the spring.
+Paimon: But it's bitter, isn't it?
+Paimon: Eh? What's going on?
+Paimon: Endora... Is that your name?
+Paimon: Guess the spring fairy must have her reasons for not wanting to meet us.
+Paimon: Guess we can't afford to hang around, then. Let's get to a fresh spring, and quick!
+Paimon: Haha... they look so silly.
+Paimon: Has something strange happened again, Katheryne?
+Paimon: Hehehe, a few little ducks went out one day, under the bridge and far away...
+Paimon: How are we going to get this thing to a spring?
+Paimon: Huh, you can find them under the bridge, too.
+Paimon: Look! Oceanid Creatures!
+Paimon: Look, there was something inside it...
+Paimon: Maybe it's because other creatures can't fit in with you.
+Paimon: Oh, oh, Paimon wants some too, Paimon wants a try!
+Paimon: Paimon... hadn't quite thought that far.
+Paimon: Same species? Oh, that's right, doesn't Springvale have a legend of a spring fairy or something?
+Paimon: Still, it's kinda interesting how Endora was able to make it this far off the back of a Hydro Slime. Kinda like our relationship, huh?
+Paimon: That must've been tough for the nearby fish as well, right?
+Paimon: That's us!
+Paimon: These Hydro Slimes are behaving a bit oddly, aren't they? Well, guess that's what you do when you're a bouncing, flouncing, bitter pudding.
+Paimon: Ugh! Blergh! It's so bitter...
+Paimon: Wait, that's right! This guy is supposed to be one of the real believers in the spring fairy's existence.
+Paimon: Water animals? We saw some Oceanid Creatures 'round here here once, didn't we?
+Paimon: Well, (Traveler), it's worth a shot. We don't have any other clues, anyway.
+Paimon: Well, um, so what can we do to save you?
+Paimon: Well, we'd drown for starters!
+Paimon: Whoa, hang on a moment, Endora, you can't just run out by yourself like that!
+Paimon: Whoa, you're speaking fluently all of a sudden!
+Strange Life-Form: Endora... no water... dying...

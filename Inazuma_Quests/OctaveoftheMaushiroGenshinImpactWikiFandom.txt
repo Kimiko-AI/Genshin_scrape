@@ -1,0 +1,481 @@
+ "Could've sworn"?
+ "Setting"? What's that?
+ ...
+ And I'm "legendary" too?
+Roald: Well, your deeds have far surpassed the domain of your average adventurer, that's for sure — indeed, your adventures are what all adventurers' dreams are made of!
+ As long as we can find out what happened...
+ Back at Amakumo Peak...
+ Dusky Ming wasn't a bad girl.
+ Huh?
+ I accept your commission.
+ I mean, Dusky Ming's a kid, but she's pretty old, you know?
+ I suppose this was to be expected.
+ I was the only one doing the thinking, though.
+Paimon: That's not true! Paimon tried her best!
+ I'd like to explore Tsurumi Island further as well.
+ I'm also very concerned about what's happening on Tsurumi Island.
+ I'm fine with it.
+ If you're not satisfied, you can go to Tsurumi Island yourself.
+ Is in my hands!
+ Is to find the answer as to why the Maushiro would disappear.
+ Is to unravel the secrets of the island.
+ Kama's really something, huh?
+ Let's take stock of the situation first, shall we ?
+ Maybe we can better understand the island this way.
+ Others, you say?
+ Probably.
+ Quest DescriptionIt has been a while since you last contacted Sumida. She said earlier that she would look for some of the other people who took up her commission and conduct an information exchange. Go back to Inazuma and look for her to see how her attempt proceeds.
+ Right, we need to check real quick...
+Paimon: Yup! We've gotta make sure that we've still got that Maushiro.
+ So then, about Tsurumi Island...
+ So we got the Maushiro.
+ Step DescriptionAccording to the locals, they need someone to help them find Ruu. This trip is starting to feel like a waste of time... But you might as well have a look around the island to see if you can find any other leads. They say that Ruu enjoys hanging around Wakukau Shoal, Oina Beach, and the Autake Plains — First stop, Wakukau Shoal it is, then.
+ Step DescriptionEven if the Thunderbird's feathers are the primordial Maushiro, they are probably not what Sumida is looking for. However, according to Ruu, they do possess some special power that may yet be of some use.
+ Step DescriptionIt is hard to describe all that has happened here on Tsurumi Island. Still, a Maushiro in hand is a Maushiro in hand. Now all that remains is to return to Inazuma City and submit the goods to Sumida, and your commission shall be complete.
+ Step DescriptionThe other people Sumida commissioned to go to Tsurumi Island all met with more or less similar circumstances. However, you are determined to get to the bottom of this no matter what. If nothing else, you will finish this commission, if it's the last thing you do.
+ Step DescriptionThis search has proved unfruitful. Time to head back to the ceremonial grounds.
+ Step DescriptionThough you gained nothing from going to Tsurumi Island's ceremonial grounds earlier, you do obtain a Maushiro thanks to Ruu's help, so as agreed, you head to the ceremonial grounds to have a look. Listen to what the locals have to say and see if there is anything you can help them with.
+ Step DescriptionYou fail to find Ruu at Oina Beach, but an illusory "Kama" greeted you instead. This will be worth remembering, you think, for a future conversation with Kama himself. Now then, off you go to the Autake Plains to see if Ruu can be found there.
+ Step DescriptionYou fail to find anything at Wakukau Shoal... Well, mostly, anyway. Your illusory conversation partner has revealed that Ruu may have been here earlier. Regardless, it is time to check out Oina Beach.
+ Step DescriptionYou see an illusion that seems to resemble Ruu at the Autake Plains. Perhaps this is worth investigating further.
+ Sure.
+ That's kinda spooky.
+ That's pretty amazing.
+ That's the most important bit, huh?
+ That's what you think is most important, eh, Paimon?
+ The Maushiro...
+ The commission to Seirai Island...
+ The location closest to us is...
+ The people here can't seem to see us.
+ Then the ability to talk to nonexistent people isn't too strange.
+ There's a person here who looks a lot like Kama...
+ There's no further meaning in staying here.
+ They're both fine.
+ This is the Maushiro.
+ Time passes strangely on Tsurumi Island...
+ To encourage Miss Sumida, of course.
+Paimon: No, that can't be it!
+Roald: We're here to find the Maushiro and give it to Miss Sumida to finish the commission, aren't we?
+ To find the Maushiro.
+ Ugh, please, spare me the flattery.
+ We haven't actually talked about that yet...
+ We might as well listen in...
+ Well, if people can talk to dragons...
+ Well, is the commission complete, then?
+ Well, it's easier to carry than before, that's for sure.
+ Well, let's head back first.
+ Well, then we've got nothing to be afraid of, right?
+ Well, this information isn't very helpful...
+ Well, what was I expecting...
+ What's up?
+Paimon: We've gotta make sure that we've still got that Maushiro, of course!
+ What?
+ Who knows, Paimon? There might be treasure.
+ You can, uh, skip the "renowned" bit.
+ You count as an adult?
+ You know, this is all very fascinating...
+Paimon: But it won't be of any help!
+ You mean the time you almost died?
+ You mean the time you threw up some purple goop?
+ You must be speaking of the ceremonial site...
+ You're really annoying, you know that?
+"Ipe": ...
+"Ipe": ...Oh, this? Well, the secret to fishing is patience.
+"Ipe": ...Why do I like fishing? Hmm, let me think about it for a moment...
+"Ipe": Alright then. If you're going to Oina Beach, say hi to Kama and the others for me.
+"Ipe": And... Uh, how should I say this? I guess I've also fished up all kinds of interesting stuff along the way.
+"Ipe": But when you grow up, you've got to teach me the secret of the Ishine Script. I mean, this is knowledge that only gets passed through the priestly families — you know, your family.
+"Ipe": C'mon, it's nothing to be embarrassed about. You sing pretty well! I feel luckier just listening to you, you know?
+"Ipe": Careful now, if you get lost in the fog, just play the Maushiro. I'll come find you for sure.
+"Ipe": For example, the words on those rocks...
+"Ipe": Huh, to think that Ishine Script had this kind of power. Perhaps it's related to the ley lines in some way... How unexpected.
+"Ipe": If I had to put my finger on it, it's because fishing makes me feel like this ocean and the rest of the world are connected. That way, this island doesn't feel so small, even though we can't escape the Sea of Fog.
+"Ipe": Like for example, the knowledge that you love to sing in secret.
+"Ipe": No problem. Once you're older, I'll teach you how to fish.
+"Ipe": No, no, it's not boring at all. I love fishing.
+"Ipe": Not that this means they wouldn't eat you too, of course!
+"Ipe": The fish don't sing, but if you sing to them, I'm sure they can hear you.
+"Ipe": You wanna sing for Makiri? Sure, but I mean, why d'you need to ask me?
+"Ipe": You're right. The previous priests did have a sense of humor, huh?
+"Kama": ...
+"Kama": ...I'll bury this here. This is where we met each other, after all.
+"Kama": Actually, Ruu, since you're pretty friendly with those two, could you remind them to please take care of themselves?
+"Kama": Ah.
+"Kama": And Ruu's here too. I don't think he'll let us do this, considering that he's the son of the priest and all...
+"Kama": I mean, wasn't our intention to give them to him so—
+"Kama": I still think this isn't right.
+"Kama": I'll leave the Maushiro that I couldn't pass to you then over here.
+"Kama": I, too, believe that there are green lands beyond the Sea of Fog, and humans too, and that there were people and history before the Thunderbird came, but someone needs to record the things that happened in our village.
+"Kama": If I wish to bid this... whatever this place is, farewell, I can't bring anything with me — that's what you told me before you left.
+"Kama": Mm. If you really do have to go, take me with you.
+"Kama": Oh, it's you, Ruu.
+"Kama": They call it the Ishine Script. I've said this before, I don't think this is a good idea.
+"Kama": What? You wanna join in?
+"Ruu": Hmm... Maybe I should go deeper inside!
+"Ruu": If I sing here, no one will discover me, right...?
+"Sayo": ...
+"Sayo": Ah, right. Kama said that he saw you at the Autake Plains the other day.
+"Sayo": Alright then, let's do this!
+"Sayo": Anyway, I hate the idea of offering people to the Thunderbird... And I'm sure the Thunderbird probably hates it too.
+"Sayo": But I get it. If you've decided to stay, then I'm sure this place will become a better one thanks to you!
+"Sayo": Grandpa Mata isn't a bad person, but he just isn't willing to doubt our ancestors' words. But as for me, I want to go see what the outside world is like!
+"Sayo": Hah! See? I always knew Ruu wasn't some stick-in-the-mud!
+"Sayo": Hahaha, this is real funny, watching a future priest touch these stones just like the records say they should... and then coming up blank in the end.
+"Sayo": He said that the Thunderbird always flies from our island to his, and it was the sight of the Thunderbird in flight that made him want to come over and see what it's like here.
+"Sayo": Hehe, maybe I should say instead that you've come at just the right time.
+"Sayo": Hey there.
+"Sayo": Hey!
+"Sayo": I know, right? I found it really mysterious, too!
+"Sayo": I mean, aren't there some rocks with that... Uh, whatever you call that writing again, on them.
+"Sayo": I remember you saying that the order was very important, Ruu. So if we mess the rocks' order up...
+"Sayo": I wonder, can I wait for that day to come?
+"Sayo": I'm serious! The world outside this fog really does exist!
+"Sayo": I've seen people come in from the outside. Once, there was someone who came to the island, lost their way in the fog, and injured themselves in a fall as a result.
+"Sayo": If you were the priest, I'm sure you'd lead us all out of the Sea of Fog to see the outside world...
+"Sayo": Pfft, this guy's a bore. You know what? Let's not hang out with him. Let's go ruin-delving with Kito and Kina!
+"Sayo": So how about it, then? Wanna come with me? This place is just too stifling.
+"Sayo": Sorry to disappoint you, but I've picked every last seashell off this beach today!
+"Sayo": Tch. You're such a killjoy.
+"Sayo": That person told me all sorts of things about the outside world. He said that he came from an island on the other side of the sea. There's no fog there — only rolling green lands, a blue sky, and a golden sun.
+"Sayo": That's right! Kama over here's got a brain like a rock, but he's no ordinary rock — he's got a sense of direction!
+"Sayo": Well, about Kama... That's true, huh. If we left him alone here...
+"Sayo": Would you like to come with me?
+"Sayo": You know what, Ruu? You should grow older faster.
+"Sayo": You know, Ruu...
+"Sayo": You've gotta be careful over there. The fog is thickest in that area — you fall off the cliff and that's the end for you!
+??: Curious tunes, tiny human. Afraid not of thunder and storms?
+Abe: ...Maybe I just wish that all will go well with him...
+Abe: Hey now, the Fluorescent Fungus are the good stuff, alright?
+Abe: I know, I know.
+Abe: I'll bring some for you once the ceremony's over.
+Abe: It's been so long since I've seen him...
+But the people within the fog could not see the sun, the moon, or the stars, nor could they see their relatives, friends, children, or the Wen Kamuy they had domesticated and raised. Then, the Thunderbird, like a blazing violet comet, took flight from the hollow Mt. Kanna.
+Chise: As you wish.
+Chise: But the Great Thunderbird has already returned to Mt. Kanna!
+Chise: Eminent Priest, Ruu has yet to arrive.
+Chise: Forgive my forwardness, but I do not think these are places where a child should go...
+Chise: If we had, Kama wouldn't have ended up like that, either...
+Chise: It was at Autake Plains that Ruu encountered the Great Thunderbird, wasn't it?
+Chise: Sayo... That loudmouth. She always talks about the world outside the Sea of Fog. We should've left her outside the fog with nothing but three days' rations, just like our forebears used to do.
+Chise: Wakukau Shoal, Oina Beach, and Autake Plains...
+Kina: (That's mighty bold of you, Kito! But... you might be right!)
+Kina: (Wow! Now that's an exciting thought.)
+Kina: But not a word of this to Grandpa Mata or Granny Una! We'll be in for an earful otherwise...
+Kina: Hah, it's time for Big Brother Kito's wild guesses! Alright, what've you got this time?
+Kina: Ooh, look at you, Big Brother Kito, you've got two guesses in a row!
+Kina: That's some imagination you've got there, Kito!
+Kina: Yeah, it's super weird!
+Kito: (But if it was that long ago, Grandpa can't have seen that for himself, whether it be the sights up there, or the outside world itself...)
+Kito: (I think that even the belief that the Great Thunderbird is protecting us with this fog might be fake!)
+Kito: (I wonder... Does Grandpa Mata also not know about what happened so long ago?)
+Kito: (Just think about it, Kina... He said that a long, long time ago, when the darkness fell, the Great Thunderbird protected us using the Sea of Fog.)
+Kito: ...That's just weird. And the priests on the drawings up there don't look like Grandpa Mata or the others at all.
+Kito: Hehe.
+Kito: Hmm. You know what? I have another guess.
+Kito: I've got a guess!
+Kito: Shh... Shh!
+Kito: These murals depict a time before the Sea of Fog. A long, long time ago, there was no fog over the world, so everyone could see what was up there!
+Kito: Up there, they could see these round- and pointy-shaped things, and these mountain-like things! That's why these ancient murals look the way they do!
+Kito: Yup, I know!
+Mata: ...This is the final day. Let him wander for a little while longer.
+Mata: After all, this is the only child that she has shown favor to in all these years..
+Mata: I hope that... No, the Great Thunderbird will surely be pleased with the ceremony this time...
+Mata: I must continue making preparations for the Thunderbird's descent. I leave the rest to you.
+Mata: Is that so? Then truly, our time is limited...
+Mata: Please look for him in these places. I believe that you might find him there.
+Mata: That is true. But these are his favorite spots.
+Mata: This is all past tense now. There's nothing more to be said.
+Mata: Well then. Wakukau, Oina, Autake...
+Mata: Yes. When we were together, he would often talk about the times he went fishing with Ipe by the shore at Wakukau, and how he would pick seashells at Oina with Sayo and the Kama family's boy.
+Paimon: "Round- and pointy-shaped things"... Are they talking about the moon and stars depicted here on the mural? The fog's so thick here, it's no wonder that they couldn't see 'em.
+Paimon: (Huh. You know what? We've discovered quite a lot of journals and diaries out in the wild. Does that mean that there's a ton of people with poor memories out there in the world?)
+Paimon: (Paimon feels a bit sorry for Miss Sumida...)
+Paimon: *sigh* What do you think, (Traveler)?
+Paimon: ...
+Paimon: ...So the Thunderbird's feathers were the original "Maushiro"?
+Paimon: ...That's all, right?
+Paimon: ...Wait a moment.
+Paimon: ...Well, but we found 'em all either way, didn't we? Time to head back, (Traveler)!
+Paimon: A kid, you say... Was his name Ruu?
+Paimon: According to them, the stones' positions may have been adjusted. Maybe it left some traces behind...
+Paimon: According to what they said earlier, Ruu could be at Wakukau Shoal, Oina Beach, or the Autake Plains...
+Paimon: Actually, we've got some questions that we'd like to discuss as well...
+Paimon: After hearing you say so much about "The Chronicles of the Sea of Fog," Miss Sumida, Paimon's now very, very curious to know what happens next!
+Paimon: Ah, he's gone...
+Paimon: Ah, wait a moment.
+Paimon: All the lights went out... Did we do it in the wrong order?
+Paimon: Alrighty then! Back to Miss Sumida's we go!
+Paimon: Alrighty, we found it!
+Paimon: And Paimon's Paimon!
+Paimon: And it's good that it is, too!
+Paimon: And that's a swing and a miss... Strange, that looked like Ruu, but wasn't the Ruu we were looking for...
+Paimon: And what about Paimon, huh?
+Paimon: Anyway, since we gave Ruu our word, let's head over to the ceremonial site and have a look.
+Paimon: Aw, cheer up! Don't worry about the whole Maushiro thing. We'll get it done!
+Paimon: But it won't be of any help!
+Paimon: But something didn't quite look right, either. Perhaps there might be some clues around here.
+Paimon: C'mon, (Traveler), let's show her the Maushiro we found!
+Paimon: Doesn't seem like we can be of any help here...
+Paimon: Eh!?
+Paimon: Eh?
+Paimon: Eh? Isn't that Ruu?
+Paimon: Eh? Kama?
+Paimon: Eh? There are people here?
+Paimon: Even though we don't know if it'll disappear or not...
+Paimon: Everyone's gone...
+Paimon: He certainly is very mysterious...
+Paimon: He looks like him and he's also got the name to match. Very suspicious...
+Paimon: He sounds like he's talking to someone.
+Paimon: Hehe, of course!
+Paimon: Hey there!
+Paimon: Hmm, looks like we've gotta go look for Ruu again, huh?
+Paimon: Hmm. Now that you mention it...
+Paimon: Hopefully, we can get it back to Miss Sumida this time!
+Paimon: Huh, is that so? The last time we went to make an offering at the Perch, he was gone.
+Paimon: Huh, it's Ruu!
+Paimon: Huh, speaking of feathers, Paimon's reminded of something...
+Paimon: Huh, that's the weird "Kama" from before...
+Paimon: Huh, this statue's just like the last one. Let's use the feather here and see what happens.
+Paimon: Huh, those people sure sound like Roald and Ryuuji, don't they?
+Paimon: Huh. Paimon just had a thought. How's things going over there with Miss Sumida?
+Paimon: Huh. You're right. Paimon's sorry, Dusky Ming!
+Paimon: Huh...
+Paimon: Huh... Does that mean that the commission's complete?
+Paimon: Huh? Looks like something's shining...
+Paimon: If not, this trip is gonna be a wash as well!
+Paimon: If we have to keep trudging through all this cloud and fog, it had better be worth it!
+Paimon: If we meet Kama along the way, let's ask him some questions as well.
+Paimon: Is that so? Hmm, Paimon did get a weird feeling as well when we tried talking to them.
+Paimon: Is there anything we can help with? Ruu's our friend.
+Paimon: Kama said that we have to pass through that big gate...
+Paimon: Leave it to us! We'll find Ruu for sure!
+Paimon: Let's finish this commission, get paid, and head over to Kiminami Restaurant for a good meal...
+Paimon: Let's go see her!
+Paimon: Looks like this isn't the place... But since there's a statue here too, let's see if using the feather will lead us to any clues.
+Paimon: Nah, that won't happen! They've got the skills, y'know? Well, sorta.
+Paimon: No sign of Ruu anywhere...
+Paimon: No take-backsies with kids, remember? Paimon doesn't wanna become a lousy adult!
+Paimon: No, that can't be it!
+Paimon: No, that won't do!
+Paimon: Oh well. Let's see if we can find any clues nearby...
+Paimon: Oh! Right, and he met Ryuuji and Roald, didn't he?
+Paimon: Oh, come on! A commission of this level was a piece of cake for us!
+Paimon: Oh, is he talking to Ruu?
+Paimon: Ohh, Paimon's so confused... Well, guess we should head back to that altar, huh?
+Paimon: Ohh, that's right! That did happen.
+Paimon: Ooh, it's a Seelie! Wait, it's three Seelie all at once!
+Paimon: Ooh, looks like there's another Thunderbird statue here. C'mon, (Traveler), let's give our feather a try!
+Paimon: Ooh, now Paimon's getting angry!
+Paimon: Paimon doesn't get it...
+Paimon: Paimon feels cheated, though. Ruu asked us to come here, and now the people here want us to look for him.
+Paimon: Paimon feels like she's had this conversation before. Is it just Paimon's imagination?
+Paimon: Phew, that's great! It didn't go missing this time.
+Paimon: Ruu seems to be talking to someone...
+Paimon: Ruu— Ugh, looks like he isn't here either!
+Paimon: Seems like it should be Wakukau Shoal, right?
+Paimon: So did they throw stones at each other to communicate? Reminds Paimon of hilichurls.
+Paimon: So the children of Tsurumi Island thought this way, huh. Paimon wonders what else they believed?
+Paimon: So you don't have a permit, Mr. Roald?
+Paimon: Speaking of which... (Traveler), let's try digging up the spot where that Kama buried some stuff just a moment ago!
+Paimon: Still no sign of Ruu anywhere.
+Paimon: Still, we did encounter a whole lotta weird stuff after splitting up with you, Ruu...
+Paimon: Sumida's been mumbling all kinds of gibberish for a while now. Is she alright...?
+Paimon: That said, Paimon doesn't think this is what Miss Sumida's looking for...
+Paimon: That's kinda hard to believe — well, Paimon says that, but we've done all kinds of weird stuff many times before anyway...
+Paimon: That's not true! Paimon tried her best!
+Paimon: That's right! If she cancels the commission now, we'd have run around the whole place for nothing!
+Paimon: That's right! It took a lot of effort for us to get this! Don't you make it out to be some simple matter!
+Paimon: That... That looked like Ruu!
+Paimon: The "protagonist"?
+Paimon: Then we can... Actually, you know what? What are we doing this for again?
+Paimon: There seem to be some missing stones over there... Let's find the matching stones and return them to their places. That should be the ticket!
+Paimon: There's a rock! Still, how did it get dislodged from its original spot?
+Paimon: These statues are all over the place. Is there some other meaning behind them...?
+Paimon: These stones seem to have... Ishine Script written on them or something. They said it was the priestly language of Tsurumi Island, right?
+Paimon: They didn't even look at us at all! So rude!
+Paimon: They mentioned the Autake Plains, didn't they? Let's go over there first.
+Paimon: They're not paying us any mind at all! Paimon's gonna get mad!
+Paimon: This person just disappeared while talking to themselves... Let's see if there are any clues elsewhere.
+Paimon: This... This is...
+Paimon: Those symbols on the face of the mountain might have something do with the words on those stones. Paimon thinks they called 'em "Ishine Script."
+Paimon: Th—That's true, yeah... We've really seen a lot of weird stuff while traveling together, huh?
+Paimon: Ugh, counting's hard. Let's just skip the details, shall we?
+Paimon: Ugh, thinking is so tiring.
+Paimon: Ugh, this fog's really... Huh. Isn't that the same kind of statue as the ones we saw before?
+Paimon: Ugh, why are all these names so annoying to remember...
+Paimon: Uh, at least it's interesting. Right?
+Paimon: Uhh, Paimon's getting nervous... It's like that time with Dusky Ming...
+Paimon: Wait... Is this the Thunderbird we've heard about in the past?
+Paimon: We don't know where the Maushiro we found's gone either.
+Paimon: We met them both just a while back!
+Paimon: We've got the Maushiro already anyway... As long as it doesn't disappear for no reason again.
+Paimon: We've gotta make sure that we've still got that Maushiro, of course!
+Paimon: We've met bake-danuki on the other islands before... Could this all be a big trick of theirs!?
+Paimon: Well then, guess that's where we're starting!
+Paimon: Well, compared to being a kid, Paimon sure is closer to being an adult...
+Paimon: Well, if you say so, (Traveler), let's do it!
+Paimon: Well, just leave it all to us, Miss Sumida!
+Paimon: Well, let's head over to Oina Beach and see what we can find!
+Paimon: Well, of course!
+Paimon: Well, since Ruu said so, let's see what they've got to say.
+Paimon: Well, since we gave Ruu our word, let's head over to that altar.
+Paimon: What?
+Paimon: When we spoke to Ruu, it felt really weird, like time was passing differently for him and us...
+Paimon: Wow! It appeared!
+Paimon: Wow...
+Paimon: Y'know what, looking for stuff feels like a bit of a pattern in our adventures...
+Paimon: Yikes! Just like before... Who knows if this person has any leads for us...
+Paimon: Yikes! This... is an Electro Seelie, right? Let's follow it and see what we might find.
+Paimon: You really do know a lot, Sango!
+Paimon: You suppose?
+Paimon: Yup! We've gotta make sure that we've still got that Maushiro.
+Paimon: Yup, let's go back and look for Miss Sumida.
+Roald: *cough* Anyway, regarding Tsurumi Island...
+Roald: Agreed. You certainly do have good judgment, being able to prevent Miss Sumida from going off topic like that.
+Roald: Ah, so this is the legendary (Traveler)..
+Roald: And as an adventurer, I feel obligated to challenge the fog over Tsurumi Island once more. Well then, let us meet again in the island's depths, (Traveler). Ad astra abyssosque!
+Roald: I could've sworn that after a few other hurdles, I did finally get my hands on a Maushiro.
+Roald: I had my doubts when I boarded Kama's boat, but as it turned out, he was actually able to avoid detection and bring me safely to the island after all.
+Roald: I took Kama's advice and walked through a large gateway into the fog... and I met a friendly child. There was... some sort of ceremony as well.
+Roald: I'm very sorry. That's why I write diaries, you know? To compensate for my untrustworthy memory.
+Roald: Like Ryuuji, I fear that I can't remember much about what occurred.
+Roald: Ruu...? I don't quite remember. We did make the trip in a hurry, after all. Why, I even left my diary behind in Ritou.
+Roald: Shh...! Come on now, these... less than legal dealings need not be spoken of so loudly.
+Roald: The records clearly state that what civilization once existed on Tsurumi Island has been utterly destroyed, and yet there was still a child there.
+Roald: This was when Miss Sumida contacted me and commissioned me to help her "go to Tsurumi Island to gather reference material and look for a Maushiro."
+Roald: We're here to find the Maushiro and give it to Miss Sumida to finish the commission, aren't we?
+Roald: Well, I say that, but I do often lose those very diaries as well. So there you go...
+Roald: Well, here's what I experienced. At the time, I was trapped on Ritou with no way to cross the checkpoints.
+Roald: Well, your deeds have far surpassed the domain of your average adventurer, that's for sure — indeed, your adventures are what all adventurers' dreams are made of!
+Ruu: *sigh* So he's left Tsurumi Island already...
+Ruu: ...
+Ruu: Ah, it's Big Brother Kama. I wonder how he's doing now.
+Ruu: Ah, it's nothing. In any case, please help me out!
+Ruu: Ah...
+Ruu: Come with me!
+Ruu: Even though our perch problem has been solved, there are other things we need help with. The ceremony is a very important event, after all. Lots of preparations need to be done first.
+Ruu: Gone? No, this is such an important ceremony. There's no way he'd leave it half done. I mean...
+Ruu: Hmm... If you don't mind, could you help me look for Grandpa Mata at the ceremonial site?
+Ruu: I hope he's doing alright...
+Ruu: I once heard Grandpa Mata say...
+Ruu: I wonder how Big Brother Kama's doing...
+Ruu: I've made an agreement with Kapatcir that I'll go see her soon. Everyone's going to help me get ready, too, so I've gotta go.
+Ruu: It's you, (Traveler) — and Paimon too...
+Ruu: Let's try using it!
+Ruu: Man-made Maushiro do not have this kind of power, but since this is the "original form" of such Maushiro, it should have some special abilities. Perhaps it can even see the spirits of the dead.
+Ruu: Thanks for helping me out with the Perches! With your help, the ceremony is sure to go great this time!
+Ruu: Thanks, you two!
+Ruu: That's good... I was afraid that they'd gotten lost in the fog or gotten eaten by those monsters that look like dogs...
+Ruu: That's right. I can feel that same sort of... power from you, I guess?
+Ruu: That's right. I met other outlanders before as well. But they all went missing, and then they never came back.
+Ruu: The Maushiro? You should still have it on you, I think. I can feel its power on you.
+Ruu: There was a man in green, and another guy who called himself a "detective"... I wonder what's happened to all of them...
+Ruu: Try using that feather of yours over here!
+Ruu: Well then, let's meet again later!
+Ruu: Well! Today's the day of the ceremony, so we shouldn't dwell on unhappy things!
+Ruu: You went missing earlier. I thought that you'd ended up like all the others...
+Ruu: Yup. These feathers are the best kind of Maushiro around.
+Ryuuji: ...
+Ryuuji: As for the details, I no longer remember them well.
+Ryuuji: But since cases tend to come to her, she's never had a chance to say it...
+Ryuuji: Every time I try to do so, it's as if there's a fog in my head that prevents me from remembering the details of what occurred on Tsurumi Island.
+Ryuuji: It is also true that we were unable to successfully retrieve the Maushiro.
+Ryuuji: It seems that we could count on you after all, (Traveler).
+Ryuuji: Miss Sumida, you're welcome to share your writing anecdotes next time you commission us. But for now, we shall take our leave.
+Ryuuji: Not at all. I did lose my way many times after arriving on Tsurumi Island, but I did eventually find a Maushiro in an open area on the island.
+Ryuuji: President Sango, this doesn't have anything to do with the case...
+Ryuuji: There it is. No. 7 of the lines that President Sango wishes she could say someday.
+Ryuuji: Yes, we are aware of the request... alongside the unrelated plotlines of several different light novels, as well as the narrative you are currently working on.
+Sango: ...
+Sango: According to the "Tales of Distant Seas," there can be no doubt that Tsurumi Island was utterly destroyed several millennia ago.
+Sango: As a detective, I do not believe in such things as "destiny."
+Sango: Bantan Sango is my house of wisdom. The world comes to Bantan Sango, not the other way around.
+Sango: Everything happens for a reason, and all occurrences follow their own unique logic. "Destiny" doesn't come into it at all.
+Sango: H—Hey, you don't have to say so much, Ryuuji!
+Sango: It's not a storefront.
+Sango: No, it does. Although I've never gone to Seirai myself, the fallout from the Thunderbird's death resulted in the strange phenomena that can be found on Amakumo Peak. When you add this together with the existence of ley line disorders, which have since become common knowledge as well...
+Sango: Of course, I am Sango of Bantan Sango Detective Agency, after all. If you wish to take on matters of all sorts, then you must have knowledge of all sorts.
+Sango: Only one conclusion remains, and thus it must be true — that the strange occurrences that you experienced must be related to Tsurumi Island itself!
+Sango: Really now, asking me to walk all this way. If this wasn't about "a once-in-a-century find..."
+Sango: The monstrous bird of thunder was slain by the Electro Archon upon Amakumo Peak in Seirai Island. That was why the Asase Shrine was built — to suppress the leftover power of that giant bird.
+Sango: To be honest with you, what concerns me the most about these incidents isn't the missing Maushiro, but the fact that you met locals on Tsurumi Island at all.
+Sango: Well, I'll solve the mystery for you. Ryuuji must have misplaced it.
+Sango: Well, it does seem that Roald reported back to Sumida convinced that he had brought the item in question, while the truth was that he didn't have it. "Could've sworn" does seem to be the operative phrase here.
+Sango: Yup, I'm tired. Bantan Sango's courtyard is still the best.
+Sumida: "Bwoooom!"
+Sumida: *whimpers* I'm sorry...
+Sumida: ...
+Sumida: ...A—And if possible, I'd like to know more about him... About Kama, that is.
+Sumida: ...I suppose.
+Sumida: ...Or else my novel will never get written!
+Sumida: ...That's right, my commission isn't over just yet.
+Sumida: ...This Maushiro makes such an odd sound...
+Sumida: ...Uh, well, the legends do say that Ako Domeki was saved by Janome many times.
+Sumida: Ah, I'm sorry. I'm just thinking that it lacks, you know, that sense of destiny.
+Sumida: Ah, you're here. Let me introduce you. This is the renowned (Traveler)...
+Sumida: Ahh, my days of professional writing are coming soon, aren't they... No, no, I haven't even decided on a pen name yet. Or maybe using my real name like Mr. Nine does might be cooler...
+Sumida: Ahh... So this is a Maushiro?
+Sumida: And the renowned Paimon!
+Sumida: Aratani should like this sort of story, too. Maybe I'll even get a contract with Yae Publishing House!
+Sumida: As long as it's asked of him, Kama will get it done.
+Sumida: A—As expected of the legendary (Traveler)...
+Sumida: But if you don't ask him, he won't do anything.
+Sumida: But those people are not ghosts in the traditional sense, but are instead "occurrences" being replayed over and over, and so they do not notice the visiting protagonist. Amidst all this, a mysterious boy...
+Sumida: Could it be that the fog that shrouds the island found its way into Ryuuji's head after he breathed too much of it in?
+Sumida: Eh...?
+Sumida: Eh? We've only walked a few steps away from Bantan Sango's storefront, haven't we?
+Sumida: Even the great Takizawa Kyouden muddled through life for thirty-three years before he read the...
+Sumida: Even though Tsurumi Island has already been destroyed, certain people and periods of time will play back at abnormal speeds, just like wraiths might. Not to mention how the passage of time within the fog is very different from how it might pass in the outside world.
+Sumida: Hmm, (Traveler) and Paimon, Paimon and (Traveler)... It doesn't feel like it rolls off the tongue very well. I think my editor might reject it...
+Sumida: Hmm, even "Shinzen," widely regarded as the strongest character in "The Three Young Nobles," would be no match for you.
+Sumida: Hmm, you know what? I think you two have some writing talent!
+Sumida: Hmm... I do also feel that this gathering hasn't resulted in any meaningful conclusions, though...
+Sumida: Hmm... You're right. It's early days yet to be giving up.
+Sumida: Huh, is that how it is...
+Sumida: I mean, you completed a commission that even famed adventurers and detectives could not, and so smoothly at that!
+Sumida: I need to reflect on how I speak to people...
+Sumida: I really hope you've brought the Maushiro this time... Or else...
+Sumida: I see. So that's how it is. I understand now.
+Sumida: I was only able to find the detectives from Bantan Sango and Mr. Roald.
+Sumida: I... Is this it? Is this how I, Sumida, will obtain the Maushiro?
+Sumida: Impressive! Yes, very impressive! You know, I was even thinking of changing the name of my novel from "The Chronicles of the Sea of Fog" to the "The Tales of (Traveler) and Paimon!"
+Sumida: In any case, I want to learn more about Kama.
+Sumida: It must have taken some twists and turns for you to get a hold of the Maushiro, right? I'm sure that some of those parts might be worth writing about...
+Sumida: I—I mean, he is my reliable partner, isn't he? We've sailed through wild storms, just like the legendary Ako Domeki Zaemon and Janome Gonbei...
+Sumida: I—I mean, he's just got that "keeping his true power a mystery, only to join the protagonist's party in the closing phases of the story" feel to him, you know? I think it'll be well worth writing such a character into the plot.
+Sumida: Looks like I need to improve my social skills on top of my writing ones, huh...
+Sumida: My latest work...
+Sumida: Of course, a small minority believe that "Hakushuusai" is stronger still, but if they read the work preceding that, "The Prison Official"...
+Sumida: Oh, I know! Why don't you change your names to "Fog" and "Sea" respectively?
+Sumida: Oh, don't worry about it. I think that with some time and some polish, this story will definitely sell well!
+Sumida: Oh, you're back.
+Sumida: Other than Mr. Roald and Bantan Sango, all the others I contacted believe that Tsurumi Island has some unique ley line disorder, or that it might even be haunted. None of them were willing to involve themselves any further.
+Sumida: Perhaps I should take the commission back. *sigh* Maybe the writer's life is not my destiny after all...
+Sumida: Right. Let's get to the point. The reason I've asked everyone to gather here is to exchange information about Tsurumi Island.
+Sumida: So those who took the commission in the past could not retrieve the Maushiro because they received a fake "Ghost Maushiro" instead.
+Sumida: S—Sorry!
+Sumida: Thank you...!
+Sumida: The Maushiro... It's the key to writing "The Chronicles of the Sea of Fog (Working Title)"
+(Submit the Maushiro)
+Sumida: This is an artifact retrieved from the wreckage of a civilization from which no laughter or song has been heard for thousands of years. To think that I would get my hands on it so easily...
+Sumida: This is very interesting indeed, but some aspects of this story are quite rigid and unconducive to the development of the setting. Still...
+Sumida: Uh, hahahaha, I was kidding, just kidding! I mean, getting back on topic, even highly-experienced outlander mercenaries couldn't get this Maushiro. It's just absolutely amazing that it came into your hands this way.
+Sumida: Uhh, how should I describe it? Would it be easier to just make some sound up like you suggested, Paimon?
+Sumida: Well then, please continue your exploration of Tsurumi Island...
+Sumida: Well, to get back to the point, out of all the people affected by incidents related to "Maushiro that should have been found going missing"...
+Sumida: Well... Truth be told, I'd like to hear about your adventures on Tsurumi Island.
+Sumida: Whether true or false, I still require more stories concerning Tsurumi Island...
+Sumida: You know, I can't help but feel a bit disappointed.
+The group does something inexplicable...
+Una: ...Whatever the case, don't concern yourself too much with what happened to the Kama family...
+Una: Sayo left him behind and left the Sea of Fog. I'm afraid...
+Una: Uh, well, much obliged. If not, never mind my eyes, I think my mind might be going too.
+Una: Whatever the case, old man, just mind your own mushrooms.
+Una: Who knows... Now that I think about it, I pity him.
+Una: Why, I can barely tell Kito and Kina apart at this point.
+When darkness blanketed the world, the Thunderbird dispersed a mysterious fog to defend Tsurumi Island.
+When darkness blanketed the world, the Thunderbird dispersed a mysterious fog to defend Tsurumi Island.
+But the people within the fog could not see the sun, the moon, or the stars, nor could they see their relatives, friends, children, or the Wen Kamuy they had domesticated and raised. Then, the Thunderbird, like a blazing violet comet, took flight from the hollow Mt. Kanna.
+When the first priests heard the sharp sound of wings piercing the skies, they picked up the plumes of the Thunderbird. When they blew upon these sturdy feathers, they would hear a melodious sound. Thus, people used this to communicate their location to others through the fog and to guide those who were lost to them. Even later on, people would use wood to imitate these sounds...
+You and Paimon confirm the contents of your luggage. The Maushiro is most certainly still there.
+You tell Sumida about your last two days' worth of adventures.

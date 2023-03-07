@@ -1,0 +1,210 @@
+ (Barbara needs rescuing from the crowd...)
+ (Darn...)
+ (Looks like we might need to intervene...)
+ (This is bad...)
+ (Uh oh...)
+ Ah yes, the knight...
+ And how many members does the group have?
+ Barbara is on official business right now.
+ Barbara's currently on leave, please don't disturb her. (-1 heart)
+Media:vo bblcop001 1900902 schulz 02.ogg Schulz: Barbara-sama? On leave? Phew... For a moment, I thought I was disturbing her work...
+Media:vo bblcop001 1900902 schulz 03.ogg Schulz: Barbara-sama! Can I get an autograph?
+ (This is bad...)
+(Failed to persuade Schulz)
+ Barbara's currently on leave, please don't disturb her. (-1 heart)
+Media:vo bblcop001 1900903 herman 02.ogg Herman: Uh... If she's on leave then... an autograph won't be a problem. Right?
+Media:vo bblcop001 1900903 herman 03.ogg Herman: Barbara-sama, I — ahem, my daughter, eh-he — would love an autograph. Ellin really is your biggest fan!
+ (Uh oh...)
+(Failed to persuade Herman)
+ Barbara's working right now, please don't disturb her.
+Media:vo bblcop001 1900902 schulz 04.ogg Schulz: You... You must be the Honorary Knight! What are you and Barbara-sama doing he—
+ We're... on official business.
+Media:vo bblcop001 1900902 schulz 05.ogg Schulz: Uh... Of course! Barbara-sama is working after all... Forgive me, I'll leave you in peace.
+(Succeeded to persuade Schulz)
+ I get the feeling you're more popular than the average sister...
+Media:vo bblcop001 1900906 barbara 35.ogg Barbara: Yeah, it's a little embarrassing... Do you know what an "idol" is?
+Media:vo bblcop001 1900906 barbara 36.ogg Barbara: I guess you've heard that I... sometimes sing for the people in Mondstadt?
+Media:vo bblcop001 1900906 barbara 37.ogg Barbara: I can use the power of my Vision to heal physical wounds, but it's no use on someone afflicted by sadness.
+Media:vo bblcop001 1900906 barbara 38.ogg Barbara: I found out in a magazine that there was such a thing as an "idol."
+Media:vo bblcop001 1900906 barbara 39.ogg Barbara: In the magazine, it said that an idol was... a person that spreads love and hope through song and dance.
+Media:vo bblcop001 1900906 barbara 40.ogg Barbara: I don't know if it's really possible, but... at least the residents of Mondstadt seem to like my singing.
+ There was once an idol who stopped a war with their singing.
+Media:vo bblcop001 1900906 barbara 41.ogg Barbara: R—Really? That's so impressive...
+Media:vo bblcop001 1900906 barbara 42.ogg Barbara: Do you know that idol? They sound like a mighty Vision bearer.
+Media:vo bblcop001 1900906 barbara 43.ogg Barbara: Still, using song and dance to heal the sick of heart... It's easier said than done.
+Media:vo bblcop001 1900906 barbara 44.ogg Barbara: I don't know if I'm up to it. I'm not even very good at being a deaconess...
+ Why, sure you are.
+ You're already a very gifted healer.
+Media:vo bblcop001 1900906 barbara 45.ogg Barbara: Aw, if that really is true... then that's amazing.
+ I temporarily persuaded them to beat it.
+Media:vo bblcop001 1900905 barbara 03.ogg Barbara: Whew... I shouldn't be saying this but... thanks for intervening.
+ I've waited longer...
+ If it's Barbara's style you're after, you could start by being considerate to others.
+Media:vo bblcop001 1900904 susie 04.ogg Susie: Uhh, sure... considerate to others... Huh? Aren't you that Honorary Knight? You and Barbara-sama must be...
+ Uh — we're... on official business.
+Media:vo bblcop001 1900904 susie 05.ogg Susie: Official business? Oh, I—I thought... Apologies. I—I just got so excited when I saw Barbara-sama...
+Media:vo bblcop001 1900904 susie 06.ogg Susie: Yes, you're right... Being considerate to others is the right place to start.
+Media:vo bblcop001 1900904 susie 07.ogg Susie: ...Barbara-sama and the Honorary Knight in the same place — this must be incredibly important official business... I—I'll take my leave.
+(Succeeded to persuade Susie)
+ Isn't it a little exhausting?
+ Just now, in the city... why didn't you just tell them you were on leave and walk away?
+Media:vo bblcop001 1900906 barbara 13.ogg Barbara: There's more than one answer to that question.
+Media:vo bblcop001 1900906 barbara 14.ogg Barbara: A deaconess shouldn't ever be self-interested or let other people down...
+Media:vo bblcop001 1900906 barbara 15.ogg Barbara: But at the end of the day, it's like my father said: I just don't know how to turn people away.
+Media:vo bblcop001 1900906 barbara 16.ogg Barbara: My father and Sister Victoria always told me, if I wanted to become a proper deaconess, I would have to learn how to turn away others.
+Media:vo bblcop001 1900906 barbara 17.ogg Barbara: But I've never been able to... When I see somebody in need, I lend a hand without a second thought.
+Media:vo bblcop001 1900906 barbara 18.ogg Barbara: If I see somebody struggling, I want to help them solve the problem. If somebody comes to me with a request, I can't help but do my best.
+Media:vo bblcop001 1900906 barbara 19.ogg Barbara: No matter how tiring, I'm happy as long as I can bring a smile to everybody.
+Media:vo bblcop001 1900906 barbara 20.ogg Barbara: *sigh* Perhaps... I'm not a proper deaconess after all.
+ Please don't disturb her, Barbara's currently on leave. (-1 heart)
+Media:vo bblcop001 1900904 susie 02.ogg Susie: Oh — perfect! I've got so much to learn from Barbara-sama. She'd never have the time if she was working...
+Media:vo bblcop001 1900904 susie 03.ogg Susie: Please, Barbara-sama, teach me your style! How can I be more like you?
+ (Darn...)
+(Failed to persuade Susie)
+ Quest DescriptionAfter helping to clean up the Cathedral, you get ready to meet Barbara at The Cat's Tail.
+ That sudden crowd back there in the city... you must be exhausted.
+Media:vo bblcop001 1900906 barbara 21.ogg Barbara: Hehe, I'm so used to it by now, but thanks for wanting to intervene.
+Media:vo bblcop001 1900906 barbara 22.ogg Barbara: Usually, the Knights of Favonius end up arriving to restore order. Then someone from the Church comes to escort me away.
+Media:vo bblcop001 1900906 barbara 23.ogg Barbara: It's happened so many times already, I don't really notice it anymore.
+ Isn't it a little exhausting?
+Media:vo bblcop001 1900906 barbara 24.ogg Barbara: Of course! More than a little, to say the least...
+Media:vo bblcop001 1900906 barbara 25.ogg Barbara: But exhaustion for the sake of not letting everybody down is okay.
+ There was once an idol who stopped a war with their singing.
+ They came to their senses once I'd given them the lowdown.
+Media:vo bblcop001 1900905 barbara 02.ogg Barbara: The lowdown... You mean, you persuaded them to leave for now...?
+ They're gonna keep asking for more and more...
+ Uh — we're... on official business.
+ We're... on official business.
+ What's the Barbara Fan Club?
+(This dialogue option is locked behind the specific dialogue choices you made up to now, see the section below on how to unlock this)
+Media:vo bblcop001 1900906 barbara 26.ogg Barbara: Heh, that thing? Uhh... It's a group of my Mondstadt... supporters.
+Media:vo bblcop001 1900906 barbara 27.ogg Barbara: But I'm usually in the Cathedral. The knights and sisters stationed outside the Church won't let them in.
+Media:vo bblcop001 1900906 barbara 28.ogg Barbara: So they support me in other ways — cleaning the Cathedral, helping their fellow citizens with difficult matters, stuff like that.
+Media:vo bblcop001 1900906 barbara 29.ogg Barbara: It's... very considerate, though sometimes they get carried away.
+ And how many members does the group have?
+Media:vo bblcop001 1900906 barbara 30.ogg Barbara: Uh, I'm not really sure... but of the ones I know, there's Mr. Albert and Mr. Huffman.
+ Ah yes, the knight...
+Media:vo bblcop001 1900906 barbara 31.ogg Barbara: Oh, do you know Mr. Huffman? He's a very strict knight, not to mention disciplined.
+Media:vo bblcop001 1900906 barbara 32.ogg Barbara: He's never asked for my autograph or tried to make conversation. Every time he comes to the Cathedral on official business, his face is a picture of seriousness.
+Media:vo bblcop001 1900906 barbara 33.ogg Barbara: I'd never have known if I hadn't overheard Mr. Albert talking about it.
+Media:vo bblcop001 1900906 barbara 34.ogg Barbara: When I found out, I had someone deliver my autograph to him. I hope he was happy with it.
+ Why, sure you are.
+ You don't look too good...
+ You look exhausted...
+ You won't mind if I check in with Ellin on that? Looks like she's training, right over th—
+Media:vo bblcop001 1900903 herman 04.ogg Herman: Ah!? W—Wait! I, uh...
+ Barbara is on official business right now.
+Media:vo bblcop001 1900903 herman 05.ogg Herman: Oh, is that right! Well then, uh... I'll leave her to it. Ellin looks busy with her training, some other time perhaps...
+(Succeeded to persuade Herman)
+ You're already a very gifted healer.
+Barbara appeases her fans while the Traveler waits, and waits...
+Media:vo bblcop001 1900901 barbara 01.ogg Barbara: Uh... Th—Thank you for all your support... P—Please, one at a time...
+Media:vo bblcop001 1900901 barbara 02.ogg Barbara: Ah, I—I guess you could say that...
+Media:vo bblcop001 1900901 barbara 03.ogg Barbara: Oh, is that so? Hehe... A—Alright, just one moment...
+Media:vo bblcop001 1900901 barbara 04.ogg Barbara: O—Oh, really? Well, I—I am still learning and growing myself...
+Media:vo bblcop001 1900901 barbara 05.ogg Barbara: I—I guess all I can say is... Do your best every day!
+Media:vo bblcop001 1900901 barbara 06.ogg Barbara: Ohh... Oh my...
+Media:vo bblcop001 1900901 herman 01.ogg Herman: Barbara-sama, may I get your autograph?
+Media:vo bblcop001 1900901 herman 02.ogg Herman: I— My daughter Ellin is a big fan of yours...
+Media:vo bblcop001 1900901 herman 03.ogg Herman: Barbara-sama!
+Media:vo bblcop001 1900901 paimon 01.ogg Paimon: Huh? Look at that crowd of people! And there's Barbara!
+Media:vo bblcop001 1900901 paimon 02.ogg Paimon: What's going on here?
+Media:vo bblcop001 1900901 schulz 01.ogg Schulz: Barbara-sama, I never expected I would have a chance to meet you here today! Are you here attending to matters for the Church?
+Media:vo bblcop001 1900901 schulz 02.ogg Schulz: Oh, Barbara-sama!
+Media:vo bblcop001 1900901 susie 01.ogg Susie: Oh gosh... Barbara-sama, I love your style! Please tell me how I can be more like you!
+Media:vo bblcop001 1900901 susie 02.ogg Susie: Barbara-sama...
+Media:vo bblcop001 1900902 schulz 01.ogg Schulz: Oh, Barbara-sama! You're so hard-working... If I put in as much effort as you, who knows where my apprenticeship would take me!
+Media:vo bblcop001 1900902 schulz 02.ogg Schulz: Barbara-sama? On leave? Phew... For a moment, I thought I was disturbing her work...
+Media:vo bblcop001 1900902 schulz 03.ogg Schulz: Barbara-sama! Can I get an autograph?
+Media:vo bblcop001 1900902 schulz 04.ogg Schulz: You... You must be the Honorary Knight! What are you and Barbara-sama doing he—
+Media:vo bblcop001 1900902 schulz 05.ogg Schulz: Uh... Of course! Barbara-sama is working after all... Forgive me, I'll leave you in peace.
+Media:vo bblcop001 1900903 herman 01.ogg Herman: Barbara-sama, can I get an autograph? Ellin would be so happy, she's your biggest fan!
+Media:vo bblcop001 1900903 herman 02.ogg Herman: Uh... If she's on leave then... an autograph won't be a problem. Right?
+Media:vo bblcop001 1900903 herman 03.ogg Herman: Barbara-sama, I — ahem, my daughter, eh-he — would love an autograph. Ellin really is your biggest fan!
+Media:vo bblcop001 1900903 herman 04.ogg Herman: Ah!? W—Wait! I, uh...
+Media:vo bblcop001 1900903 herman 05.ogg Herman: Oh, is that right! Well then, uh... I'll leave her to it. Ellin looks busy with her training, some other time perhaps...
+Media:vo bblcop001 1900904 susie 01.ogg Susie: Please, Barbara-sama, teach me your style! How can I be more like you?
+Media:vo bblcop001 1900904 susie 02.ogg Susie: Oh — perfect! I've got so much to learn from Barbara-sama. She'd never have the time if she was working...
+Media:vo bblcop001 1900904 susie 03.ogg Susie: Please, Barbara-sama, teach me your style! How can I be more like you?
+Media:vo bblcop001 1900904 susie 04.ogg Susie: Uhh, sure... considerate to others... Huh? Aren't you that Honorary Knight? You and Barbara-sama must be...
+Media:vo bblcop001 1900904 susie 05.ogg Susie: Official business? Oh, I—I thought... Apologies. I—I just got so excited when I saw Barbara-sama...
+Media:vo bblcop001 1900904 susie 06.ogg Susie: Yes, you're right... Being considerate to others is the right place to start.
+Media:vo bblcop001 1900904 susie 07.ogg Susie: ...Barbara-sama and the Honorary Knight in the same place — this must be incredibly important official business... I—I'll take my leave.
+Media:vo bblcop001 1900905 barbara 01.ogg Barbara: Huh? Where did everybody...
+Media:vo bblcop001 1900905 barbara 02.ogg Barbara: The lowdown... You mean, you persuaded them to leave for now...?
+Media:vo bblcop001 1900905 barbara 03.ogg Barbara: Whew... I shouldn't be saying this but... thanks for intervening.
+Media:vo bblcop001 1900905 barbara 04.ogg Barbara: I understand everybody's enthusiasm, but the longer I stay here the more people will gather. It's always been that way.
+Media:vo bblcop001 1900905 barbara 05.ogg Barbara: I just don't know how to turn them away. In the end, the Knights of Favonius always have to come and restore order.
+Media:vo bblcop001 1900905 barbara 06.ogg Barbara: *sigh* If only I had your way with words...
+Media:vo bblcop001 1900905 barbara 07.ogg Barbara: Here, it's the Fantastic Summer-Serendipity Coral Sparkling Tea you wanted. I ordered this one especially for you.
+Media:vo bblcop001 1900905 barbara 08.ogg Barbara: I hardly ever get a day off. Why don't we... take a stroll outside the city together and finish our drinks?
+(Continue to Deaconess's Time Off)
+Media:vo bblcop001 1900905 barbara 09.ogg Barbara: Please, there's no need to rush... One at a time...
+Media:vo bblcop001 1900905 barbara 10.ogg Barbara: I'm sorry, can you wait a bit longer? I'm still on a break...
+Media:vo bblcop001 1900905 barbara 11.ogg Barbara: Please! Settle down, I—
+Media:vo bblcop001 1900905 barbara 12.ogg Barbara: Ohh my...
+Media:vo bblcop001 1900905 barbara 13.ogg Barbara: So sorry, please... H—Hold on a moment...
+Media:vo bblcop001 1900905 barbara 14.ogg Barbara: Whew... Sorry to keep you waiting so long.
+Media:vo bblcop001 1900905 barbara 15.ogg Barbara: You look like you're about to fall asleep! I feel terrible. It was me who invited you for a drink, and here I am wasting your time...
+Media:vo bblcop001 1900905 barbara 16.ogg Barbara: Here, it's the Fantastic Summer-Serendipity Coral Sparkling Tea you wanted. I ordered this one especially for you.
+Media:vo bblcop001 1900905 barbara 17.ogg Barbara: At least Miss Margaret didn't make our drinks in advance. The flavor would've changed completely by now...
+Media:vo bblcop001 1900905 barbara 18.ogg Barbara: Hehe, how can I put this... Those relaxing moments of freedom in Wolvendom...? The rush just now kinda ruined that for me.
+Media:vo bblcop001 1900905 barbara 19.ogg Barbara: But as long as I can bring everybody a smile...
+Media:vo bblcop001 1900905 barbara 20.ogg Barbara: Although, perhaps you can stay with me a while longer? Let's take a stroll outside the city and finish our drinks.
+Media:vo bblcop001 1900905 barbara 21.ogg Barbara: We have to seize every bit of free time we get, even if it only lasts a moment.
+(Continue to Deaconess's Time Off)
+Media:vo bblcop001 1900905 herman 01.ogg Herman: It would make me— uh, my daughter so happy, Barbara-sama!
+Media:vo bblcop001 1900905 herman 02.ogg Herman: Oh! A friend of mine was asking about autographs, Barbara-sama — make that two!
+Media:vo bblcop001 1900905 schulz 01.ogg Schulz: Barbara-sama! Don't forget my autograph!
+Media:vo bblcop001 1900905 schulz 02.ogg Schulz: And Mr. Wagner! ...Wait, he wouldn't want one, would he...? Uh — let me ask him, though...
+Media:vo bblcop001 1900905 susie 01.ogg Susie: Barbara-sama! There's still so much I want to learn from you!
+Media:vo bblcop001 1900905 susie 02.ogg Susie: Oh — I think Monroe might want one too...
+Media:vo bblcop001 1900906 barbara 01.ogg Barbara: It's nice to finally relax for a while — thanks for accompanying me.
+Media:vo bblcop001 1900906 barbara 02.ogg Barbara: Come to think of it, this is the first time we've gone for a walk together.
+Media:vo bblcop001 1900906 barbara 03.ogg Barbara: When I heard you'd received the title of Honorary Knight, I thought you'd turn out to be more of a solemn character.
+Media:vo bblcop001 1900906 barbara 04.ogg Barbara: But now that I've met you, I can't quite believe it. I never thought... O—Oh! I hope I'm not offending you!
+Media:vo bblcop001 1900906 barbara 05.ogg Barbara: What I mean is, for someone as young as you to achieve the title of Honorary Knight... It's amazing!
+Media:vo bblcop001 1900906 barbara 06.ogg Barbara: Jean... must really believe in you to grant you this title.
+Media:vo bblcop001 1900906 barbara 07.ogg Barbara: I hope I can be as great as you one day, so I can help everybody around me too.
+Media:vo bblcop001 1900906 barbara 08.ogg Barbara: But for now... all I can do is sing.
+Media:vo bblcop001 1900906 barbara 09.ogg Barbara: ...
+Media:vo bblcop001 1900906 barbara 10.ogg Barbara: Ah! So sorry, always thinking about myself...
+Media:vo bblcop001 1900906 barbara 11.ogg Barbara: ...We've walked a long way — why don't we take a break up ahead?
+Media:vo bblcop001 1900906 barbara 12.ogg Barbara: It looks so peaceful here, nobody's passing through except us. Let's rest for a while.
+Media:vo bblcop001 1900906 barbara 13.ogg Barbara: There's more than one answer to that question.
+Media:vo bblcop001 1900906 barbara 14.ogg Barbara: A deaconess shouldn't ever be self-interested or let other people down...
+Media:vo bblcop001 1900906 barbara 15.ogg Barbara: But at the end of the day, it's like my father said: I just don't know how to turn people away.
+Media:vo bblcop001 1900906 barbara 16.ogg Barbara: My father and Sister Victoria always told me, if I wanted to become a proper deaconess, I would have to learn how to turn away others.
+Media:vo bblcop001 1900906 barbara 17.ogg Barbara: But I've never been able to... When I see somebody in need, I lend a hand without a second thought.
+Media:vo bblcop001 1900906 barbara 18.ogg Barbara: If I see somebody struggling, I want to help them solve the problem. If somebody comes to me with a request, I can't help but do my best.
+Media:vo bblcop001 1900906 barbara 19.ogg Barbara: No matter how tiring, I'm happy as long as I can bring a smile to everybody.
+Media:vo bblcop001 1900906 barbara 20.ogg Barbara: *sigh* Perhaps... I'm not a proper deaconess after all.
+Media:vo bblcop001 1900906 barbara 21.ogg Barbara: Hehe, I'm so used to it by now, but thanks for wanting to intervene.
+Media:vo bblcop001 1900906 barbara 22.ogg Barbara: Usually, the Knights of Favonius end up arriving to restore order. Then someone from the Church comes to escort me away.
+Media:vo bblcop001 1900906 barbara 23.ogg Barbara: It's happened so many times already, I don't really notice it anymore.
+Media:vo bblcop001 1900906 barbara 24.ogg Barbara: Of course! More than a little, to say the least...
+Media:vo bblcop001 1900906 barbara 25.ogg Barbara: But exhaustion for the sake of not letting everybody down is okay.
+Media:vo bblcop001 1900906 barbara 26.ogg Barbara: Heh, that thing? Uhh... It's a group of my Mondstadt... supporters.
+Media:vo bblcop001 1900906 barbara 27.ogg Barbara: But I'm usually in the Cathedral. The knights and sisters stationed outside the Church won't let them in.
+Media:vo bblcop001 1900906 barbara 28.ogg Barbara: So they support me in other ways — cleaning the Cathedral, helping their fellow citizens with difficult matters, stuff like that.
+Media:vo bblcop001 1900906 barbara 29.ogg Barbara: It's... very considerate, though sometimes they get carried away.
+Media:vo bblcop001 1900906 barbara 30.ogg Barbara: Uh, I'm not really sure... but of the ones I know, there's Mr. Albert and Mr. Huffman.
+Media:vo bblcop001 1900906 barbara 31.ogg Barbara: Oh, do you know Mr. Huffman? He's a very strict knight, not to mention disciplined.
+Media:vo bblcop001 1900906 barbara 32.ogg Barbara: He's never asked for my autograph or tried to make conversation. Every time he comes to the Cathedral on official business, his face is a picture of seriousness.
+Media:vo bblcop001 1900906 barbara 33.ogg Barbara: I'd never have known if I hadn't overheard Mr. Albert talking about it.
+Media:vo bblcop001 1900906 barbara 34.ogg Barbara: When I found out, I had someone deliver my autograph to him. I hope he was happy with it.
+Media:vo bblcop001 1900906 barbara 35.ogg Barbara: Yeah, it's a little embarrassing... Do you know what an "idol" is?
+Media:vo bblcop001 1900906 barbara 36.ogg Barbara: I guess you've heard that I... sometimes sing for the people in Mondstadt?
+Media:vo bblcop001 1900906 barbara 37.ogg Barbara: I can use the power of my Vision to heal physical wounds, but it's no use on someone afflicted by sadness.
+Media:vo bblcop001 1900906 barbara 38.ogg Barbara: I found out in a magazine that there was such a thing as an "idol."
+Media:vo bblcop001 1900906 barbara 39.ogg Barbara: In the magazine, it said that an idol was... a person that spreads love and hope through song and dance.
+Media:vo bblcop001 1900906 barbara 40.ogg Barbara: I don't know if it's really possible, but... at least the residents of Mondstadt seem to like my singing.
+Media:vo bblcop001 1900906 barbara 41.ogg Barbara: R—Really? That's so impressive...
+Media:vo bblcop001 1900906 barbara 42.ogg Barbara: Do you know that idol? They sound like a mighty Vision bearer.
+Media:vo bblcop001 1900906 barbara 43.ogg Barbara: Still, using song and dance to heal the sick of heart... It's easier said than done.
+Media:vo bblcop001 1900906 barbara 44.ogg Barbara: I don't know if I'm up to it. I'm not even very good at being a deaconess...
+Media:vo bblcop001 1900906 barbara 45.ogg Barbara: Aw, if that really is true... then that's amazing.
+Media:vo bblcop001 1900906 barbara 46.ogg Barbara: ...Thank you. It's been a long time since I've had such a long conversation, and it's all me complaining! Thanks for listening.
+Media:vo bblcop001 1900906 barbara 47.ogg Barbara: The support of an Honorary Knight goes a long way!
+Media:vo bblcop001 1900906 barbara 48.ogg Barbara: *sigh* So... we've still not finished our drinks! Let's finish them off while we're here.
+Media:vo bblcop001 1900906 barbara 49.ogg Barbara: We can rest today, but it's back to the grindstone tomorrow.

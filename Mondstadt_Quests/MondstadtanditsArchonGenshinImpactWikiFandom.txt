@@ -1,0 +1,43 @@
+ ...How hardworking of him.
+ Allow me, then.
+Grace: Thank you.
+ Are Dandelion Seeds all you need?
+Grace: Yes, they will suffice. The other flowers in Mondstadt do not scatter in to the distance very well, in any case.
+Grace: So please do help me get a batch of Dandelion Seeds. I will wait here for you.
+ Have them right here.
+ I think I've heard of this one...
+Grace: Oh, but didn't you help Glory scatter Dandelion Seeds in the same manner before? Did you forget?
+ I've just done that.
+ Quest DescriptionNow that Mondstadt has been spared from disaster, Sister Grace would like to offer her thanks to the Anemo Archon for its protection of the city.
+ Thank you, Lord Barbatos...
+ The wind will carry them far abroad.
+Grace: That's wonderful. It should be easy for Lord Barbatos to notice.
+ What are you up to?
+ Why is it done?
+Grace: ...Lord Barbatos, please hear me...
+Grace: Ah, yes. If you have some time, could you do me a favor?
+Grace: Alright. Please take these Dandelion Seeds. Help me go up and scatter them.
+Grace: But just knowing that such a diligent deity watches over Mondstadt sets my heart at ease.
+Grace: Dandelion Seeds that go with the wind carry the feelings in our hearts with them, whether that feeling is remembrance, or thanksgiving.
+Grace: Have you gathered the Dandelion Seeds?
+Grace: Have you scattered the Dandelion Seeds?
+Grace: I dare not fathom the things Lord Barbatos has done for us.
+Grace: I should really do this myself, but with my physical abilities... I would probably have a hard time getting back down, even if I could climb up there.
+Grace: I'd like you to help me collect one batch of Dandelion Seeds, and scatter them to the winds at the top of the Anemo Archon Statue...
+Grace: I'm praying to Lord Barbatos. It was by his protection that Mondstadt was able to weather this storm.
+Grace: Lord Barbatos is the Anemo Archon, so it is most fitting to use these Dandelion Seeds to express our thanks to him.
+Grace: Lord Barbatos, I hope that you can hear me...
+Grace: Oh, but didn't you help Glory scatter Dandelion Seeds in the same manner before? Did you forget?
+Grace: Regardless, I do hope that Lord Barbatos will be able to hear my voice.
+Grace: So I'm counting on you.
+Grace: So please do help me get a batch of Dandelion Seeds. I will wait here for you.
+Grace: Thank you for your willingness to help. Please take this for your troubles — and may the Anemo Archon protect you.
+Grace: Thank you, Lord Barbatos...
+Grace: Thank you.
+Grace: Thanks be to the Anemo Archon...
+Grace: That's wonderful. It should be easy for Lord Barbatos to notice.
+Grace: These should be enough. Please wait here for a moment...
+Grace: We also have him to thank for the safety of the Knights of Favonius and the adventurers of the Guild.
+Grace: Yes, they will suffice. The other flowers in Mondstadt do not scatter in to the distance very well, in any case.
+Paimon: Who knows if that Tone-Deaf Bard is listening...
+Paimon: Wow, she's so... devout. So... many words...

@@ -1,0 +1,42 @@
+ Check Expeditions
+ Expeditions?
+ I'll need to check with them.
+Media:vo tips explore katheryne 08a.ogg Katheryne: Great, please do. Thank you!
+ I'm sure my friends will understand.
+Media:vo tips explore katheryne 13a.ogg Katheryne: All you need to do is convince them to help. I will take care of all the details.
+ No problem, I've been well looked after.
+Media:vo tips explore katheryne 02a.ogg Katheryne: I am delighted to hear that. In which case, let me try to make this quick...
+ Quest DescriptionThe Adventurers' Guild is taking on a growing number of commissions, and Katheryne is finding it hard to keep up.
+ There's a new reward up for grabs?
+Media:vo tips explore katheryne 02b.ogg Katheryne: Hahaha... Bingo! And I presume you are interested.
+ What about compensation?
+Media:vo tips explore katheryne 13b.ogg Katheryne: Rest assured that the Guild does not take a cut of the spoils from expeditions. Everything goes to you and your friends.
+ You want me to convince all my friends to join the Guild?
+Media:vo tips explore katheryne 08b_1.ogg Katheryne: No no, that is not what I meant. I know that your friends come from all walks of life, and asking them to become official members may be impractical.
+Media:vo tips explore katheryne 08b_2.ogg Katheryne: My request is of the more presumptuous kind... The Guild needs a favor.
+Media:vo tips explore katheryne 01.ogg Katheryne: Sorry to bother you again.
+Media:vo tips explore katheryne 02a.ogg Katheryne: I am delighted to hear that. In which case, let me try to make this quick...
+Media:vo tips explore katheryne 02b.ogg Katheryne: Hahaha... Bingo! And I presume you are interested.
+Media:vo tips explore katheryne 03.ogg Katheryne: We are most grateful for your commission completion to date. The guild's reputation has grown stronger as a result.
+Media:vo tips explore katheryne 04.ogg Katheryne: However, another consequence is that we are receiving an unprecedented number of requests – more than our current numbers can handle.
+Media:vo tips explore katheryne 05.ogg Katheryne: Ahh... No. Although I appreciate the offer – it would be fantastic to have some new members...
+Media:vo tips explore katheryne 06.ogg Katheryne: But scrambling to officially recruit new members at this stage would not really solve our immediate problems.
+Media:vo tips explore katheryne 07.ogg Katheryne: So what I want to ask is – Would your friends have the time to help out?
+Media:vo tips explore katheryne 08a.ogg Katheryne: Great, please do. Thank you!
+Media:vo tips explore katheryne 08b_1.ogg Katheryne: No no, that is not what I meant. I know that your friends come from all walks of life, and asking them to become official members may be impractical.
+Media:vo tips explore katheryne 08b_2.ogg Katheryne: My request is of the more presumptuous kind... The Guild needs a favor.
+Media:vo tips explore katheryne 09.ogg Katheryne: Right now, we urgently need to find people for our expeditions.
+Media:vo tips explore katheryne 10.ogg Katheryne: We organize expeditions to explore areas around the city and in the wilderness. It is a way to keep ourselves informed of any emergencies dangers, unusual activity in the domains, and so on.
+Media:vo tips explore katheryne 11.ogg Katheryne: Since expeditions are not commissioned by a third party, there are no strict deadlines for completion
+Media:vo tips explore katheryne 12.ogg Katheryne: However, we neglect them at our peril. If trouble were to foment unchecked, it could easily turn into a major disaster.
+Media:vo tips explore katheryne 13a.ogg Katheryne: All you need to do is convince them to help. I will take care of all the details.
+Media:vo tips explore katheryne 13b.ogg Katheryne: Rest assured that the Guild does not take a cut of the spoils from expeditions. Everything goes to you and your friends.
+Media:vo tips explore katheryne 14.ogg Katheryne: Now, without further ado, let me show you the expeditions that are currently available.
+Media:vo tips explore katheryne 15.ogg Katheryne: You can dispatch someone on an expedition at any time, and they will still be able to join you in your adventures should you need them.
+Media:vo tips explore katheryne 16.ogg Katheryne: The duration of an expedition varies depending on the destination. After your friend returns, just come here and confirm the outcome.
+Media:vo tips explore katheryne 17.ogg Katheryne: As your Adventure Rank increases, more dangerous expeditions will become available to you.
+Media:vo tips explore katheryne 18.ogg Katheryne: And of course, matching risk with experience is also for everyone's safety.
+Media:vo tips explore katheryne 19.ogg Katheryne: Thanks again for your help. I hope you and your friends can help out with our expeditions as much as possible.
+Media:vo tips explore paimon 01.ogg Paimon: You want us to do some recruitment for you?
+Media:vo tips explore paimon 02.ogg Paimon: Pretty important then!
+Media:vo tips explore paimon 03.ogg Paimon: After all, with epic power comes epic responsibility!

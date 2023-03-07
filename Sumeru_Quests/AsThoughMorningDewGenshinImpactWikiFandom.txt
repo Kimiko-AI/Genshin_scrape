@@ -1,0 +1,248 @@
+
+(After choosing a valid name, other than the protagonist's name)
+
+Media:vo llzaq004 2 wanderer 08.ogg Wanderer: Are you sure?
+(After choosing the same name as the protagonist)
+
+Media:vo llzaq004 2 wanderer 07.ogg Wanderer: You want to share your name with me? Huh, not a bad choice.
+ Yes. I think this will do.
+Media:vo llzaq004 2 wanderer 09.ogg Wanderer: ...Ah, alright, if you say so.
+ Hmm, let me give it some more thought.
+Media:vo llzaq004 2 wanderer 10.ogg Wanderer: Okay.
+(Return to name selection)
+
+(Raiden Shogun-related names, e.g., "RaidenShogun")
+
+Media:vo llzaq004 2 wanderer 06.ogg Wanderer: ...This is a bad idea.
+(Return to name selection)
+(Some of the names related to the Fatui Harbingers, e.g., "Dottore")
+
+Media:vo llzaq004 2 wanderer 02.ogg Wanderer: You can't be serious.
+(Return to name selection)
+(Other names related to the Fatui Harbingers, e.g., "Tartaglia")
+
+Media:vo llzaq004 2 wanderer 03.ogg Wanderer: Is this supposed to be your attempt at a joke?
+(Return to name selection)
+(Any of the Wanderer's old aliases, e.g., "Scaramouche," "Kunikuzushi," "Kabukimono," "Balladeer")
+
+Media:vo llzaq004 2 wanderer 04.ogg Wanderer: ...Hmph. I have no need for these names anymore.
+(Return to name selection)
+(The name of playable characters, certain major NPCs, or Paimon, e.g., "Nahida")
+
+Media:vo llzaq004 2 wanderer 05.ogg Wanderer: That won't work.
+(Return to name selection)
+(The name of certain major figures, e.g., "Morax")
+
+(The system will display "Name Unavailable" instead of a Wanderer dialogue line)
+(Return to name selection)
+
+(The system will display "Name Unavailable" instead of a Wanderer dialogue line)
+(Return to name selection)
+
+Media:vo llzaq004 2 wanderer 02.ogg Wanderer: You can't be serious.
+(Return to name selection)
+
+Media:vo llzaq004 2 wanderer 03.ogg Wanderer: Is this supposed to be your attempt at a joke?
+(Return to name selection)
+
+Media:vo llzaq004 2 wanderer 04.ogg Wanderer: ...Hmph. I have no need for these names anymore.
+(Return to name selection)
+
+Media:vo llzaq004 2 wanderer 05.ogg Wanderer: That won't work.
+(Return to name selection)
+
+Media:vo llzaq004 2 wanderer 06.ogg Wanderer: ...This is a bad idea.
+(Return to name selection)
+
+Media:vo llzaq004 2 wanderer 07.ogg Wanderer: You want to share your name with me? Huh, not a bad choice.
+
+Media:vo llzaq004 2 wanderer 08.ogg Wanderer: Are you sure?
+
+Rules and Disclaimers for Name Modification
+Name Change Rules
+You can obtain the item "An Appellative Stroke" from the Archon Quest Interlude: Inversion of Genesis, which will allow you to change "Eons Adrift" Wanderer (Anemo)'s name.
+Please take note that some names cannot be utilized in this change.
+Once you have renamed this character, some interfaces in the game going forward will display the name that you have chosen.
+There is a limit on the number of times you can rename this character, so do so with care.
+Disclaimer
+Travelers, please ensure that you follow our Terms of Service while using this function. To create a healthy gaming environment, please read and confirm that you will not instigate or take part in:
+1. The creation of content that discriminates against any race, gender, religion, sexual orientation, ethnicity, government, or region.
+2. The bullying or insulting of any Travelers or groups of Travelers.
+3. Any other content or behavior that violates the Terms of Service.
+We may have to restrict your use of the game services if you do not follow these rules. This may include suspension, restriction, a name reset, forced disconnection, login suspension, or account forfeiture.
+At the same time, you are welcome to use the Report function to send feedback to us, should you encounter the aforementioned situations.
+ ...
+Media:vo llzaq004 3 wanderer 11a 1.ogg (Wanderer): What's that look for? Don't make that face, I know what I'm doing.
+Media:vo llzaq004 3 wanderer 11a 2.ogg (Wanderer): ...That day will come.
+Media:vo llzaq004 3 wanderer 11a 3.ogg (Wanderer): Alright, we're done here.
+ ...I didn't do all of this for a reward.
+ ...What about it?
+ ...Who's that?
+ Because I wanted to know what you'd changed.
+ Fine.
+Media:vo llzaq004 3 wanderer 11b 1.ogg (Wanderer): Hehe, no nonsense. I like it.
+Media:vo llzaq004 3 wanderer 11b 2.ogg (Wanderer): ...Alright, let's call it a day.
+ Hmm, let me give it some more thought.
+Media:vo llzaq004 2 wanderer 10.ogg Wanderer: Okay.
+(Return to name selection)
+ Huh? You want us to decide?
+ I hope you can give Nahida a chance.
+ I'll buy some delicious treats as a reward.
+ Let's call it a tactical retreat...
+ Nahida doesn't see you in that way.
+ Please don't make it sound like I'm extorting you.
+ Quest DescriptionThe puppet has given up his original name. Just as the title "Wanderer" suggests, he has truly become a person with no name.
+ Rest up, Paimon.
+ Step DescriptionThe puppet has given up his original name. Just as the title "Wanderer" suggests, he has truly become a person with no name. "Kabukimono," "The Balladeer"... The events of the past became like morning dew, disappearing in an instant as the sunlight shined upon them.
+ Thank you. Let's hope you can find some answers.
+ There were some bumps along the way, but it's all over now.
+ What do you plan to do next?
+ Yes. I think this will do.
+Media:vo llzaq004 2 wanderer 09.ogg Wanderer: ...Ah, alright, if you say so.
+ Yes?
+ You won't go by "The Balladeer" anymore?
+(Traveler): (...)
+(Traveler): (Believe my eyes? Does she mean... I should trust my memories?)
+(Traveler): (But The Balladeer erased his existence. He changed the world... So why is this vase still broken?)
+(Traveler): (I wonder what else awaits me in the future?)
+(Traveler): (That night we stayed here, Paimon bumped into the table after being startled by something to do with The Balladeer and broke the vase.)
+(Traveler): ...
+1. The creation of content that discriminates against any race, gender, religion, sexual orientation, ethnicity, government, or region.
+2. The bullying or insulting of any Travelers or groups of Travelers.
+3. Any other content or behavior that violates the Terms of Service.
+At the same time, you are welcome to use the Report function to send feedback to us, should you encounter the aforementioned situations.
+Disclaimer
+Media:vo dialog llzaq004 aqaba 01.ogg Aqaba: Of course, Sawada. Your creativity has been indispensable to me. Without you, I'd have scratched my head bald by now.
+Media:vo dialog llzaq004 nahida 01.ogg Nahida: Thank you so much. Please get some good rest, you must be exhausted. You know, take a shower, take a dook-dook... you'll feel as good as new.
+Media:vo dialog llzaq004 sawada 01.ogg Sawada: Aqaba, thanks for inviting me to research together!
+Media:vo llzaq004 1 nahida 01.ogg Nahida: Welcome back, (Traveler), Paimon, Balladeer.
+Media:vo llzaq004 1 nahida 02.ogg Nahida: You don't like being addressed by that name?
+Media:vo llzaq004 1 nahida 03.ogg Nahida: But that doesn't mean your own past has disappeared.
+Media:vo llzaq004 1 nahida 04.ogg Nahida: And your main goal, for which you gave up everything you had... you weren't able to achieve it. I hope you can see and understand that.
+Media:vo llzaq004 1 nahida 05.ogg Nahida: Changing the world, changing the past, changing the fates of other people... These are not simple things to accomplish.
+Media:vo llzaq004 1 nahida 06.ogg Nahida: What you were looking for is complete annihilation... But this is just a fantasy. Even if The Balladeer is removed from existence, the world will not heed your will.
+Media:vo llzaq004 1 nahida 07.ogg Nahida: Yes, and I took pains to make sure that you'd acquire that information naturally.
+Media:vo llzaq004 1 nahida 08.ogg Nahida: In all honesty, your past experiences have made you a useful asset to Sumeru and to me. Winning you over was indeed a part of my plan.
+Media:vo llzaq004 1 nahida 09.ogg Nahida: But before that, I wanted to tell you the truth about your past. If all I wanted to do was use you, then I'd be no different from The Doctor.
+Media:vo llzaq004 1 nahida 10.ogg Nahida: I guess you could say that's one of my virtues.
+Media:vo llzaq004 1 nahida 11.ogg Nahida: I'm glad that you're able to think of it in that way.
+Media:vo llzaq004 1 nahida 12.ogg Nahida: (Traveler), in the future, I'll continue to search Irminsul more deeply, and see what secrets can be uncovered.
+Media:vo llzaq004 1 nahida 13.ogg Nahida: Including the beginning of your twin's journey recorded in Irminsul. What exactly happened before and after that point? I want to know as well.
+Media:vo llzaq004 1 nahida 14.ogg Nahida: I will try.
+Media:vo llzaq004 1 nahida 15.ogg Nahida: That's not true. A relationship between two people is not simply a ledger that can be reset to zero.
+Media:vo llzaq004 1 nahida 16.ogg Nahida: I think, deep down, you realize this. People who show up in your life don't just evaporate like water drops and leave nothing behind. There is no such thing as "balancing the books."
+Media:vo llzaq004 1 nahida 17.ogg Nahida: Some things in this world can never be brought back, and they can never be changed, which is why there is emotion in the human world.
+Media:vo llzaq004 1 nahida 18.ogg Nahida: Everything that you feel is real and lasting, and whatever is missing in you will not be made whole.
+Media:vo llzaq004 1 nahida 19.ogg Nahida: To be human is to live with imperfections. You can choose whether or not you want to be human.
+Media:vo llzaq004 1 nahida 20.ogg Nahida: You understand what pain is perfectly well, even without a heart. You're just burying your feelings.
+Media:vo llzaq004 1 nahida 21.ogg Nahida: The past is set in stone, but you can keep moving on. And the longer your future lasts, the shorter your past will become, until one day it is but a tiny fraction of your life.
+Media:vo llzaq004 1 nahida 22.ogg Nahida: I'm glad that you've accepted our proposal. Why don't you choose a new name to celebrate?
+Media:vo llzaq004 1 nahida 23.ogg Nahida: "A name is life's first gift." You didn't say it out loud, but I know that's what you're thinking.
+Media:vo llzaq004 1 nahida 24a.ogg Nahida: (Traveler) and Paimon have helped you a lot. If you can't decide on a new name, maybe you can ask them for ideas.
+Media:vo llzaq004 1 paimon 01.ogg Paimon: Whew! It feels like we just went on a really long journey... Paimon's exhausted.
+Media:vo llzaq004 1 paimon 02.ogg Paimon: So you're quitting the Fatui for good?
+Media:vo llzaq004 1 paimon 03.ogg Paimon: Do you regret doing all that, when you've gotten so little in return?
+Media:vo llzaq004 1 paimon 04.ogg Paimon: Everything's ended up being pretty darn complicated, Paimon doesn't even know where to start... But the most important thing now is that you need to follow Nahida. Otherwise, all our efforts will have been for nothing!
+Media:vo llzaq004 1 paimon 05.ogg Paimon: Ooh, ooh, ooh! Paimon wants to pick an ugly nickname for you too!
+Media:vo llzaq004 1 paimon 06.ogg Paimon: Because... because Paimon still doesn't like you that much!
+Media:vo llzaq004 1 paimon 07.ogg Paimon: Nope, Paimon only does nicknames! If it's a serious name you're after... it's all yours!
+Media:vo llzaq004 1 wanderer 01.ogg Wanderer: ...
+Media:vo llzaq004 1 wanderer 02.ogg Wanderer: It's fine. But I was just thinking, I should probably change it.
+Media:vo llzaq004 1 wanderer 03.ogg Wanderer: After learning about everything The Doctor did, there's no way I can carry on using a name connected to him.
+Media:vo llzaq004 1 wanderer 04.ogg Wanderer: I'm not planning on returning to the Fatui, and they wouldn't take me back anyway. Recent events will have affected a lot of people, and they might not even remember who the sixth is.
+Media:vo llzaq004 1 wanderer 05.ogg Wanderer: ...
+Media:vo llzaq004 1 wanderer 06.ogg Wanderer: It's like you said, Lesser Lord Kusanali. Everything may look futile, but it wasn't completely meaningless. At least I made a lot of people forget about me.
+Media:vo llzaq004 1 wanderer 07.ogg Wanderer: Of course.
+Media:vo llzaq004 1 wanderer 08.ogg Wanderer: ...Indeed. Haha, how ridiculous.
+Media:vo llzaq004 1 wanderer 09.ogg Wanderer: Even if I'm completely worthless, there's nothing in the world worth regretting.
+Media:vo llzaq004 1 wanderer 10.ogg Wanderer: Lesser Lord Kusanali, you purposely left that information in Irminsul, didn't you?
+Media:vo llzaq004 1 wanderer 11.ogg Wanderer: Why would you go to such lengths? You trying to win me over too?
+Media:vo llzaq004 1 wanderer 12.ogg Wanderer: ...Very clever.
+Media:vo llzaq004 1 wanderer 13.ogg Wanderer: Utility to others is what gives me worth. So if embracing my sins is what it takes to make me useful again, so be it.
+Media:vo llzaq004 1 wanderer 14.ogg Wanderer: Oh right, I almost forgot... you're the good guys. You're into justice and all that.
+Media:vo llzaq004 1 wanderer 15.ogg Wanderer: Sorry if I have a slightly different perspective on things. But, I don't feel like I've been duped. The wisest leaders are fated to end up with the best helpers... I can live with that.
+Media:vo llzaq004 1 wanderer 16.ogg Wanderer: (Traveler).
+Media:vo llzaq004 1 wanderer 17.ogg Wanderer: After I dove into the information torrents in Irminsul, why did you go to Inazuma?
+Media:vo llzaq004 1 wanderer 18.ogg Wanderer: ...So that's how you found out whose fate had changed, and how.
+Media:vo llzaq004 1 wanderer 19.ogg Wanderer: Well, whatever your reasons, you did me a favor, and I'll do everything I can to pay it back.
+Media:vo llzaq004 1 wanderer 20.ogg Wanderer: Borrowing and returning are the only real relationships between individuals. I'll balance the books one day, don't you worry.
+Media:vo llzaq004 1 wanderer 21.ogg Wanderer: ...
+Media:vo llzaq004 1 wanderer 22.ogg Wanderer: But humans can't live without a heart, can they? Anyway, I gave up trying to become a human a long time ago.
+Media:vo llzaq004 1 wanderer 23.ogg Wanderer: It sounds like you've got a future planned out for me.
+Media:vo llzaq004 1 wanderer 24.ogg Wanderer: ...Then I guess I'll be helping you from behind the scenes from now on.
+Media:vo llzaq004 1 wanderer 25.ogg Wanderer: Why?
+Media:vo llzaq004 1 wanderer 26.ogg Wanderer: Hmph. Then I hope we don't see much of each other in the future.
+Media:vo llzaq004 1 wanderer 27.ogg Wanderer: ...
+Media:vo llzaq004 1 wanderer 28.ogg (Wanderer): (It feels like... I've lived two lives.)
+Media:vo llzaq004 2 wanderer 01.ogg Wanderer: Have you got anything?
+Media:vo llzaq004 2 wanderer 02.ogg Wanderer: You can't be serious.
+Media:vo llzaq004 2 wanderer 03.ogg Wanderer: Is this supposed to be your attempt at a joke?
+Media:vo llzaq004 2 wanderer 04.ogg Wanderer: ...Hmph. I have no need for these names anymore.
+Media:vo llzaq004 2 wanderer 05.ogg Wanderer: That won't work.
+Media:vo llzaq004 2 wanderer 06.ogg Wanderer: ...This is a bad idea.
+Media:vo llzaq004 2 wanderer 07.ogg Wanderer: You want to share your name with me? Huh, not a bad choice.
+Media:vo llzaq004 2 wanderer 08.ogg Wanderer: Are you sure?
+Media:vo llzaq004 2 wanderer 09.ogg Wanderer: ...Ah, alright, if you say so.
+Media:vo llzaq004 2 wanderer 10.ogg Wanderer: Okay.
+Media:vo llzaq004 3 nahida 01.ogg Nahida: There, now you have a name of your own.
+Media:vo llzaq004 3 nahida 02.ogg Nahida: Now that your stance has changed, I believe your future path will change accordingly, but it won't be immediate... You still need some time to compose yourself.
+Media:vo llzaq004 3 nahida 03.ogg Nahida: I see... That is up to you.
+Media:vo llzaq004 3 nahida 04.ogg Nahida: What he went through today would have been like living an entire lifetime in an instant. He'll need some time to calm down.
+Media:vo llzaq004 3 nahida 05.ogg Nahida: Thank you both. I hope you will find somewhere nice to go and relax for a while.
+Media:vo llzaq004 3 paimon 01.ogg Paimon: Uh, uhhh... still thinking... Stop rushing me...
+Media:vo llzaq004 3 paimon 02.ogg Paimon: You mean, the Fatui?
+Media:vo llzaq004 3 paimon 03.ogg Paimon: Huh? But if we do that, then...
+Media:vo llzaq004 3 paimon 04.ogg Paimon: He's gone...
+Media:vo llzaq004 3 paimon 05.ogg Paimon: Yeah, true. But even so, after everything that's happened, he doesn't seem quite as fierce anymore.
+Media:vo llzaq004 3 paimon 06.ogg Paimon: So can we finally go eat? Paimon is starving!
+Media:vo llzaq004 3 wanderer 01.ogg (Wanderer): What about a nickname? Are you done yet?
+Media:vo llzaq004 3 wanderer 02.ogg (Wanderer): Take your time. I don't need to see you again until you've thought of one.
+Media:vo llzaq004 3 wanderer 03.ogg (Wanderer): Everyone who manipulated me and made me suffer will have to pay the price.
+Media:vo llzaq004 3 wanderer 04.ogg (Wanderer): The Doctor, at least.
+Media:vo llzaq004 3 wanderer 05.ogg (Wanderer): ...
+Media:vo llzaq004 3 wanderer 06.ogg (Wanderer): One more thing.
+Media:vo llzaq004 3 wanderer 07.ogg (Wanderer): There are still some descendants of the Raiden Gokaden living in Inazuma. Some of them know... Well, they ought to know about the connection between the Raiden Gokaden and myself.
+Media:vo llzaq004 3 wanderer 08.ogg (Wanderer): I don't plan to leave Sumeru for the time being. If you see them in Inazuma, please tell them that I was the one responsible for the Raiden Gokaden's downfall.
+Media:vo llzaq004 3 wanderer 09.ogg (Wanderer): ...Even though the events have been erased from the world, they still deserve to know the truth.
+Media:vo llzaq004 3 wanderer 10.ogg (Wanderer): It's fine. Let them stab their blades into my chest if they so desire. ...Maybe that's how it always should have been.
+Media:vo llzaq004 3 wanderer 11a 1.ogg (Wanderer): What's that look for? Don't make that face, I know what I'm doing.
+Media:vo llzaq004 3 wanderer 11a 2.ogg (Wanderer): ...That day will come.
+Media:vo llzaq004 3 wanderer 11a 3.ogg (Wanderer): Alright, we're done here.
+Media:vo llzaq004 3 wanderer 11b 1.ogg (Wanderer): Hehe, no nonsense. I like it.
+Media:vo llzaq004 3 wanderer 11b 2.ogg (Wanderer): ...Alright, let's call it a day.
+Media:vo llzaq004 3 wanderer 12.ogg (Wanderer): Goodbye, wise deity, and you two.
+Media:vo llzaq004 4 aqaba 01.ogg Aqaba: You mean because everyone else in the story is dead?
+Media:vo llzaq004 4 aqaba 02.ogg Aqaba: (I feel like you've enlightened me. I can finally finish my essay! Hahaha!)
+Media:vo llzaq004 4 sawada 01.ogg Sawada: I've got it! I can end my novel with some words from Mikoshi Nagamasa.
+Media:vo llzaq004 4 sawada 02.ogg Sawada: Yeah. I heard that Mikoshi Nagamasa died at a ripe old age. He's the perfect fit to be the narrator of the epilogue.
+Media:vo llzaq004 4 sawada 03.ogg Sawada: "The dark clouds had dissipated, but they continued to cast their shadow in Mikoshi Nagamasa's mind for decades to come."
+Media:vo llzaq004 4 sawada 04.ogg Sawada: "Then one night as an old man, he had a dream. On the night when that prized blade, the Daitatara Nagamasa, was forged, the people rejoiced, and there was painting, dancing, and drinking."
+Media:vo llzaq004 4 sawada 05.ogg Sawada: "...All these expressions of joy melted down in the furnace fire and turned into red clouds that rallied around the final sunrise that Mikoshi Nagamasa saw in his lifetime."
+Media:vo llzaq004 4 sawada 06.ogg Sawada: "Life is a story too long to be told, a journey that you must walk to behold."
+Media:vo llzaq004 4 sawada 07.ogg Sawada: (I guess the sword that entered Mikoshi Nagamasa's memory in his final moments was called Daitatara Nagamasa instead of Katsuragikiri Nagamasa because he still had fond memories of it.)
+Media:vo llzaq004 4 wanderer 01.ogg (Wanderer): ...Hmph.
+Media:vo llzaq004 5 coden 01.ogg ???: You sound lost and confused.
+Media:vo llzaq004 5 coden 02.ogg ???: I know why you are troubled. Any who knew of this would find their mind overwhelmed.
+Media:vo llzaq004 5 coden 03.ogg ???: Unfortunately, the fate of Teyvat cannot easily be changed. Perhaps a god may have a slim chance, but for anyone else... who can say.
+Media:vo llzaq004 5 coden 04.ogg ???: When a small animal runs into a tree trunk, though the tree may sway, it is not displaced. The same is true of fate.
+Media:vo llzaq004 5 coden 05.ogg ???: Like a vase that falls to the ground. Whether it is broken by a cat or by a bird, the result is still a broken vase, is it not?
+Media:vo llzaq004 5 coden 06.ogg ???: History does not change easily, but human hearts can. Believe your own eyes. Only that which you see is true. What is unseen is but an illusion.
+Media:vo llzaq004 5 paimon 01.ogg Paimon: Whew! It's about time we had a break!
+Media:vo llzaq004 5 paimon 02.ogg Paimon: As soon as you stop, all the tiredness and hunger comes rushing back...
+Media:vo llzaq004 5 paimon 03.ogg Paimon: Wow! Great!
+Media:vo llzaq004 5 paimon 04.ogg Paimon: ...Huh? Look at that vase...
+Media:vo llzaq004 5 paimon 05.ogg Paimon: Did someone break it while they were cleaning the room or something? But Paimon doesn't remember there being a cleaner...
+Media:vo llzaq004 5 paimon 06.ogg Paimon: Huh? Is there someone here talking to us?
+Media:vo llzaq004 5 paimon 07.ogg Paimon: Wh—Who are you!? How do you know about all this?
+Media:vo llzaq004 5 paimon 08.ogg Paimon: The voice has disappeared...
+Media:vo llzaq004 5 paimon 09.ogg Paimon: And who the heck was that!? And what were they doing, coming out of nowhere and saying all of that scary stuff...
+Media:vo llzaq004 5 paimon 10.ogg Paimon: Ugh. Anyway, that vase is still lying there broken on the ground. Should Paimon go get someone to clean it up?
+Media:vo llzaq004 5 paimon 11.ogg Paimon: ...Feels wrong just leaving it there. Just a moment, Paimon'll be right back!
+Name Change Rules
+Once you have renamed this character, some interfaces in the game going forward will display the name that you have chosen.
+Please take note that some names cannot be utilized in this change.
+Rules and Disclaimers for Name Modification
+There is a limit on the number of times you can rename this character, so do so with care.
+Travelers, please ensure that you follow our Terms of Service while using this function. To create a healthy gaming environment, please read and confirm that you will not instigate or take part in:
+We may have to restrict your use of the game services if you do not follow these rules. This may include suspension, restriction, a name reset, forced disconnection, login suspension, or account forfeiture.
+You can obtain the item "An Appellative Stroke" from the Archon Quest Interlude: Inversion of Genesis, which will allow you to change "Eons Adrift" Wanderer (Anemo)'s name.

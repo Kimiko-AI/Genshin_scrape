@@ -1,0 +1,180 @@
+ ...
+ An arrogant-sounding woman...
+ Hey there.
+ Hmm, seems like a reasonable deal.
+ I look forward to working with you.
+ I think you might be a couple orders of magnitude off?
+ I wonder if the Kanjou Commission has heard of us...
+ I'll consider it.
+ I'll need to look into it more first.
+ I'm delighted to see you again.
+ I'm leaving.
+ I, too, am honored to meet you.
+ If the Yashiro Commission has heard of us...
+ Just as I expected.
+ Please be careful.
+ Quest DescriptionThoma has set you a test to leave Ritou by your own power, lest your journey end here...
+ Saw this coming.
+ Seeing as we don't have any other options...
+ Seems we need to get off Ritou as fast as we can.
+ Shinsuke has no intention of letting us leave.
+Media:vo dqaq003 6 paimon 05b.ogg Paimon: Paimon knew something just didn't seem right about him!
+ Thank you, Chisato.
+ The pleasure is mine.
+ They don't stay fresh after they're picked.
+ This is my forte.
+ Time to run some errands again?
+ Ultimately, they still got their way.
+ We shared a glance.
+Media:vo dqaq003 6 paimon 05a.ogg Paimon: Huh? Have you been up to something behind Paimon's back?
+ You dare question my abilities?
+ You're too kind.
+(As you speak to Hiiragi Shinsuke, an unfamiliar lady appears not far behind Shinsuke. She carefully exchanges glances with you...)
+(Hiiragi Chisato tells the Traveler her plans.)
+Dear Traveler,
+Escort failed, the cargo was intercepted...
+(Return to the start of this step)
+I apologize for the hasty means by which this letter has come to you, and I hope that it hasn't left you feeling perplexed or perturbed in any way.
+I hope that you would be so courteous as to meet me tonight, under the glow of resplendent moonlight.
+I look forward to the pleasure of your company.
+It is no mere coincidence that our paths have crossed.
+Lightly-Perfumed Letter:
+Media:vo dialog dqaq003 hiiragishinsuke 01.ogg Hiiragi Shinsuke: Have you finished the work that we spoke about?
+Media:vo dialog dqaq003 hiiragishinsuke 02.ogg Hiiragi Shinsuke: Report back to me once you've finished.
+Media:vo dqaq003 1 kobayashi 01.ogg Kobayashi: Stop there! Present your Travel Permits!
+Media:vo dqaq003 1 kobayashi 02.ogg Kobayashi: If you don't have a Travel Permit, this is as far as you'll get. Those are the rules.
+Media:vo dqaq003 1 paimon 01.ogg Paimon: Sorry, but we've really gotta get to Narukami Island, it's kinda urgent...
+Media:vo dqaq003 1 paimon 02.ogg Paimon: Huh... as expected.
+Media:vo dqaq003 1 paimon 03.ogg Paimon: Traveler, you gotta think of something. How do we get out of Ritou?
+Media:vo dqaq003 1 paimon 04.ogg Paimon: Are you saying... we should go and meet with the Kanjou Commissioner?
+Media:vo dqaq003 1 paimon 05.ogg Paimon: ...Guess it can't hurt to try. Even if Paimon has a few choice words to say about his subordinates...
+Media:vo dqaq003 1 paimon 06.ogg Paimon: Who knows — maybe he's our biggest fan! Hee-hee.
+Media:vo dqaq003 10 hiiragichisato 01.ogg Hiiragi Chisato: I'm perfectly alright. You may stop here. The road to Narukami Island is just over there.
+Media:vo dqaq003 10 hiiragichisato 02.ogg Hiiragi Chisato: In my letter, I've requested Kamaji to grant you a special Travel Permit from the Tenryou Commission. Consider it a token of my appreciation.
+Media:vo dqaq003 10 hiiragichisato 03.ogg Hiiragi Chisato: I'm not afraid to say that... he's the one I love.
+Media:vo dqaq003 10 hiiragichisato 04.ogg Hiiragi Chisato: You two needn't worry. Please, forget that this ever happened. If my father catches word of it, I alone will be held accountable.
+Media:vo dqaq003 10 hiiragichisato 05.ogg Hiiragi Chisato: Don't fret, my father has always been one to spoil me. The worst he'd do is sentence me to half a day without food, or something to that effect.
+Media:vo dqaq003 10 hiiragichisato 06.ogg Hiiragi Chisato: I wish you a safe journey. I'm sure we will meet again.
+Media:vo dqaq003 10 kenzaburou 01.ogg Kenzaburou: Huh! So that's how it is. I had a feeling something was amiss, but Shinnojou, you...
+Media:vo dqaq003 10 kenzaburou 02.ogg Kenzaburou: Shinnojou... Did you honestly think that...?
+Media:vo dqaq003 10 kenzaburou 03.ogg Kenzaburou: Yes, of course. As you wish, my lady.
+Media:vo dqaq003 10 kenzaburou 04.ogg Kenzaburou: Come now! Quit your staring and let's get moving. We've got goods to shift.
+Media:vo dqaq003 10 paimon 01.ogg Paimon: But what will happen if your actions here are discovered, Chisato?
+Media:vo dqaq003 10 paimon 02.ogg Paimon: Huh, Paimon never suspected a guy like him could have a soft side...
+Media:vo dqaq003 10 paimon 03.ogg Paimon: Bye Chisato!
+Media:vo dqaq003 10 shinnojou 01.ogg Shinnojou: Whew, we can take refuge in the village up ahead. How are you faring, my lady?
+Media:vo dqaq003 10 shinnojou 02.ogg Shinnojou: My lady...?
+Media:vo dqaq003 10 shinnojou 03.ogg Shinnojou: No, Lady Hiiragi would never hide anything from us, I'm sure of it. But who is this "Kamaji" you speak of, my lady?
+Media:vo dqaq003 10 shinnojou 04.ogg Shinnojou: The one... you love?
+Media:vo dqaq003 10 shinnojou 05.ogg Shinnojou: What!? N—No, I uh... ahem! I was clarifying, that's all. I would never in my wildest dreams, uh... ahem!
+Media:vo dqaq003 10 shinnojou 06.ogg Shinnojou: *whimpers* Al—Alright... *sobs*
+Media:vo dqaq003 11 paimon 01.ogg Paimon: Whew, we're finally on our own way again!
+Media:vo dqaq003 11 paimon 02.ogg Paimon: I suppose it's time we find Thoma. Now where did he say he would meet us again... Right, Komore Teahouse!
+Media:vo dqaq003 2 hiiragishinsuke 01.ogg Hiiragi Shinsuke: Ah... Wait, wait, wait...
+Media:vo dqaq003 2 hiiragishinsuke 02.ogg Hiiragi Shinsuke: These two are honored guests from afar, no need to give them the usual spiel.
+Media:vo dqaq003 2 hiiragishinsuke 03.ogg Hiiragi Shinsuke: Come on in, let's see what we can do for you.
+Media:vo dqaq003 2 paimon 01.ogg Paimon: We're here to see, uh... y'know, um... the Kanjou Commissioner!
+Media:vo dqaq003 2 paimon 02.ogg Paimon: Hmph! Did you get all that, mister!?
+Media:vo dqaq003 2 yokoyama 01.ogg Yokoyama: Halt! This is the Kanjou Commissioner's Office. No trespassers!
+Media:vo dqaq003 2 yokoyama 02.ogg Yokoyama: The Kanjou Commissioner seldom entertains outlanders. Leave, now or we'll be forced to—
+Media:vo dqaq003 2 yokoyama 03.ogg Yokoyama: Oh! Commissioner!
+Media:vo dqaq003 2 yokoyama 04.ogg Yokoyama: M—My sincere apologies.
+Media:vo dqaq003 3 hiiragishinsuke 01.ogg Hiiragi Shinsuke: I am Hiiragi Shinsuke, Kanjou Commissioner and head of the Hiiragi Clan. It's an honor to meet you both.
+Media:vo dqaq003 3 hiiragishinsuke 02.ogg Hiiragi Shinsuke: Alright, alright, all in good time. Two travelers renowned far and wide have shown up to see me, and I should very much like to make their acquaintance! Let's not limit this to business only.
+Media:vo dqaq003 3 hiiragishinsuke 03.ogg Hiiragi Shinsuke: Absolutely. How many other people in the world have what it takes to knock the wind out of Stormterror's sails and put the Overlord of the Vortex back under the sea, eh?
+Media:vo dqaq003 3 hiiragishinsuke 04.ogg Hiiragi Shinsuke: And... I hear you also foiled a Fatui plot in Liyue Harbor, even beat one of their harbingers in a duel. Is that true?
+Media:vo dqaq003 3 hiiragishinsuke 05.ogg Hiiragi Shinsuke: Hmm... As I thought.
+Media:vo dqaq003 3 hiiragishinsuke 06.ogg Hiiragi Shinsuke: Hehe, no, no, no. I'm simply awestruck by you both, is all.
+Media:vo dqaq003 3 hiiragishinsuke 07.ogg Hiiragi Shinsuke: ...Ritou is greatly honored to have you visit us.
+Media:vo dqaq003 3 hiiragishinsuke 08.ogg Hiiragi Shinsuke: One other thing I heard about you is your great zeal for helping other people. This makes me wonder... whether you might be so kind as to render your assistance to the Kanjou Commission?
+Media:vo dqaq003 3 hiiragishinsuke 09.ogg Hiiragi Shinsuke: Excellent. Well, then...
+Media:vo dqaq003 3 hiiragishinsuke 10.ogg Hiiragi Shinsuke: You must know the Qingxin? A flower, grows on the mountaintops in Liyue.
+Media:vo dqaq003 3 hiiragishinsuke 11.ogg Hiiragi Shinsuke: Yes. Bring me 300 Qingxin, would you? Freshly picked, I mean.
+Media:vo dqaq003 3 hiiragishinsuke 12.ogg Hiiragi Shinsuke: Hmm? Too much trouble, is it? Hmm... I see.
+Media:vo dqaq003 3 hiiragishinsuke 13.ogg Hiiragi Shinsuke: Then how about this: We have a few items that need delivering, perhaps you could help with that?
+Media:vo dqaq003 3 hiiragishinsuke 14.ogg Hiiragi Shinsuke: 709 letters, to be precise.
+Media:vo dqaq003 3 hiiragishinsuke 15.ogg Hiiragi Shinsuke: Terribly sorry, we're just a little short on people lately...
+Media:vo dqaq003 3 hiiragishinsuke 16.ogg Hiiragi Shinsuke: That's the spirit! Don't keep me waiting too long, now, hehe...
+Media:vo dqaq003 3 paimon 01.ogg Paimon: Nice to meet you, Sir!
+Media:vo dqaq003 3 paimon 02.ogg Paimon: So, the reason we wanted to come and see you was because—
+Media:vo dqaq003 3 paimon 03.ogg Paimon: Hee-hee, so what you're saying is, we really are pretty famous, huh?
+Media:vo dqaq003 3 paimon 04.ogg Paimon: Exactly! Paimon thinks you make an excellent point.
+Media:vo dqaq003 3 paimon 05.ogg Paimon: Whoa! You heard about that, too? Yup, it's true, alright!
+Media:vo dqaq003 3 paimon 06.ogg Paimon: Something wrong?
+Media:vo dqaq003 3 paimon 07.ogg Paimon: Sure, no problem! Whatever you need — right, (Traveler)?
+Media:vo dqaq003 3 paimon 08.ogg Paimon: Yup, we've picked a few of those before. So, uh... you want us to go back to Liyue?
+Media:vo dqaq003 3 paimon 09.ogg Paimon: ...Uh, did Paimon hear that wrong?
+Media:vo dqaq003 3 paimon 10.ogg Paimon: That sounds much more like it.
+Media:vo dqaq003 3 paimon 11.ogg Paimon: Hey! What gives? How come you don't have people to do that already!?
+Media:vo dqaq003 3 paimon 12.ogg Paimon: What sort of an explanation is that!?
+Media:vo dqaq003 3 paimon 13.ogg Paimon: Traveler, what're we gonna do? Should we really help this guy?
+Media:vo dqaq003 4 paimon 01.ogg Paimon: You're seriously considering taking this job? The terms are ridiculous...
+Media:vo dqaq003 6 paimon 01.ogg Paimon: Huh? What did we do?
+Media:vo dqaq003 6 paimon 02.ogg Paimon: A letter? Quick, let Paimon see!
+Lightly-Perfumed Letter:
+Dear Traveler,
+Would that I could convey this message to you in person.
+I apologize for the hasty means by which this letter has come to you, and I hope that it hasn't left you feeling perplexed or perturbed in any way.
+This is my first time extending an invitation to an unknown outlander, after all.
+It is no mere coincidence that our paths have crossed.
+Therefore,
+I hope that you would be so courteous as to meet me tonight, under the glow of resplendent moonlight.
+ 
+Please do not fret about retainers and bodyguards, I will ensure that their attention shall be elsewhere.
+I look forward to the pleasure of your company.
+Media:vo dqaq003 6 paimon 03.ogg Paimon: So this means... she wants you to secretly meet her at night?
+Media:vo dqaq003 6 paimon 04.ogg Paimon: But you didn't seem surprised at all by this... What's going on?
+Media:vo dqaq003 6 paimon 05a.ogg Paimon: Huh? Have you been up to something behind Paimon's back?
+Media:vo dqaq003 6 paimon 05b.ogg Paimon: Paimon knew something just didn't seem right about him!
+Media:vo dqaq003 6 paimon 06.ogg Paimon: Hmm... let's ask her tonight and see what she has to say.
+Media:vo dqaq003 6 shinnojou 01.ogg Shinnojou: Halt, you two.
+Media:vo dqaq003 6 shinnojou 02.ogg Shinnojou: Miss Hiiragi has a letter for you. She insists that you read it immediately.
+Media:vo dqaq003 7 hiiragichisato 01.ogg Hiiragi Chisato: Ah, you've finally arrived... Allow me to introduce myself, I am Hiiragi Chisato.
+Media:vo dqaq003 7 hiiragichisato 02.ogg Hiiragi Chisato: This is... technically the second time we have met. It's a pleasure to see you again.
+Media:vo dqaq003 7 hiiragichisato 03.ogg Hiiragi Chisato: N—No need to be so formal — I've long marveled at your accomplishments... and at last we have the chance to meet.
+Media:vo dqaq003 7 hiiragichisato 04.ogg Hiiragi Chisato: The reason why I wanted to secretly meet you here is... Well, I feared that I might never have another opportunity to discuss this with you...
+Media:vo dqaq003 7 hiiragichisato 05.ogg Hiiragi Chisato: Ahem... I should like to ask for your help with... delivering a letter.
+Media:vo dqaq003 7 hiiragichisato 06.ogg Hiiragi Chisato: N—No! You misunderstand me — please... allow me to explain.
+Media:vo dqaq003 7 hiiragichisato 07.ogg Hiiragi Chisato: I was hoping that you could deliver a letter to Narukami Island in my stead. It is to be given to Kujou Kamaji of the Tenryou Commission.
+Media:vo dqaq003 7 hiiragichisato 08.ogg Hiiragi Chisato: My father has always forbidden me from communicating with him. He knows that there are prospects for my marriage that would better serve him politically. But my heart is with Kamaji.
+Media:vo dqaq003 7 hiiragichisato 09.ogg Hiiragi Chisato: There is no one who would dare defy my father's will on Ritou, but you are outlanders — outlanders seeking to get to Narukami Island. It would be regrettable to let such an opportunity pass...
+Media:vo dqaq003 7 hiiragichisato 10.ogg Hiiragi Chisato: Of course, in doing so, I will also do everything in my power to help you leave Ritou. That is my promise.
+Media:vo dqaq003 7 hiiragichisato 11.ogg Hiiragi Chisato: To be perfectly honest... as long as you remain in Inazuma, my father will have no intention of letting you leave Ritou.
+Media:vo dqaq003 7 hiiragichisato 12.ogg Hiiragi Chisato: I secretly overheard a conversation between my father and a very arrogant-sounding woman just a few days ago.
+Media:vo dqaq003 7 hiiragichisato 13.ogg Hiiragi Chisato: They seemed to be discussing how to keep you here on Ritou. In fact, it was the first time I had ever heard my father speak so respectfully to someone who wasn't the shogun.
+Media:vo dqaq003 7 hiiragichisato 14.ogg Hiiragi Chisato: We don't have much time. I'll tell you my plans to help you off the island. It just so happens that a shipment of goods is...
+Media:vo dqaq003 7 hiiragichisato 15.ogg Hiiragi Chisato: Very well, I'll be waiting for you at the border. I'm counting on you to deliver my letter.
+Media:vo dqaq003 7 paimon 01.ogg Paimon: Wow, she's the daughter of the Hiiragi Clan alright...
+Media:vo dqaq003 7 paimon 02.ogg Paimon: Is it Paimon, or does something seem a bit off here?
+Media:vo dqaq003 7 paimon 03.ogg Paimon: D—Discuss what?
+Media:vo dqaq003 7 paimon 04.ogg Paimon: Ugh, like father, like daughter! Couldn't you be more original?
+Media:vo dqaq003 7 paimon 05.ogg Paimon: Ah, Paimon gets the whole picture now...
+Media:vo dqaq003 7 paimon 06.ogg Paimon: Yeah, we figured as much. It was pretty obvious he was just trying to hold us up here.
+Media:vo dqaq003 8 hiiragichisato 01.ogg Hiiragi Chisato: Hold on please... These goods are being sent to... Watatsumi Island?
+Media:vo dqaq003 8 hiiragichisato 02.ogg Hiiragi Chisato: No, as you were. My father simply has some concerns of the shipment's safety, and has ordered that myself and an additional qualified escort be dispatched to ensure safe transport of the goods.
+Media:vo dqaq003 8 hiiragichisato 03.ogg Hiiragi Chisato: Please, do not cause us any further delay. If memory serves me right, my father has already asserted that this shipment must arrive on time. I'm certain punishment will be duly dispensed if it fails to do so.
+Media:vo dqaq003 8 hiiragichisato 04.ogg Hiiragi Chisato: Now, need I remind you of the penalty if anything were to happen to me en route? I'm sure you are all quite familiar with my father's temperament.
+Media:vo dqaq003 8 hiiragichisato 05.ogg Hiiragi Chisato: Do you really presume that you can fully guarantee my safety on your own?
+Media:vo dqaq003 8 hiiragichisato 06.ogg Hiiragi Chisato: Well then, if we're through here, I suggest we set off at once. Dawdling will only allow potential thieves more time to prepare, no?
+Media:vo dqaq003 8 kenzaburou 01.ogg Kenzaburou: Is there something wrong, Lady Hiiragi?
+Media:vo dqaq003 8 kenzaburou 02.ogg Kenzaburou: My lady, you aren't suggesting that you intend to escort the shipment personally, are you? There's certainly no need for you to trouble yourself with such a matter, and as for this "qualified escort"...
+Media:vo dqaq003 8 kenzaburou 03.ogg Kenzaburou: Yes, of course my lady. I—It's just that... Well, we don't know who this—
+Media:vo dqaq003 8 kenzaburou 04.ogg Kenzaburou: Shinnojou! You can't really be agreeing to this!?
+Media:vo dqaq003 8 kenzaburou 05.ogg Kenzaburou: Yes, but... that's not the problem here...
+Media:vo dqaq003 8 kenzaburou 06.ogg Kenzaburou: Y—Yes, my lady. You heard her, there's no time to lose!
+Media:vo dqaq003 8 paimon 01.ogg Paimon: Boy, Chisato can talk the talk, they don't stand a chance...
+Media:vo dqaq003 8 shinnojou 01.ogg Shinnojou: My lady! This is an unexpected honor. You are correct, these goods have been repeatedly requested by the Kanjou Commissioner. We must be certain that they reach Watatsumi Island intact.
+Media:vo dqaq003 8 shinnojou 02.ogg Shinnojou: A—Ah, yes my lady. Very well then... I—It's an honor to have you accompanying us. Your safety is our highest priority.
+Media:vo dqaq003 8 shinnojou 03.ogg Shinnojou: Well, the request is from Lady Hiiragi herself. It is our duty to serve her in the utmost capacity.
+Media:vo dqaq003 9 kenzaburou 01.ogg Kenzaburou: Monsters sighted! Prepare to counterattack!
+Media:vo dqaq003 9 kenzaburou 02.ogg Kenzaburou: Watch out! More monsters inbound!
+Media:vo dqaq003 9 paimon 01.ogg Paimon: We'll take care of this. Stay with Chisato!
+Media:vo dqaq003 9 paimon 02.ogg Paimon: Not as well as we'll handle it!
+Media:vo dqaq003 9 shinnojou 01.ogg Shinnojou: Protect Lady Hiiragi at all costs!
+Media:vo dqaq003 9 shinnojou 02.ogg Shinnojou: My lady, please stay back! We'll handle it...
+Media:vo dqaq003 9 shinnojou 03.ogg Shinnojou: Lady Hiiragi, stay close.
+Please do not fret about retainers and bodyguards, I will ensure that their attention shall be elsewhere.
+Therefore,
+This is my first time extending an invitation to an unknown outlander, after all.
+Would that I could convey this message to you in person.
+ 

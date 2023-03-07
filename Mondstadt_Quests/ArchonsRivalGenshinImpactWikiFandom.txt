@@ -1,0 +1,72 @@
+ But aren't we the real thieves here?
+ But why would they do that?
+ Certainly seems like Treasure Hoarders.
+ Have a look.
+ I remember hearing more about their activities recently too...
+ I wonder if we should feel sorry for them...
+ I wouldn't do something like that.
+ No wonder they've set their sights on this sword.
+ Perhaps this is their fate?
+ Quest DescriptionAs Albedo expected, this sword can absorb the power to display a facsimile of "growth." This rare ability has caused it to catch the eye of certain parties with ulterior motives.
+ That's probably not how the Treasure Hoarders see things...
+ The sword's power has increased.
+ There are different responses... but there is an identical flow of energy.
+ Why, I never!
+Media:vo eqxs002 2 albedo 01.ogg Albedo: You're back.
+Media:vo eqxs002 2 albedo 02.ogg Albedo: Hmm. Indeed.
+Media:vo eqxs002 2 albedo 03.ogg Albedo: It is as I thought — this sword grows stronger as you use it in battle.
+Media:vo eqxs002 2 albedo 04.ogg Albedo: And that's precisely what makes it special.
+Media:vo eqxs002 2 albedo 05.ogg Albedo: Ah yes, I should mention a more important matter first.
+Media:vo eqxs002 2 albedo 06.ogg Albedo: I've investigated the area nearby, and I've discovered some unusual signs.
+Media:vo eqxs002 2 albedo 07.ogg Albedo: I believe that these strange traces require investigation.
+Media:vo eqxs002 2 albedo 08.ogg Albedo: Whether it be thieves or something else, we shall investigate, and we shall find out.
+Media:vo eqxs002 2 albedo 09.ogg Albedo: It would be rather convenient to rob adventurers who come up here, yes.
+Media:vo eqxs002 2 paimon 01.ogg Paimon: Albedo!
+Media:vo eqxs002 2 paimon 02.ogg Paimon: Haha! We've been working hard on the sword you know? Check it out!
+Media:vo eqxs002 2 paimon 03.ogg Paimon: I thought that only applied to people.
+Media:vo eqxs002 2 paimon 04.ogg Paimon: It's not more thieves, is it?
+Media:vo eqxs002 2 paimon 05.ogg Paimon: That's true...
+Media:vo eqxs002 2 paimon 06.ogg Paimon: Lots of human activity here, that's for sure.
+Media:vo eqxs002 2 paimon 07.ogg Paimon: Looks like more than one person, too.
+Media:vo eqxs002 2 paimon 08.ogg Paimon: So they have a camp here... Hmph! Here to steal, just as usual.
+Media:vo eqxs002 2 paimon 09.ogg Paimon: It's survival of the fittest here on this mountain, huh?
+Media:vo eqxs002 2 paimon 10.ogg Paimon: All that stealing though, and still every last one of them's still poor as dirt...
+Media:vo eqxs002 2 paimon 11.ogg Paimon: Hmph! Anyone who calls us thieves gets no pity from Paimon!
+(Conversation with Albedo is interrupted by Treasure Hoarders)
+Media:vo eqxs002 2 paimon 12.ogg Paimon: Argh, we're busted!
+Media:vo eqxs002 2 thoardera 01.ogg ???: Who's that? Who're these sniveling sneaks snooping around our camp?
+Media:vo eqxs002 5 paimon 01.ogg Paimon: Huh? What are the Fatui doing here!?
+Media:vo eqxs002 5 paimon 02.ogg Paimon: And those Treasure Hoarders look just as confused as we do, too!
+Media:vo eqxs002 6 albedo 01.ogg Albedo: The Fatui? And they chose to attack us within the Treasure Hoarders' camp... Did they follow us here?
+Media:vo eqxs002 6 albedo 02.ogg Albedo: Did you?
+Media:vo eqxs002 6 albedo 03.ogg Albedo: I think the Fatui are looking for this sword.
+Media:vo eqxs002 6 albedo 04.ogg Albedo: Perhaps they caught sight of you using it on the mountain.
+Media:vo eqxs002 6 albedo 05.ogg Albedo: If their eyes are any good, they'll definitely have seen how this sword stands out from the rest.
+Media:vo eqxs002 6 albedo 06.ogg Albedo: Not quite, no.
+Media:vo eqxs002 6 albedo 07.ogg Albedo: The Fatui are collecting things related the archons. This, I believe, is known to you.
+Media:vo eqxs002 6 albedo 08.ogg Albedo: Durin is the sworn enemy of the Anemo Archon, and had power comparable to his.
+Media:vo eqxs002 6 albedo 09.ogg Albedo: To say that it could rival the archons, or was related to them... Neither is an overstatement.
+Media:vo eqxs002 6 albedo 10.ogg Albedo: I made a new discovery while sketching nearby.
+Media:vo eqxs002 6 albedo 11.ogg Albedo: There's an area up ahead that's quite remarkable. Its ley lines flow differently from any other.
+Media:vo eqxs002 6 albedo 12.ogg Albedo: Nearby monsters have been attracted to it and have fallen under its influence. As a result, their constitutions have come to far surpass others of the same kind.
+Media:vo eqxs002 6 albedo 13.ogg Albedo: Precisely my intention. Oh, and do remember to observe how various enemies affect this sword differently while you're at it, please.
+Media:vo eqxs002 6 paimon 03.ogg Paimon: But why would they do that?
+Media:vo eqxs002 6 paimon 04.ogg Paimon: Did you go rile them up while we weren't looking?
+Media:vo eqxs002 6 paimon 05.ogg Paimon: Um, maybe it's something we all did, then...
+Media:vo eqxs002 6 paimon 06.ogg Paimon: Eh!? Weren't you keeping this sword super secret? How did they know it existed?
+Media:vo eqxs002 6 paimon 07.ogg Paimon: They really want everything, don't they?
+Media:vo eqxs002 6 paimon 08.ogg Paimon: Huh. Now that you mention it, we did hear Master Diluc say that.
+Media:vo eqxs002 6 paimon 09.ogg Paimon: So that's how it is...
+Media:vo eqxs002 6 paimon 10.ogg Paimon: That seems convenient.
+Media:vo eqxs002 6 paimon 11.ogg Paimon: Well, we're here to help this sword grow, aren't we? Might as well go try it out on those monsters!
+Media:vo eqxs002 9 albedo 01.ogg Albedo: I have a hypothesis concerning this.
+Media:vo eqxs002 9 albedo 02.ogg Albedo: Each time this sword absorbs power from the bodies of fallen enemies, it will resonate with Durin's remains, hidden somewhere on this mountain.
+Media:vo eqxs002 9 albedo 03.ogg Albedo: If my theory proves correct, this could mean that all the monsters here may be resonating with Durin's body.
+Media:vo eqxs002 9 albedo 04.ogg Albedo: I fear this may have to do with the origin of these monsters' powers.
+Media:vo eqxs002 9 albedo 05.ogg Albedo: Durin is no ordinary beast. Even though it is long dead, the entire mountain is still held in thrall by its corpse.
+Media:vo eqxs002 9 albedo 06.ogg Albedo: The dragon's mysterious power... may itself be a form of curse.
+Media:vo eqxs002 9 albedo 07.ogg Albedo: We still don't have enough information. If we wish to understand more, more data is required. This is where you come in.
+Media:vo eqxs002 9 albedo 08.ogg Albedo: I have some research work that needs settling, so we will have to work separately for now. Let's meet up again near the broken bridge.
+Media:vo eqxs002 9 paimon 01.ogg Paimon: So, how did it feel?
+Media:vo eqxs002 9 paimon 02.ogg Paimon: Holy moly, that sounds amazing!
+Media:vo eqxs002 9 paimon 03.ogg Paimon: Guess story-time's become work—time...

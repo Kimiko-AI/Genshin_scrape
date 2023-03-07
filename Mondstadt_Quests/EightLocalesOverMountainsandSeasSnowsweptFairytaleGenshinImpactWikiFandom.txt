@@ -1,0 +1,226 @@
+
+Paimon: Aw, come on!
+
+Paimon: Dragonspine really is cold, though. When we were last trying to reach the summit, Paimon was so cold that her brain almost stopped working...
+Paimon: But the view's great, though! Since we can see this place from Mt. Yougou, we could probably see Mt. Yougou from Dragonspine's summit, too!
+Paimon: And Starglow Cavern's really deep, too. Maybe we might find some never-before-seen treasure in there...
+
+Paimon: Dragonspine's freezing, but unlike other places in Mondstadt, the air here is very refreshing. Really good for clearing our heads!
+Paimon: There's a lot of places here that we haven't been to, too.
+Paimon: If we've got a chance in the future, (Traveler), we should go further into Dragonspine — we might find some treasure long-buried beneath the ice!
+
+Paimon: Hmm, even though we managed to raise that huge pillar on the mountaintop...
+Paimon: D—Dragonspine is just... super c—cold no matter how many times we come here... Ugh...
+"Kichiboushi": Mmhaha! White Fur weak.
+Paimon: What!?
+
+Paimon: Ugh...
+Paimon: D—Dragonspine is super c—cold no matter how many times we come here... Ugh...
+"Kichiboushi": Mmhaha! White Fur weak.
+Paimon: Eh!?
+
+Paimon: What!?
+ (You explain the concept of a photo to Kichiboushi!)
+ Also, it's not (Uncle/Aunt). It's Big (Bro/Sis).
+ As long as you're having fun.
+"Kichiboushi": Yellow Fur very strong. Kapow — big and round thing gone.
+ That's because I train regularly, you know?
+"Kichiboushi": Mm! Kichiboushi, become strong like Yellow Fur!
+"Kichiboushi": Train, train, and train. Strong-strong!
+ What do you plan to do once you become stronger, Kichiboushi?
+"Kichiboushi": Get back at Gyouban Koban, mmhaha!
+"Kichiboushi": Then make Ioroi not stone.
+ Good luck. As for your training route, just leave it to us.
+"Kichiboushi": Mm!
+ Cryo, most likely.
+Paimon: Eh? If that's the case, the Cryo elements within the snow must be making this place colder...
+"Kichiboushi": C—Cold. So much snow.
+ Don't hurt your head, now.
+ Don't laugh at people, Kichiboushi.
+ Good Kichiboushi! You get a gold star!
+ Good idea.
+ Good luck. As for your training route, just leave it to us.
+ Human magic's pretty impressive, eh?
+Ioroi: Oohhh... How could this be...
+Paimon: Oh, come on, stop picking on Ioroi already. That's a "photo," and it's a kind of drawing. Look over there. Kichiboushi's fine, isn't he?
+ Hydro, I think.
+Paimon: Hmm. If that's the case, the Hydro elements must've frozen and become snow because the place is too cold.
+"Kichiboushi": C—Cold. So much snow.
+ I've beaten one even larger than this.
+ If you run into any danger...
+ Just holler "there's treasure"!
+ It might be a bake-danuki ability of some sort.
+ It went quite smoothly, not to worry.
+ It's been tiring business.
+Paimon: But it's also really fun. And we got to revisit places we went to before, too.
+ It's only good if everyone can laugh together.
+ It's probably Kaeya's fault.
+Paimon: "Don't get frostbite."
+Paimon: Still, Paimon doubts that Kaeya's that strong.
+"Kichiboushi": Mm?
+ Just holler "there's treasure"!
+ Kichiboushi seems pretty happy.
+ Let's have fun then. See you later.
+"Kichiboushi": Yey!
+ Looks like the two of you will get along well, Paimon.
+ Not afraid of the cold, Kichiboushi?
+ Paimon's gotta eat, so I've gotta hunt.
+Paimon: Now that's just rude!
+ Quest DescriptionYou agreed to Ioroi's request to "bring Kichiboushi out to train."Your first stop is Dragonspine, which Ioroi once saw on the ocean's far side from atop Mt. Yougou.
+ Step Description"Very big, very cold, very round.""The Great Snowboar King is very strong... but very delicious."
+ Take your time, Paimon.
+ That was a bit more comprehensible than "Squelch squelch Lavender Melon"...
+ That was even harder than "Lavender Melon Kapow"...
+"Kichiboushi": Hehe, Lavender Melon Kapow.
+Paimon: What is that even supposed to mean!?
+ That's because I train regularly, you know?
+ This is a photo, and it's a kind of drawing.
+Paimon: Exactly. Look, Kichiboushi's just fine.
+ Traveling with Kichiboushi's been pretty fun.
+ Well, no need to force yourself either.
+ What do you plan to do once you become stronger, Kichiboushi?
+"Kichiboushi":  Eee—! So big! So cold! And sooo round!
+"Kichiboushi": "Snow"? Things fall from Sacred Sakura... "Sakurafubuki"... Snow?
+"Kichiboushi": Become human things, can play with humans.
+"Kichiboushi": B—but very fun. White everywhere.
+"Kichiboushi": Creatures...
+"Kichiboushi": C—Cold. So much snow.
+"Kichiboushi": Difficult to remember. Bothersome, White Fur and Yellow Fur.
+"Kichiboushi": Eight tatami Kapow.
+"Kichiboushi": Get back at Gyouban Koban, mmhaha!
+"Kichiboushi": Go! Go!
+"Kichiboushi": Gold star! Yey!
+"Kichiboushi": Hehe, Lavender Melon Kapow.
+"Kichiboushi": Hot, hot! But fun!
+"Kichiboushi": It's v—very cold. Very very cold.
+"Kichiboushi": Kichiboushi stop laughing. Only laugh together good.
+"Kichiboushi": Kichiboushi, flip-flap, kapow!
+"Kichiboushi": Kichiboushi, want play in snow!
+"Kichiboushi": Laughing, not good?
+"Kichiboushi": Mm!
+"Kichiboushi": Mm! Kichiboushi, become strong like Yellow Fur!
+"Kichiboushi": Mm! Snow cold, but very fun.
+"Kichiboushi": Mm! Snow! Cold! So cold!
+"Kichiboushi": Mm! Training is fun!
+"Kichiboushi": Mm.
+"Kichiboushi": Mm. Snow mountain fun! Go, go!
+"Kichiboushi": Mm?
+"Kichiboushi": Mm? Kichiboushi, me. Only one.
+"Kichiboushi": Mmhaha! White Fur weak.
+"Kichiboushi": Mmhaha. Stupid.
+"Kichiboushi": Mmhahaha! Slow, slow, weak!
+"Kichiboushi": Mountain with snow to be cold? Or the cold mountain has snow?
+"Kichiboushi": Oh. Strange.
+"Kichiboushi": Or else, humans not play with Kichiboushi.
+"Kichiboushi": Sealed?
+"Kichiboushi": Snow mountain has bake-danuki? But no smell.
+"Kichiboushi": So it's artwork! White Fur silly. Mmhaha!
+"Kichiboushi": Stubborn. Mm!
+"Kichiboushi": Then make Ioroi not stone.
+"Kichiboushi": This, just like Kichiboushi. Hehe.
+"Kichiboushi": Train, train, and train. Strong-strong!
+"Kichiboushi": Treasure! Treasure, good thing!
+"Kichiboushi": Understand. Sorry, (Uncle/Aunt) Yellow Fur.
+"Kichiboushi": White Fur and Yellow Fur, not have?
+"Kichiboushi": White Fur flip-flap, Yellow Fur flip-flap. So White Fur and Yellow Fur, having.
+"Kichiboushi": White Fur, strange. Okay.
+"Kichiboushi": Yellow Fur very strong. Kapow — big and round thing gone.
+"Kichiboushi": Yellow Fur, powerful. Very, very strong!
+"Kichiboushi": Yey!
+"Kichiboushi": Yey! Play!
+"Kichiboushi": ?
+"Kichiboushi: Mountain, there!
+Ioroi: ...Ooh! I understand! It's magic, isn't it? Hahaha, much progress have you made in so short a time, Kichiboushi!
+Ioroi: Ah, but am I not the world-renowned king of bake-danuki? Of course I knew what this "Kimera" was! I was merely testing Kichiboushi!
+Ioroi: Ahem. Well, whatever the case, it appears that Kichiboushi's training proceeds most well indeed.
+Ioroi: Ahhh! Kichiboushi! Why is Kichiboushi sealed upon this vellum?
+Ioroi: Eh? Two Kichiboushis... But how? What magic is this?
+Ioroi: Is... Is this a Hell Painting? How comes it into your hands? How?
+Ioroi: Kichiboushi presently only has about half of mine stature in those days. So, perhaps eight places shall do for his training regimen.
+Ioroi: Mm, good, good. Then I leave the rest to you.
+Ioroi: Ooh, you've returned! Nothing hurt withall? No colds caught? Not hungry, I hope?
+Ioroi: Oohhh... How could this be...
+Ioroi: Take this child to see the outside world. That which I cannot do myself, I leave to you.
+Ioroi: That I shall.
+Ioroi: Thus, I shall let you decide where he shall go.
+Ioroi: When I was yet a young tanuki, I once traveled to 18 sacred sites, treading the tanuki paths as I went — that was how I became the mighty lord of bake-danuki.
+Ioroi: You are unlike other humans. You treat us tanuki well, as good people should. And you are quite sturdy for humans, too. Kichiboushi will learn much by traveling with you.
+Kichiboushi creates what seems to be an airbag.Using its powers of flotation and the chilling winds of Dragonspine, he floats to the other side of the cliff.
+Kichiboushi: Mm!
+Paimon:  Eek! Looks like we've startled something huge!
+Paimon:  Why the emphasis on "round"? Nevermind! Hide somewhere quick, Kichiboushi! Leave this to (Traveler)!
+Paimon: "Don't get frostbite."
+Paimon: ...
+Paimon: ...Whoa, what in the world was that?
+Paimon: Ah yes, we've brought a souvenir with us, too!
+Paimon: Alrighty then! Stay right there, Kichiboushi!
+Paimon: And Starglow Cavern's really deep, too. Maybe we might find some never-before-seen treasure in there...
+Paimon: Argh, this guy isn't cute at all!
+Paimon: Aw, come on!
+Paimon: But it's also really fun. And we got to revisit places we went to before, too.
+Paimon: But the view's great, though! Since we can see this place from Mt. Yougou, we could probably see Mt. Yougou from Dragonspine's summit, too!
+Paimon: But there's a cliff ahead of us right now. Would you like us to carry you over?
+Paimon: Come on! Why'd you call Paimon weak, then?
+Paimon: Creatures... You mean these Snowboars?
+Paimon: Don't be ridiculous!
+Paimon: Don't you worry, Ioroi. Leave Kichiboushi to us!
+Paimon: Don't you worry, Kichiboushi! (Traveler) and Paimon will play with you!
+Paimon: Dragonspine really is cold, though. When we were last trying to reach the summit, Paimon was so cold that her brain almost stopped working...
+Paimon: Dragonspine's freezing, but unlike other places in Mondstadt, the air here is very refreshing. Really good for clearing our heads!
+Paimon: D—Dragonspine is just... super c—cold no matter how many times we come here... Ugh...
+Paimon: D—Dragonspine is super c—cold no matter how many times we come here... Ugh...
+Paimon: Eh!?
+Paimon: Eh?
+Paimon: Eh? If that's the case, the Cryo elements within the snow must be making this place colder...
+Paimon: Eh? Nearby? Huh…
+Paimon: Eh? You're not done playing? Hey, Kichiboushi, be careful!
+Paimon: Exactly. Look, Kichiboushi's just fine.
+Paimon: Feels like it should be nine places, but whatever... Where should we bring Kichiboushi next?
+Paimon: Grr...
+Paimon: He transformed! Guess he's more adaptable than expected, huh?
+Paimon: Hehe, well, there's no good life or food without treasure! Kichiboushi's pretty smart, huh?
+Paimon: Hehe, well, we never know when you'll come around here again, so it would be nice to leave a memory of your trip! It'll also help us prove to Ioroi that we did take you traveling!
+Paimon: Hey, don't catch a cold now!
+Paimon: Hmm, even though we managed to raise that huge pillar on the mountaintop...
+Paimon: Hmm, how should we put it? Laughing's good, yeah, but laughing at other people isn't.
+Paimon: Hmm, speaking of which, do you wanna take a picture of Kichiboushi here, (Traveler)?
+Paimon: Hmm. If that's the case, the Hydro elements must've frozen and become snow because the place is too cold.
+Paimon: Hmm... What places should we visit...
+Paimon: Huh, but Paimon didn't expect that you knew of sakurafubuki, Kichiboushi. Guess that's the bake-danuki of Inazuma for you, huh.
+Paimon: Huh, but it was either Gyoubu Koban or Shousei who turned into a torch the previous time. Do you tanuki enjoy turning into torches?
+Paimon: If we've got a chance in the future, (Traveler), we should go further into Dragonspine — we might find some treasure long-buried beneath the ice!
+Paimon: Mm, we'll talk again once Paimon's figured this all out! For now, Paimon's kinda hungry.
+Paimon: Mm... Then let's stop here for now. You're tired too, aren't you, Kichiboushi?
+Paimon: No, no. Snow is the super cold stuff around Dragonspine.
+Paimon: Now that's just rude!
+Paimon: Oh, come on, stop picking on Ioroi already. That's a "photo," and it's a kind of drawing. Look over there. Kichiboushi's fine, isn't he?
+Paimon: Oh, right! Did the picture come out okay?
+Paimon: Ooh, sounds good! Don't worry, leave this to us! Let Paimon think...
+Paimon: Paimon's name is Paimon, and Big (Bro/Sis) Yellow Fur is (Traveler). You've got to remember that, Kichiboushi!
+Paimon: Phew, that's over! Are you okay, Kichiboushi?
+Paimon: So this is bake-danuki magic, huh? Ohh, we're not losing to him!
+Paimon: Still, Paimon doubts that Kaeya's that strong.
+Paimon: Still, what was that trick Kichiboushi used? One moment he created that balloon with a "swoosh," and then "swish," he went floating right over. It looked pretty cool!
+Paimon: That let's go back and report to Ioroi, shall we? He did seem pretty worried about this whole thing.
+Paimon: Then let's go! Next stop, Dragonspine. "If there's a mountain, we shall climb it!"
+Paimon: There's a lot of places here that we haven't been to, too.
+Paimon: This is you, Kichiboushi.
+Paimon: Ugh, did he transform into something else?
+Paimon: Ugh. This is kinda annoying, but Paimon doesn't know how to refute him either...
+Paimon: Ugh...
+Paimon: Ugh... Let us explain, would you?
+Paimon: Um, that's a good question, actually. What do you think snow's actually made of, (Traveler)?
+Paimon: Um, that's not quite it. Dragonspine doesn't have any bake-danuki. This is just you, Kichiboushi?
+Paimon: We should probably ask someone knowledgeable like Lisa about this stuff in the future.
+Paimon: Well, Paimon wouldn't say no to some food...
+Paimon: Well, no. Just trapped in ice, y'know? Dragonspine is a super cold place, after all.
+Paimon: Well, this isn't you, Kichiboushi.
+Paimon: What in the world is that? Ugh, Paimon's not really getting Kichiboushi again.
+Paimon: What is that even supposed to mean!?
+Paimon: What!?
+Paimon: White... Oh, you mean the snow!
+Paimon: Whoa, it really ran off super fast! Come on, (Traveler), after it!
+Paimon: W—Well, you're not wrong...
+You show Ioroi the picture of Kichiboushi on Dragonspine.
+You show Kichiboushi and Paimon the picture you just took.
+You spend a bit more time explaining how photos work to Ioroi.

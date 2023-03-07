@@ -1,0 +1,40 @@
+ Count on me to help you?
+ I've done what you wanted, as promised.
+ I've fulfilled your request.
+ It's a nice weapon.
+ It's no good.
+ Now you can take the sword back.
+ Quest DescriptionAfter a long battle, the sword that has, at last, completed its growth has a new place to be.
+ Really?
+ Same old.
+ You don't need it anymore?
+Media:vo eqxs005 2 albedo 01.ogg Albedo: Traveler, Paimon, welcome back.
+Media:vo eqxs005 2 albedo 02.ogg Albedo: Thank you so much. I knew I could count on you.
+Media:vo eqxs005 2 albedo 03.ogg Albedo: Naturally, you were crucial to my research.
+Media:vo eqxs005 2 albedo 04.ogg Albedo: I'll never forget your kindness.
+Media:vo eqxs005 2 albedo 05.ogg Albedo: More or less... but tell me... How do you feel?
+Media:vo eqxs005 2 albedo 06.ogg Albedo: Good. There's no side effects, no corruption or poison.
+Media:vo eqxs005 2 albedo 07.ogg Albedo: Looks like... I've been correct all along.
+Media:vo eqxs005 2 albedo 08.ogg Albedo: How do you like the sword?
+Media:vo eqxs005 2 albedo 09.ogg Albedo: Is that so? Regardless, it's reached the desired state.
+Media:vo eqxs005 2 albedo 10.ogg Albedo: I want to extract the purified life force from within it.
+Media:vo eqxs005 2 albedo 11.ogg Albedo: What's impossible for some... might be just within my reach.
+Media:vo eqxs005 2 albedo 12.ogg Albedo:  ...All done.
+Media:vo eqxs005 2 albedo 13.ogg Albedo: This sword might not be a divine weapon...
+Media:vo eqxs005 2 albedo 14.ogg Albedo: But it'll make a fine memento. I hope it can be of some help during your travels.
+Media:vo eqxs005 2 albedo 15.ogg Albedo: I needed it for the sake of my research. I've already obtained the results of the experiment. This sword belongs to you, a person who knows how to use it.
+Media:vo eqxs005 2 albedo 16.ogg Albedo: Thank you for your assistance with completing this research. Well then, goodbye.
+Media:vo eqxs005 2 albedo 17.ogg Albedo: This dragon's life force resonates with me...
+Media:vo eqxs005 2 albedo 18.ogg Albedo: Not because it's a dragon, but because I am... me.
+Media:vo eqxs005 2 albedo 19.ogg Albedo: Rhinedottir... Master... Is this your creation, the giant dragon Durin?
+Media:vo eqxs005 2 albedo 20.ogg Albedo: ...
+Media:vo eqxs005 2 albedo 21.ogg Albedo: Was the two of us meeting really a good thing?
+Media:vo eqxs005 2 paimon 01.ogg Paimon: We're back! It's us again!
+Media:vo eqxs005 2 paimon 02.ogg Paimon: Paimon's already used to meeting Albedo like that.
+Media:vo eqxs005 2 paimon 03.ogg Paimon: Ehehe, glad to hear that~
+Media:vo eqxs005 2 paimon 04.ogg Paimon: Should be powerful enough, right?
+Media:vo eqxs005 2 paimon 05.ogg Paimon: This guy, pretending to be a prophet!
+Media:vo eqxs005 2 paimon 06.ogg Paimon: Why are you holding the sword? Albedo, what're you trying to do? Don't mess around!
+Media:vo eqxs005 2 paimon 07.ogg Paimon: Can this force exist outside of the sword?
+Media:vo eqxs005 2 paimon 08.ogg Paimon: Wow, this energy looks like a ball of light...
+Media:vo eqxs005 2 paimon 09.ogg Paimon: Ah! You put it into a mysterious bottle!

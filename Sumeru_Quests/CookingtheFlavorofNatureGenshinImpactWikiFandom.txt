@@ -1,0 +1,138 @@
+ *chew forcefully*
+ *swallow forcefully*
+ It's edible. If you try hard enough.
+ At least it isn't poisonous.
+ It's a little too early for me to have something like this.
+ *swallow forcefully*
+ It's edible. If you try hard enough.
+ At least it isn't poisonous.
+ It's a little too early for me to have something like this.
+ ...
+ And we witnessed the outcome of it.
+ Arasaka, Arapas, and Araphala.
+ At least it isn't poisonous.
+ Barely broke a sweat.
+ Barely got out alive.
+ Grateful? Why?
+ I'm (Traveler).
+ It depends on what the time was used for.
+Paimon: Well... that's true. Two whole days of whimpering is very long, but two whole days in a forest boar's life is very short.
+Arachatora: Really? So it's a very long time...
+ It's a little too early for me to have something like this.
+ It's edible. If you try hard enough.
+ Long, I suppose.
+Paimon: Uh-huh, Paimon can't imagine how Arachatora whimpered for two days straight.
+Arachatora: Really? So it's a very long time...
+ Perhaps it's different for Aranara...
+ Short, I suppose.
+Paimon: Hmm... True. Come to think of it, we've known each other for a long time, but it feels like we met just yesterday.
+Arachatora: Really? That's relieving. So losing control for two days in the forest isn't very long.
+Paimon: That's not what we meant!
+ So you split apart, right?
+ Step DescriptionHelp Arachatora get the "Head Mushroom" to complete the "Supreme Delicacy."
+ Step DescriptionYou received a commission from Arapacati in Vanarana to help look for her brothers who are practicing cooking. Do as Arapacati says and look for the rising pillars of smoke.
+ The whimpering.
+ Time is subjective and meaningless.
+Arachatora: Yes, Nara (Traveler), you understand the principles of the forest well. To the forest, life is born, life grows, and life returns to the earth... All these don't need such concept as a "day."
+Paimon: You're not making much sense to Paimon...
+ We did give Arapacati our word.
+ You're just doing it for the food.
+Paimon: We're killing two birds with one stone! What's wrong with that?
+???: *cough* I'm sorry that Nara had to see me in such a messy state.
+???: *whimper*
+???: Aah! It's Nara.
+Arachatora immediately starts cooking...The fresh aroma of the mushroom bursts out from the pot.
+Arachatora: ...It's done. My cooking training has finally been completed successfully. What do you think? I'm sure it's the best delicacy to a Nara.
+Arachatora: After I found the Head Mushroom, I took in its aroma and touched its cap every time I passed by. I imagined how good it would taste once it was all grown up.
+Arachatora: Ah, two days. I see, so that's what a day means. You Nara are really interesting. Are two days long or short?
+Arachatora: Ahh! The Head Mushroom I've always been dreaming about.
+Arachatora: Alright, it's in the cave ahead. Please come with me.
+Arachatora: Anyway, we decided to complete our own dishes and compete with each other later.
+Arachatora: Arapacati, Arasaka, Arapas, and Araphala will be grateful too. Nara (Traveler), you're a good Nara.
+Arachatora: As for the others... Arasaka, Arapas, and Araphala are around Gandharva Ville, Apam Woods, and Devantaka Mountain.
+Arachatora: Because by helping me, you've given them a chance to taste the Head Mushroom.
+Arachatora: But it's for my cooking training, so keeping my fear at bay and controlling the temperature of the flames is also a part of my training.
+Arachatora: Cooking it into a delicious dish for Nara Varuna is the final goal of my cooking training.
+Arachatora: Festival Utsava is coming again... What should I do...
+Arachatora: Head Mushroom, would you still be the same without your sweet scent?
+Arachatora: Hmm... I've decided to give you my Supreme Delicacy's recipe. Perhaps you'll grow fond of its taste as you age.
+Arachatora: Hmm... probably?
+Arachatora: How could this be? When I served it to the other Nara from before, (she/he) said it was good.
+Arachatora: How embarrassing...
+Arachatora: Huh?
+Arachatora: I haven't had the most important cooking ingredient yet. Festival Utsava should be the best time to prove the greatness of mushroom dishes to Arasaka, Arapas, and Araphala.
+Arachatora: I served my mushroom dish to a Nara some time ago, and because it was so good, (she/he) swallowed it with so much vigor.
+Arachatora: I'm ashamed to admit that something like this happened once before because of bad mushrooms. The Nilotpala Lotuses in the water bloomed and closed, twice, before I recovered.
+Arachatora: I'm so happy that I was able to gather the Head Mushroom, complete my cooking training, and get to know a strong and reliable Nara.
+Arachatora: I'm so lucky to have met both of you.
+Arachatora: It should be fine.
+Arachatora: It's the smell of a fully matured Head Mushroom. It's richer than ever.
+Arachatora: Its withering claws have probably taken the precious mushroom there. I'm sure you're aware how very, very dangerous Marana's territory is.
+Arachatora: Kind Nara, I'm Arachatora. You are?
+Arachatora: Marana has been spreading rapidly. Even the Head Mushroom's habitat has been taken over.
+Arachatora: Nara (Traveler) and Paimon, I see. Thank you so much. If fate hadn't brought us together, it would have taken me much longer to recover.
+Arachatora: Nope.
+Arachatora: Of course it's scary. Forest fires sometimes raze entire forests until only barren ground remains.
+Arachatora: Of course. Putting aside how you've helped me, serving the most delicious mushroom dish to Nara again has always been the goal of my cooking training.
+Arachatora: Oh, don't worry about that... Anyway, I don't know how to repay you for all the help you've given me...
+Arachatora: Oh, how did you know? Arapacati is my "younger sister."
+Arachatora: Oh, just like every Aranara grows different leaves, the taste of the mushroom may not suit all Nara.
+Arachatora: Really? So it's a very long time...
+Arachatora: Really? That's relieving. So losing control for two days in the forest isn't very long.
+Arachatora: So, I want to ask Nara (Traveler) to come with me to the Head Mushroom's habitat.
+Arachatora: So, you grew well even when Marana took over your habitat. You're amazing.
+Arachatora: Thank you. Golden Nara (Traveler) is dazzling like the sun, and Paimon is quite amazing, too. I'll leave my sister's request to you.
+Arachatora: The Head Mushroom is a head of mushroom.
+Arachatora: The Head Mushroom is over there! And it looks fine, too!
+Arachatora: The aura of The Withering is growing stronger. It feels horrible. I hope the Head Mushroom is fine...
+Arachatora: We drifted apart on our paths of training, just like a river branches into streams.
+Arachatora: We train to cook the supreme delicacy, but they refuse to acknowledge mushroom dishes — how could they not see that the Head Mushroom is unmatched!
+Arachatora: Well, it does make sense. Since Nara (Traveler) could heal me with the power of Lesser Lord Kusanali, then removing the effect of Marana shouldn't be a problem.
+Arachatora: Whoa, unbelievable! You can fight Marana.
+Arachatora: Without the Head Mushroom, I could only try the strange mushroom that no Aranara has ever tasted before.
+Arachatora: Yes, I'll head back to Vanarana immediately. I can't keep my precious sister worrying about me.
+Arachatora: Yes, Nara (Traveler), you understand the principles of the forest well. To the forest, life is born, life grows, and life returns to the earth... All these don't need such concept as a "day."
+Head Mushroom: (It does look a little larger than a normal Shroom-Kin. It's best to pick it later once the Withering Zone has been eliminated...)
+Once it's ready, Arachatora serves it to you and Paimon.Should it be considered disappointing? Or conforming to expectations? Because it's tasteless.Besides that, it's filled with vitality and too tough to the point of being difficult to chew.
+Paimon: ((Traveler), if Paimon modifies this recipe a little, it should be able to become a pretty good original dish!)
+(Obtain Recipe: Mushroom Hodgepodge)
+Paimon: (Traveler), let's neutralize the The Withering Zone! For the Mushroom!
+Paimon: *nom nom* *gulp* Uh... how should Paimon put this...
+Paimon: ...
+Paimon: Ah, the Withering Zone... Paimon hopes Rana is doing okay.
+Paimon: Ahhh! Aranara names are so difficult! Arachatora, where're your brothers?
+Paimon: And Paimon's name is Paimon!
+Paimon: And?
+Paimon: Anyway, let us bring you up to speed...
+Paimon: Anyway, let's get out!
+Paimon: Bloomed and closed... Doesn't that take two days!?
+Paimon: But if you're Arachatora... Aren't you related to Arapacati?
+Paimon: From before?
+Paimon: Hehe... This mushroom does smell really good.
+Paimon: Hey, that Aranara... According to Arapacati, we should splat him with the power of Dendro!
+Paimon: Hey, what's so special about the Head Mushroom anyway?
+Paimon: Hmm... It's a very fragrant mushroom indeed, but its texture and taste don't really suit us.
+Paimon: Hmm... True. Come to think of it, we've known each other for a long time, but it feels like we met just yesterday.
+Paimon: Hmm... What do you think, (Traveler)? Is it long or short?
+Paimon: How long is a little longer?
+Paimon: Huh? But... You're Arapacati's older brother, right?
+Paimon: Huh? What do you mean by probably?
+Paimon: Is that the Head Mushroom?
+Paimon: It's our chance to taste an extremely delicious mushroom dish! (Traveler), let's help him, so that these siblings can get back together!
+Paimon: Now that Paimon thinks about it, The Withering... Uh, Marana... We've dealt with it before, right?
+Paimon: Oh yeah! Head Mushroom!
+Paimon: Oh, Paimon totally understands the pursuit of delicious food!
+Paimon: Paimon is confused...
+Paimon: Right... Speaking of leaves... Are Aranara not afraid of fire? You look like you're covered in leaves...
+Paimon: So that's how it is... Anyway, guess it's time to go back. Arapacati is waiting for you guys!
+Paimon: So, Aras... spa... ara...
+Paimon: So, where's your Head Mushroom?
+Paimon: That's not what we meant!
+Paimon: Uh, so... Can we taste it?
+Paimon: Uh-huh, Paimon can't imagine how Arachatora whimpered for two days straight.
+Paimon: We're killing two birds with one stone! What's wrong with that?
+Paimon: Well... that's true. Two whole days of whimpering is very long, but two whole days in a forest boar's life is very short.
+Paimon: What difference does that make? Oh, Paimon knows! It's a mushroom the size of a head, right?
+Paimon: Why is Paimon only quite amazing!?
+Paimon: You're not making much sense to Paimon...
+You bring Arachatora up to speed on the events so far...

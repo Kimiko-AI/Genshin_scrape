@@ -1,0 +1,37 @@
+ Are they really just for decoration?
+ Browse items.
+(After browsing the items for sale)
+ I daren't ask about the price!
+ I feel like you're making this sound more mysterious than it actually is.
+Media:vo tips anemosigil paimon 05b.ogg Paimon: But it's working... Paimon's curious now!
+Media:vo tips anemosigil marjorie 13b.ogg Marjorie: Haha! Well it wouldn't be much of a surprise if I gave everything away, now would it?
+ I have a few.
+Media:vo tips anemosigil marjorie 07a.ogg Marjorie: Haha, it seems the Anemo Archon approves of your adventures then.
+ It's all so exquisite...
+ Let me see it when it's finished.
+Media:vo tips anemosigil marjorie 13a.ogg Marjorie: Haha, of course! I guarantee you will be quite surprised at the result.
+ Quest DescriptionPaimon has discovered a very unique store...
+ What are those?
+Media:vo tips anemosigil marjorie 07b.ogg Marjorie: It's like a seal or emblem that the Anemo Archon gives to adventurers as a form of acknowledgment.
+Media:vo tips anemosigil marjorie 01.ogg Marjorie: Welcome. Every treasure here is unique, guaranteed.
+Media:vo tips anemosigil marjorie 02.ogg Marjorie: Haha, what did I tell you! These are all rare items brought back by adventurers from all corners of the world.
+Media:vo tips anemosigil marjorie 03.ogg Marjorie: Is there anything that catches your eye?
+Media:vo tips anemosigil marjorie 04.ogg Marjorie: No need! I forgot to mention, I operate on a trading basis. Goods for goods — no Mora accepted here.
+Media:vo tips anemosigil marjorie 05.ogg Marjorie: I've been trying to make something a bit special recently, and I need a lot of Anemo Sigils to decorate it with.
+Media:vo tips anemosigil marjorie 06.ogg Marjorie: Do you have any Anemo Sigils with you?
+Media:vo tips anemosigil marjorie 07a.ogg Marjorie: Haha, it seems the Anemo Archon approves of your adventures then.
+Media:vo tips anemosigil marjorie 07b.ogg Marjorie: It's like a seal or emblem that the Anemo Archon gives to adventurers as a form of acknowledgment.
+Media:vo tips anemosigil marjorie 08.ogg Marjorie: More to the point, any Anemo Sigils you find you can trade in here for items in the shop.
+Media:vo tips anemosigil marjorie 09.ogg Marjorie: Anemo Sigils appear all over Mondstadt. If you find yourself short, just keep exploring.
+Media:vo tips anemosigil marjorie 10.ogg Marjorie: Haha, okay, you got me.
+Media:vo tips anemosigil marjorie 11.ogg Marjorie: It's actually more complicated than that, but it's easier for people to understand if I just say it's for decoration.
+Media:vo tips anemosigil marjorie 12.ogg Marjorie: Obviously the reason I need Anemo Sigils is because they have properties that other materials cannot provide.
+Media:vo tips anemosigil marjorie 13a.ogg Marjorie: Haha, of course! I guarantee you will be quite surprised at the result.
+Media:vo tips anemosigil marjorie 13b.ogg Marjorie: Haha! Well it wouldn't be much of a surprise if I gave everything away, now would it?
+Media:vo tips anemosigil marjorie 14.ogg Marjorie: Do come again soon — and bring me lots and lots of Anemo Sigils next time!
+Media:vo tips anemosigil marjorie 15.ogg Marjorie: Please also visit if you come across any weird and wonderful treasures on your adventures!
+Media:vo tips anemosigil paimon 01.ogg Paimon: Look! Doesn't that shop look interesting?
+Media:vo tips anemosigil paimon 02.ogg Paimon: Let's see what they're selling!
+Media:vo tips anemosigil paimon 03.ogg Paimon: Hehe... Yep, there's nothing here that Paimon recognizes, that's for sure.
+Media:vo tips anemosigil paimon 04.ogg Paimon: Absolutely! What could be more beautiful than a gift from the Anemo Archon?
+Media:vo tips anemosigil paimon 05b.ogg Paimon: But it's working... Paimon's curious now!

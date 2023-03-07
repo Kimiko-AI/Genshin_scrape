@@ -1,0 +1,27 @@
+ Are you still working on your ship design?
+ Okay, let's get this done.
+ Quest DescriptionRafiq has learned some lessons from his previous tests...
+ We'll do this together.
+Paimon: Hmm... There are a few pieces more here. Maybe we should move 'em back as well.
+Paimon: That's three already, should be enough, right?
+Qishan: (He's finally willing to take my advice.)
+Qishan: If you go with this design, there won't be much of a difference from the one before.
+Qishan: Oh, have some trust in me... These will suffice.
+Qishan: Talking Rafiq into spending more Mora is actually harder than getting my boss to give me a raise.
+Qishan: Trust me. They'll do better than the ones you picked before.
+Rafiq: (*sigh* It wouldn't hurt to be more prudent...)
+Rafiq: Ah, it's the Traveler. Yes, Qishan and I have discussed some... key aspects of the design since our last trial.
+Rafiq: As you can see, Traveler, I can't move all these alone. Qishan isn't strong enough either, so could you...
+Rafiq: Aye, these materials should do. Please take your payment.
+Rafiq: But I followed Qishan's advice this time! I bought a bunch of solid materials. Cost me a fortune, too!
+Rafiq: But we still had some divergence regarding the use of materials.
+Rafiq: I knew I could count on you! Let's get rolling.
+Rafiq: I've got bigger rewards for you this time as well. Thanks for your help.
+Rafiq: If we increase the strength here, we'll have to...
+Rafiq: Qishan hand-picked the materials herself. I believe that things will work out this time.
+Rafiq: So? Have you finished moving the materials over?
+(Submit Rafiq's Shipbuilding Materials ×3)
+Rafiq: The materials that Qishan chose are really light... Are they really reliable?
+Rafiq: We had a... full exchange of opinions, and are trying to work out a new design.
+Rafiq: Well, guess it's your turn to prepare life jackets for me...
+Rafiq: Well, now my budget has really been spent out...

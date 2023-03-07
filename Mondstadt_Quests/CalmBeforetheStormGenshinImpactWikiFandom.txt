@@ -1,0 +1,42 @@
+ ..."Last time"?
+ Amber...
+ I knew it! It was YOUR voice I heard.
+ Quest DescriptionThe three seals have each been broken by you in their turn. and the path to the decisive showdown is open. You once again return to the lair's entrance to put an end to things.
+ Rest assured, I'm also completely prepared!
+ So "responsibility" is what drove Master Jean here.
+Media:vo mdaq068 3 paimon 04b 1.ogg Paimon: As for Master Diluc... "trust" perhaps?
+Media:vo mdaq068 3 paimon 04b 2.ogg Paimon: What about the Tone-Deaf Bard?
+ So "trust" is what drove Master Diluc here.
+Media:vo mdaq068 3 paimon 04a 1.ogg Paimon: As for Master Jean... "responsibility" perhaps?
+Media:vo mdaq068 3 paimon 04a 2.ogg Paimon: What about the Tone-Deaf Bard?
+ We're practically old partners now.
+ Well, we certainly have gone through quite a lot recently.
+ What about Venti?
+ You're so reliable, Master Jean.
+Media:vo mdaq068 3 diluc 01.ogg Diluc: You shared your secret with me, and I only returned your trust to the same extent.
+Media:vo mdaq068 3 paimon 01.ogg Paimon: Even Master Diluc accompanied us to the very end.
+Media:vo mdaq068 3 paimon 02.ogg Paimon: Despite only being an accidentally involved...
+Media:vo mdaq068 3 paimon 03.ogg Paimon: ...Bystander.
+Media:vo mdaq068 3 paimon 04a 1.ogg Paimon: As for Master Jean... "responsibility" perhaps?
+Media:vo mdaq068 3 paimon 04a 2.ogg Paimon: What about the Tone-Deaf Bard?
+Media:vo mdaq068 3 paimon 04b 1.ogg Paimon: As for Master Diluc... "trust" perhaps?
+Media:vo mdaq068 3 paimon 04b 2.ogg Paimon: What about the Tone-Deaf Bard?
+Media:vo mdaq068 3 paimon 05.ogg Paimon: Freedom...?
+Media:vo mdaq068 3 paimon 06.ogg Paimon: Venti...
+Media:vo mdaq068 3 paimon 07.ogg Paimon: Oh! No wonder (Traveler) said his voice sounds familiar!
+Media:vo mdaq068 3 qin 01.ogg Jean: I have loved that song since I was small.
+Media:vo mdaq068 3 qin 02.ogg Jean: How are you feeling today (Traveler)?
+Media:vo mdaq068 3 qin 03.ogg Jean: I am completely prepared and fully confident that we can do this.
+Media:vo mdaq068 3 venti 01.ogg Venti: I'm thinking about turning these adventures into songs after we're done...
+Media:vo mdaq068 3 venti 02.ogg Venti: Hopefully, this song will be sung for years to come by the people of Mondstadt, just like The Legend of Vennessa.
+Media:vo mdaq068 3 venti 03.ogg Venti: It's "freedom."
+Media:vo mdaq068 3 venti 04.ogg Venti: When you first arrived at Mondstadt, did no one tell you that Mondstadt is the City of Freedom?
+Media:vo mdaq068 3 venti 05.ogg Venti: Hahaha... She really is a child of freedom!
+Media:vo mdaq068 3 venti 06.ogg Venti: Mondstadt is a romantic city, without the reign of a king.
+Media:vo mdaq068 3 venti 07.ogg Venti: And its citizens enjoy the most freedom amongst the seven nations.
+Media:vo mdaq068 3 venti 08.ogg Venti: I hope the dragon that once protected Mondstadt will soon be free too...
+Media:vo mdaq068 3 venti 09.ogg Venti: No one should have deceived him by telling him that Mondstadt betrayed him.
+Media:vo mdaq068 3 venti 10.ogg Venti: And no one should have told him that it was his eternal duty to protect the city.
+Media:vo mdaq068 3 venti 11.ogg Venti: He has the right and freedom to choose his own way of life.
+Media:vo mdaq068 3 venti 12.ogg Venti: Well then, (Traveler), may the thousands of years of wind that have blown through Mondstadt go with you.
+Media:vo mdaq068 3 venti 13.ogg Venti: Just like the last time, I shall channel Anemo energy for you.

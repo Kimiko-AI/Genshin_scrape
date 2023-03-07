@@ -1,0 +1,173 @@
+
+(The Abyss Herald conjures a portal)
+
+(While fighting the Abyss Herald, it conjures a portal and tries to escape)
+(Dain restrains the Abyss Herald using magic, but is stopped by an attack)
+ "The Tyrant's Final Fury"!
+ (Lumine!/Aether!)
+ (We've been separated for so long...)
+ (Why are you asking about something that doesn't matter...?)
+ ...What?
+ (We've been separated for so long...)
+ (Why are you asking about something that doesn't matter...?)
+ Actually, Barbara's the deaconess...
+ Another objective for our journey.
+ By doing what, exactly?
+ Can we let the Church take care of this one?
+ Come with me, (Lumine!/Aether!) Let's go home!
+ Destiny...?
+ Hide it somewhere no one will find it.
+ Hold on a second!
+ I pretty much got it.
+ I was too focused on (Lumine/my brother) to really listen carefully.
+ I'm... not sad.
+Media:vo szaq004 6 paimon 03a.ogg Paimon: Really? You sure...?
+ I've finally found you!
+ I... I remember.
+ Let's get out of here, it's too dangerous!
+ No need.
+ No.
+ Once we get to Inazuma, we should keep that in mind as we look for more clues.
+ Put it under the guardianship of the Church of Favonius.
+ Quest DescriptionYou continue searching for "the first Field Tiller," following the information you've obtained from Barbara and the Great Wolf King of the North...
+ Stop saying things that don't make sense, (Lumine!/Aether!)
+ The Abyss Order must be stopped.
+ The ancient people of Mondstadt wouldn't have seen the fireballs for what they were...
+ The fireballs raining from the sky were probably missiles...
+ Thinking about it over and over will solve nothing.
+ We have many new questions, but few answers.
+ What an extreme and dangerous operation.
+ You can tell me all this later. Let's go home!
+ You're asking about... Dain?
+ (We've been separated for so long...)
+ (Why are you asking about something that doesn't matter...?)
+ You're right, Paimon. There is hope.
+Media:vo szaq004 6 paimon 03b.ogg Paimon: Uh-huh, that's right!
+Field Tiller: ...
+Media:vo szaq004 1 cs invokerherald 01a.ogg Media:vo szaq004 1 cs invokerherald 01b.ogg Abyss Herald: (Princess/Prince)
+Media:vo szaq004 1 dainsleif 01.ogg Dainsleif: I saw her, but purposely avoided her.
+Media:vo szaq004 1 dainsleif 02.ogg Dainsleif: As both the Lionfang Knight and Acting Grand Master, she naturally would have some reservations towards me.
+Media:vo szaq004 1 dainsleif 03.ogg Dainsleif: If I'm not careful, one day I may find myself becoming the object of one of her investigations.
+Media:vo szaq004 1 dainsleif 04.ogg Dainsleif: But back to the matter at hand... I defeated some of the Abyss forces but wasn't able to gather any information. Did you have more success?
+Media:vo szaq004 1 dainsleif 05.ogg Dainsleif: I see...
+Media:vo szaq004 1 dainsleif 06.ogg Dainsleif: Well then. We can more or less figure out where the first Field Tiller ended up.
+Media:vo szaq004 1 dainsleif 07.ogg Dainsleif: That information combined with a more comprehensive analysis.
+Media:vo szaq004 1 dainsleif 08.ogg Dainsleif: For example, the old story you told me you heard in the Cathedral...
+Media:vo szaq004 1 dainsleif 09.ogg Dainsleif: Exactly, the strange story told to you by that young sister, long mistaken to be a curse rained down by a deceased tyrant.
+Media:vo szaq004 1 dainsleif 10.ogg Dainsleif: It looks like we need to make a trip to Stormterror's Lair and comb the entire area.
+Media:vo szaq004 1 dainsleif 11.ogg Dainsleif: Hmm. What do you mean...?
+Media:vo szaq004 1 paimon 01.ogg Paimon: Dain, there you are. Did you see Master Jean?
+Media:vo szaq004 1 paimon 02.ogg Paimon: Huh? Really? Just from the Lupus Boreas story?
+Media:vo szaq004 1 paimon 03.ogg Paimon: Ah, Paimon gets it! So "The Tyrant's Final Fury" was really just missiles fired from the Field Tiller after it ran from Wolvendom!
+Media:vo szaq004 1 paimon 04.ogg Paimon: After it was damaged in the fight with the Wolf of the North, it must have wandered into the ruins of Old Mondstadt and stayed there...
+Media:vo szaq004 1 paimon 05.ogg Paimon: Then, whenever anyone got close — PEW, PEW, BOOM! It would fire a ton of missiles at them... Until one day, it finally broke down for good, and the fireballs stopped raining from the sky.
+Media:vo szaq004 1 paimon 06.ogg Paimon: Back then, the people of Mondstadt hadn't seen many Ruin Guards before, so they came to interpret it as "The Tyrant's Final Fury"!
+Media:vo szaq004 1 paimon 07.ogg Paimon: Huh? You mean...
+Media:vo szaq004 1 paimon 08.ogg Paimon: Ohh, Paimon remembers, too! We saw that abandoned Ruin Guard sitting atop the tower when we went there before! Can't forget something like that!
+Media:vo szaq004 2 cs heroine 01.ogg Media:vo szaq004 2 cs hero 01.ogg (Lumine/Aether): So we'll meet again.
+Media:vo szaq004 2 cs heroine 02.ogg Media:vo szaq004 2 cs hero 02.ogg (Lumine/Aether): Though we need not rush, (brother/sister). I have more than enough time to wait for you.
+(The traveler runs towards their sibling)
+Media:vo szaq004 2 cs heroine 03.ogg Media:vo szaq004 2 cs hero 03.ogg (Lumine/Aether): We have always... had enough time
+(The Abyss Herald and Lumine leave through the portal)
+(Dainsleif dashes into the portal to follow them)
+(The traveler reaches the portal, but phases through it as the portal closes behind the traveler)
+Media:vo szaq004 2 dainsleif 01.ogg Dainsleif: This requires another method.
+Media:vo szaq004 2 dainsleif 02.ogg Dainsleif: Using Elemental Sight on a Field Tiller is of no use because it is not powered by the elements.
+Media:vo szaq004 2 dainsleif 03.ogg Dainsleif: Let me give it a try.
+(Dainsleif conjures magic)
+Media:vo szaq004 2 dainsleif 04.ogg Dainsleif: ...And done.
+(The eye of the Field Tiller appears)
+Media:vo szaq004 2 dainsleif 05.ogg Dainsleif: The very thing the Abyss Herald has been seeking all along — the eye of the first Field Tiller.
+Media:vo szaq004 2 dainsleif 06.ogg Dainsleif: All of the Ruin Guards today are just replicas of this machine. As the prototype, its combat capability was unrestricted.
+Media:vo szaq004 2 dainsleif 07.ogg Dainsleif: As the Abyss Order has surmised, if this eye is placed in the hands of the Defiled Statue...
+Media:vo szaq004 2 dainsleif 08.ogg Dainsleif: And if the limbs of Osial, Overlord of the Vortex, are attached to the statue... there you have a mechanized god.
+Media:vo szaq004 2 dainsleif 09.ogg Dainsleif: And this newly born god will have the power to "topple the divine thrones of Celestia."
+Media:vo szaq004 2 dainsleif 10.ogg Dainsleif: Yes.
+Media:vo szaq004 2 dainsleif 11.ogg Dainsleif: No. I'll guard it myself.
+Media:vo szaq004 2 dainsleif 12.ogg Dainsleif: You may doubt me if you wish, but I must ensure it does not fall into the wrong hands.
+Media:vo szaq004 2 dainsleif 13.ogg Dainsleif: No matter where we may hide it, they will find it. And as for the Church of Favonius — well, you know I don't trust them.
+Media:vo szaq004 2 dainsleif 14.ogg Dainsleif: But our work isn't done yet. To avoid any further repercussions, we must also take care of that Defiled Statue.
+Media:vo szaq004 2 dainsleif 15.ogg Dainsleif: We can't have the Church get involved. Let's handle it ourselves. As for what I mean by take care of it... naturally, I mean to completely destroy it.
+Media:vo szaq004 2 dainsleif 16.ogg Dainsleif: Hmph... Do The Seven really expect me to help them look after what belongs to them?
+Media:vo szaq004 2 dainsleif 17.ogg Dainsleif: Let's go back to those ruins and destroy the inverted statue. If we are lucky, we will also run into that Abyss Herald.
+Media:vo szaq004 2 dainsleif 18.ogg Dainsleif: I'll make sure it doesn't get away this time.
+Media:vo szaq004 2 paimon 01.ogg Paimon: This is it, right? Okay then, use your Elemental Sight to look for the eye!
+(The Traveler uses Elemental Sight)
+Media:vo szaq004 2 paimon 02.ogg Paimon: Ooooh... So what did you see?
+Media:vo szaq004 2 paimon 03.ogg Paimon: Huh? ...Nothing? But Paimon was so excited...
+Media:vo szaq004 2 paimon 04.ogg Paimon: What's going on...? Are you sure you did it right?
+Media:vo szaq004 2 paimon 05.ogg Paimon: Wowwww! It's, it's the...!
+Media:vo szaq004 2 paimon 06.ogg Paimon: "Prototype"? ...Paimon doesn't know that word, is it another ancient term from Khaenri'ah?
+Media:vo szaq004 2 paimon 07.ogg Paimon: Th—Then... What should we do with this eye?
+Media:vo szaq004 2 paimon 08.ogg Paimon: Huh!? You!? Dain... You won't go and do anything crazy with it, will you?
+Media:vo szaq004 2 paimon 09.ogg Paimon: Oh, hehe... right...
+Media:vo szaq004 2 paimon 10.ogg Paimon: D—Destroy it!? That's a Statue of The Seven! As well as being a really important cultural relic, they're actually divine, too...
+Media:vo szaq004 2 paimon 11.ogg Paimon: Ugh, well, good thing we didn't tell Barbara earlier. Otherwise, she'd be going completely bonkers right now!
+Media:vo szaq004 3 paimon 01.ogg Paimon: So, after all that running around, we end up right back here again...
+Media:vo szaq004 3 paimon 02.ogg Paimon: Look at us... We barely escaped this place last time, and now we're strolling right back in!
+Media:vo szaq004 3 paimon 03.ogg Paimon: Gee, surely we must be some of the bravest adventurers in all of Teyvat! That or the stupidest...
+Media:vo szaq004 3 paimon 04.ogg Paimon: To get to that creepy statue...
+Media:vo szaq004 3 paimon 05.ogg Paimon: We just need to follow the path we used to escape last time. That should take us right to it...
+Media:vo szaq004 3 paimon 06.ogg Paimon: Yep! That'll work. Let's go, and remember to be on your guard.
+Media:vo szaq004 4 abyssinvoker 01.ogg Abyss Herald: Mwahaha... You sense correctly.
+Media:vo szaq004 4 abyssinvoker 02.ogg Abyss Herald: You are just as vexatious as ever, Dainsleif, enemy of the Abyss!
+Media:vo szaq004 4 abyssinvoker 03.ogg Abyss Herald: I sense your soul is stained by terrible bloodshed, perhaps from your darkest nightmares. Unless... Huh?
+Media:vo szaq004 4 abyssinvoker 04.ogg Abyss Herald: Oh, and something far more dangerous! You reek of a corruption familiar to me...
+Media:vo szaq004 4 abyssinvoker 05.ogg Abyss Herald: Then we are the same. We're both dangerous. But dangers from outside of the Abyss Order must be caught and caged...
+Media:vo szaq004 4 dainsleif 01.ogg Dainsleif: Looks like we're here.
+Media:vo szaq004 4 dainsleif 02.ogg Dainsleif: An eerie, lifeless, dark chamber... I understand the evil aura you were describing earlier.
+Media:vo szaq004 4 dainsleif 03.ogg Dainsleif: Be careful to not be overwhelmed by the power of the Defiled Statue— the Abyss Herald, it's here.
+Media:vo szaq004 4 dainsleif 04.ogg Dainsleif: Tsk.
+Media:vo szaq004 4 dainsleif 05.ogg Dainsleif: It is your words that forever reek of corruption...
+Media:vo szaq004 4 dainsleif 06.ogg Dainsleif: Time to silence you!
+Media:vo szaq004 4 paimon 01.ogg Paimon: Ohhhh... Such a scary place...
+Media:vo szaq004 5 dainsleif 01.ogg Dainsleif: (grunts)
+(It is revealed that the attacker is the Traveler's sibling)
+Media:vo szaq004 5 dainsleif 01.ogg Dainsleif: ...
+Media:vo szaq004 5 dainsleif 02a.ogg Media:vo szaq004 5 dainsleif 02b.ogg Dainsleif: (Lumine./Aether.) We meet again.
+Media:vo szaq004 5 dainsleif 03a.ogg Media:vo szaq004 5 dainsleif 03b.ogg Dainsleif: (Lumine.../Aether...)
+Media:vo szaq004 5 heroine 01.ogg Media:vo szaq004 5 hero 01.ogg (Lumine/Aether): (Aether.../Lumine...)
+Media:vo szaq004 5 heroine 02.ogg Media:vo szaq004 5 hero 02.ogg (Lumine/Aether): (Aether,/Lumine,) why are you with Dain?
+Media:vo szaq004 5 heroine 03.ogg Media:vo szaq004 5 hero 03.ogg (Lumine/Aether): You shouldn't team up with this man.
+Media:vo szaq004 5 heroine 04.ogg Media:vo szaq004 5 hero 04.ogg (Lumine/Aether): He is my enemy.
+Media:vo szaq004 5 heroine 05.ogg Media:vo szaq004 5 hero 05.ogg (Lumine/Aether): ...
+Media:vo szaq004 5 heroine 06.ogg Media:vo szaq004 5 hero 06.ogg (Lumine/Aether): But it must be said... Don't try to stop me. Don't try to stop the Abyss.
+Media:vo szaq004 5 heroine 07.ogg Media:vo szaq004 5 hero 07.ogg (Lumine/Aether): That man, Dainsleif, was the "Twilight Sword," one of the royal guards of the final dynasty of Khaenri'ah. 500 years ago, he failed to prevent the destruction of Khaenri'ah.
+Media:vo szaq004 5 heroine 08.ogg Media:vo szaq004 5 hero 08.ogg (Lumine/Aether): A curse of immortality was laid upon him, to forever wander the wilderness... while he watched the people he was supposed to protect turn into (monsters/the monsters) of the Abyss.
+Media:vo szaq004 5 heroine 09.ogg Media:vo szaq004 5 hero 09.ogg (Lumine/Aether): Home...
+Media:vo szaq004 5 heroine 10.ogg Media:vo szaq004 5 hero 10.ogg (Lumine/Aether): Yes, of course. "Home" is wherever we are together.
+Media:vo szaq004 5 heroine 11.ogg Media:vo szaq004 5 hero 11.ogg (Lumine/Aether): But I cannot go with you to the next world to find a new home... at least, not yet.
+Media:vo szaq004 5 heroine 12.ogg Media:vo szaq004 5 hero 12.ogg (Lumine/Aether): Until the Abyss has engulfed the thrones, my war with destiny will see no end...
+Media:vo szaq004 5 heroine 13.ogg Media:vo szaq004 5 hero 13.ogg (Lumine/Aether): Listen to me, (Aether./Lumine.)
+Media:vo szaq004 5 heroine 14.ogg Media:vo szaq004 5 hero 14.ogg (Lumine/Aether): I have already traveled through this world once. Once you reach the end of your journey as I did, you will see for yourself the true nature of this world.
+Media:vo szaq004 5 paimon 01.ogg Paimon: Hey, c—could that be...!?
+Media:vo szaq004 5 paimon 02a.ogg Media:vo szaq004 5 paimon 02b.ogg Paimon: W—Wait, (Traveler)... (She/He) just blocked an attack against the Abyss Herald...
+Media:vo szaq004 5 paimon 03a.ogg Media:vo szaq004 5 paimon 03b.ogg Paimon: Your (sister,/brother,) and the Abyss...
+Media:vo szaq004 5 paimon 04.ogg Paimon: Huh?
+Media:vo szaq004 5 paimon 05a.ogg Media:vo szaq004 5 paimon 05b.ogg Paimon: Your (sister.../brother...) knows Dain, (Traveler)?
+Media:vo szaq004 5 paimon 06a.ogg Media:vo szaq004 5 paimon 06b.ogg Paimon: Wh—What's going on here? Dain knows (her,/him,) too!
+Media:vo szaq004 5 paimon 07.ogg Paimon: You're saying... Dain is from Khaenri'ah!? The same Khaenri'ah that was destroyed 500 years ago!?
+Media:vo szaq004 5 paimon 08.ogg Paimon: And you said the people turned into monsters... You're trying to tell Paimon that the Abyss Order is not only related to Khaenri'ah but is actually the people of Khaenri'ah themselves!?
+Media:vo szaq004 5 paimon 09.ogg Paimon: Uh... and the whole thing about Dain being your enemy? Ohh... Paimon's so confused...
+Media:vo szaq004 6 paimon 01.ogg Paimon: They... left...
+Media:vo szaq004 6 paimon 02.ogg Paimon: Oh, don't be too sad, (Traveler)... We'll find them again! Look on the bright side, at least we got some really useful information!
+Media:vo szaq004 6 paimon 03a.ogg Paimon: Really? You sure...?
+Media:vo szaq004 6 paimon 03b.ogg Paimon: Uh-huh, that's right!
+Media:vo szaq004 6 paimon 04.ogg Paimon: At least now, as well as The Seven, Dain is also a key part of finding your sibling too, right?
+Media:vo szaq004 6 paimon 05.ogg Paimon: That's right! Um... by the way, what they said just now was all pretty confusing... Did you understand it at all?
+Media:vo szaq004 6 paimon 06.ogg Paimon: Oh... well then... let's go over it again.
+Media:vo szaq004 8 paimon 01a.ogg Media:vo szaq004 8 paimon 01b.ogg Paimon: First off, that Abyss Herald called (your sister "Princess."/your brother "Prince.")
+Media:vo szaq004 8 paimon 02a.ogg Media:vo szaq004 8 paimon 02b.ogg Paimon: It seems like your (sister/brother) is leading the Abyss Order, even the Abyss Herald answers to (her/him)... Still, we don't know for sure if (she's/he's) the highest-ranking leader in the organization.
+Media:vo szaq004 8 paimon 03a.ogg Media:vo szaq004 8 paimon 03b.ogg Paimon: Also, your (sister/brother) said that (she/he) wants to "engulf the thrones" and go to "war with destiny." What the heck does that mean? ...Could it be (that she/he) wants to destroy The Seven and the seven nations?
+Media:vo szaq004 8 paimon 04.ogg Paimon: Next thing... turns out the Abyss Order monsters are really what the people of Khaenri'ah turned into after their nation was destroyed. This story is just plain terrifying!
+Media:vo szaq004 8 paimon 05.ogg Paimon: And Dain is from Khaenri'ah, too! He witnessed its destruction 500 years ago. But... he didn't turn into a monster, and now he's fighting the Abyss Order...
+Media:vo szaq004 8 paimon 06a.ogg Media:vo szaq004 8 paimon 06b.ogg Paimon: So that's why (your sister/your brother) said that Dain is (her/his) enemy, right?
+Media:vo szaq004 8 paimon 07.ogg Paimon: But... If the monsters of the Abyss are the same people that Dain protected all those years ago, then why is he enemies with the Abyss Order now?
+Media:vo szaq004 8 paimon 08a.ogg Media:vo szaq004 8 paimon 08b.ogg Paimon: Also, how come... after all this time we've spent searching for (your sister/your brother), it turns out (she's/he's) on the side of the Abyss. What's up with that?
+Media:vo szaq004 8 paimon 09.ogg Paimon: Yeah, you're right.
+Media:vo szaq004 8 paimon 10.ogg Paimon: Then... we can't let ourselves get down about it now, (Traveler)!
+Media:vo szaq004 8 paimon 11.ogg Paimon: Our journey's not over yet, let's get a move on! Time to leave this terrible, dark place and get back to the surface, where the sun shines bright.
+Media:vo szaq004 8 paimon 12a.ogg Media:vo szaq004 8 paimon 12b.ogg Paimon: If your (sister/brother) wants you to "reach the end of your journey"... (Well then, show her/Show him) what you're made of!
+Media:vo szaq004 8 paimon 13.ogg Paimon: Come on, Traveler, let's go!
+The Traveler and Paimon try to recall as many details as they can...
+The Traveler tells Dain what they learned from the spirit of Lupus Boreas...

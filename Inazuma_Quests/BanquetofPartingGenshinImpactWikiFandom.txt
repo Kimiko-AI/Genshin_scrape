@@ -1,0 +1,208 @@
+
+Paimon: Wow
+Paimon: So many
+Paimon: They're everywhere...
+Yae Miko: Yes
+Yae Miko: The memories of the youkai
+Yae Miko: They haven't been able to relax and soar through the air like this
+Yae Miko: For a long time
+Yae Miko: Come with me
+Yae Miko: You alright, little one?
+Yae Miko: You look a little nervous
+Paimon: It's just...
+Paimon: Paimon's never seen anything like this before...
+Paimon: Whoa
+Paimon: They've really blocked out the moon!
+Yae Miko: It does look a little intimidating
+Yae Miko: Doesn't it
+Yae Miko: But I know them
+Yae Miko: They may be loud and brash at times
+Yae Miko: But they are good and brave souls
+Yae Miko: Even after losing their lives in a brutal war
+Yae Miko: They have never given into grief or despair
+Yae Miko: Alas, their time is short
+Paimon: Do they...
+Paimon: Do they really have to go?
+Yae Miko: It's a feast
+Yae Miko: And all feasts come to an end
+Yae Miko: Hehe
+Yae Miko: Since you're sorry to see them leave
+Yae Miko: Why don't you do the recital along with me?
+Yae Miko: "Oh, Hakushin, cause of this enchantment"
+Yae Miko: "In reverence I perform this rite"
+Paimon: "In reverence I perform this rite"
+Paimon and Yae Miko: "To be a guiding light..."
+Paimon: Wow
+Paimon: So beautiful
+Paimon: Look
+Paimon: Lights are coming from Inazuma City!
+City Resident: The book says
+City Resident: Recite the secret spells of Lady Kitsune tonight
+City Resident: And our wishes will come true...
+City Resident: "Oh, Hakushin, cause of this enchantment"
+City Resident: "I perform this rite, to be a guiding light"
+City Resident: "Your unrivaled power..."
+City Residents: "...will be honored eternally"
+Yae Miko: Urakusai
+Yae Miko: You asked if I was doing well
+Yae Miko: Really, every day is a happy day for me
+Yae Miko: But watching
+Yae Miko: You all leave now
+Yae Miko: I can't help but feel a little lonely
+Yae Miko: Mmm...
+Yae Miko: Just a little, of course
+(Cinematic ends)
+ ...
+ A meal? It's a deal!
+ Because we want to make sure she's safe, too.
+ Because we want to see the youkai.
+ I see. I understand.
+ Kushikatsu and Fried Tofu. That was it.
+ Let's get rid of them, for Miko.
+ Miko, are you alright?
+ Quest DescriptionWhat can we do for these youkai? If you were to answer honestly, it could only be a grand farewell party.
+ Shouldn't have let our guard down...
+ Step DescriptionAfter the farewell ritual, you go to meet Miko the next day at Uyuu Restaurant.
+ Step DescriptionThe monsters affected by the Ley Lines have been cleared out. Time to head back to the Grand Narukami Shrine to meet Miko.
+ Step DescriptionYae Miko seems to have prepared an incantation to soothe the Ley Lines while writing the novel, but before the farewell ritual can take place, some preparations still need to be made.
+ We can't let them up the mountain.
+ We've been taken for a ride...
+ Well I certainly remember it.
+ What do you need from me?
+As night falls, the monsters slowly congregate in this area...
+City Resident: "I perform this rite, to be a guiding light"
+City Resident: "Oh, Hakushin, cause of this enchantment"
+City Resident: "Your unrivaled power..."
+City Resident: And our wishes will come true...
+City Resident: Recite the secret spells of Lady Kitsune tonight
+City Resident: The book says
+City Residents: "...will be honored eternally"
+Cutscene's Travel Log summary:
+You see the youkai off as they gather and ascend, reveling all the way. To help them go on their way in peace, you recite the incantation in earnest together with Miko, as do those readers who believe in The Secret Spells of Lady Kitsune. As you bless them, these beings who once fought so courageously in this land leave it once more with carefree hearts.
+Media:vo dialog ymlq004 yaemiko 01.ogg Yae Miko: Thank you for the meal. I thoroughly enjoyed myself today.
+Media:vo dialog ymlq004 yaemiko 02.ogg Yae Miko: Oh, did I mention? Ei saw that convocation ritual we performed over the Grand Narukami Shrine.
+Media:vo dialog ymlq004 yaemiko 03.ogg Yae Miko: I know she can be pig-headed, but it still took me by surprise when she wrote me a long and sternly worded letter about it, chastising me for "taking this whole thing much too far."
+Media:vo dialog ymlq004 yaemiko 04.ogg Yae Miko: Ugh, I hardly see what all the fuss is about. Everyone seemed perfectly happy to me.
+Media:vo ymlq004 1 paimon 01.ogg Paimon: Hmph, as if we had a choice. We just want our paychecks.
+Media:vo ymlq004 1 paimon 02.ogg Paimon: So, Miko, what exactly do we have to do to make this Hyakkiyakou happen?
+Media:vo ymlq004 1 paimon 03.ogg Paimon: Also, to be clear, we actually have no idea what it even means.
+Media:vo ymlq004 1 paimon 04.ogg Paimon: Oh yeah, something about reciting "The Secret Spells of Lady Kitsune" on a moonless night.
+Media:vo ymlq004 1 paimon 05.ogg Paimon: Alright, got it. Then what?
+Media:vo ymlq004 1 paimon 06.ogg Paimon: Okay, (Traveler), let's get going!
+Media:vo ymlq004 1 yaemiko 01.ogg Yae Miko: Well hello there, my little helpers, so nice of you to join me. You're right on time, too.
+Media:vo ymlq004 1 yaemiko 02.ogg Yae Miko: It might sound ominous, but to put it simply, the Hyakkiyakou is just a gathering of the youkai.
+Media:vo ymlq004 1 yaemiko 03.ogg Yae Miko: Back in the day, at youkai gatherings, once everyone had had plenty to drink, one by one they'd start soaring into the sky with their youkai powers. There were so many of them that their silhouettes would block out the moon.
+Media:vo ymlq004 1 yaemiko 04.ogg Yae Miko: But now, the youkai memories that leak from the Ley Lines are weak. They are no longer able to fly.
+Media:vo ymlq004 1 yaemiko 05.ogg Yae Miko: So, I will be performing a convocation ritual for them, gathering all the wandering memories together in one place.
+Media:vo ymlq004 1 yaemiko 06.ogg Yae Miko: When the time comes, they will gather in the sky above the Grand Narukami Shrine. Once their energy is spent, they will be satisfied, and return to where they belong.
+Media:vo ymlq004 1 yaemiko 07.ogg Yae Miko: All the preparations for the ritual have actually been made well in advance. Remember the incantation and the mention of "moonless night" that I added to our novel?
+Media:vo ymlq004 1 yaemiko 08.ogg Yae Miko: That's the one. Actually, it's not a wish-granting incantation at all. It's a spell to help calm the Ley Line memories.
+Media:vo ymlq004 1 yaemiko 09.ogg Yae Miko: When that time comes, let's all pitch in and help send them on their way!
+Media:vo ymlq004 1 yaemiko 10.ogg Yae Miko: I will start the ritual preparations shortly, and at that time, I need you to do two things:
+Media:vo ymlq004 1 yaemiko 11.ogg Yae Miko: First, tell the shrine maidens to leave the mountain.
+Media:vo ymlq004 1 yaemiko 12.ogg Yae Miko: During the Hyakkiyakou, a whole swarm of youkai memories will be hanging around in the air above the Grand Narukami Shrine. Having the shrine maidens leave avoids the bothersome issue of someone potentially getting possessed.
+Media:vo ymlq004 1 yaemiko 13.ogg Yae Miko: After that, I will commence the ritual, and the memories will begin to congregate. This will take some time. I need you at the foot of Mt. Yougou during this part to keep an eye on nearby monster activity.
+Media:vo ymlq004 1 yaemiko 14.ogg Yae Miko: The memories are normally dispersed, and don't pose a threat. But when their energy is concentrated, it is likely to disturb the monsters.
+Media:vo ymlq004 1 yaemiko 15.ogg Yae Miko: They may see this as an opportunity to try and make it up the mountain. I need you to fend them off so that that doesn't happen.
+Media:vo ymlq004 1 yaemiko 16.ogg Yae Miko: Hmm... Well, if at that point you felt like coming to the shrine and getting a close-up view of the youkai, I wouldn't say no.
+Media:vo ymlq004 2 maki 01.ogg Maki: ...Descend the mountain? Are those Lady Guuji's orders?
+Media:vo ymlq004 2 maki 02.ogg Maki: I see... I'll evacuate everyone right away. What about you?
+Media:vo ymlq004 2 maki 03.ogg Maki: It seems like Lady Guuji places great trust in you.
+Media:vo ymlq004 2 maki 04.ogg Maki: Lady Guuji's never allowed anyone else to be in her presence when she's conducted rituals like this in the past.
+Media:vo ymlq004 2 maki 05.ogg Maki: Thank you for helping with the ritual, and... good luck.
+Media:vo ymlq004 2 paimon 01.ogg Paimon: Yep, Miko said the ritual she's gonna perform soon might pose a physical danger to you all.
+Media:vo ymlq004 2 paimon 02.ogg Paimon: We'll be taking care of a couple other things for her, and once we're done with that, we're gonna come back and do the ritual together.
+Media:vo ymlq004 2 paimon 03.ogg Paimon: Don't worry, we're much stronger than we look!
+Media:vo ymlq004 2 paimon 04.ogg Paimon: Miko's about to start the ritual. Come on, let's go deal with the monsters down the mountain!
+Media:vo ymlq004 3 paimon 01.ogg Paimon: These monsters look really riled up!
+Media:vo ymlq004 3 paimon 02.ogg Paimon: Yup yup! Let's get rid of them as fast as we can! Then we can get back in time to see the youkai!
+Media:vo ymlq004 3 paimon 03.ogg Paimon: Alright, here they come, (Traveler)!
+Media:vo ymlq004 3 paimon 04.ogg Paimon: There's so many of them! C'mon, (Traveler) you can do it!
+Media:vo ymlq004 3 paimon 05.ogg Paimon: Alright, that's the last of the monsters.
+Media:vo ymlq004 3 paimon 06.ogg Paimon: How far along do you think the ritual is? Let's head back to the Grand Narukami Shrine and take a look, (Traveler)!
+Media:vo ymlq004 4 paimon 01.ogg Paimon: But, the look on your face just now...
+Media:vo ymlq004 4 paimon 02.ogg Paimon: Miko...
+Media:vo ymlq004 4 paimon 03.ogg Paimon: Sure, no problem! A meal it is!
+Media:vo ymlq004 4 yaemiko 01.ogg Yae Miko: Hm, just as I thought, the ritual went very smoothly. Thank you both.
+Media:vo ymlq004 4 yaemiko 02.ogg Yae Miko: Hmm? I'm great.
+Media:vo ymlq004 4 yaemiko 03.ogg Yae Miko: I'm fine, seriously. Really! I...
+Media:vo ymlq004 4 yaemiko 04.ogg Yae Miko: Huh... Honestly, you two...
+Media:vo ymlq004 4 yaemiko 05.ogg Yae Miko: Fine, well if you're dead-set on doing something for me, you can treat me to a meal.
+Media:vo ymlq004 4 yaemiko 06.ogg Yae Miko: Okay. Well, see you soon, then.
+Media:vo ymlq004 5 paimon 01.ogg Paimon: Today is the day we agreed to treat Miko to a meal. The venue is Uyuu Restaurant. Let's go!
+Media:vo ymlq004 6 kyouta 01.ogg Kyouta: Ugh, the wait is unbearable! How has the next chapter of "The Miraculous Adventures of the Traveler" not been released yet!
+Media:vo ymlq004 6 oosuke 01.ogg Oosuke: It was quite a surprise when the "moonless night" finally came.
+Media:vo ymlq004 6 oosuke 02.ogg Oosuke: But then nothing happened after I made a wish using the method in that book.
+Media:vo ymlq004 6 oosuke 03.ogg Oosuke: That night was definitely the nail in the coffin for the "incantations from novels" fad. Still, something tells me "The Miraculous Adventures of the Traveler" will remain an interesting series for a long time to come!
+Media:vo ymlq004 6 paimon 01.ogg Paimon: Huh? Paimon can't see Miko anywhere.
+Media:vo ymlq004 6 paimon 02.ogg Paimon: Guess she's not out here. Uh... maybe she went inside already? Let's head in and look for her.
+Media:vo ymlq004 6 tetsuo 01.ogg Tetsuo: Yeah, that huge black cloud over Mt. Yougou that night. It just seemed to form out of nowhere!
+Media:vo ymlq004 6 tetsuo 02.ogg Tetsuo: *sigh* I guess light novels are just fiction after all, huh.
+Media:vo ymlq004 7 okazakirikuto 01.ogg Okazaki Rikuto: Alrighty!
+Media:vo ymlq004 7 paimon 01.ogg Paimon: Miko... what is this? You started eating without us!?
+Media:vo ymlq004 7 paimon 02.ogg Paimon: Uhhh...
+Media:vo ymlq004 7 paimon 03.ogg Paimon: Grrr... Miko! You are outrageous!
+Media:vo ymlq004 7 paimon 04.ogg Paimon: Last time we were here working on the novel, all you ordered for us was the plainest Kushikatsu!
+Media:vo ymlq004 7 paimon 05.ogg Paimon: Miko, this meal is going to be super expensive. Aren't you afraid we won't be able to afford it?
+Media:vo ymlq004 7 paimon 06.ogg Paimon: Wh—What!?
+Media:vo ymlq004 7 paimon 07.ogg Paimon: Aaaah, darn it!!! She tricked us into this, (Traveler)! Miko was after our Mora from the very beginning!
+Media:vo ymlq004 7 yaemiko 01.ogg Yae Miko: Ah, my little friends, there you are.
+Media:vo ymlq004 7 yaemiko 02.ogg Yae Miko: I did, yes. You're paying, after all.
+Media:vo ymlq004 7 yaemiko 03.ogg Yae Miko: The thought of being able to eat the most expensive dishes and drink the finest sake, all for absolutely free... Oh, I just couldn't wait any longer.
+Media:vo ymlq004 7 yaemiko 04.ogg Yae Miko: Ah, Boss, see these two faces here? Remember them. They're the ones picking up the bill later.
+Media:vo ymlq004 7 yaemiko 05.ogg Yae Miko: What's gotten into you? Come on, sit yourselves down.
+Media:vo ymlq004 7 yaemiko 06.ogg Yae Miko: You have to try this fish. It's found exclusively in the waters around Seirai Island. They shipped it to Inazuma overnight, and it was still alive right up until I ordered it.
+Media:vo ymlq004 7 yaemiko 07.ogg Yae Miko: Or maybe you'd rather try this? I know, I know — I normally can't bring myself to drink sake this expensive either.
+Media:vo ymlq004 7 yaemiko 08.ogg Yae Miko: If you don't drink alcohol, that's fine too. There are all kinds of fruit juices covering the whole price spectrum.
+Media:vo ymlq004 7 yaemiko 09.ogg Yae Miko: Huh? Strange, I remember no such thing.
+Media:vo ymlq004 7 yaemiko 10.ogg Yae Miko: Oh. So what? You did offer to treat me to a meal, didn't you? Anyway, I am something of a VIP, you know. Wouldn't you find it embarrassing to treat me anything short of lavishly?
+Media:vo ymlq004 7 yaemiko 11.ogg Yae Miko: Hehe, oh, don't you worry about that. You can most definitely afford it... They're still printing your light novel by the batch, you know. You have quite the generous payment due.
+Media:vo ymlq004 7 yaemiko 12.ogg Yae Miko: Hahaha, oh, the looks on your faces right now. Too perfect. Hahaha.
+Media:vo ymlq004 7 yaemiko 13.ogg Yae Miko: Oh, by the way — since nobody's wishes came true on the moonless night, novels with incantations are no longer in vogue.
+Media:vo ymlq004 7 yaemiko 14.ogg Yae Miko: So you'll have to come up with something new for the next chapter of "The Miraculous Adventures of the Traveler."
+Media:vo ymlq004 7 yaemiko 15.ogg Yae Miko: The deadline is looming... I'm counting on you.
+Paimon and Yae Miko: "To be a guiding light..."
+Paimon: "In reverence I perform this rite"
+Paimon: Do they really have to go?
+Paimon: Do they...
+Paimon: It's just...
+Paimon: Lights are coming from Inazuma City!
+Paimon: Look
+Paimon: Paimon's never seen anything like this before...
+Paimon: So beautiful
+Paimon: So many
+Paimon: They're everywhere...
+Paimon: They've really blocked out the moon!
+Paimon: Whoa
+Paimon: Wow
+Yae Miko: "In reverence I perform this rite"
+Yae Miko: "Oh, Hakushin, cause of this enchantment"
+Yae Miko: Alas, their time is short
+Yae Miko: And all feasts come to an end
+Yae Miko: But I know them
+Yae Miko: But they are good and brave souls
+Yae Miko: But watching
+Yae Miko: Come with me
+Yae Miko: Doesn't it
+Yae Miko: Even after losing their lives in a brutal war
+Yae Miko: For a long time
+Yae Miko: Hehe
+Yae Miko: I can't help but feel a little lonely
+Yae Miko: It does look a little intimidating
+Yae Miko: It's a feast
+Yae Miko: Just a little, of course
+Yae Miko: Mmm...
+Yae Miko: Really, every day is a happy day for me
+Yae Miko: Since you're sorry to see them leave
+Yae Miko: The memories of the youkai
+Yae Miko: They have never given into grief or despair
+Yae Miko: They haven't been able to relax and soar through the air like this
+Yae Miko: They may be loud and brash at times
+Yae Miko: Urakusai
+Yae Miko: Why don't you do the recital along with me?
+Yae Miko: Yes
+Yae Miko: You all leave now
+Yae Miko: You alright, little one?
+Yae Miko: You asked if I was doing well
+Yae Miko: You look a little nervous
+You defeated the monsters that were attracted to this place...

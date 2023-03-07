@@ -1,0 +1,224 @@
+ ...
+ A flash of fire... a Vision, perhaps?
+Media:vo dlclq001 4 donna 11a.ogg Donna: Who knows? Now that you mention it, a Pyro Vision does seem like a good explanation.
+Media:vo dlclq001 4 donna 11a 1.ogg Donna: It lit up the whole area in an instant. I remember that very well.
+ Ahem! *cough*
+ Argh!
+Media:vo dlclq001 1 charles 07b.ogg Charles: Hey. Look, do you want to hear the story or not?
+Media:vo dlclq001 1 paimon 03b.ogg Paimon: Wha—What did the bartender just say?
+ Became his sidekick?
+Media:vo dlclq001 3 lawrence 11b.ogg Lawrence: Heh... I would probably have just gotten in the way as far as the Darknight Hero is concerned.
+ Diluc!? YOU are the Darknight Hero?
+ Do you have any information regarding the "Darknight Hero"...
+ Familiar? Could it be someone you know?
+Media:vo dlclq001 4 donna 11b.ogg Donna: Hmm... That I really do not know.
+Media:vo dlclq001 4 donna 11b 1.ogg Donna: Perhaps it was... fate?
+Media:vo dlclq001 4 donna 11b 2.ogg Donna: You know? When you meet someone and it feels like... like you've known them your whole life?
+ Has anyone ever seen him?
+Media:vo dlclq001 1 charles 13a.ogg Charles: I'm told that there have been a handful of sightings. But in the depths of night, no one can get a good look at him.
+Media:vo dlclq001 1 charles 13a 1.ogg Charles: Perhaps that's why he only appears at night.
+Media:vo dlclq001 1 charles 13a 2.ogg Charles: Nevertheless, the sightings confirm that the Darknight Hero is more than just a groundless rumor.
+ Have you been dealing with them alone the whole time?
+Media:vo dlclq001 7 diluc 10a.ogg Diluc: I assume so, unless you're aware of any other "Darknight Heroes" around these parts.
+ Heard anything about a "Darknight Hero"?
+ I'm trying to find out about the "Darknight Hero."
+ It seems you have history with the Knights.
+Media:vo dlclq001 7 diluc 13b.ogg Diluc: What's past is past. I would prefer not to discuss it.
+ Just as I thought — it was you all along!
+Media:vo dlclq001 2 margaret 03b.ogg Margaret: ...I'm joking. Don't take everything so seriously.
+ Paimon, he literally just said it's NOT a scary story.
+Media:vo dlclq001 1 paimon 03a.ogg Paimon: Huh? Did the bartender just say something?
+Media:vo dlclq001 1 charles 07a.ogg Charles: You weren't even listening?
+ Pie?
+ Quest DescriptionRecently, rumors about a certain Darknight Hero have been circulating around Mondstadt...
+ Ran away?
+Media:vo dlclq001 3 lawrence 11a.ogg Lawrence: I wasn't the bad guy! Why would I need to run away?
+Media:vo dlclq001 3 lawrence 11a 1.ogg Lawrence: ...Still, I did leave the scene. I didn't want to be a nuisance to the Darknight Hero.
+ Shut it, Paimon!
+ So this is a job for the mighty Diluc then.
+Media:vo dlclq001 7 diluc 13a.ogg Diluc: *sigh* That's not my point. I am not doing this to impress anyone.
+ So... you just wanted to flaunt your wealth.
+ Sorry...
+ The Darknight Hero! I knew it was you all along!
+ Well...
+ What do you know of the "Darknight Hero"?
+ Why don't you get the Knights of Favonius to help?
+Media:vo dlclq001 7 diluc 10b.ogg Diluc: Hmph. Who would be helping whom is debatable.
+ Why would he hide his identity?
+Media:vo dlclq001 1 charles 13b.ogg Charles: I doubt anyone knows but him.
+Media:vo dlclq001 1 charles 13b 1.ogg Charles: Maybe he enjoys being a man of mystery.
+Media:vo dlclq001 1 charles 13b 2.ogg Charles: After all, it's a good way to get the ladies' attention.
+Media:vo dlclq001 1 charles 13b 3.ogg Charles: Any guy in the tavern could tell you that.
+ You think the Darknight Hero might be one of the Knights?
+ You're kidding, right?
+Media:vo dlclq001 2 margaret 03a.ogg Margaret: *giggle* You're right, I'm not. I was joking.
+???: *footsteps*
+Anna: Darknight H– *achoo* Hero? Sorry, I've never heard of him.
+Anna: My health is poor, *cough* I don't go out at night.
+Beatrice: But I can't seem to recall much more than simply having heard the name. Sorry.
+Beatrice: Hmm... That name does seem to ring a bell...
+Blanche: Certainly not one of our customers, anyway.
+Blanche: Darknight Hero? Doesn't ring a bell.
+Eury: Is that from a fairytale, or a novel or something?
+Flora: Huh? What's the Darknight Hero?
+Flora: Is it a fairytale?
+Media:vo dlclq001 1 charles 01.ogg Charles: So you've got a taste for adventure too, huh?
+Media:vo dlclq001 1 charles 02.ogg Charles: I must say, the patrons have been in a bit of a buzz lately.
+Media:vo dlclq001 1 charles 03.ogg Charles: Though the topic on everyone's lips is more of an urban legend than actual news.
+Media:vo dlclq001 1 charles 04.ogg Charles: Even minding my own business I still end up hearing all about it.
+Media:vo dlclq001 1 charles 05.ogg Charles: Hahaha, it's not a particularly scary story, no... At least, not for most people...
+Media:vo dlclq001 1 charles 06.ogg Charles: It's the tale of... the Darknight Hero!
+Media:vo dlclq001 1 charles 07a.ogg Charles: You weren't even listening?
+Media:vo dlclq001 1 charles 07b.ogg Charles: Hey. Look, do you want to hear the story or not?
+Media:vo dlclq001 1 charles 08.ogg Charles: Anyway, the Darknight Hero.
+Media:vo dlclq001 1 charles 09.ogg Charles: It is said that he appears in the middle of the night to fight evil and uphold justice.
+Media:vo dlclq001 1 charles 10.ogg Charles: But to be honest, I don't have much interest in such rumors.
+Media:vo dlclq001 1 charles 11.ogg Charles: Unless of course he can help take care of the more belligerent patrons after they've had a few too many...
+Media:vo dlclq001 1 charles 12.ogg Charles: I would happily take that as proof of his existence.
+Media:vo dlclq001 1 charles 13a 1.ogg Charles: Perhaps that's why he only appears at night.
+Media:vo dlclq001 1 charles 13a 2.ogg Charles: Nevertheless, the sightings confirm that the Darknight Hero is more than just a groundless rumor.
+Media:vo dlclq001 1 charles 13a.ogg Charles: I'm told that there have been a handful of sightings. But in the depths of night, no one can get a good look at him.
+Media:vo dlclq001 1 charles 13b 1.ogg Charles: Maybe he enjoys being a man of mystery.
+Media:vo dlclq001 1 charles 13b 2.ogg Charles: After all, it's a good way to get the ladies' attention.
+Media:vo dlclq001 1 charles 13b 3.ogg Charles: Any guy in the tavern could tell you that.
+Media:vo dlclq001 1 charles 13b.ogg Charles: I doubt anyone knows but him.
+Media:vo dlclq001 1 charles 14.ogg Charles: Hehe, anyway... That's more or less everything I know.
+Media:vo dlclq001 1 charles 15.ogg Charles: If you want to know more, ask around in the plaza. Ah, I need to serve some customers.
+Media:vo dlclq001 1 paimon 01.ogg Paimon: Uh-oh... It's not one of those scary urban legends, is it?
+Media:vo dlclq001 1 paimon 02.ogg Paimon: If so, Paimon needs to take a deep breath first!
+Media:vo dlclq001 1 paimon 03.ogg Paimon: Argh!!!
+Media:vo dlclq001 1 paimon 03a.ogg Paimon: Huh? Did the bartender just say something?
+Media:vo dlclq001 1 paimon 03b.ogg Paimon: Wha—What did the bartender just say?
+Media:vo dlclq001 1 paimon 04.ogg Paimon: "Darknight Hero"... seems like your standard cookie-cutter urban legend.
+Media:vo dlclq001 1 paimon 05.ogg Paimon: But just a little darker.
+Media:vo dlclq001 1 paimon 06.ogg Paimon: Wonder who it could be. Once you're ready, let's head out to the plaza and ask around!
+Media:vo dlclq001 2 margaret 01.ogg Margaret: You want to find out about the Darknight Hero?
+Media:vo dlclq001 2 margaret 02.ogg Margaret: Look no further. It's me! I am the Darknight Hero.
+Media:vo dlclq001 2 margaret 03a.ogg Margaret: *giggle* You're right, I'm not. I was joking.
+Media:vo dlclq001 2 margaret 03b.ogg Margaret: ...I'm joking. Don't take everything so seriously.
+Media:vo dlclq001 2 margaret 04.ogg Margaret: Heh. Jokes aside, I do think that the Darknight Hero and I have one thing in common.
+Media:vo dlclq001 2 margaret 05.ogg Margaret: It's... the way he sticks to his principles... coming out here night after night, fighting for justice, keeping Mondstadt safe...
+Media:vo dlclq001 2 margaret 06.ogg Margaret: N—No, I just mean, he must be seriously rich.
+Media:vo dlclq001 2 margaret 07.ogg Margaret: People only start worrying about spiritual fulfillment once they have enough material wealth.
+Media:vo dlclq001 2 margaret 08.ogg Margaret: It's the same in every hero story, isn't it?
+Media:vo dlclq001 2 margaret 09.ogg Margaret: Heh. No, it's nothing like that. I just have too much time on my hands these days.
+Media:vo dlclq001 2 margaret 10.ogg Margaret: Why don't you ask the guards at the city gate?
+Media:vo dlclq001 2 margaret 11.ogg Margaret: They do night shifts all the time, they must know something.
+Media:vo dlclq001 2 paimon 01.ogg Paimon: Heh...
+Media:vo dlclq001 2 paimon 02.ogg Paimon: What's that?
+Media:vo dlclq001 2 paimon 03.ogg Paimon: Wow, so you're a nocturnal vigilante too?
+Media:vo dlclq001 2 paimon 04.ogg Paimon: Why is that?
+Media:vo dlclq001 2 paimon 05.ogg Paimon: Same difference, you are the boss of the Cat Tail after all...
+Media:vo dlclq001 3 lawrence 01.ogg Lawrence: You want to know about... him?
+Media:vo dlclq001 3 lawrence 02.ogg Lawrence: In fact, I'm one of the few who has seen him with my own two eyes.
+Media:vo dlclq001 3 lawrence 03.ogg Lawrence: Whoa— S—Slow down, let me start from the beginning.
+Media:vo dlclq001 3 lawrence 04.ogg Lawrence: Well, I was patrolling one night, when suddenly I heard something. I rushed over to check it out.
+Media:vo dlclq001 3 lawrence 05.ogg Lawrence: I saw a gang of suspicious looking fellows who looked like they were up to no good.
+Media:vo dlclq001 3 lawrence 06.ogg Lawrence: So I quickly hid.
+Media:vo dlclq001 3 lawrence 07.ogg Lawrence: That was when... he appeared.
+Media:vo dlclq001 3 lawrence 08.ogg Lawrence: He was dressed in black from head to toe, perfectly hidden in the night.
+Media:vo dlclq001 3 lawrence 09.ogg Lawrence: The way he crept up on those bad guys, it must have felt like a living nightmare.
+Media:vo dlclq001 3 lawrence 10.ogg Lawrence: Guess what I did next?
+Media:vo dlclq001 3 lawrence 11a 1.ogg Lawrence: ...Still, I did leave the scene. I didn't want to be a nuisance to the Darknight Hero.
+Media:vo dlclq001 3 lawrence 11a.ogg Lawrence: I wasn't the bad guy! Why would I need to run away?
+Media:vo dlclq001 3 lawrence 11b.ogg Lawrence: Heh... I would probably have just gotten in the way as far as the Darknight Hero is concerned.
+Media:vo dlclq001 3 lawrence 12.ogg Lawrence: ...So instead, I headed to the Knights of Favonius' residence.
+Media:vo dlclq001 3 lawrence 13.ogg Lawrence: Correct. I thought, "Surely someone with such a strong sense of justice and who voluntarily protects Mondstadt is exactly the kind of person you'd find in the Knights of Favonius."
+Media:vo dlclq001 3 lawrence 14.ogg Lawrence: *sigh* But it seems I was wrong.
+Media:vo dlclq001 3 lawrence 15.ogg Lawrence: I checked everywhere, and there were no signs of anyone having left the building.
+Media:vo dlclq001 3 lawrence 16.ogg Lawrence: Yes. But I just can't understand... Why would someone like that not want to join the Knights?
+Media:vo dlclq001 3 lawrence 17.ogg Lawrence: I'm sure they would warmly welcome someone of his abilities.
+Media:vo dlclq001 3 lawrence 18.ogg Lawrence: Hey, don't be like that! At least by talking to me you've ruled out a few more people...
+Media:vo dlclq001 3 lawrence 19.ogg Lawrence: Anyway, try asking at the Flower Shop. I heard a girl there's been talking about the time he rescued her.
+Media:vo dlclq001 3 paimon 01.ogg Paimon: Great! This is the guy we need to talk to.
+Media:vo dlclq001 3 paimon 02.ogg Paimon: So... just who is the Darknight Hero?
+Media:vo dlclq001 3 paimon 03.ogg Paimon: Hid? You're supposed to be a guard!
+Media:vo dlclq001 3 paimon 04.ogg Paimon: Wow...
+Media:vo dlclq001 3 paimon 05.ogg Paimon: So you're saying whoever it is can't be from the Knights of Favonius after all?
+Media:vo dlclq001 3 paimon 06.ogg Paimon: So the point you're trying to make is... You don't know who the Darknight Hero is either?
+Media:vo dlclq001 4 donna 01.ogg Donna: What's wrong with me...
+Media:vo dlclq001 4 donna 02.ogg Donna: Why can't I get him out of my mind...
+Media:vo dlclq001 4 donna 03.ogg Donna: MY HERO! ...Oh, sorry! Just hearing his name gets me lost in thought... Hang on, how did you know who I was talking about?
+Media:vo dlclq001 4 donna 04.ogg Donna: Is it that obvious?
+Media:vo dlclq001 4 donna 05.ogg Donna: Oh no, what am I going to do...? If Master Diluc ever finds out—
+Media:vo dlclq001 4 donna 06.ogg Donna: Ugh... Well, I guess I might as well spill the beans then.
+Media:vo dlclq001 4 donna 07.ogg Donna: I used to think Diluc was the one for me.
+Media:vo dlclq001 4 donna 08.ogg Donna: But ever since the time I was rescued by the Darknight Hero... I—I just don't know anymore...
+Media:vo dlclq001 4 donna 09.ogg Donna: It all happened so fast... I was so scared...
+Media:vo dlclq001 4 donna 10.ogg Donna: All I remember is seeing a flash of fire... but I felt safe. I only saw his silhouette but it felt so... familiar.
+Media:vo dlclq001 4 donna 11a 1.ogg Donna: It lit up the whole area in an instant. I remember that very well.
+Media:vo dlclq001 4 donna 11a.ogg Donna: Who knows? Now that you mention it, a Pyro Vision does seem like a good explanation.
+Media:vo dlclq001 4 donna 11b 1.ogg Donna: Perhaps it was... fate?
+Media:vo dlclq001 4 donna 11b 2.ogg Donna: You know? When you meet someone and it feels like... like you've known them your whole life?
+Media:vo dlclq001 4 donna 11b.ogg Donna: Hmm... That I really do not know.
+Media:vo dlclq001 4 paimon 01.ogg Paimon: Ah, hello? We'd like to ask you about the Darknight Hero—
+Media:vo dlclq001 4 paimon 02.ogg Paimon: Huh? What's Diluc got to do with this?
+Media:vo dlclq001 4 paimon 03.ogg Paimon: Wowee, you saw the Darknight Hero? For real? What's he like?
+Media:vo dlclq001 4 paimon 04.ogg Paimon: Oookay then! Well, thanks for the intel Donna. See you around!
+Media:vo dlclq001 4 paimon 05.ogg Paimon: So, based on what we know so far...
+Media:vo dlclq001 4 paimon 06.ogg Paimon: All we need to find is a wealthy, Vision-wielding vigilante who is not one of the Knights.
+Media:vo dlclq001 4 paimon 07.ogg Paimon: Hmm... Nope, still no idea.
+Media:vo dlclq001 4 paimon 08.ogg Paimon: But we already asked so many people. Guess we got to see for ourselves.
+Media:vo dlclq001 4 paimon 09.ogg Paimon: Let's take a look around the city at nighttime — if we're lucky, we just might bump into him.
+Media:vo dlclq001 6 paimon 01.ogg Paimon: It's getting dark. Let's stick around Mondstadt. Maybe if we're lucky we'll meet the Darknight Hero.
+Media:vo dlclq001 7 diluc 01.ogg Diluc: After managing to steer clear of the guards' patrol route... I never anticipated I'd run into you instead.
+Media:vo dlclq001 7 diluc 02.ogg Diluc: "Darknight Hero"...? Sounds awfully derivative to me. Please tell me you didn't come up with that.
+Media:vo dlclq001 7 diluc 03.ogg Diluc: I do not concern myself with idle chatter... Though, I suppose I may take the idleness of others as a sign that peace prevails.
+Media:vo dlclq001 7 diluc 04.ogg Diluc: Please, stop calling me that. Seriously, it makes me uncomfortable.
+Media:vo dlclq001 7 diluc 05.ogg Diluc: Pie?
+Media:vo dlclq001 7 diluc 06.ogg Diluc: ...
+Media:vo dlclq001 7 diluc 07.ogg Diluc: It was the Abyss Order.
+Media:vo dlclq001 7 diluc 08.ogg Diluc: I don't know what the devil they're plotting this time. It seems they're performing some initial reconnaissance.
+Media:vo dlclq001 7 diluc 09.ogg Diluc: Considering that I've proven myself to be one step ahead of them on countless occasions, their persistence is... unusual.
+Media:vo dlclq001 7 diluc 10a.ogg Diluc: I assume so, unless you're aware of any other "Darknight Heroes" around these parts.
+Media:vo dlclq001 7 diluc 10b.ogg Diluc: Hmph. Who would be helping whom is debatable.
+Media:vo dlclq001 7 diluc 11.ogg Diluc: The Knights are, for the most part, an utterly incompetent bunch.
+Media:vo dlclq001 7 diluc 12.ogg Diluc: I cannot trust them to take this matter over.
+Media:vo dlclq001 7 diluc 13a.ogg Diluc: *sigh* That's not my point. I am not doing this to impress anyone.
+Media:vo dlclq001 7 diluc 13b.ogg Diluc: What's past is past. I would prefer not to discuss it.
+Media:vo dlclq001 7 diluc 14.ogg Diluc: Well, I hope this conversation has been of service to you — because I would like to ask for a favor in return.
+Media:vo dlclq001 7 diluc 15.ogg Diluc: You must keep my identity a secret.
+Media:vo dlclq001 7 diluc 16.ogg Diluc: Above all, it is crucial that you do not let the Knights of Favonius know I am connected to any of this.
+(A bunch of hilichurls approach the city)
+Media:vo dlclq001 7 diluc 17.ogg Diluc: They appear to just be small-timers. You should have no trouble dealing with them.
+Media:vo dlclq001 7 diluc 18.ogg Diluc: I cannot afford delays on account of a few lackeys. I shall have to let you take care of them.
+Media:vo dlclq001 7 diluc 19.ogg Diluc: Remember — don't tell a soul!
+(Diluc leaves you with the hilichurls)
+Media:vo dlclq001 7 paimon 01.ogg Paimon: How is this the first you've heard of the name? Every man and his dog in Mondstadt is yapping about the Darknight Hero!
+Media:vo dlclq001 7 paimon 02.ogg Paimon: Huzzah! The Great Mystery of the Darknight Hero of Mondstadt... We solved it!
+Media:vo dlclq001 7 paimon 03.ogg Paimon: Now then, Mr. Darknight Hero—
+Media:vo dlclq001 7 paimon 04.ogg Paimon: Hah, not surprised. It's the stupidest superhero name Paimon's ever heard. You should come up with something more original.
+Media:vo dlclq001 7 paimon 05.ogg Paimon: Like...
+Media:vo dlclq001 7 paimon 06.ogg Paimon: Emm... "Captain Pie..."
+Media:vo dlclq001 7 paimon 07.ogg Paimon: Captain Pyro!
+Media:vo dlclq001 7 paimon 08.ogg Paimon: Tell us Captain Pyro, what happened here today?
+Media:vo dlclq001 7 paimon 09.ogg Paimon: Them again?
+Media:vo dlclq001 7 paimon 10.ogg Paimon: Ooh, what is it Master Diluc? Your wish is our command~
+Media:vo dlclq001 7 paimon 11.ogg Paimon: What's that sound? Yikes, have the Abyss Order sent backup already?
+Media:vo dlclq001 7 paimon 12.ogg Paimon: Hey! You're just gonna leave us like this!?
+Media:vo dlclq001 9 huffman 01.ogg Huffman: Greetings. I thought I heard something, so I came to check it out.
+Media:vo dlclq001 9 huffman 02.ogg Huffman: Did you see anything out of the ordinary?
+Media:vo dlclq001 9 huffman 03.ogg Huffman: The Darknight Hero? You saw him?
+Media:vo dlclq001 9 huffman 04.ogg Huffman: You! The hero who safeguards Mondstadt from the shadows! On behalf of the Knights of Favonius, I thank you for your service to this city!
+Media:vo dlclq001 9 huffman 05.ogg Huffman: Wait a second... Aren't you the Traveler that just arrived in the city?
+Media:vo dlclq001 9 huffman 06.ogg Huffman: Rumors were circulating about the Darknight Hero long before you ever arrived here.
+Media:vo dlclq001 9 huffman 07.ogg Huffman: ...Why would you lie to me about that?
+Media:vo dlclq001 9 huffman 08.ogg Huffman: Hmm. Never mind, you don't seem like bad folks.
+Media:vo dlclq001 9 huffman 09.ogg Huffman: But I do hope you will visit the Knights of Favonius soon, where we can discuss the Darknight Hero situation in more detail.
+Media:vo dlclq001 9 huffman 10.ogg Huffman: Some things are best not discussed in public.
+Media:vo dlclq001 9 huffman 11.ogg Huffman: Duty calls. I must be going. Stay safe, Traveler!
+(After Huffman leaves)
+Media:vo dlclq001 9 paimon 01.ogg Paimon: Nope. Nuh-huh. Not here. Nothing. Zilch.
+Media:vo dlclq001 9 paimon 02.ogg Paimon: ...Unless you're looking for the Darknight Hero, in which case—
+Media:vo dlclq001 9 paimon 03a.ogg Media:vo dlclq001 9 paimon 03b.ogg Paimon: Oh, ahh... The Darknight Hero, is ahh... (him/her)!
+Media:vo dlclq001 9 paimon 04.ogg Paimon: Heh... it's nothing, really... you're too kind...
+Media:vo dlclq001 9 paimon 05.ogg Paimon: Oh... Ah...
+Media:vo dlclq001 9 paimon 06.ogg Paimon: Seems like Huffman has something he really wants to say to you about the Darknight Hero.
+Media:vo dlclq001 9 paimon 07.ogg Paimon: Better head over to the Knights of Favonius and see if you can find him.
+Media:vo dlclq001 cs paimon 01.ogg Paimon: The Darknight Hero is Master Diluc!?
+Nimrod: I've heard the name... I think. I'm not sure. Sorry.
+Norma: Never heard of him. Sorry, maybe someone else knows something.
+Quinn: Darknight Hero? Definitely heard him mentioned, yep. Nothing specific though.
+Sara: But I don't tend to listen in on their conversations, so I'm afraid I know nothing.
+Sara: I think I've heard customers talk about that.
+Swan: I haven't heard a thing... *sigh* I'm really out of the loop.

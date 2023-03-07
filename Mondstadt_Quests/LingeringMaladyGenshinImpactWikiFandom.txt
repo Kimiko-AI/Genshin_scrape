@@ -1,0 +1,39 @@
+ Quest DescriptionDue to the storm that swept through the city, the posters and signboards of many shops have been blown off to the rooftops and city walls of Mondstadt. Aramis of the Knights of Favonius is currently mulling over how he might retrieve them...
+: I'll be happy to.
+Aramis: Thank you. I'm so sorry, this should have been my job, but...
+Aramis: There should be three posters and one signboard now stuck on rooftops and on the city walls.
+Aramis: Please bring those posters to me. As for the signboard, you can just leave it here on the ground. I'll have my colleagues pass it on to the appropriate merchant.
+Aramis: Again, thank you. You've really saved me.
+: I've got something else to do.
+Aramis: It's alright. This was my job in the first place. you do what you have to do, I'll think of a way to get this done.
+: What happened?
+: Yes, sir!
+Aramis: Again, thank you. You've really saved me.
+Aramis: Although the storm has subsided, the effects of that storm aren't going to be fixed any time soon...
+Aramis: And with these knees of mine, even climbing stairs has become problematic recently. I can't imagine what would become of me if I had to climb up that high...
+Aramis: As for that signboard, it's from the Angel's Share. I've already notified Charles — he'll send someone over to take it back.
+Aramis: But as it turns out, we're shorthanded at the moment, so only I was sent.
+Aramis: Could you help me out of this bind, Honorary Knight?
+Aramis: Have you got them all?
+Aramis: Here's a little remuneration for your help. Please take it. As for me, I need to move on to other tasks.
+Aramis: How did it get blown up that high...
+Aramis: I mean, besides helping the citizens, we're also concerned that those things would look rather unbecoming, hanging off the roofs and the walls like that.
+Aramis: It's alright. This was my job in the first place. you do what you have to do, I'll think of a way to get this done.
+Aramis: Not a few merchants have said that the signboards and posters that they put up outside have all gone with the wind.
+Aramis: Oh, it's you, Honorary Knight. How do you do? So it's like this: you must have seen that storm that surrounded the entire city, right?
+Aramis: Please bring those posters to me. As for the signboard, you can just leave it here on the ground. I'll have my colleagues pass it on to the appropriate merchant.
+Aramis: Some have ended up on rooftops, others onto the city walls.
+Aramis: Thank you. I'm so sorry, this should have been my job, but...
+Aramis: The Knights originally intended to send two agile members to settle these issues with haste.
+Aramis: There should be three posters and one signboard now stuck on rooftops and on the city walls.
+Aramis: Though the storm has ceased, it's effects will remain with us for a while...
+Aramis: You have my utmost thanks. I'll take these posters and return them to the matching merchants in a moment.
+Merchant Billboard: "Newcomers deal now on at the Angel's Share. All new patrons can enjoy 30% off their first bottle of select new beverages."
+Merchant Poster: "New drinks at the Cat's Tail. Your bartender today is: Diona."
+Merchant Poster: "The Adventurers' Guild is now recruiting new members! To sign up, speak to Branch Master Cyrus in Mondstadt today."
+Merchant Poster: "Try the all-new Good Hunter meal deal! Get 10% off when you purchase a Satisfying Salad and a Sticky Honey Roast in a single order."
+Paimon: Cat's Tail... Huh, so they're competing with the Angel's Share? Let's take this poster with us.
+Paimon: Sticky Honey Roast... on discount! Say, do you think Sara will treat us to a meal if we take this poster back to her?
+Paimon: This looks like a poster for the Adventurers' Guild. Let's take it with us.
+Paimon: We can just leave it here. Aramis said that he'll get someone to come collect it.
+Paimon: Wow, even that signboard was blown off to such a high place...

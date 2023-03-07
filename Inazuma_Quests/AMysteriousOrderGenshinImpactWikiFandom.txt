@@ -1,0 +1,158 @@
+ (But doesn't that just make Sayu even more suspicious?)
+ (Don't tell me she left her tail sticking out again!)
+ (Of course Sayu wouldn't hurt me...)
+ (Seems there's no fooling her...)
+ (What a relief...)
+ ...What's the real reason?
+ Alright, fine.
+ Ambushing, huh? That's sticky business.
+ But I'm not your target, right?
+ But why all the running? And what's with all those lame excuses just now?
+ By the way, I've caught word that the Yashiro Commission has supposedly dispatched someone to ambush me.
+ Do you know me?
+ Don't worry, I understand. Let's go.
+ Don't worry, I'll give you some hair and other evidence to report back with.
+ Good thing we didn't have any other plans.
+ Good thing you didn't fall asleep.
+ Hey, you have to help me out here.
+ I happened to be in the area. Do you come here often?
+ I see. Go on...
+ I suppose I'll just have a chat with the shrine maiden, then.
+ I want to ask around and get to the bottom of this.
+ I was about to ask you the same thing.
+ I've just got an unusual feeling that someone's following me.
+ Is it possible that a ninja could have gone rogue? You know, a ninja like Sayu...
+ It seems you are looking for something.
+ Just pretend that you've already finished the job.
+ Maybe he's up to something.
+ Maybe there's a way we can get his attention?
+ No, I've just... heard things.
+ No, not at all. I'm just making an example, that's all.
+ No, of course not.
+ No.
+ Oh, you've heard of me?
+ Perhaps I'll tell Kamisato Ayaka that I ran into you here.
+ Quest DescriptionAs you walk through Inazuma City, you feel a strange gaze from somewhere around you.
+ So we know that Kano Nana isn't behind your mission, is there anyone else you can think of?
+ Someone informed me that this might be happening. I've been on my guard.
+ Thank you, that would certainly help.
+(Proceed to Branch 1)
+ That makes him a likely suspect.
+ That's even more suspicious.
+ Then I expect you to answer honestly.
+ Then let's go ask her about it.
+ Uh, no... No, I haven't.
+ Well, if your tail wasn't sticking out...
+ Well, you were a great help to us before. What's really concerning is whatever's behind these orders of yours.
+ Weren't you looking for me just now?
+ While you are making inquiries, I shall continue investigating on my own, just to be safe.
+(Proceed to Branch 2)
+ Who is the "shrine maiden" you mentioned earlier?
+ Why?
+ Yes, absolutely certain.
+After a while, Sayu finally returns.
+Kano Nana leaves.
+Media:vo zycop001 1901204 sayu 01.ogg Sayu: Aw, you saw right through my disguise...
+Media:vo zycop001 1901204 sayu 02.ogg Sayu: Odd... Even the shrine maiden often struggles to find me.
+Media:vo zycop001 1901204 sayu 03.ogg Sayu: Huh? My tail was sticking out!?
+Media:vo zycop001 1901204 sayu 04.ogg Sayu: *sigh* I must have been too nervous and failed to fully utilize my ninjutsu technique.
+Media:vo zycop001 1901204 sayu 05.ogg Sayu: So, uh, what do you need?
+Media:vo zycop001 1901204 sayu 06.ogg Sayu: Well, uh... I heard that Shimura's added a delicious new dish to their menu.
+Media:vo zycop001 1901204 sayu 07.ogg Sayu: And Yae Publishing House has some good light novels... Oh, and a dip in Aisa Bathhouse is always nice.
+Media:vo zycop001 1901204 sayu 08.ogg Sayu: So uh, you know...
+Media:vo zycop001 1901204 sayu 09.ogg Sayu: Today's weather is perfect for... all that stuff.
+Media:vo zycop001 1901204 sayu 10.ogg Sayu: ...So, what can I do for you?
+Media:vo zycop001 1901204 sayu 11.ogg Sayu: No really, I'm not up to anything. I'm just a little tired and thought I could use a good nap.
+Media:vo zycop001 1901204 sayu 12.ogg Sayu: I'll be going now. Don't bother chasing me again, you won't be able to catch me anyway.
+Media:vo zycop001 1901204 sayu 13.ogg Sayu: Oh no, anything but that!
+Media:vo zycop001 1901204 sayu 14.ogg Sayu: *sigh* You're just as difficult as the shrine maiden. C'mon just let me go, would you.
+Media:vo zycop001 1901204 sayu 15.ogg Sayu: Oh, fine. But if I tell you the truth, I don't wanna hear any complaints, no matter how crazy the truth may seem.
+Media:vo zycop001 1901204 sayu 16.ogg Sayu: So you know I'm in the Shuumatsuban, right? Well, it's our job to take care of matters that are "inconvenient" to the higher-ups.
+Media:vo zycop001 1901204 sayu 17.ogg Sayu: Which sometimes includes ambushing people.
+Media:vo zycop001 1901204 sayu 18.ogg Sayu: Huh? Doesn't that intimidate you even a little bit?
+Media:vo zycop001 1901204 sayu 19.ogg Sayu: You do know what that means, right? And still no reaction, huh? Don't tell me it's because of my height.
+Media:vo zycop001 1901204 sayu 20.ogg Sayu: Anyway, being ambushed is pretty scary. You should at least try to express a little concern.
+Media:vo zycop001 1901204 sayu 21.ogg Sayu: Uh actually, according to my orders, you are... Though I have no intention of really attacking you.
+Media:vo zycop001 1901204 sayu 22.ogg Sayu: I don't get it, they never assign me this kind of mission. There's loads of other suitable operatives.
+Media:vo zycop001 1901204 sayu 23.ogg Sayu: All this craziness is starting to interfere with my sleep schedule. I just dropped by to see how you were doing. I was glad to see that you're okay.
+Media:vo zycop001 1901204 sayu 24.ogg Sayu: I was worried about how you'd react...
+Media:vo zycop001 1901204 sayu 25.ogg Sayu: I mean, who knows what you'd do if you knew that I was out to ambush you.
+Media:vo zycop001 1901204 sayu 26.ogg Sayu: Yet, when I told you, you didn't so much as flinch. I guess that actually made me feel a lot better.
+Media:vo zycop001 1901204 sayu 27.ogg Sayu: Who do you want to talk to? Someone in the Yashiro Commission?
+Media:vo zycop001 1901204 sayu 28.ogg Sayu: She's the one who's been assigned to supervise my work. She always tries to catch me whenever I'm slacking off. Basically, it's her duty to keep me from napping.
+Media:vo zycop001 1901204 sayu 29.ogg Sayu: But... she would probably know more about the origins of my mission.
+Media:vo zycop001 1901204 sayu 30.ogg Sayu: Fine... I'll take you to her, but I'll have to hide somewhere in the distance. If she catches me anywhere near there, I'll never hear the end of it.
+Media:vo zycop001 1901204 sayu 31.ogg Sayu: And then they'll sentence me to all kinds of work, which'll really cut into my time for napping.
+Media:vo zycop001 1901204 sayu 32.ogg Sayu: Please, she's quite perceptive. You mustn't tell her that you've seen me anywhere.
+Media:vo zycop001 1901204 sayu 33.ogg Sayu: You got that? We have a deal, no word about me."
+Media:vo zycop001 1901205 kanonana 01.ogg Kano Nana: *sigh* Where has she run off to this time...
+Media:vo zycop001 1901205 kanonana 02.ogg Kano Nana: Hm? I didn't expect to see you here. You're (Traveler), right? It's a pleasure to meet you.
+Media:vo zycop001 1901205 kanonana 03.ogg Kano Nana: Yes, Miss Kamisato has spoken of you before. You seemed familiar. It appears my intuitions were correct.
+Media:vo zycop001 1901205 kanonana 04.ogg Kano Nana: May I ask what brings you here?
+Media:vo zycop001 1901205 kanonana 05.ogg Kano Nana: It just so happens I'm looking for a little child by the name of Sayu.
+Media:vo zycop001 1901205 kanonana 06.ogg Kano Nana: She's a ninja with a nasty habit of disappearing the moment I turn around. *sigh* She's always neglectful of her duties.
+Media:vo zycop001 1901205 kanonana 07.ogg Kano Nana: She often comes here to take a nap, but it seems she's already predicted that I would come looking for her.
+Media:vo zycop001 1901205 kanonana 08.ogg Kano Nana: You haven't happened to see her anywhere, have you? She's wearing a mujina costume, pretty hard to miss.
+Media:vo zycop001 1901205 kanonana 09.ogg Kano Nana: Really?
+Media:vo zycop001 1901205 kanonana 10.ogg Kano Nana: Well then, I suppose I'll just have to keep searching for her.
+Media:vo zycop001 1901205 kanonana 11.ogg Kano Nana: Oh? How could that be?
+Media:vo zycop001 1901205 kanonana 12.ogg Kano Nana: How did you catch wind of this? Did you encounter the ninja tasked with the matter?
+Media:vo zycop001 1901205 kanonana 13.ogg Kano Nana: Huh... Well, I'm sure there's no need to worry. You're probably just overthinking things.
+Media:vo zycop001 1901205 kanonana 14.ogg Kano Nana: After all, you have been of great service to the Yashiro Commission and many are thankful for your actions. How could anyone even consider dispatching a ninja to attack you?
+Media:vo zycop001 1901205 kanonana 15.ogg Kano Nana: Like Sayu? You mean to say that this matter is related to Sayu?
+Media:vo zycop001 1901205 kanonana 16.ogg Kano Nana: There's absolutely no need to worry about Sayu. If anything, she's extremely loyal and would never act presumptuously.
+Media:vo zycop001 1901205 kanonana 17.ogg Kano Nana: Though she often neglects her duties as a ninja and seems to never heed instructions, she's certainly not one to go against our principles.
+Media:vo zycop001 1901205 kanonana 18.ogg Kano Nana: Given her age, such portentous tasks are not assigned to her.
+Media:vo zycop001 1901205 kanonana 19.ogg Kano Nana: What's the matter? Are you still worried?
+Media:vo zycop001 1901205 kanonana 20.ogg Kano Nana: Alright, just to be sure, I shall personally inquire about this matter with the Yashiro Commission.
+Media:vo zycop001 1901205 kanonana 21.ogg Kano Nana: Though I am the shrine maiden, it is also part of my duties to take on work from the Shuumatsuban.
+Media:vo zycop001 1901205 kanonana 22.ogg Kano Nana: I'll be sure to look into it. I'm curious myself what could be the cause of such absurd rumors.
+Media:vo zycop001 1901205 kanonana 23.ogg Kano Nana: My intuition tells me that Sayu's mischief might be behind this whole misunderstanding.
+Media:vo zycop001 1901205 kanonana 24.ogg Kano Nana: Are you completely certain that you haven't seen her around recently?
+Media:vo zycop001 1901205 kanonana 25.ogg Kano Nana: Hmm...
+Media:vo zycop001 1901205 kanonana 26.ogg Kano Nana: Aha! Sayu, I can see you. Come out from there!
+Media:vo zycop001 1901205 kanonana 27.ogg Kano Nana: Don't even think about trying to sneak away. Come over here, this instant!
+Media:vo zycop001 1901205 kanonana 28.ogg Kano Nana: Hmm, it does appear that Sayu has really been given a mission to ambush you... Which wasn't assigned by me, of course.
+Media:vo zycop001 1901205 kanonana 29.ogg Kano Nana: I apologize, (Traveler). I'm afraid I did not treat this matter with due sincerity.
+Media:vo zycop001 1901205 kanonana 30.ogg Kano Nana: I shall take these orders back to the Yashiro Commission for further clarification.
+Media:vo zycop001 1901205 kanonana 31.ogg Kano Nana: Ahem! Sayu!
+Media:vo zycop001 1901205 kanonana 32.ogg Kano Nana: Where do you think you're off to? You have ninjutsu training to complete, so you shall return with me to Chinju Forest.
+Media:vo zycop001 1901205 kanonana 33.ogg Kano Nana: You're coming with me, even if I have to carry you, Sayu. Is that what you want?
+Media:vo zycop001 1901205 kanonana 34.ogg Kano Nana: Ugh... I honestly hope you are not up to something again, Sayu.
+(Proceed to Give It Up!)
+Media:vo zycop001 1901205 kanonana 35.ogg Kano Nana: Yes, of course. I'm sorry that this matter has taken up so much of your time. I'll be sure to look into it and get back to you as soon as possible.
+Media:vo zycop001 1901205 sayu 01.ogg Sayu: Good... Well if there's nothing left for me to do then I'll be...
+Media:vo zycop001 1901205 sayu 02.ogg Sayu: Oh, uh, y—yes!
+Media:vo zycop001 1901205 sayu 03.ogg Sayu: Yes, but you know, an exceptional ninja must not only work hard, but also have ample rest. *yawn* It happens to be time for my nap, so I'll see you next time... Goodbye and good night.
+Media:vo zycop001 1901205 sayu 04.ogg Sayu: Oh, n—no need. I'm sorry, I'll come quietly.
+Media:vo zycop001 1901205 sayu 05.ogg Sayu: In which case... (Traveler), will you come with us, too?
+Media:vo zycop001 1901205 sayu 06.ogg Sayu: I promise there won't be any trouble. I need a bit of your time, that's all.
+Media:vo zycop001 1901205 sayu 07.ogg Sayu: I helped you by bringing you to the shrine maiden, so now you need to return the favor.
+Media:vo zycop001 1901205 sayu 08.ogg Sayu: Whew, that was close. Thanks for not ratting me out.
+Media:vo zycop001 1901205 sayu 09.ogg Sayu: Hey, even I find it hard to sleep through a tense moment like that.
+Media:vo zycop001 1901205 sayu 10.ogg Sayu: Hmm, I don't know where else to start...
+Media:vo zycop001 1901205 sayu 11.ogg Sayu: Oh, but there is one official guy who is responsible for delivering orders from the Yashiro Commission to the Shuumatsuban. Anyone with missions like this will report directly to him.
+Media:vo zycop001 1901205 sayu 12.ogg Sayu: But I never receive those kind of missions, so I've hardly ever spoken to him before.
+Media:vo zycop001 1901205 sayu 13.ogg Sayu: Oh, so what should I do?
+Media:vo zycop001 1901205 sayu 14.ogg Sayu: Huh!? B—But, I can't do that... I mean, I—I can't even squish an Onikabuto, there's no way I...
+Media:vo zycop001 1901205 sayu 15.ogg Sayu: Oh wait, you said pretend, didn't you? You almost scared my tail off... But even so, I'm a lousy liar...
+Media:vo zycop001 1901205 sayu 16.ogg Sayu: Oh, I get it. We'll take the evidence, stuff it in a bag, and write my name on it. Then, all I need to do is put it in the big box used for reports and wait for him to see it. I'm sure he'll come looking for me.
+Media:vo zycop001 1901205 sayu 17.ogg Sayu: *yawn* But that's a lot to do, and it's really far away.
+Media:vo zycop001 1901205 sayu 18.ogg Sayu: Oh fine, I guess my nap will have to wait till later. Just stay put, okay? I'll be back in no time.
+Media:vo zycop001 1901205 sayu 19.ogg Sayu: *panting* It's me, I'm back... Whew, what a trip.
+Media:vo zycop001 1901205 sayu 20.ogg Sayu: Your evidence caught his attention right away. Then he asked me to go someplace to meet him outside. Strange, why wouldn't we just meet at the Police Station?
+Media:vo zycop001 1901205 sayu 21.ogg Sayu: Let's go to the meeting point, I want to settle this quickly so I can finally curl up for a nice, long nap.
+(Proceed to Shuumatsuban Suspicions)
+Observe: (Hm? What's that strange-looking thing?)
+(The "barrel" transforms into Sayu)
+Observe: (Nope, she doesn't seem to be around here.)
+Observe: (There doesn't seem to be anything of particular interest here, let's go have a look somewhere else.)
+Observe: (This appears to be just an ordinary pile of junk. Someone will likely come by to clean it up soon.)
+Seeing Sayu walk up gloomily, Kano Nana understands what going on.
+Thoughts: (Huh?)
+(The camera zooms on Sayu, who disappears from Traveler's sight)
+Thoughts: (Let's go follow her, maybe we can find out what's going on.)
+Thoughts: (Perhaps she's using her ninjutsu skills to hide. Hmm, let's have a look around the area.)
+Thoughts: (She's nowhere to be seen...)
+Thoughts: (Was that... Sayu? What's she doing running around here?)
+Thoughts: (We saw her only a moment ago, she couldn't have gone too far off.)

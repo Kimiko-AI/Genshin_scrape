@@ -1,0 +1,20 @@
+ I need more time...
+Lynn: Take all the time you need.
+ Quest DescriptionSomething seems to be troubling Lynn...
+ Sorry, I'm too busy.
+Lynn: Never mind then. I can keep looking, it'll just take me a lot longer...
+(Cancel quest)
+ Sure did.
+Lynn: Let's see... Perfect! This is for you.
+ Sure!
+Lynn: Great! I'll keep looking around here in the meantime.
+Lynn: When you're done, come and see me.
+Lynn: Could you help me? I only need (1/2/3) (Item)(s).
+Lynn: Found anything yet?
+Lynn: Great! I'll keep looking around here in the meantime.
+Lynn: I'm out looking for (Item), but not having much luck so far...
+Lynn: Let's see... Perfect! This is for you.
+Lynn: Never mind then. I can keep looking, it'll just take me a lot longer...
+Lynn: Take all the time you need.
+Lynn: What are you doing here, Traveler?
+Lynn: When you're done, come and see me.

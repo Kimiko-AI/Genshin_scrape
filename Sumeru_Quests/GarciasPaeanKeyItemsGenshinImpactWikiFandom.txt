@@ -1,0 +1,128 @@
+
+
+Garcia: Lutong, my dear Lutong, are you sure... this is the place?
+Lutong: Yes, Mr. Garcia, this is where Slimes are most often found.
+Garcia: I am most certain of that. However...
+Garcia: Would you agree that the Slimes are mildly overwhelming in quantity?
+Lutong: Mr. Garcia, this is how we end up when we are caught short financially.
+ You are... Garcia?
+ What brings you here?
+Garcia: Traveler! What a coincidence!
+ What are you doing here?
+Garcia: Haha. Why, I'm here for...
+Lutong: Trouble.
+Garcia: Valiant adventure! Please, Lutong, could you not...
+Lutong: As you wish, sir.
+Garcia: In truth, I'm here to look for Slime Condensate to use as the lubricant for my Numbering Machine.
+Garcia: Unfortunately, most of the Slime Condensate on sale is of low quality as it's kept for too long. Besides...
+Lutong: Mr. Garcia purchased too many books...
+Garcia: Oh come now, those were... necessary expenditures — that left us short of Mora, yes, but still!
+Garcia: That's why we came here, to collect some fresh Slime Condensate ourselves.
+Garcia: But as you can see, though our good Lutong is from Liyue, he knows neither martial arts nor culinary skills.
+Lutong: Fortunately, I have a gift for accounting... all thanks to the complex tax rules of the Ministry of Civil Affairs.
+Garcia: ...As for me, I can't possibly hit anyone with the components of my Numbering Machine.
+ Do you need my help?
+Garcia: Well, in a sense...
+Lutong: Yes.
+Garcia: Lutong, do we... um... do we have any Mora left?
+Lutong: Well, I believe we'll find a way to get by after we pay the Traveler.
+Garcia: Splendid. Traveler, I'd appreciate it if you could kindly retrieve some Slime Condensate for me.
+
+Lutong: Once again, Mr. Garcia, I sincerely suggest that we sell a few books to raise some Mora.
+Garcia: No! Not for the world! Lutong, my dear, you are asking me to put my soul up for sale!
+Lutong: But sir, no one bids for souls.
+ Why are you still here?
+ Do you need some more Slime Condensate?
+Garcia: Oh, Traveler? What brings you here?
+Garcia: Um... My last experiment failed. There was something wrong with my dilution of the Slime Condensate...
+Garcia: Instead of lubricating the bearings of the Numbering Machine, the lubricant actually made them more likely to get stuck.
+Garcia: As such, I need more Slime Condensate for further experiments. Could you...
+ Leave it to me.
+ Don't you have a way to earn Mora?
+Garcia: It's not that we don't...
+Lutong: It's a question of ability.
+Garcia: Thank you very much for this timely explanation, my dear Lutong.
+Garcia: Well, it's most certainly a shame... Although I have finished building the Numbering Machine, its functions are incalculably underwhelming.
+Garcia: It cannot even fully function as an automatic calculator, requiring manual aid to facilitate its operation.
+Garcia: But... I will enhance it! I firmly believe that my Numbering Machine will be a great invention!
+Garcia: An... An invention that heralds a new era! And after that, I'm sure I'll find a way to earn Mora...
+Garcia: H—However, before that...
+Lutong: Traveler, please help us collect the Slime Condensate. I'll have your payment ready.
+ Do you need my help?
+ Do you need some more Slime Condensate?
+ Don't you have a way to earn Mora?
+Garcia: It's not that we don't...
+Lutong: It's a question of ability.
+Garcia: Thank you very much for this timely explanation, my dear Lutong.
+Garcia: Well, it's most certainly a shame... Although I have finished building the Numbering Machine, its functions are incalculably underwhelming.
+Garcia: It cannot even fully function as an automatic calculator, requiring manual aid to facilitate its operation.
+Garcia: But... I will enhance it! I firmly believe that my Numbering Machine will be a great invention!
+Garcia: An... An invention that heralds a new era! And after that, I'm sure I'll find a way to earn Mora...
+Garcia: H—However, before that...
+ Got it right here.
+ Leave it to me.
+ Quest DescriptionGarcia and Lutong seem to be troubled by something...
+ What are you doing here?
+ What brings you here?
+ Why are you still here?
+ You are... Garcia?
+Garcia: (I need to speed up my research...)
+Garcia: ...As for me, I can't possibly hit anyone with the components of my Numbering Machine.
+Garcia: Aha! That's a clever metaphor. Then I suppose our situation is not quite so dire.
+Garcia: An... An invention that heralds a new era! And after that, I'm sure I'll find a way to earn Mora...
+Garcia: As such, I need more Slime Condensate for further experiments. Could you...
+Garcia: But as you can see, though our good Lutong is from Liyue, he knows neither martial arts nor culinary skills.
+Garcia: But... I will enhance it! I firmly believe that my Numbering Machine will be a great invention!
+Garcia: Eh? Come on now, Lutong, don't jinx it...
+Garcia: Haha. Why, I'm here for...
+Garcia: H—However, before that...
+Garcia: I am most certain of that. However...
+Garcia: I must attend to my research now. Lutong, please take care of the remaining affairs.
+Garcia: In truth, I'm here to look for Slime Condensate to use as the lubricant for my Numbering Machine.
+Garcia: Instead of lubricating the bearings of the Numbering Machine, the lubricant actually made them more likely to get stuck.
+Garcia: It cannot even fully function as an automatic calculator, requiring manual aid to facilitate its operation.
+Garcia: It's not that we don't...
+Garcia: Lutong, do we... um... do we have any Mora left?
+Garcia: Lutong, my dear Lutong, are you sure... this is the place?
+Garcia: Lutong, our Mora...
+Garcia: No! Not for the world! Lutong, my dear, you are asking me to put my soul up for sale!
+Garcia: Oh come now, those were... necessary expenditures — that left us short of Mora, yes, but still!
+Garcia: Oh, Traveler? What brings you here?
+Garcia: Splendid. Traveler, I'd appreciate it if you could kindly retrieve some Slime Condensate for me.
+Garcia: Thank you very much for this timely explanation, my dear Lutong.
+Garcia: That's why we came here, to collect some fresh Slime Condensate ourselves.
+Garcia: Traveler! What a coincidence!
+Garcia: Traveler, have you obtained the Slime Condensate?
+Garcia: Um... My last experiment failed. There was something wrong with my dilution of the Slime Condensate...
+Garcia: Unfortunately, most of the Slime Condensate on sale is of low quality as it's kept for too long. Besides...
+Garcia: Valiant adventure! Please, Lutong, could you not...
+Garcia: Well, in a sense...
+Garcia: Well, it's most certainly a shame... Although I have finished building the Numbering Machine, its functions are incalculably underwhelming.
+Garcia: Wonderful! This should suffice. I'll continue my experiments once I return. With this as the lubricant, my Numbering Machine will definitely...
+Garcia: Would you agree that the Slimes are mildly overwhelming in quantity?
+Lutong: (Why does Mr. Garcia look like he's in a hurry...?)
+Lutong: *sigh* ...Actually, I came to travel with Mr. Garcia because I didn't want to spend my whole life doing accounts in a department of the Ministry of Civil Affairs like my parents do.
+Lutong: And um... in my humble opinion, we might be in need of your help in the future.
+Lutong: As you wish, sir.
+Lutong: But now... in addition to working with Mr. Garcia on his calculations, I also need to help him sort out his accounts...
+Lutong: But sir, no one bids for souls.
+Lutong: Fortunately, I have a gift for accounting... all thanks to the complex tax rules of the Ministry of Civil Affairs.
+Lutong: Here's your payment, Traveler. Thank you ever so much for your help.
+Lutong: I guess this is what they call destiny...
+Lutong: It means that when a mountain stand in our way, we will always find a way to get over it.
+Lutong: It's a question of ability.
+Lutong: Mr. Garcia purchased too many books...
+Lutong: Mr. Garcia, this is how we end up when we are caught short financially.
+Lutong: Once again, Mr. Garcia, I sincerely suggest that we sell a few books to raise some Mora.
+Lutong: Rest assured. As long as the accounts are in my hands, you will be paid fairly.
+Lutong: Still, Mr. Gracia, do you think the person who originally penned those words found a way across the mountain?
+Lutong: There is an old saying in Liyue, "When your path is blocked by a mountain, there will be a way through." I think this  describes precisely where we are right now.
+Lutong: Traveler, please help us collect the Slime Condensate. I'll have your payment ready.
+Lutong: Trouble.
+Lutong: We'll get by, Mr. Garcia.
+Lutong: Well, I believe we'll find a way to get by after we pay the Traveler.
+Lutong: Yes, Mr. Garcia, this is where Slimes are most often found.
+Lutong: Yes, sir.
+Lutong: Yes.
+Paimon: That should be enough. Let's get back to Mr. Garcia now.
+(Obtain Fresh Slime Condensate)

@@ -1,0 +1,45 @@
+ Consider it done.
+Cyrus: I'll leave it to you, then. Don't worry, you will be compensated fairly!
+ I've got other matters...
+Cyrus: Alright. Go get your affairs in order first. I'll think of a way to get someone to clear those monsters out.
+Cyrus: *sigh* Where has that kid Bennett run off to? I hope he didn't run into any trouble.
+(Does not accept the quest)
+ Is that a bad thing?
+ Quest DescriptionThe storm has subsided, but Cyrus seems displeased...
+ There are still monsters out and about...
+ You seem unhappy about this.
+Cyrus: Ah, this... Well, you know how the young people in Mondstadt all wish to join the Knights of Favonius, with their shining armor, their flying banners, the glory, and Master Jean as well...
+Cyrus: As for the Adventurers' Guild, the only impression of us people have is that of people who bumble about outdoors... Basically, no one cares about us.
+Cyrus: I thought to myself that if there was an opportunity to show the Guild's mettle, we might be able to bring in more fresh blood.
+Cyrus: Ah, but it doesn't matter. The safety of Mondstadt is more important than my own personal wishes.
+Cyrus: I'll leave those monsters to you. I'll have your compensation ready.
+Cyrus: *sigh* Where has that kid Bennett run off to? I hope he didn't run into any trouble.
+Cyrus: ...We were going to teach them to set up basic camps, do pest control, avoid beasts and monsters...
+Cyrus: Ah, but it doesn't matter. The safety of Mondstadt is more important than my own personal wishes.
+Cyrus: Ah, never mind. Rather than take our chances out there, better to remain safe within these walls.
+Cyrus: Ah, no... It's good that they stopped, yes.
+Cyrus: Ah, this... Well, you know how the young people in Mondstadt all wish to join the Knights of Favonius, with their shining armor, their flying banners, the glory, and Master Jean as well...
+Cyrus: Ah, yes. Some of our investigating adventurers have informed me that there are monsters congregating in the Whispering Woods.
+Cyrus: Almost everyone is out investigating, and I must remain here to command them.
+Cyrus: Alright. Go get your affairs in order first. I'll think of a way to get someone to clear those monsters out.
+Cyrus: As for the Adventurers' Guild, the only impression of us people have is that of people who bumble about outdoors... Basically, no one cares about us.
+Cyrus: Hahaha! So there's still time, then – time for the Adventurers' Guild to show its quality.
+Cyrus: Hmm... But it's all too sudden. I came up with so many contingency plans. Are we not going to get the chance to any of them?
+Cyrus: I thought to myself that if there was an opportunity to show the Guild's mettle, we might be able to bring in more fresh blood.
+Cyrus: I understand. Thanks for your help investigating. I will reconsider the commissions that we will be sending out. Take these as your reward.
+Cyrus: I'll leave it to you, then. Don't worry, you will be compensated fairly!
+Cyrus: I'll leave those monsters to you. I'll have your compensation ready.
+Cyrus: It is up to us to take those monsters out in the wild on, while the Knights of Favonius are still focused on defending the city and the area around Mondstadt.
+Cyrus: Monsters are still in the area, eh? So it seems that the effects of the Storm have yet to disperse...
+Cyrus: My contingencies included ways to scatter the people in the wild to avoid the storms, teach them how to survive...
+Cyrus: The storms suddenly stopped...
+Cyrus: Traveler, can I count on you to clear those monsters out?
+Cyrus: You're back. What's the situation?
+Paimon: Hmm... Paimon's got a bad feeling about this bonfire. Wonder what they could be using it for?
+(After defeating all the enemies)
+Paimon: Let's go tell Cyrus about what we've seen here.
+Paimon: Look at all those barrels of Pyro Slime! Only those monsters would dare to do something so dangerous. Let's help them clear these away, shall we?
+(Approach the second location)
+Paimon: Look at this tower... Are the monsters preparing to build a camp here?
+(Approach the third location)
+Paimon: There's still so many monsters... Seems we've only seen the beginning of them...

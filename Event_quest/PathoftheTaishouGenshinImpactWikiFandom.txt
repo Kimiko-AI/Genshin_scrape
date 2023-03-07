@@ -1,0 +1,15 @@
+ Bring it on!
+ I'm ready!
+ Quest DescriptionThe storm has passed. You and Paimon prepare to visit Shiki Taishou again and see how the Mystic Onmyou Chamber is doing...
+Media:vo eqrg004 1 paimon 01.ogg Paimon: Do you think things went smoothly for Shiki Taishou in the end?
+Media:vo eqrg004 1 paimon 02.ogg Paimon: Let's head over to the Mystic Onmyou Chamber and see!
+Media:vo eqrg004 13 shikishogun 01.ogg Shiki Taishou: Those who seek ultimate attainment, can find it in the practices of this Mystic Onmyou Chamber.
+Media:vo eqrg004 13 shikishogun 02.ogg Shiki Taishou: Of course, rushing straight for the strongest opponent may set you back. Know yourself, and proceed in accordance with your abilities.
+Media:vo eqrg004 2 paimon 01.ogg Paimon: Awesome! Does that mean you can start to focus on your original assignment again?
+Media:vo eqrg004 2 paimon 02.ogg Paimon: Yeah! Count Paimon in!
+(Quest ends)
+Media:vo eqrg004 2 shikishogun 01.ogg Shiki Taishou: Traveler, Paimon!
+Media:vo eqrg004 2 shikishogun 02.ogg Shiki Taishou: I explained the situation to the Tenryou Commission and showed them the original documentation. In the end, they believed that the Mystic Onmyou Chamber and I were innocent.
+Media:vo eqrg004 2 shikishogun 03.ogg Shiki Taishou: That's right. I've also restored the Mystic Onmyou Chamber to its original state — a domain dedicated to honing martial prowess.
+Media:vo eqrg004 2 shikishogun 04.ogg Shiki Taishou: With time, this Domain may exhaust itself of charm magic. When that time comes, I will let it lie dormant so that power can gradually reaccumulate.
+Media:vo eqrg004 2 shikishogun 05.ogg Shiki Taishou: Now might be a good time to give it a try. Are you up for the challenge?

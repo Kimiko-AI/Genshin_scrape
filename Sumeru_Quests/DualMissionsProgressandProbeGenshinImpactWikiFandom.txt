@@ -1,0 +1,147 @@
+ ...Because if we didn't...
+ ...most contestants wouldn't suspect a thing.
+ Bring it on!
+ But Paimon freeloads off the villain, so she's the bigger villain!
+ But even if they added some "special ingredients"...
+ Do you have any intel?
+ Floral Jelly?
+ For the sake of harmonious coexistence with our shroom buddies.
+ Here's Layla's order list.
+ I should be the one who's responsible.
+ I think we can safely assume that...
+ It gets busy at Yae Publishing House, after all.
+ Let's go, we're short on time.
+ Maybe she has work to do.
+ Oh no, I'm the villain...
+ Paimon... I'm the beast tamer here.
+ Quest DescriptionAfter learning about Haniyyah's prejudice against Fungi, you seem to have one more reason to win: You won't let her do anything reckless!
+ So you know something about what's going on.
+ The only way we can persuade her is to do it her way.
+ There's something suspicious about Kautilya...
+ We mustn't let our guards down, either.
+ We need to strike a balance between competing and investigating.
+ We sure do! We love helping Guuji Yae...
+ Well, it's literally what we signed up for.
+ What a grouch...
+ You know something about it?
+(Traveler): (Lack of sleep explains the tiredness, but not the breathlessness...)
+Media:Vo dialog eqpm002 kautlia 01.ogg Kautilya: Who are you!?
+Media:Vo eqpm003 2 paimon 02.ogg Paimon: Souka's pretty good at this. She even managed to fend off Bongo-Head!
+Media:vo dialog eqpm002 kautlia 02.ogg Kautilya: Oh, it's just you... I—I mean, if it isn't the tournament favorites!
+Media:vo dialog eqpm002 kautlia 03.ogg Kautilya: What are you here for? I hope it's feedback on your Wisdom Orbs. Having any issues?
+Media:vo dialog eqpm002 kautlia 04.ogg Kautilya: Hey! Take that back. I'm very busy, okay? If you can't provide any useful feedback, then run along and focus on the competition!
+Media:vo dialog eqpm002 kautlia 05.ogg Kautilya: I'm busy gathering data to advance the efficiency and functionality of the Wisdom Orb!
+Media:vo dialog eqpm002 kautlia 06.ogg Kautilya: (Just one more set of combat data, and I'll be able to wipe every last trace of the old technology in the next upgrade! Hahahaha... Those senile old fools will be dumbstruck when they witness what I have accomplished!)
+Media:vo dialog eqpm002 paimon 01.ogg Paimon: Geez, no need to be so impatient...
+Media:vo dialog eqpm002 paimon 02.ogg Paimon: Well, maybe we don't have the time to talk to you either, hmph! Next time you want feedback, go climb a random hill somewhere and talk to some mushrooms!
+Media:vo eqpm003 1 paimon 01.ogg Paimon: Today's the round of 32 for the Nilotpala Cup.
+Media:vo eqpm003 1 paimon 02.ogg Paimon: We're up against Souka this time. We gotta give it our all and then some! C'mon, let's head to the arena!
+Media:vo eqpm003 10 cryocrank 01.ogg Baron Bigfoot: I can see you're serious about this. Good. Time to put my years of rigorous training to full use.
+Media:vo eqpm003 10 cryocrank 02.ogg Baron Bigfoot: Now, prepare to witness the power of my all-Cryo Fungi team!
+Media:vo eqpm003 10 cryocrank 03.ogg Baron Bigfoot: That all you got? Couldn't melt a snowflake with that!
+Media:vo eqpm003 10 cryocrank 04.ogg Baron Bigfoot: Freeze them, Gusto-Frosto!
+Media:vo eqpm003 11 cryocrank 01.ogg Baron Bigfoot: Impossible... My team has been defeated...?
+Media:vo eqpm003 11 paimon 01.ogg Paimon: Phew, that was a hard-won battle... You and your buddies put up a good fight, Bongo-Head!
+Media:vo eqpm003 12 layla 01.ogg Layla: (Traveler), Paimon, I saw you guys made it to the next round. Congrats!
+Media:vo eqpm003 12 layla 02.ogg Layla: It was a close call, I only won by a hair... I'm so glad I trained with Miss Yae beforehand.
+Media:vo eqpm003 12 layla 03.ogg Layla: Also, the Almighty Merchant just sent someone to deliver the stuff I ordered. Thank you so much! I'm gonna go catch up on some rest with Twirly-Whirly now...
+Media:vo eqpm003 12 layla 04.ogg Layla: *whine*... My stamina's running low... Let's keep the volume down.
+Media:vo eqpm003 12 layla 05.ogg Layla: She left in a hurry with Souka. I guess they must have had something urgent to do. Also, I think they were escorted by a mercenary from the Corps of Thirty...
+Media:vo eqpm003 12 layla 06.ogg Layla: When I returned to the arena, they were already quite a distance away. It didn't feel right to run after them and ask what they were up to...
+Media:vo eqpm003 12 layla 07.ogg Layla: The quarterfinals are coming up. To me, this is the most important round... I'm a little nervous, but let's all do our best!
+Media:vo eqpm003 12 paimon 01.ogg Paimon: Hey, Layla! You're looking well today, and Twirly-Whirly looks really happy! Guess you won your last round, too?
+Media:vo eqpm003 12 paimon 02.ogg Paimon: Speaking of Miss Yae... where'd Miko go?
+Media:vo eqpm003 12 paimon 03.ogg Paimon: Could be. Miko has been putting a lot of time into the tournament lately, so Paimon wouldn't be surprised if she had a lot of Chief Editor work to catch up on.
+Media:vo eqpm003 12 paimon 04.ogg Paimon: She also said that she wanted to look for inspiration while enjoying her vacation. The mercenary was probably just their tour guide. We shouldn't worry about it!
+Media:vo eqpm003 12 paimon 05.ogg Paimon: Yeah! We've all done really well to come this far in the tournament. Keep it up, Layla!
+Media:vo eqpm003 12 paimon 06.ogg Paimon: Right, we have to stay vigilant! Okay, let's take some photos of the items we got from Dori to add to the ones we took this morning. We'll show them all to Miko when we see her next.
+(Obtain Clues For Yae Miko)
+Media:vo eqpm003 2 paimon 01.ogg Paimon: Don't get too cocky, Souka! We won't go easy on you!
+Media:vo eqpm003 2 paimon 03.ogg Paimon: Bongo-Head, use your Ultimate Water Blast! Let's finish this!
+Media:vo eqpm003 2 souka 01.ogg Souka: Traveler, Paimon. This day has come earlier than I had expected.
+Media:vo eqpm003 2 souka 02.ogg Souka: My apologies, but my writing career is at stake here, and my reputation in Lady Yae's eyes... I can't allow you to beat me.
+Media:vo eqpm003 2 souka 03.ogg Souka: How can this be!? They're too strong...
+Media:vo eqpm003 2 souka 04.ogg Souka: Unleash the wrath of the storm, Stormstress!
+Media:vo eqpm003 3 paimon 01.ogg Paimon: Oh no, did we go too far? Souka's taking this pretty hard... Miko said it was fine to not hold back, but she'll definitely be mad at us when she sees her in this state...
+Media:vo eqpm003 3 paimon 02.ogg Paimon: Paimon's freaking out... Okay, we should just go apologize to Miko. C'mon, Bongo-Head, put on your best guilty face!
+Media:vo eqpm003 3 souka 01.ogg Souka: I can't believe it... I lost, that's it... *sigh*
+Media:vo eqpm003 3 souka 02.ogg Souka: It seems that the "Guests of Tenshukaku" have powers beyond the reach of mere mortals like me.
+Media:vo eqpm003 4 layla 01.ogg Layla: (Traveler), Paimon, and Miss Yae... *cough*
+Media:vo eqpm003 4 layla 02.ogg Layla: I'm alright... So I wrote to the Amurta students, and they were really keen. I got a reply with the information I needed within just a few hours.
+Media:vo eqpm003 4 layla 03.ogg Layla: I've tried making a few different snacks for Twirly-Whirly based on the information they gave me, but it didn't seem to like any of them... Maybe I used some of the wrong ingredients, or something.
+Media:vo eqpm003 4 layla 04.ogg Layla: So then I made a new, improved list, and also included ingredients that might suit Bongo-Head's taste. I didn't go to bed until way past midnight, so I'm a little out of breath today...
+Media:vo eqpm003 4 layla 05.ogg Layla: Yep! Thanks for taking us training, Miss Yae. Twirly-Whirly is way more obedient now, and it reacts so quickly, I'm actually kinda envious...
+Media:vo eqpm003 4 layla 06.ogg Layla: But the opponents have gotten stronger too, so the pressure is on. I gotta train with Twirly-Whirly some more if I wanna have a shot at getting into the quarterfinals.
+Media:vo eqpm003 4 layla 07.ogg Layla: The problem is... I'm also planning to visit the Almighty Merchant at seven in the morning tomorrow to buy all the ingredients I need...
+Media:vo eqpm003 4 layla 08.ogg Layla: Sounds like you two help out Miss Yae quite often, huh?
+Media:vo eqpm003 4 layla 09.ogg Layla: Thanks so much! Ahh, you guys are the best!
+Media:vo eqpm003 4 layla 10.ogg Layla: This is the address where I arranged to meet up with the Almighty Merchant. And here's the list of ingredients. Thanks again...
+Media:vo eqpm003 4 paimon 01.ogg Paimon: Miko, we're sorry! It was all Bongo-Head! We didn't know it would take Souka out so quickly...
+Media:vo eqpm003 4 paimon 02.ogg Paimon: Uh yes... to all of those, actually. You know her really well, huh...
+Media:vo eqpm003 4 paimon 03.ogg Paimon: That's a conversation for another time! Miko, please ask Souka to go easy on us when she writes us into the novel!
+Media:vo eqpm003 4 paimon 04.ogg Paimon: Layla, take it easy, don't go fainting on us...
+Media:vo eqpm003 4 paimon 05.ogg Paimon: How'd you get the results so soon? That was super quick!
+Media:vo eqpm003 4 paimon 06.ogg Paimon: Ahh! Right, yeah! Please don't turn us into scary, evil bad guys!
+Media:vo eqpm003 4 paimon 07.ogg Paimon: Hey, it's our pleasure! You helped us look into Bongo-Head's preferences, remember? Glad we can return the favor!
+(Layla leaves)
+Media:vo eqpm003 4 paimon 08.ogg Paimon: Uhh... This is suddenly sounding super complicated... Paimon isn't really following...
+Media:vo eqpm003 4 paimon 09.ogg Paimon: Should we really take Miko's suggestion?
+Media:vo eqpm003 4 paimon 10.ogg Paimon: Yeah, you're right. Okay, let's wait until early tomorrow morning and go check out the Fungi power-up place...
+Media:vo eqpm003 4 paimon 11.ogg Paimon: Don't worry, Bongo-Head, you're not under suspicion or anything. We just wanna make sure everyone stays safe in this competition.
+(Obtain Layla's List of Orders)
+Media:vo eqpm003 4 yaemiko 01.ogg Yae Miko: Oh? Did she look crestfallen and say something melodramatic like "beyond the reach of mere mortals"? Then curl up on the ground and start wailing?
+Media:vo eqpm003 4 yaemiko 02.ogg Yae Miko: It's better this way. Souka will turn this experience into valuable writing material. She'll be able to portray the protagonist's journey with all the setbacks they face along the way much more compellingly. It will resonate all the more with readers.
+Media:vo eqpm003 4 yaemiko 03.ogg Yae Miko: As for how to flesh out the villain — dominating, ruthless, but brilliant, and ultimately victorious — the inspiration will have to come from you. So don't go getting yourselves knocked out of the competition by some second-rate wannabe, hm?
+Media:vo eqpm003 4 yaemiko 04.ogg Yae Miko: How's it going, my Little Layla? Have you been teaching your opponents a lesson?
+Media:vo eqpm003 4 yaemiko 05.ogg Yae Miko: Oh, that's no problem. I'll join you with your training session, and we can leave the little ones to buy the ingredients. They're quite the experts in running errands.
+Media:vo eqpm003 4 yaemiko 06.ogg Yae Miko: Don't worry, Little Layla. They're just apologizing to me for defeating Souka. Go buy yourself a nice drink, take a break, and catch your breath.
+Media:vo eqpm003 4 yaemiko 07.ogg Yae Miko: As for the potential liabilities we didn't have time to discuss earlier... One good place to start might be the Fungi power-up materials.
+Media:vo eqpm003 4 yaemiko 08.ogg Yae Miko: Why, this is the most exciting sub-plot of the novel: the secret investigation. I'm sure you must be curious about where the magical powers of the Wisdom Orb and Floral Jelly really come from?
+Media:vo eqpm003 4 yaemiko 09.ogg Yae Miko: Besides, if we fail to uncover what's really going on in this tournament, we simply leave Haniyyah to her own devices... who knows what chaos might ensue.
+Media:vo eqpm003 4 yaemiko 10.ogg Yae Miko: I suggest that you act just before sunrise, while most people are tired and resting. You may find some important leads.
+(Yae Miko leaves)
+Media:vo eqpm003 5 paimon 01.ogg Paimon: It's time. Let's head towards the Fungi Power-Up place. It should be totally deserted!
+Media:vo eqpm003 5 paimon 02.ogg Paimon: After we're done investigating, we can go buy all those ingredients from the Almighty Merchant Layla mentioned.
+Media:vo eqpm003 5 paimon 03.ogg Paimon: Then we'll come back and compete in the next round!
+Media:vo eqpm003 6 paimon 01.ogg Paimon: This all looks like regular Floral Jelly. It's right out in the open for everyone to see, and they've even put the recipe on the table.
+Media:vo eqpm003 6 paimon 02.ogg Paimon: Hmm... Well, it's not like we can just take them away and go investigate them. That'd be stealing, right? We'd probably be disqualified, and might even end up getting arrested by the Corps of Thirty.
+Media:vo eqpm003 6 paimon 03.ogg Paimon: Oh, but... we do have a Kamera! How about we take some pictures of the Floral Jelly and its recipe? At least then, we'll have a record of all the important information.
+Media:vo eqpm003 7 haniyyah 01.ogg Haniyyah: You hold yourselves to pretty high standards, coming here so early to power-up your Fungi. No wonder you've made it this far.
+Media:vo eqpm003 7 haniyyah 02.ogg Haniyyah: Save your breath. If you think I'm wrong, start by defeating me. Then you can show me why exactly you think your opinion is correct.
+Media:vo eqpm003 7 paimon 01.ogg Paimon: Done! We should ask an expert to analyze these photos... But we're kinda running out of time. Let's go buy Layla's stuff first!
+Media:vo eqpm003 7 paimon 02.ogg Paimon: H—Haniyyah?
+Media:vo eqpm003 7 paimon 03.ogg Paimon: Haniyyah, we need to talk! Your plan you told us about last time, it's way too extreme...
+Media:vo eqpm003 7 paimon 04.ogg Paimon: She won't listen to us at all... How did things end up like this? Paimon thought we were getting along pretty well at first!
+Media:vo eqpm003 7 paimon 05.ogg Paimon: Alright, fine... Come on, Bongo-Head, there's no time to mope.
+(Kautilya appears from behind a bush, appearing to have been eavesdropping on the Traveler and Paimon)
+(Elchingen appears from behind a stall, appearing to be watching Kautilya. He smiles)
+(Obtain Initial Investigation Clues)
+Media:vo eqpm003 8 dori 01.ogg Dori: The looks on your faces tell me you're searching for the Almighty Merchant, yes? Welcome, welcome!
+Media:vo eqpm003 8 dori 02.ogg Dori: Why so surprised? Every vendor and customer in the Grand Bazaar knows that Lord Sangemah Bay possesses the widest and most magical range of goods.
+Media:vo eqpm003 8 dori 03.ogg Dori: "Almighty," "supreme," "omnipotent"... These and many more are my exclusive epithets. Any other merchant thinking of using one can forget it... unless they're prepared to pay millions of Mora in licensing fees!
+Media:vo eqpm003 8 dori 04.ogg Dori: Yeah yeah, whatever, but back to business. I'm surprised that Layla sent you here on her behalf... I suppose she must be busy enjoying the beast-tamers tournament, hmm?
+Media:vo eqpm003 8 dori 05.ogg Dori: Hehe, it has nothing to do with getting along. Layla previously bought a few things from me. They weren't the most valuable goods, but it was still a lot of Mora — for a student.
+Media:vo eqpm003 8 dori 06.ogg Dori: So naturally, I now keep tabs on her activity. Which is why I know that she's taking part in a very suspicious tournament!
+Media:vo eqpm003 8 dori 07.ogg Dori: Mm-hmm. Something just didn't feel right. As it happens, I do have some goods I'm trying to get off my hands — they're a little hot for my liking, but so far, no takers... They're also taking up space. So I think I'll just give them to you.
+Media:vo eqpm003 8 dori 08.ogg Dori: I'm told that this is a device and some documents that the organizer attempted to destroy.
+Media:vo eqpm003 8 dori 09.ogg Dori: But they were careless. Some people will scavenge through anything hoping for a chance to get rich. Sure enough, someone fished these out of the water and sent them to me.
+Media:vo eqpm003 8 dori 10.ogg Dori: I don't know what you two are talking about, but it sounds like these items might prove useful to you. Tell you what — I'll give you a discount! 60 million Mora, thank you for your business!
+Media:vo eqpm003 8 dori 11.ogg Dori: Hehehe, I'm just kidding! No one gives a hoot about these items except for you and the matra. We have other business to do today. Consider this a little extra I'm throwing in to sweeten the deal.
+Media:vo eqpm003 8 dori 12.ogg Dori: Show me Layla's list. I just need to know what she wants. Once I've finished stocking up the goods, I'll send someone to deliver them to her so that you don't have to.
+Media:vo eqpm003 8 dori 13.ogg Dori: Hmm... flour mixed with Matsutake powder, vintage Jam, Zaytun Peach Juice... Is this really the Fungi diet? How did Layla even find that out...?
+Media:vo eqpm003 8 paimon 01.ogg Paimon: Layla's note says that this is where we should be meeting the Almighty Merchant...
+Media:vo eqpm003 8 paimon 02.ogg Paimon: Yeah! How did you know?
+Media:vo eqpm003 8 paimon 03.ogg Paimon: Wait, Dori? Ah, so you're the Almighty Merchant Layla mentioned?
+Media:vo eqpm003 8 paimon 04.ogg Paimon: Huh, guess Paimon should've known...
+Media:vo eqpm003 8 paimon 05.ogg Paimon: Sounds like you two get along pretty well. You know a lot about what's going on!
+Media:vo eqpm003 8 paimon 06.ogg Paimon: Umm... This is just a bunch of spare parts and random notes...
+Media:vo eqpm003 8 paimon 07.ogg Paimon: Now that Paimon takes a closer look, this looks similar to the recipe for Floral Jelly. And these parts look like they came from a Wisdom Orb.
+Media:vo eqpm003 8 paimon 08.ogg Paimon: Maybe they were used during the experiment phase? Let's hold onto them for now and have Miko take a look later. Maybe she'll notice if there's anything fishy about them.
+Media:vo eqpm003 8 paimon 09.ogg Paimon: Yeah, seems like our worries were well-placed after all... But Paimon still wants to hang out with Bongo-Head...
+Media:vo eqpm003 8 paimon 10.ogg Paimon: Huh!? Why, you sneaky little...
+Media:vo eqpm003 8 paimon 11.ogg Paimon: That's a relief! Paimon thought all our efforts were gonna go down the drain... We couldn't afford that price even if we won the top prize...
+Media:vo eqpm003 9 paimon 01.ogg Paimon: Paimon still feels kinda uneasy about all this... But we don't have much time. Let's continue with the competition.
+Media:vo eqpm003 9 paimon 02.ogg Paimon: If Kautilya really is plotting something, we'll expose him in front of everyone during the Ultimate Trial!
+Media:vo eqpm006 5 paimon 02.ogg Paimon: You can do it, Bongo-Head! We're not gonna lose!
+Media:vo eqpm006 5 paimon 05.ogg Paimon: Bongo-Head, give them a taste of your Super Waterballoon Blast!
+You locate the Floral Jelly and recipe, and take photo evidence...

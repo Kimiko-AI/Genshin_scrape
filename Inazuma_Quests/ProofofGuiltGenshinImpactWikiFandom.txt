@@ -1,0 +1,115 @@
+ A distraction, you say...
+ I have no idea what I'm looking for.
+ I'm not sure...
+ It's not been quite that long...
+ Quest DescriptionYou hurry to find proof of your claims to Kujou Sara that the Kujou Clan has betrayed the Shogunate within three days.
+ The Yashiro Commission!
+ We lit the firework and ran away...
+ We'll just have to trust Yoimiya.
+ We've done this before...
+ What exactly is the evidence?
+After some time...
+Media:vo dialog dqaq105 ayaka 01.ogg Kamisato Ayaka: Fireworks are more visible at night... If possible, I suggest you wait till after dark to put your plan into action.
+Media:vo dialog dqaq105 ayaka 02.ogg Kamisato Ayaka: That Guuji Yae... she's such an enigma.
+Media:vo dialog dqaq105 thoma 01.ogg Thoma: *sigh* I really hope the plan works out...
+Media:vo dialog dqaq105 thoma 02.ogg Thoma: Mind yourself against the Raiden Shogun!
+Media:vo dialog dqaq105 yoimiya 01.ogg Yoimiya: Hmm? Is there anything else you want?
+Media:vo dqaq009 1 paimon 14.ogg Paimon: Yikes! Hide — quick!
+Media:vo dqaq009 1 paimon 15.ogg Paimon: Oh no — run!
+Media:vo dqaq009 1 soldier 01.ogg Patrol Officer: Stop! I have orders to search for a wanted criminal!
+Media:vo dqaq009 1 soldier 02.ogg Patrol Officer: You! The warrant is for your arrest! Freeze!
+Media:vo dqaq105 1 paimon 01.ogg Paimon: Ah! That toy tanuki just turned into a human!
+Media:vo dqaq105 1 paimon 02.ogg Paimon: What's going on? Paimon's never seen one of these before!
+Media:vo dqaq105 1 paimon 03.ogg Paimon: Um, is this the "professional" you were talking about?
+Media:vo dqaq105 1 paimon 04.ogg Paimon: Heh... She doesn't look very professional at all.
+Media:vo dqaq105 1 paimon 05.ogg Paimon: Wow, a ninja! So was that one of those legendary ninja transformation techniques?
+Media:vo dqaq105 1 paimon 06.ogg Paimon: Anyway, what's the Shuumatsuban?
+Media:vo dqaq105 1 paimon 07.ogg Paimon: You make it sound so simple, but...
+Media:vo dqaq105 1 sayu 01.ogg Sayu: Not a tanuki... I'm a mujina... *snore*...
+Media:vo dqaq105 1 sayu 02.ogg Sayu: I'm so tired... If I don't get enough sleep... it'll stunt my growth...
+Media:vo dqaq105 1 sayu 03.ogg Sayu: Ah...
+Media:vo dqaq105 1 yaemiko 01.ogg Yae Miko: Hehe... She is a member of the Shuumatsuban, a genuine, bona-fide ninja.
+Media:vo dqaq105 1 yaemiko 02.ogg Yae Miko: It belongs to the Yashiro Commission. A secret unit under Kamisato Ayato.
+Media:vo dqaq105 1 yaemiko 03.ogg Yae Miko: Now, Kamisato Ayato and the Yashiro Commission are neutral parties, so I have no right to give orders to the Shuumatsuban.
+Media:vo dqaq105 1 yaemiko 04.ogg Yae Miko: However, convincing their most chronically lazy member to help us is well within my abilities.
+Media:vo dqaq105 1 yaemiko 05.ogg Yae Miko: Here's what I need you to do: Go into town and find evidence of the Tenryou Commission's betrayal.
+Media:vo dqaq105 1 yaemiko 06.ogg Yae Miko: It would not be appropriate for me to be seen there myself.
+Media:vo dqaq105 1 yaemiko 07.ogg Yae Miko: Hmm? Oh, I thought you would have figured it out by now. Alright then, I'll indulge you with a little more information.
+Media:vo dqaq105 1 yaemiko 08.ogg Yae Miko: For a complete outsider, probing the inner workings of the Tenryou Commission is nigh on impossible.
+Media:vo dqaq105 1 yaemiko 09.ogg Yae Miko: But since the three Commissions work together to serve the Shogun, they have a close relationship. Someone from one of the other Commissions might have an easier job of figuring out what they're up to...
+Media:vo dqaq105 1 yaemiko 10.ogg Yae Miko: Hehe... Now you're following me.
+Media:vo dqaq105 1 yaemiko 11.ogg Yae Miko: The Shogun's Army haven't given up on their search for you yet, but with the help of this Shuumatsuban ninja, I'm sure you'll be able to rendezvous with your friends.
+Media:vo dqaq105 1 yaemiko 12.ogg Yae Miko: Don't forget we're on a tight schedule here. Be sure to bring back the evidence in good time.
+Media:vo dqaq105 2 ayaka 01.ogg Kamisato Ayaka: I see. You have been through a lot since we last met.
+Media:vo dqaq105 2 ayaka 02.ogg Kamisato Ayaka: I understand, you need evidence of the Tenryou Commission's betrayal. Let me think...
+Media:vo dqaq105 2 ayaka 03.ogg Kamisato Ayaka: Now that you mention it, there is one thing that has always concerned me. The Shogun's Army has been at war with the resistance for a long time now, but not once has the Shogun ever inquired about it.
+Media:vo dqaq105 2 ayaka 04.ogg Kamisato Ayaka: I used to think that she simply didn't care, but looking at it now, perhaps the problem all along has been with the Tenryou Commission's reports to the Shogun.
+Media:vo dqaq105 2 ayaka 05.ogg Kamisato Ayaka: The Tenryou Commission presides over domestic military affairs. If they ever had any intention of concealing information in their reports, we would have no way of knowing.
+Media:vo dqaq105 2 ayaka 06.ogg Kamisato Ayaka: Meanwhile, the Shogun would incorrectly conclude that the Vision Hunt Decree poses no threat, and would stick to her decision. If we had access to their reports, it would confirm everything.
+Media:vo dqaq105 2 ayaka 07.ogg Kamisato Ayaka: If only there was a way we could distract the guards just for long enough.
+Media:vo dqaq105 2 ayaka 08.ogg Kamisato Ayaka: Hmm...
+Media:vo dqaq105 2 ayaka 09.ogg Kamisato Ayaka: That's a very Thoma-sounding suggestion...
+Media:vo dqaq105 2 ayaka 10.ogg Kamisato Ayaka: But it's a reasonable one. The Statue of the Omnipresent God is right by the Tenryou Commission. If someone set off fireworks near the statue, they certainly wouldn't ignore it.
+Media:vo dqaq105 2 ayaka 11.ogg Kamisato Ayaka: While they were preoccupied with that, Sayu could infiltrate the Tenryou Commission and take the report, as well as any other evidence she might find...
+Media:vo dqaq105 2 ayaka 12.ogg Kamisato Ayaka: Let's focus on the issue at hand. The sooner the Vision Hunt Decree is abolished, the sooner Thoma will be free.
+Media:vo dqaq105 2 ayaka 13.ogg Kamisato Ayaka: This was a reunion of sorts, but there's no time to catch up. We'll celebrate properly when it's all over.
+Media:vo dqaq105 2 ayaka 14.ogg Kamisato Ayaka: The Tenryou Commission is heavily guarded. Be careful when you get near. Let's meet back here afterwards.
+Media:vo dqaq105 2 paimon 01.ogg Paimon: Thoma! Thoma, you there?
+Media:vo dqaq105 2 paimon 02.ogg Paimon: It's us, we're back!
+Media:vo dqaq105 2 paimon 03.ogg Paimon: Not just yet... We saw people patrolling on our way here.
+Media:vo dqaq105 2 paimon 04.ogg Paimon: What do you mean?
+Media:vo dqaq105 2 paimon 05.ogg Paimon: Poor Thoma...
+Media:vo dqaq105 2 paimon 06.ogg Paimon: You're still thinking about that!?
+Media:vo dqaq105 2 paimon 07.ogg Paimon: Alright, (Traveler). First, let's go to Hanamizaka to find Yoimiya.
+Media:vo dqaq105 2 thoma 01.ogg Thoma: (Traveler), what brings you here?
+Media:vo dqaq105 2 thoma 02.ogg Thoma: Did you meet with the resistance? How's the battle going? Is it safe for me to come out yet?
+Media:vo dqaq105 2 thoma 03.ogg Thoma: So it's still not over... I guess you came here because you have something to discuss?
+Media:vo dqaq105 2 thoma 04.ogg Thoma: I'll get someone to call for Miss Kamisato, bear with me for one second.
+Media:vo dqaq105 2 thoma 05.ogg Thoma: But as I recall, the only person authorized to access that kind of official documentation is Kujou Takayuki.
+Media:vo dqaq105 2 thoma 06.ogg Thoma: It's heavily guarded too. Even with Sayu's help, swiping a document from under their noses is no easy task.
+Media:vo dqaq105 2 thoma 07.ogg Thoma: Yoimiya's fireworks!
+Media:vo dqaq105 2 thoma 08.ogg Thoma: Great! It feels like I'm getting closer and closer to being a free man again.
+Media:vo dqaq105 2 thoma 09.ogg Thoma: Ah... It feels like it's been an eternity since we last sat down and talked like this.
+Media:vo dqaq105 2 thoma 10.ogg Thoma: Well, it certainly felt like it to me... I've been looking forward to seeing you again every day since I got here!
+Media:vo dqaq105 2 thoma 11.ogg Thoma: This teahouse used to be my favorite hiding place, but now... I've honestly lost track of how long it's been since I last set foot outside of here.
+Media:vo dqaq105 2 thoma 12.ogg Thoma: Oh, man! I want to go to the hot springs so badly!
+Media:vo dqaq105 2 thoma 13.ogg Thoma: Oh, let's play the hot pot game again!
+Media:vo dqaq105 3 paimon 01.ogg Paimon: Yoimiya, we need an extra-large firework! The super, duper big kind!
+Media:vo dqaq105 3 paimon 02.ogg Paimon: Eh, why does Paimon feel so nervous all of a sudden...
+Media:vo dqaq105 3 paimon 03.ogg Paimon: We'll give it a try... Thanks, Yoimiya.
+Media:vo dqaq105 3 paimon 04.ogg Paimon: Well, we've got our distraction. Now we just need to wait for nightfall.
+Media:vo dqaq105 3 yoimiya 01.ogg Yoimiya: "Extra-large firework"?
+Media:vo dqaq105 3 yoimiya 02.ogg Yoimiya: Hee-hee, you sure came to the right person.
+Media:vo dqaq105 3 yoimiya 03.ogg Yoimiya: As it happens, I made this really souped-up one just a couple days ago.
+Media:vo dqaq105 3 yoimiya 04.ogg Yoimiya: But it's so powerful that I haven't found anywhere I can test it out yet... may as well give it to you. Let me know how it turns out.
+Media:vo dqaq105 3 yoimiya 05.ogg Yoimiya: Don't forget, move well away from it after you light the fuse, and try to avoid burning your clothes. Also, it's best that you cover your ears...
+Media:vo dqaq105 3 yoimiya 06.ogg Yoimiya: Hahaha, don't worry, it's just a firework, come on. What's the worst that could happen!
+Media:vo dqaq105 4 paimon 01.ogg Paimon: Is this really a good idea...?
+Media:vo dqaq105 4 paimon 02.ogg Paimon: Uh, a—anyway, let's make our way to the statue! Careful does it, watch out for guards and don't get caught!
+Media:vo dqaq105 4 paimon 03.ogg Paimon: What kind of firework is this!? By the look of it, Paimon's ears are gonna get blown off!
+Media:vo dqaq105 4 paimon 04.ogg Paimon: Oh, Yoimiya... you are officially nuts...
+Media:vo dqaq105 4 paimon 05.ogg Paimon: Uh-oh, they're all coming this way! (Traveler), quick, run!
+Media:vo dqaq105 4 sayu 01.ogg Sayu: Hmm... Pretty much how I thought...
+Media:vo dqaq105 4 sayu 02.ogg Sayu: There are loads and loads of people... If one of them spots me, I'll get caught...
+Media:vo dqaq105 4 sayu 03.ogg Sayu: We need to get rid of them, or I won't be able to sneak inside...
+Media:vo dqaq105 4 sayu 04.ogg Sayu: After I get the document, let's meet back at Komore Teahouse, okay?
+Media:vo dqaq105 4 sayu 05.ogg Sayu: Also, if I do get caught... please come rescue me...
+Media:vo dqaq105 5 ayaka 01.ogg Kamisato Ayaka: Well, (Traveler)? How did it go?
+Media:vo dqaq105 5 ayaka 02.ogg Kamisato Ayaka: Well done. Let's wait for news from Sayu.
+Media:vo dqaq105 5 ayaka 03.ogg Kamisato Ayaka: This sealed envelope must be an official report that the Tenryou Commission is preparing to present to the Shogun.
+Media:vo dqaq105 5 ayaka 04.ogg Kamisato Ayaka: In addition, we have... correspondence with the Fatui.
+Media:vo dqaq105 5 ayaka 05.ogg Kamisato Ayaka: It seems that Guuji Yae was right. They have been fomenting unrest behind the scenes.
+Media:vo dqaq105 5 ayaka 06.ogg Kamisato Ayaka: (Traveler), this should be ample evidence. Please take them to Guuji Yae. I trust she will have a plan for the next step.
+Media:vo dqaq105 5 ayaka 07.ogg Kamisato Ayaka: I will also gather some people to try and root out the rest of the Fatui in Inazuma.
+Media:vo dqaq105 5 ayaka 08.ogg Kamisato Ayaka: Again, we'll just have to trust Guuji Yae. She is close to the Shogun, so maybe she will have a way...
+Media:vo dqaq105 5 paimon 01.ogg Paimon: If Paimon remembers correctly, it should be time for our meeting with Yae Miko soon.
+Media:vo dqaq105 5 paimon 02.ogg Paimon: Let's pack up our things and get ready to head to the Grand Narukami Shrine.
+Media:vo dqaq105 5 sayu 01.ogg Sayu: *panting*...
+Media:vo dqaq105 5 sayu 02.ogg Sayu: I know exercise helps you grow, but this was a little too much exercise...
+Media:vo dqaq105 5 sayu 03.ogg Sayu: I feel so dizzy... Everyone is spinning...
+Media:vo dqaq105 5 sayu 04.ogg Sayu: No, I can't sleep yet. There was something important I was supposed to do first... Oh, right, yeah. I got it!
+Media:vo dqaq105 5 sayu 05.ogg Sayu: I didn't know how to find the document you guys were talking about, so I just swiped a whole bunch of stuff that looked suspicious.
+Media:vo dqaq105 5 sayu 06.ogg Sayu: Here you go... I'm going to sleep now...
+Media:vo dqaq105 5 thoma 01.ogg Thoma: Milady, what are we looking at?
+Media:vo dqaq105 5 thoma 02.ogg Thoma: Still, mind yourself when you face the Shogun. I still get goosebumps just thinking about her drawing that blade...
+You inform Ayaka and Thoma of the current situation...

@@ -1,0 +1,94 @@
+ ... What are you planning?
+ Go do it yourself!
+(Same as Standard version)
+ Go do it yourself!
+Vile: Don't say that. You know I don't have your strength.
+ I know where they're hiding.
+ I left it to the Knights of Favonius.
+ Isn't this all your doing?
+(Same as Standard version)
+ Isn't this all your doing?
+Vile: Oh, please, I too have my orders. If it wasn't for that gentleman's insistence that you be the one to handle this, I wouldn't have come looking for you.
+ Quest DescriptionAfter taking care of Jilliana's matter, Vile came again to inform you that "That Guy" has another commission for you.
+ The money. Give it here.
+Vile: How cold. I mean, I do have the bounty right here. But pray, spare a thought for a fellow errand-runner's feelings!
+ There are Treasure Hoarders active around Mondstadt.
+ This is a matter for the Knights.
+Vile: While that is true, that certain gentleman judges that under the present circumstances, the fewer people know of Jilliana's affairs the better.
+Vile: Besides, that gentleman does not wish for the Knights to get involved. After all, the Knights are too used to acting in the open, and often go overboard in the process.
+Vile: Take our ever-reliable Huffman, for example. Why, if he were to hear that there were Treasure Hoarders abroad near Mondstadt, he would raise the alarm within the hour.
+Vile: And should the Knights march out in full muster, the Treasure Hoarders would surely scurry off in a flash, rendering our plan to get rid of them for good moot once again.
+Vile: So, we ask you to fly solo and take them out efficiently, only because we must.
+ This is a matter for the Knights.
+Vile: While that is true, that certain gentleman judges that under the present circumstances, the fewer people know of Jilliana's affairs the better.
+Vile: Besides, that gentleman does not wish for the Knights to get involved. After all, the Knights are too used to acting in the open, and often go overboard in the process.
+Vile: Take our ever-reliable Huffman, for example. Why, if he were to hear that there were Treasure Hoarders abroad near Mondstadt, he would raise the alarm within the hour.
+Vile: And should the Knights march out in full muster, the Treasure Hoarders would surely scurry off in a flash, rendering our plan to get rid of them for good moot once again.
+Vile: So, we ask you to fly solo and take them out efficiently, only because we must.
+Vile: Still, that band of Treasure Hoarders has actually gotten so near to Mondstadt that the Knights of Favonius may have already caught wind of them. The Knights may even be prepared to make a move already...
+Vile: But this is beyond the scope of our consideration.
+ What's your goal?
+Vile: That gentleman's goals... I couldn't guess them. But I believe that he also means to protect Mondstadt.
+Vile: Or should I say that even he probably wouldn't do things like this just for the fun of it?
+Vile: Hmm, no, no, I shouldn't be speculating about such things...
+ Who's this gentleman, anyway?
+Vile: I won't tell you no matter how you ask. That's par for course in our line of work.
+Vile: Even when we do reveal any intelligence, we do so because we must.
+Vile: Well, you can give this a thought: which of the things I just said falls under "things I revealed because I must"?
+ Why, it's an honor.
+Vile: Oh no, the honor is all mine. Please take this reward... And pleasure doing business with you.
+Huffman: ...This is nowhere near the location we'd established previously. Just what is the goal of these Treasure Hoarders...
+Huffman: ...Those Treasure Hoarders... Oh, I'm sorry! Is something the matter?
+Huffman: I'm sorry, please let me mark these down... Alright, I've got it. I will get people to verify these locations immediately, and once we have verified them, we will go and repel these Treasure Hoarders.
+Huffman: No matter what the reason, they're definitely up to no good. We've redirected a lot of manpower to dealing with them, so I'm afraid we don't have the manpower to deal with your report right now.
+Huffman: Nonetheless, I'll note your report down. Once we are done with those Treasure Hoarders, I will pass it upwards. Again, thanks for reporting the matter to us.
+Huffman: That's right, you'd better keep hiding, you thieves, 'cause if I ever find out where you're hiding... Where are you all hiding, anyway?
+Huffman: To think that those Treasure Hoarders have had the gall to approach Mondstadt...
+Huffman: Treasure Hoarders? We're on the trail of a group of them ourselves. How dare those crooks skulk so near to Mondstadt. Not to mention that we don't know what their intentions are at all...
+Huffman: You have my thanks, once again, for your contributions to Mondstadt. This time, we won't let a single Treasure Hoarder get away!
+Huffman: You? How did you— Huh. The markings on this map are very detailed... Who did you get them from? Vile? To think she'd be...
+Jilliana: I'm still waiting for Sister Victoria to give me her reply.
+Jilliana: This incident... I'm prepared for the consequences, no matter what they may be.
+Jilliana: What... What can I do for you?
+Paimon: That should do it. Let's head back and look for Vile.
+Paimon: The Knights of Favonius look really busy.
+Paimon: What should we do... Maybe we should go beat those Treasure Hoarders ourselves.
+Vile: After all, it would have been too obvious a move for me to report the Treasure Hoarders' movements myself, and that gentleman can't exactly approach the Knights directly either...
+Vile: And should the Knights march out in full muster, the Treasure Hoarders would surely scurry off in a flash, rendering our plan to get rid of them for good moot once again.
+Vile: Besides, that gentleman does not wish for the Knights to get involved. After all, the Knights are too used to acting in the open, and often go overboard in the process.
+Vile: But according to that gentleman, your actions may yet lead us in interesting directions.
+Vile: But the bad news is that she has already confessed her situation to Sister Victoria, who hasn't done much about it so far.
+Vile: But this is beyond the scope of our consideration.
+Vile: Chances are that they're out to get Jilliana, and also to avenge their losses in the meantime. At this moment, we can only ask you to beat them back.
+Vile: Don't say that. You know I don't have your strength.
+Vile: Don't worry, I have ensured that the rewards this time will be substantial.
+Vile: Even when we do reveal any intelligence, we do so because we must.
+Vile: Hmm, no, no, I shouldn't be speculating about such things...
+Vile: How cold. I mean, I do have the bounty right here. But pray, spare a thought for a fellow errand-runner's feelings!
+Vile: I won't tell you no matter how you ask. That's par for course in our line of work.
+Vile: Oh no, the honor is all mine. Please take this reward... And pleasure doing business with you.
+Vile: Oh, come now. Don't look at me like that. I'm not some sort of villain. As a matter of fact, am I not giving you pointers on how to help her?
+Vile: Oh, please, I too have my orders. If it wasn't for that gentleman's insistence that you be the one to handle this, I wouldn't have come looking for you.
+Vile: Oh, yes, and one thing. Thus far, Jilliana has neither done too well nor too poorly. The good news is that she has yet to leave Mondstadt...
+Vile: Or should I say that even he probably wouldn't do things like this just for the fun of it?
+Vile: Right, let's get down to business. The reason I'm here are the "loose ends" we left behind from that previous incident.
+Vile: Right, let's get down to business. The reason I'm here is the "loose ends" we left behind from that previous incident.
+Vile: Simply put, you defeated the Treasure Hoarders, yes. But at the same time, you've also blown Jilliana's cover.
+Vile: So, we ask you to fly solo and take them out efficiently, only because we must.
+Vile: Still preparing? That's fine. Just head out once you're ready.
+Vile: Still, that band of Treasure Hoarders has actually gotten so near to Mondstadt that the Knights of Favonius may have already caught wind of them. The Knights may even be prepared to make a move already...
+Vile: Take our ever-reliable Huffman, for example. Why, if he were to hear that there were Treasure Hoarders abroad near Mondstadt, he would raise the alarm within the hour.
+Vile: That gentleman's goals... I couldn't guess them. But I believe that he also means to protect Mondstadt.
+Vile: The Treasure Hoarders are not lenient to traitors. As far as I know, we've already caught wind of quite a few of their tracks, and we've never seen any of this lot before.
+Vile: This time, our dear gentleman has furnished me with ample Mora, unlike the previous time, when I had to pay you out of pocket... Ah yes, I should also mark the location of those Treasure Hoarders on your map.
+Vile: We can only wait and see how this whole affair will end.
+Vile: Well, don't worry about the rest. *sigh* Guess it's time to run some errands...
+Vile: Well, then. If for nothing else, please protect Jilliana, Rudolf, Lily, and Mondstadt for the Mora. It's all up to you now, so do your best.
+Vile: Well, these are for you. Take them. What did that gentleman call it? A small reward for "changing the course of the wind."
+Vile: Well, you can give this a thought: which of the things I just said falls under "things I revealed because I must"?
+Vile: Well, you sure know how to skive. Fortunately, that gentleman expected that you might do this, so I had a backup plan prepared.
+Vile: While that is true, that certain gentleman judges that under the present circumstances, the fewer people know of Jilliana's affairs the better.
+Vile: Why, we meet again. How do you fare?
+Vile: You left it to the Knights of Favonius... Hey, didn't I just say that leaving it to them might be troublesome?
+Vile: You're back already? Why, aren't you efficient? I think I know why that gentleman likes to leave matters in your hands.
+Vile: You're back already? Why, aren't you efficient? I think I know why that gentleman likes you so much.

@@ -1,0 +1,54 @@
+ ...Go!
+ Ahh... my um, gliding license is, uh...
+ I'll think about it.
+Media:vo ablq003 4 ambor 03b.ogg Amber: Before you launch, make sure you're completely ready.
+(Talking to her again repeats this dialogue branch from the beginning)
+ I'm going to take another look around.
+Media:vo ablq003 7 ambor 02b.ogg Amber: Take your time, I'll be right here when you're done.
+ I'm ready.
+ I'm ready.
+Media:vo ablq003 4 ambor 03a.ogg Amber: Keep a firm grasp on the wind glider, and let the wind guide you.
+ I'm ready.
+Media:vo ablq003 7 ambor 02a.ogg Amber: You can do it. Your gliding license is within your grasp!
+ It got eaten by Baron Bunny...
+ Quest DescriptionAs it turned out, the book Amber gave you wasn't a manual, but a fairy tale... After completing the first test out in the wild, you learn that the second test is to take place within the city of Mondstadt itself. Amber is waiting for you there.
+ So... I passed?
+ Sure.
+Media:vo ablq003 2 ambor 01.ogg Amber: Hey — here, over here!
+Media:vo ablq003 2 ambor 02.ogg Amber: I'm all set up. Let's carry on with the exam.
+Media:vo ablq003 2 ambor 03.ogg Amber: Same deal as before, glide through the markers and get to the finish without stopping in the middle.
+Media:vo ablq003 4 ambor 01.ogg Amber: You didn't hurt yourself, did you?
+Media:vo ablq003 4 ambor 02.ogg Amber: Once you're ready, let's try again.
+Media:vo ablq003 4 ambor 03a.ogg Amber: Keep a firm grasp on the wind glider, and let the wind guide you.
+Media:vo ablq003 4 ambor 03b.ogg Amber: Before you launch, make sure you're completely ready.
+Media:vo ablq003 5 ambor 01.ogg Amber: Hahaha... Seems like you've got the hang of wind gliding now! Let's do the final stage.
+Media:vo ablq003 5 ambor 02.ogg Amber: Once you've passed this final stage, you'll finally be able to get your very own gliding license.
+Media:vo ablq003 5 ambor 03.ogg Amber: Just keep thinking about that license. Ready...
+Media:vo ablq003 5 paimon 01.ogg Paimon: Easy! You've flown this way before anyway...
+Media:vo ablq003 7 ambor 01.ogg Amber: Try to stay calm. You need to be brave at take off, but the trick to a good landing is to keep your cool.
+Media:vo ablq003 7 ambor 02a.ogg Amber: You can do it. Your gliding license is within your grasp!
+Media:vo ablq003 7 ambor 02b.ogg Amber: Take your time, I'll be right here when you're done.
+Media:vo ablq003 8 ambor 01.ogg Amber: Wait... I'm an instructor. This is a gliding exam.
+Media:vo ablq003 8 ambor 02.ogg Amber: Really, why?
+Media:vo ablq003 8 ambor 03.ogg Amber: Wow. He flies fast, then?
+Media:vo ablq003 8 ambor 04.ogg Amber: Well, if you need help chasing down a gliding criminal, I'm the one for the job! So tell me, which way did he go?
+Media:vo ablq003 8 ambor 05.ogg Amber: Leave it to me! With me and (Traveler) chasing him down together he doesn't stand a chance.
+Media:vo ablq003 8 ambor 06.ogg Amber: Once we've got this Raptor guy, we'll pick up where we left off.
+Media:vo ablq003 8 ambor 07.ogg Amber: But no need to worry... I'll be sure to have a word with Jean.
+Media:vo ablq003 8 otto 01.ogg Otto: Windborne traveler! You are required to land at once by order of the Knights of Favonius!
+(Talk to Otto after landing)
+Media:vo ablq003 8 otto 02.ogg Otto: I am Otto of the Knights of Favonius.
+Media:vo ablq003 8 otto 03.ogg Otto: Please show me your gliding license.
+Media:vo ablq003 8 otto 04.ogg Otto: It is against the law to glide without a license! I am arresting you under Section 7, Article 12 of the Mondstadt Penal Code.
+Media:vo ablq003 8 otto 05.ogg Otto: You have the right to remain silent. Anything you say will forever carry on the wind.
+Media:vo ablq003 8 otto 06.ogg Otto: Oh... I see.
+Media:vo ablq003 8 otto 07.ogg Otto: Well, you picked a bad time to hold your gliding exam.
+Media:vo ablq003 8 otto 08.ogg Otto: The Knights of Favonius received a report from a Sister at the Cathedral claiming she saw Raptor gliding around these parts. I thought your student here must have been his partner in crime.
+Media:vo ablq003 8 otto 09.ogg Otto: A known criminal in Mondstadt. He always uses a wind glider to commit his crimes, so people started calling him Raptor.
+Media:vo ablq003 8 otto 10.ogg Otto So far we haven't managed to catch him... Our plan this time was to draw him into the Cathedral with a precious artifact, and ambush him inside.
+Media:vo ablq003 8 otto 11.ogg Otto: ...But he escaped with the artifact.
+Media:vo ablq003 8 otto 12.ogg Otto: Fortunately, one of the Sisters put some secret markings on the artifact using elemental magic!
+Media:vo ablq003 8 otto 13.ogg Otto: ...But he was too fast, and we couldn't even keep up with the trail the markings left behind.
+Media:vo ablq003 8 otto 14.ogg Otto: As far as I know, he was last seen near Springvale, but that was some time ago.
+Media:vo ablq003 8 paimon 01.ogg Paimon: Wh—What's going on?
+Media:vo ablq003 8 paimon 02.ogg Paimon: Raptor? Who's that?

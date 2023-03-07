@@ -1,0 +1,23 @@
+ (Gliding Challenge) I'll do that.
+(Gliding Challenge Tutorial pops up)
+ I'm not ready yet...
+Hughes: I see. Make your preparations, then, and come find me again once you're done.
+ I've got other things to do right now...
+Hughes: Sure, go finish what you have to do first.
+ Quest DescriptionThe adventurer Hughes is a wind glider fanatic. To that end, he travels the world, constantly polishing his gliding skills. Recently, he seems to have discovered several prime gliding spots...
+ Start Gliding Challenge
+(Gliding Challenge menu pops up)
+ Takeoff from where?
+ Ways to use your wind glider?
+Hughes: From a suitable location, of course? Oh, hello, Traveler. Nice to meet you. I'm Hughes, an adventurer.
+Hughes: How about it? Are you ready to start the gliding challenge?
+Hughes: I see. Make your preparations, then, and come find me again once you're done.
+Hughes: Indeed. It's a real science, it is.
+Hughes: So, how about it? How would you like to spread your wings and soar?
+Hughes: Someone who put on a pair of wind gliders can soar with the birds, but others... Well, they don't get very far.
+Hughes: Sure, go finish what you have to do first.
+Hughes: The best way to refine one's technique, to whit, is via practical drills.
+Hughes: Traveler, you have a wind glider, too, right? I've just discovered a most excellent spot from which one can utilize wind gliders...
+Hughes: Ultimately, it has to do with individual differences in one's grasp on various gliding techniques.
+Hughes: Well, I say that... But I've honestly spent more time researching ways to use my wind glider, than I have at the Guild.
+Hughes: Yes... Yes! This place is good. It's a good spot for takeoff!

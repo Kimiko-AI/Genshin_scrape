@@ -1,0 +1,54 @@
+ Hi, Charles.
+ I love chatting with people.
+ I'm up to the challenge!
+ No problem at all.
+ Okay, we'll give it a shot.
+Media:vo eqtj001 1 luka 09a.ogg Luka: Great, then please come on in. First, Charles will walk you through some basic techniques.
+ Okay, we'll give it a shot.
+Media:vo eqtj001 2 luka 02a.ogg Luka: Great, then please come on in. First, Charles will walk you through some basic techniques.
+ Quest DescriptionAngel's Share seems to have started hosting some special event recently...
+ So you really did want a Caramel Pinecone...
+ That's me.
+ Uh, can I help you?
+ We need some time to consider.
+Media:vo eqtj001 1 luka 09b.ogg Luka: Sure, no problem. Please come back whenever you're ready.
+ We need some time to consider.
+Media:vo eqtj001 2 luka 02b.ogg Luka: Sure, no problem. Please come back whenever you're ready.
+ Well, Paimon is sold...
+(Traveler): (Alright, this drink is looking good.)
+Media:vo eqtj001 1 luka 01.ogg Luka: Hello there! So, you must be the renowned Traveler.
+Media:vo eqtj001 1 luka 02.ogg Luka: Hehe, of course. Well, it just so happens that our tavern, Angel's Share, is hosting a Bartender's Academy Week. I'm hoping the event might interest you.
+Media:vo eqtj001 1 luka 03.ogg Luka: Basically, you'll have full access to all of our ingredients to mix cocktails or any other drink you please.
+Media:vo eqtj001 1 luka 04.ogg Luka: As long as you refrain from being wasteful, you can enjoy unlimited refills for the drinks you create.
+Media:vo eqtj001 1 luka 05.ogg Luka: Also, you'll be rewarded handsomely if the guests are happy with your drinks.
+Media:vo eqtj001 1 luka 06.ogg Luka: It's called an "academy" but attendance is certainly not mandatory...
+Media:vo eqtj001 1 luka 07.ogg Luka: And you don't have to make your decision right away. You're more than welcome to give it a try first.
+Media:vo eqtj001 1 luka 08.ogg Luka: So, what do you think? Will you give the academy a try?
+Media:vo eqtj001 1 luka 09a.ogg Luka: Great, then please come on in. First, Charles will walk you through some basic techniques.
+Media:vo eqtj001 1 luka 09b.ogg Luka: Sure, no problem. Please come back whenever you're ready.
+Media:vo eqtj001 1 paimon 01.ogg Paimon: Hey, don't forget about the equally renowned Paimon!
+Media:vo eqtj001 1 paimon 02.ogg Paimon: Unlimited refills!
+Media:vo eqtj001 1 paimon 03.ogg Paimon: What? There's even rewards!?
+Media:vo eqtj001 1 paimon 04.ogg Paimon: Where do we sign up!?
+Media:vo eqtj001 2 luka 01.ogg Luka: So, what do you think? Will you give the academy a try?
+Media:vo eqtj001 2 luka 02a.ogg Luka: Great, then please come on in. First, Charles will walk you through some basic techniques.
+Media:vo eqtj001 2 luka 02b.ogg Luka: Sure, no problem. Please come back whenever you're ready.
+Media:vo eqtj001 3 charles 01.ogg Charles: Hey, I know you two. So, what can I get for you today?
+Media:vo eqtj001 3 charles 02.ogg Charles: Bartenders? Oh, so Luka roped you two in, did he? He's got quite a knack for that.
+Media:vo eqtj001 3 charles 03.ogg Charles: (Traveler), you're certainly talented at handling difficult tasks, there's no doubt about that. But mixing cocktails is a whole different game, it's delicate work and requires a certain amount of finesse.
+Media:vo eqtj001 3 charles 04.ogg Charles: Everything from the ratios of your ingredients to your mixing techniques could affect the final product.
+Media:vo eqtj001 3 charles 05.ogg Charles: Alright, I'll take your word for it. Oh, and one more thing...
+Media:vo eqtj001 3 charles 06.ogg Charles: In a previous event, we had a student who arbitrarily mixed three kinds of hard liquor. Just one glass was enough to leave a customer passed out on the floor.
+Media:vo eqtj001 3 charles 07.ogg Charles: So in light of that incident, we decided to no longer provide alcoholic ingredients to beginners. I hope you'll understand.
+Media:vo eqtj001 3 charles 08.ogg Charles: Great, that just about covers all I have to say. You'll learn all the skills and techniques you need on the fly.
+Media:vo eqtj001 3 paimon 01.ogg Paimon: Hey, Charles! Actually, we came to be bartenders today!
+Media:vo eqtj001 3 paimon 02a.ogg Media:vo eqtj001 3 paimon 02b.ogg Paimon: Don't worry. (He's/She's) a fantastic cook. Cooking and cocktail-making have a lot in common, you know!
+Media:vo eqtj001 4 charles 01.ogg Charles: Mmm, you're a quick learner, this tastes pretty good.
+Media:vo eqtj001 4 charles 02.ogg Charles: That was just practice, though. On the job, customers often will have special requests for their drinks.
+Media:vo eqtj001 4 charles 03.ogg Charles: Some may enjoy a stiffer drink, while others might prefer something more sour, everyone has their own preferences. Adjusting the amounts of the ingredients is always the key.
+Media:vo eqtj001 4 charles 04.ogg Charles: Well, that's about all there is to it. But, to become a truly exceptional bartender, in addition to mixing skills, you'll also need to master conversing with your customers...
+Media:vo eqtj001 4 charles 05.ogg Charles: Alright, in that case, you two can take this counter. If you have questions or need any help, just give me a holler.
+Media:vo eqtj001 4 paimon 01.ogg Paimon: Paimon agrees! This is amazing!
+Media:vo eqtj001 4 paimon 02.ogg Paimon: Paimon would like a Caramel Pinecone, extra sweet, in the biggest glass you have. Please and thank you!
+Media:vo eqtj001 4 paimon 03.ogg Paimon: Whew... Class dismissed! Wait, where's Paimon's Caramel Pinecone?
+Paimon: Huh, this doesn't look like the drink they ordered. Just give this one to Paimon and try making another.

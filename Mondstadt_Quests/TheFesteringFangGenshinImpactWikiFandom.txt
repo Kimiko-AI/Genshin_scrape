@@ -1,0 +1,80 @@
+ Any ideas about this tooth?
+ Extract Vitality with Dragontooth
+(Opens material submission menu)
+ How much do I owe you?
+ I found some more Dragontooth...
+ I'll, um... see what I can do.
+ I'm here about the Dragontooth again...
+ Quest DescriptionYou picked up a strange dragon tooth while adventuring in Dragonspine. Perhaps you should ask around and see if someone knows anything more about it...
+ Step DescriptionThough you have gathered all the necessary materials, Orban says that he cannot use ordinary means to work with these dragonteeth... You must first fill one Dragontooth with vitality in order to utilize the rest. Perhaps that strange... "heart" you found on Dragonspine will be of help in this matter...
+ Step DescriptionYou pass the Strange Tooth to Orban, and he says that this can be used to forge a weapon. But he also notes that you will need to collect 3 such teeth, 50 Starsilver Ore, and one Northlander Polearm Prototype to do so.
+ Then... is this really a dragon's tooth, or not?
+ Thoughts on this Dragontooth?
+ What do you make of this tooth?
+ What do you mean, "Dragontooth"?
+ What? What is it?
+Core: (A strange glow emanates from this peculiar object...)
+Core: (This strange object seems to be reacting...)
+Fatui Skirmisher: But our plans do not include others being privy to this secret!
+(Combat begins)
+Fatui Skirmisher: Hmph. So, your plans also involve the heart.
+Fatui Skirmisher: No matter, it seems you have saved us a great deal of work.
+Iris: A tooth? Let me see.
+Iris: Hmm... Yes, it is a little unusual, both in shape and in size.
+Iris: I'm no expert on obscure materials... Orban may know something though, he comes across all sorts of materials in the process of forging weaponry
+Iris: Why not go and ask him? He's right over there, you can't miss him.
+Orban starts forging the weapon...
+Orban: ...Huh, although, as teeth go...
+Orban: A tooth? Ugh, don't tell me you've been foraging around on the mountain for junk...
+Orban: Ah yes, and as well as all that... I'm also going to need a Northlander Polearm Prototype...
+Orban: Ah, I was hoping you'd swing by. Listen, before you go gathering all that Dragontooth... Oh. I see you've already finished.
+Orban: Alright. I'd say this weapon is ready for an adventure, wouldn't you? I hope you'll take good care of it.
+(Obtain Primogem ×50, Diagram: Dragonspine Spear ×1, Dragonspine Spear ×1)
+Orban: And these contours... Looks an awful lot like Dragontooth to me.
+Orban: Any thoughts, Traveler?
+Orban: Anyway, since you've gone to all this effort... let's just treat it as if it really is a genuine, precious piece of Dragontooth, shall we?
+Orban: As in, the tooth of a dragon. Weapons made from Dragontooth are supposed to be extraordinarily strong and sharp... and even possess some sort of strange power.
+Orban: As soon as you've gathered all that, bring the goods straight back here.
+Orban: As they say, if you plan on slaying the dragon to pinch his teeth... you'd better be sure to have a dragon-slayer of a weapon handy, or he might just bite back!
+Orban: But how to go about infusing something with dragon vitality... I haven't the foggiest idea.
+Orban: Great! Here — you take this Dragontooth, then, and I'll leave that whole side of things to you.
+Orban: Hmm, but that said — it's not enough to make a weapon from.
+Orban: Honestly, I've never dealt with Dragontooth firsthand, so I can't give a definite answer.
+Orban: How about you go find, say, three more pieces of Dragontooth, and in the meantime, I'll do some reading and find out how to work with this stuff.
+Orban: Huh, if just the teeth cause this much hassle, whole dragons must be seriously complicated creatures...
+Orban: I can't say whether it really is Dragontooth or not, but the quality is superb. A few more like this, supplemented with some Starsilver, and you could definitely make a good weapon from it.
+Orban: I do think it has to be the tooth of some enormous beast or other...
+Orban: In which case, while you're up on the mountain, grab 50 pieces of Starsilver.
+Orban: It's almost as if it really were Dragontooth... If so, then based on what I read, there are several rather specific methods to work with this material.
+Orban: It's hardly the sort of thing you come across every day, though... In all the stories you hear, it's only ever the most famous heroes who manage to acquire Dragontooth and craft weapons from it.
+Orban: My goodness, the luster... and the texture...
+Orban: My profuse apologies... but I've hit a slight snag. No matter what I hit this thing with, I simply cannot take so much as a sliver off of it.
+Orban: Oh — and Dragontooth aside, we'll want to supplement it with some good ore...
+Orban: Oh, don't worry about paying for it. The chance to work with these materials was a rare pleasure, no need to bring Mora into it.
+Orban: Once you've got all of that, come and see me again.
+Orban: One of them is to have the dragon's tooth absorb some sort of... dragon-related "vitality."
+Orban: Then, use the dragon's tooth infused with dragon vitality to work the other pieces of Dragontooth into shape.
+Orban: There! It's done! Haha! Here, hold that. How does it feel?
+Orban: This is a rather fine specimen. Tough as nails, too...
+Orban: This is great... I've already got someone to handle the Starsilver. Give me a moment or two, I will get this weapon made right away...
+(Opens material submission menu)
+Orban: You actually managed it? You infused the tooth with dragon vitality? Wow... You are one extraordinary individual, my friend.
+Paimon: ...Can we go now? It really is super creepy in here.
+Paimon: Huh? What's this... Looks like a tooth.
+Paimon: Interesting... Something looks a little different about this Dragontooth now. And it seems more ominous, too...
+Paimon: It looks just like a heart, doesn't it?
+Paimon: Let's get back and give it to Orban.
+(Obtain Vitalized Dragontooth ×1)
+Paimon: Let's go check on the Dragontooth.
+(Investigate the heart)
+Paimon: Let's not stay there longer than we need to, though. That place gives Paimon the creeps.
+Paimon: Let's try there! Maybe there's some vitality around there that we can absorb into the Dragontooth.
+Paimon: Maybe there'll be some interesting history behind it? Let's go ask around.
+Paimon: Paimon think it's finished now...
+Paimon: The heart responded! Careful, we should expect the unexpected...
+Paimon: Wait, do you remember that place from earlier? Wasn't there something that looked a lot like a heart?
+Paimon: Wait... there's some people coming!
+(Fatui Skirmishers appear at the cave entrance)
+Paimon: Wow, it's... What is it?
+Paimon: Yikes! This isn't what Paimon meant by unexpected...
+ ???

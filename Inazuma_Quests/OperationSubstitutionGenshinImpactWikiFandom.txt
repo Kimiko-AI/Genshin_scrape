@@ -1,0 +1,135 @@
+
+(If you finished it within a short time)
+ All trees will bloom sooner or later.
+Media:vo zycop001 1901507 sayu 11.ogg Sayu: Bloom...
+ All trees will cast shade over someone they can protect sooner or later.
+Media:vo zycop001 1901507 sayu 12.ogg Sayu: Shade...
+ All trees will grow sooner or later.
+Media:vo zycop001 1901507 sayu 10.ogg Sayu: Grow...
+ But didn't you say that you would show me the path to ninjutsu?
+ Hold on.
+ I believe Sensei hoped that one day you would provide for someone in the same way.
+ I don't think a tree of this height will grow any taller.
+ I don't think this technique is as easy as it looks...
+ I think I have an idea, but it is just a guess.
+ I think you're taking this a little too literally.
+ I'm really starting to wonder what kind of person your sensei was.
+ It seems there was a lot you didn't know about your sensei.
+ It's normal for trees to grow taller than people.
+ No need to rush.
+ Okay... Well, how about some other qualities like their height?
+ Quest DescriptionSo Sayu wanted you to learn ninjutsu so that you could replace her at work...
+ Seems you haven't grasped the deeper meaning at all.
+ Trees should be taller than people.
+ What is the rope there used for?
+ Where is your sensei now? Have they already left these lands?
+ Which is exactly why you should take your work more seriously.
+ Why are you talking so different all of a sudden?
+ Why don't we just relax for now. We're supposed to be taking a break, remember?
+ You can call me "Sensei" if you like.
+ You're still Sayu... aren't you?
+ Your sensei was also a ninja? Did they go by a special name?
+(If you finished it within a long time)
+(If you finished it within a medium amount of time)
+Media:vo zycop001 1901501 kanonana 01.ogg Kano Nana: *sigh* Alright, Sayu, just leave the explanation to me. This is a technique to help ninja train their agility.
+Media:vo zycop001 1901501 kanonana 02.ogg Kano Nana: When the unpredictable happens during a mission, ninja must be capable of traversing a variety of terrains.
+Media:vo zycop001 1901501 kanonana 03.ogg Kano Nana: During our training, we often set up obstacles on both sides of this stream and have Sayu make her way up the course.
+Media:vo zycop001 1901501 kanonana 04.ogg Kano Nana: Sayu may be exaggerating a little. With your adventuring experience, I'm sure you'll do fine.
+Media:vo zycop001 1901501 kanonana 05.ogg Kano Nana: Nice try, Sayu. You'll run the course first. Quickly, now.
+Media:vo zycop001 1901501 kanonana 06a.ogg Kano Nana: Come now, no stalling. Give the Traveler a proper demonstration.
+Media:vo zycop001 1901501 kanonana 07.ogg Kano Nana: Although Sayu doesn't usually exert her best effort, she does have strong ninja fundamentals.
+Media:vo zycop001 1901501 kanonana 08.ogg Kano Nana: Do your best. I'll be waiting at the finish, (Traveler).
+Media:vo zycop001 1901501 sayu 01.ogg Sayu: I'll show you my favorite skill to practice. Basically, it's an escape technique — I use it to make a quick getaway whenever the shrine maiden's after me.
+Media:vo zycop001 1901501 sayu 02.ogg Sayu: I often slipped when I was little and either found myself falling face-first into the mud or getting battered as I tumbled down.
+Media:vo zycop001 1901501 sayu 03.ogg Sayu: So don't underestimate this little course of ours, it's not as easy as you think.
+Media:vo zycop001 1901501 sayu 04.ogg Sayu: Yeah, go ahead and give it a try, I'll guide you through it.
+Media:vo zycop001 1901501 sayu 05.ogg Sayu: Aw...
+Media:vo zycop001 1901501 sayu 06.ogg Sayu: Alright, alright. Leave it to me.
+Media:vo zycop001 1901503 kanonana 01.ogg Kano Nana: I'm surprised you remember your sensei's words so clearly, Sayu, hehe. But don't you think your sensei would disapprove of you copying their words?
+Media:vo zycop001 1901503 kanonana 02.ogg Kano Nana: You remember your Sensei's words, but you sure don't seem to act on them, skipping work all the time...
+Media:vo zycop001 1901503 kanonana 03.ogg Kano Nana: *sigh* The problem is that to you, every season is perfect for napping.
+Media:vo zycop001 1901503 kanonana 04.ogg Kano Nana: Anyway, you've certainly handled the training well so far. The next exercise is live-combat training. Let's go, shall we?
+Media:vo zycop001 1901503 kanonana 05.ogg Kano Nana: Considering that you have yet to grasp the art of ninjutsu, we'll let Sayu demonstrate in combat first. And this will be a prime opportunity for you to see her ninjutsu first hand.
+Media:vo zycop001 1901503 kanonana 06.ogg Kano Nana: *sigh* There you go again, Sayu. You know, imitating what other people say is a poor habit.
+Media:vo zycop001 1901503 sayu 01.ogg Sayu: Wow, impressive. You've really got some talent.
+Media:vo zycop001 1901503 sayu 02.ogg Sayu: If I were to rate your performance, I'd say you're like... a strong, fast mujina.
+Media:vo zycop001 1901503 sayu 03.ogg Sayu: Anyway, nicely done. I was *yawn* ...rooting for you.
+Media:vo zycop001 1901503 sayu 04.ogg Sayu: You're still a way off from my personal record, but don't worry, just keep it up.
+Media:vo zycop001 1901503 sayu 05.ogg Sayu: If I were to rate your performance, I'd say you're like... an average, everyday kitsune.
+Media:vo zycop001 1901503 sayu 06.ogg Sayu: A kitsune is pretty good, you know...
+Media:vo zycop001 1901503 sayu 07.ogg Sayu: Ouch, that was... a little unfortunate.
+Media:vo zycop001 1901503 sayu 08.ogg Sayu: If I were to rate your performance, I'd say you're like... a slow, arthritic turtle.
+Media:vo zycop001 1901503 sayu 09.ogg Sayu: But don't let that bother you, more practice is all you need.
+Media:vo zycop001 1901503 sayu 10.ogg Sayu: Hehe, don't mind me, I just happened to remember the words of my sensei.
+Media:vo zycop001 1901503 sayu 11.ogg Sayu: After each training session, sensei would give me a score and encourage me based on my results.
+Media:vo zycop001 1901503 sayu 12.ogg Sayu: Hehe, no way! Sensei wouldn't be mad at all.
+Media:vo zycop001 1901503 sayu 13.ogg Sayu: Yep, Sensei said there were some important matters to attend to.
+Media:vo zycop001 1901503 sayu 14.ogg Sayu: Sensei told me that they hoped I would become a responsible ninja while they are away. You know, the kind of ninja everyone can trust.
+Media:vo zycop001 1901503 sayu 15.ogg Sayu: Hey, I work hard... when I'm not sleepy. It's just that this season is perfect for napping, I really can't help it.
+Media:vo zycop001 1901503 sayu 16.ogg Sayu: Sure thing, just leave it to me. Let my example illuminate your path to ninjutsu.
+Media:vo zycop001 1901503 sayu 17.ogg Sayu: S—Sorry...
+Media:vo zycop001 1901504 kanonana 01.ogg Kano Nana: Here we are. Now, please carefully observe Sayu's skills in combat.
+Media:vo zycop001 1901504 sayu 01.ogg Sayu: I'll do my best to make my ninjutsu a little easier to understand.
+Media:vo zycop001 1901505 kanonana 01.ogg Kano Nana: You may go have a break with Sayu. It's important to recover your stamina and stay hydrated.
+Media:vo zycop001 1901506 kanonana 01.ogg Kano Nana: Alright, that's enough idle chatter for now. If Sayu's sensei ever returns, I'm sure you'll have the chance to meet.
+Media:vo zycop001 1901506 kanonana 02.ogg Kano Nana: As for our next exercise...
+Media:vo zycop001 1901506 kanonana 03.ogg Kano Nana: Fine. Even if I did push you, I suppose you would end up napping on the field anyway.
+Media:vo zycop001 1901506 kanonana 04.ogg Kano Nana: Go, have a rest. I shall wait for you here. Remember, no running off.
+Media:vo zycop001 1901506 sayu 01.ogg Sayu: Whew, I'm tired.
+Media:vo zycop001 1901506 sayu 02.ogg Sayu: At least I didn't get my outfit dirty... *yawn*
+Media:vo zycop001 1901506 sayu 03.ogg Sayu: So, did you pay close attention to my ninjutsu?
+Media:vo zycop001 1901506 sayu 04.ogg Sayu: Here, I'll teach you. First you stretch your upper body a bit, do a little wiggle... And then turn yourself into a ball, like this...
+Media:vo zycop001 1901506 sayu 05.ogg Sayu: Huh? What's the matter? You don't want to transform into a ball?
+Media:vo zycop001 1901506 sayu 06.ogg Sayu: Don't worry, you might feel a little dizzy at first, but you'll get used to it.
+Media:vo zycop001 1901506 sayu 07.ogg Sayu: I thought you'd be able to catch on after seeing a quick demonstration.
+Media:vo zycop001 1901506 sayu 08.ogg Sayu: *yawn* Anyway, I'm beat and need a good nap now. Hopefully I won't need to demonstrate that again.
+Media:vo zycop001 1901506 sayu 09.ogg Sayu: Uh yeah, that was my sensei's teaching... Very strong and patient... which is a little too much work for me.
+Media:vo zycop001 1901506 sayu 10.ogg Sayu: Strong, responsible, and kind. Sensei never pushed me to do more work.
+Media:vo zycop001 1901506 sayu 11.ogg Sayu: Uh...
+Media:vo zycop001 1901506 sayu 12.ogg Sayu: Actually, after hearing myself say that, I suppose Sensei was a lot like you.
+Media:vo zycop001 1901506 sayu 13.ogg Sayu: Although you don't know ninjutsu like Sensei did, your other qualities are enough to make you my sensei.
+Media:vo zycop001 1901506 sayu 14.ogg Sayu: Sure, Sensei's name was... Uh, what was it now...? Huh, I guess I never asked, I just called them "sensei."
+Media:vo zycop001 1901506 sayu 15.ogg Sayu: I think Sensei was a ninja. Actually, Sensei never really mentioned it...
+Media:vo zycop001 1901506 sayu 16.ogg Sayu: Sensei's height... Hmm, they were taller than me. As for other qualities...
+Media:vo zycop001 1901506 sayu 17.ogg Sayu: Sometimes it's hard to tell from just appearances... But these details don't matter to me.
+Media:vo zycop001 1901506 sayu 18.ogg Sayu: Uh wait, I'm not quite up to it yet... I need to take a break first.
+Media:vo zycop001 1901506 sayu 19.ogg Sayu: We agreed on a break after every two exercises, didn't we? Remember, to keep training from being too forceful...
+Media:vo zycop001 1901506 sayu 20.ogg Sayu: Got it. Come with me, (Traveler). I'll take you to a nice place to relax a bit.
+Media:vo zycop001 1901506 sayu 21.ogg Sayu: Whew. Finally, time for a break!
+Media:vo zycop001 1901507 sayu 01.ogg Sayu: Just as I thought, exactly the same as before...
+Media:vo zycop001 1901507 sayu 02.ogg Sayu: Sensei knew that I was concerned about my height, so before leaving, Sensei measured my height and used the rope to mark it on the tree over there.
+Media:vo zycop001 1901507 sayu 03.ogg Sayu: "Nothing is more satisfying than growing." At least, that's what Sensei told me...
+Media:vo zycop001 1901507 sayu 04.ogg Sayu: But even after all this time, not only have I yet to outgrow the rope... I think the rope is getting higher with the tree.
+Media:vo zycop001 1901507 sayu 05.ogg Sayu: *sigh* Maybe it's because I'm not sleeping enough.
+Media:vo zycop001 1901507 sayu 06.ogg Sayu: I get it, and that's exactly what I told Sensei at the time.
+Media:vo zycop001 1901507 sayu 07.ogg Sayu: But Sensei only laughed, though they didn't scold me at all... I guess Sensei had their own way of looking at things.
+Media:vo zycop001 1901507 sayu 08.ogg Sayu: I really couldn't tell what Sensei was thinking in moments like that. Do you have any idea what Sensei might have meant?
+Media:vo zycop001 1901507 sayu 09.ogg Sayu: That's okay, just say it. Either way, I'm sure you understand more than me.
+Media:vo zycop001 1901507 sayu 10.ogg Sayu: Grow...
+Media:vo zycop001 1901507 sayu 11.ogg Sayu: Bloom...
+Media:vo zycop001 1901507 sayu 12.ogg Sayu: Shade...
+Media:vo zycop001 1901507 sayu 13.ogg Sayu: Hmm, I think I understand now.
+Media:vo zycop001 1901507 sayu 14.ogg Sayu: I love to take naps under a tree, or hide in the shade, or eat some of its fruit. This is how the tree provides for me.
+Media:vo zycop001 1901507 sayu 15.ogg Sayu: I see...
+Media:vo zycop001 1901507 sayu 16.ogg Sayu: Okay, just wait here. Don't worry, I'll be right back.
+Media:vo zycop001 1901507 sayu 17.ogg Sayu: These fruits are for you.
+Media:vo zycop001 1901507 sayu 18.ogg Sayu: No, no. I get it now! Uh, how should I put it...
+Media:vo zycop001 1901507 sayu 19.ogg Sayu: Sometimes I think that the Shuumatsuban is more trouble than it's worth. Everyone's trying to keep me from getting enough sleep and growing taller... Sometimes I wonder why I even bother sticking around with them.
+Media:vo zycop001 1901507 sayu 20.ogg Sayu: But every time I think about it, I can't help but remember Sensei's smile, and then I think of this tree, and my Vision.
+Media:vo zycop001 1901507 sayu 21.ogg Sayu: Someday, this tree will also be shelter for a kitsune, or some other animal. In the same way, someday, after I've grown nice and tall, I'll be protecting someone with my ninjutsu.
+Media:vo zycop001 1901507 sayu 22.ogg Sayu: I know...*sigh* Sorry. I guess I was hoping that I'd grow faster, and then I could work hard. But it seems that I've already spent too much time trying to grow...
+Media:vo zycop001 1901507 sayu 23.ogg Sayu: "If I gave up my dreams of growing tall, could I still fulfill everyone's hopes?" I've always avoided asking myself this question, it just makes me feel a little nervous... And I've yet to find an answer.
+Media:vo zycop001 1901507 sayu 24.ogg Sayu: I still don't know what to do. *sigh* I don't even know what I actually can do... But, I thought that at least I can give you some fruit to eat, hehe.
+Media:vo zycop001 1901507 sayu 25.ogg Sayu: You remind me of Sensei — you're kind and can even understand what Sensei was thinking.
+Media:vo zycop001 1901507 sayu 26.ogg Sayu: So I thought I should at least show a little bit of enthusiasm.
+Media:vo zycop001 1901507 sayu 27.ogg Sayu: Huh? But wasn't I the one teaching you ninjutsu just now?
+Media:vo zycop001 1901507 sayu 28.ogg Sayu: Although, I'm sure you know a lot more about life than me... So I guess you could still count as my teacher in that regard.
+Media:vo zycop001 1901507 sayu 29.ogg Sayu: Oh yeah, you're right. Hehe, I was getting a little carried away.
+Media:vo zycop001 1901507 sayu 30.ogg Sayu: Why don't we go practice a little more ninjutsu after our break is up? Today is one of those rare days when I feel super motivated!
+Media:vo zycop001 1901507 sayu 31.ogg Sayu: But never mind that for now, we've got lots of fruit to eat. C'mon, take whichever you like, hehe.
+Sayu agilely comes upstream and reaches the destination.
+Sayu swiftly fetches a pile of fruit and returns.
+You could not complete the training within the time limit...
+(Return to the previous step)
+You left the training area, thus failing the training.
+(Return to the previous step)

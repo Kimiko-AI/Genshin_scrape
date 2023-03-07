@@ -1,0 +1,298 @@
+
+ This all seems rather baseless...
+
+ This seems like baseless nonsense...
+
+ What are you doing?
+Hatim: Oh, I'm wondering what today's "Golden Dish" is going to be.
+Paimon: A "Golden Dish"? Is that... food that's made of gold?
+Hatim: No, it's a great dish that will increase the affinity of those who consume it for Mora!
+Paimon: Paimon wants to eat it too! Wait... But how can there be such a thing?
+Hatim: Haha, come, there is much you do not know.
+Hatim: Let's take Liyue's Mora Meat as an example. This renowed dish was named after money, and this of course strongly implies an association with financial fortune.
+Hatim: And there's Butter Chicken too! Its sumptuous oil just conjures up the image of a full wallet.
+Hatim: Another example is Mondstadt's "Pile 'Em Up"! From the name itself, it is surely a symbol of rising wealth.
+Hatim: So if you eat this kind of dish, then go to the Kalimi Exchange to buy some futures contracts, you'd be sure to make a killing!
+Paimon: The explanation sounds sort of contrived...
+ What are future contracts anyway?
+Hatim: Never bought 'em, have you? Hmm... Let me explain it to you. It's a kind of futures trading that corresponds to spot trading. For example, this little one next to you...
+Paimon: Paimon is Paimon! Not some "little one"!
+Hatim: Hahaha! Then, little Paimon, what do you like?
+Paimon: Huh? Paimon likes... Um... Slimes!
+Hatim: Hahaha! Alright, then! Let's suppose I have a type of Slime Condensate in my hand, priced at 100 Mora a bottle.
+Hatim: If you buy 500 bottles of Slime Condensate from me for 50,000 Mora today, that would be considered a spot deal.
+Paimon: Th—That's too many! Paimon can't eat all of that!
+Hatim: This is just an analogy... Suppose you buy 500 bottles today. However, you can't guarantee that you will buy that much Slime Condensate from me every day, right?
+Paimon: Um... Well, Paimon's not gonna buy any if she's too full.
+Hatim: That's right, and I for my part can't guarantee that I will be able to supply you with that much Slime Condensate whenever you want.
+Hatim: So, this is when futures come into play. Futures are not your run-of-the-mill-face-to-face trading, but a "trading agreement."
+Hatim: "Buying a bottle of Slime Condensate" and "selling a bottle of Slime Condensate" are both types of "trading agreements."
+Hatim: When I can supply Slime Condensate, I will submit a "trading agreement" to the Futures Exchange to sell that condensate.
+Hatim: When you need the Slime Condensate, you can go to the Futures Exchange and check the "trading agreements" to see who's selling it.
+Hatim: "Futures trading" involves cleverly buying and selling these "trading agreements" to reap profits.
+Hatim: Of course, this is just an analogy. If Slime Condensate was really traded on the futures market, all wild slimes would now be extinct.
+Paimon: Wow... Amazing...
+ Uh... I don't get it...
+Hatim: However! The futures market is ever-changing, and even a seasoned veteran such as I cannot guarantee that the futures I buy will profit.
+Hatim: But if you eat the "Golden Dish" that brings fortune before buying your futures, the situation will be different. The only question is... Which one should I eat today?
+ Why not eat all three?
+Hatim: Mix up all the good ingredients, and you shall end up with a dish most dubious. This happens distressingly often, does it not?
+Hatim: Fortune is like that too. Eating all of them will only be counterproductive, so we must choose the most effective "Golden Dish" to consume!
+Hatim: Ah, hold on, I didn't notice earlier, but your hair... It's actually the color of gold! Dazzling! Dazzling, I say!
+Hatim: Gold is a symbol of wealth, and so the dish *you* choose will surely bring me lots of fortune!
+Hatim: Why don't you help me choose a "Golden Dish"? I will repay you well.
+Hatim: I'll give you extra perks too if I make Mora off this. How about it?
+ But what if you lose...?
+Hatim: Hahaha! Don't worry, I, the exceptionally rich Hatim of Kalimi, hereby declare that you shall get a share of any profits and that all losses will be fully borne by me, so you can rest assured.
+ I see.
+Hatim: Come, make the choice for me, then. Mora Meat, Butter Chicken, or "Pile 'Em Up", which one is the real Golden Dish?
+
+Hatim: Ah, Traveler, you're back! Wonderful!
+Paimon: You're not picking a Golden Dish again, are you?
+Hatim: Hahaha, a clever little brain you have! That's right. I'm about to pick one Golden Dish to rule all futures markets!
+Hatim: So, help me out again, would you?
+ Understood. Same rules as always?
+Hatim: That's right! It's been a pleasure working with you. Please make your choice then... Mora Meat, Butter Chicken, or Pile 'Em Up — which one is the real Golden Dish?
+ Wait, what even is a Golden Dish?
+Hatim: A fabulous dish that will increase the affinity of those who consume it for Mora!
+Hatim: Let's take Liyue's Mora Meat as an example. This renowned dish was named after money, and this of course strongly implies an association with financial fortune.
+Hatim: And there's Butter Chicken too! Its sumptuous oil just conjures up the image of a full wallet.
+Hatim: Another example is Mondstadt's "Pile 'Em Up"! From the name itself, it is surely a symbol of rising wealth.
+Hatim: So if you eat this kind of dish, then go to the Kalimi Exchange to buy some futures contracts, you'd be sure to make a killing!
+Hatim: So, please make your choice for the sake of my "futures trading" venture. Which will it be? Mora Meat, Butter Chicken, or Pile 'Em Up?
+ Wait, what are futures contracts anyway?
+Hatim: Basically, it's a future transaction, as opposed to a spot deal. Now, suppose I have a type of Slime Condensate in my hand, priced at 100 Mora a bottle.
+Hatim: Say you buy 500 bottles of Slime Condensate from me for 50,000 Mora. This is a spot deal.
+Hatim: But you can't be sure that you will make this same purchase every day, and I can't ensure that I can supply you all the time either, yes?
+Hatim: So, this is where futures come into play. Futures are not your run-of-the-mill, face-to-face trading, but a "trading agreement."
+Hatim: "Buying a bottle of Slime Condensate" and "selling a bottle of Slime Condensate" are both types of "trading agreements."
+Hatim: When I can supply Slime Condensate, I will submit a "trading agreement" to the Futures Exchange to sell that condensate.
+Hatim: When you need the Slime Condensate, you can go to the Futures Exchange and check the "trading agreements" to see who's selling it.
+Hatim: "Futures trading" involves cleverly buying and selling these "trading agreements" to reap profits.
+Hatim: So, please make your choice for the sake of my "futures trading" venture. Which will it be? Mora Meat, Butter Chicken, or Pile 'Em Up?
+
+Hatim: Good! A dish of excellent quality! I'm sure the futures I bought will surge this time!
+
+Hatim: Oh, I can smell it! This dish smells like... wealth! Yes, it smells like gold! I shall make a killing this time, yes indeed!
+Hatim: Thank you so much. Now, I shall go to my "Wealth Spot" later and eat this "Golden Dish." Just wait to hear good news from me, you two!
+
+Hatim: This dish looks a little strange... Oh well, it matters not. Work calls me.
+Hatim: I can't thank you enough, Traveler! Hope we'll meet again.
+
+Hatim: This dish seems a little strange, but I... believe in you!
+Hatim: Thank you so much. Now, I shall go to my "Wealth Spot" later and eat this "Golden Dish." Just wait to hear good news from me, you two!
+
+Hatim: This dish seems quite excellent indeed. Ah, it fills me with confidence!
+Hatim: Thank you so much, Traveler. I shall eat this "Golden Dish" at my "Wealth Spot" later. Wait to hear good news from me, you two!
+
+Hatim: This looks to be of good quality. Will I be able to make a fine profit this time?
+ "Wealth Spot"?
+ But what if you lose...?
+ Didn't you lose everything...?
+ Do you mean...
+ How did you come up with the idea of "Golden Dish"?
+ I see.
+ Isn't this just what they call "peace of mind"...?
+ Looks like you've made a fortune...
+ Maybe it hasn't hit the bottom yet...
+ Quest DescriptionHatim, a rich fellow from Kalimi, seemed to be bothered by something...
+ Quest DescriptionThe day for Hatim to conduct some futures trading has arrived. What will he get from this trade?
+ Some people get leg cramps when they bend low...
+ S—Sorry...
+ This all seems rather baseless...
+ This really is nonsense...
+ This seems like baseless nonsense...
+ Uh... I don't get it...
+ Understood. Same rules as always?
+Hatim: That's right! It's been a pleasure working with you. Please make your choice then... Mora Meat, Butter Chicken, or Pile 'Em Up — which one is the real Golden Dish?
+ Wait, what are futures contracts anyway?
+Hatim: Basically, it's a future transaction, as opposed to a spot deal. Now, suppose I have a type of Slime Condensate in my hand, priced at 100 Mora a bottle.
+Hatim: Say you buy 500 bottles of Slime Condensate from me for 50,000 Mora. This is a spot deal.
+Hatim: But you can't be sure that you will make this same purchase every day, and I can't ensure that I can supply you all the time either, yes?
+Hatim: So, this is where futures come into play. Futures are not your run-of-the-mill, face-to-face trading, but a "trading agreement."
+Hatim: "Buying a bottle of Slime Condensate" and "selling a bottle of Slime Condensate" are both types of "trading agreements."
+Hatim: When I can supply Slime Condensate, I will submit a "trading agreement" to the Futures Exchange to sell that condensate.
+Hatim: When you need the Slime Condensate, you can go to the Futures Exchange and check the "trading agreements" to see who's selling it.
+Hatim: "Futures trading" involves cleverly buying and selling these "trading agreements" to reap profits.
+Hatim: So, please make your choice for the sake of my "futures trading" venture. Which will it be? Mora Meat, Butter Chicken, or Pile 'Em Up?
+ Wait, what even is a Golden Dish?
+Hatim: A fabulous dish that will increase the affinity of those who consume it for Mora!
+Hatim: Let's take Liyue's Mora Meat as an example. This renowned dish was named after money, and this of course strongly implies an association with financial fortune.
+Hatim: And there's Butter Chicken too! Its sumptuous oil just conjures up the image of a full wallet.
+Hatim: Another example is Mondstadt's "Pile 'Em Up"! From the name itself, it is surely a symbol of rising wealth.
+Hatim: So if you eat this kind of dish, then go to the Kalimi Exchange to buy some futures contracts, you'd be sure to make a killing!
+Hatim: So, please make your choice for the sake of my "futures trading" venture. Which will it be? Mora Meat, Butter Chicken, or Pile 'Em Up?
+ We don't play with futures after all...
+ What are future contracts anyway?
+Hatim: Never bought 'em, have you? Hmm... Let me explain it to you. It's a kind of futures trading that corresponds to spot trading. For example, this little one next to you...
+Paimon: Paimon is Paimon! Not some "little one"!
+Hatim: Hahaha! Then, little Paimon, what do you like?
+Paimon: Huh? Paimon likes... Um... Slimes!
+Hatim: Hahaha! Alright, then! Let's suppose I have a type of Slime Condensate in my hand, priced at 100 Mora a bottle.
+Hatim: If you buy 500 bottles of Slime Condensate from me for 50,000 Mora today, that would be considered a spot deal.
+Paimon: Th—That's too many! Paimon can't eat all of that!
+Hatim: This is just an analogy... Suppose you buy 500 bottles today. However, you can't guarantee that you will buy that much Slime Condensate from me every day, right?
+Paimon: Um... Well, Paimon's not gonna buy any if she's too full.
+Hatim: That's right, and I for my part can't guarantee that I will be able to supply you with that much Slime Condensate whenever you want.
+Hatim: So, this is when futures come into play. Futures are not your run-of-the-mill-face-to-face trading, but a "trading agreement."
+Hatim: "Buying a bottle of Slime Condensate" and "selling a bottle of Slime Condensate" are both types of "trading agreements."
+Hatim: When I can supply Slime Condensate, I will submit a "trading agreement" to the Futures Exchange to sell that condensate.
+Hatim: When you need the Slime Condensate, you can go to the Futures Exchange and check the "trading agreements" to see who's selling it.
+Hatim: "Futures trading" involves cleverly buying and selling these "trading agreements" to reap profits.
+Hatim: Of course, this is just an analogy. If Slime Condensate was really traded on the futures market, all wild slimes would now be extinct.
+Paimon: Wow... Amazing...
+ Uh... I don't get it...
+Hatim: However! The futures market is ever-changing, and even a seasoned veteran such as I cannot guarantee that the futures I buy will profit.
+Hatim: But if you eat the "Golden Dish" that brings fortune before buying your futures, the situation will be different. The only question is... Which one should I eat today?
+ What are you doing?
+ Why not eat all three?
+Hatim: Mix up all the good ingredients, and you shall end up with a dish most dubious. This happens distressingly often, does it not?
+Hatim: Fortune is like that too. Eating all of them will only be counterproductive, so we must choose the most effective "Golden Dish" to consume!
+Hatim: "Buying a bottle of Slime Condensate" and "selling a bottle of Slime Condensate" are both types of "trading agreements."
+Hatim: "Futures trading" involves cleverly buying and selling these "trading agreements" to reap profits.
+Hatim: (Capital, capital! I was right to do that, hahaha!)
+Hatim: (Darn it! I must earn my Mora back...)
+Hatim: (I will make a great profit this time!)
+Hatim: (Ugh, darn it! I'll earn my Mora back!)
+Hatim: A fabulous dish that will increase the affinity of those who consume it for Mora!
+Hatim: After all, I am also privy to knowledge obtained from decades of experience as an old hand. If you are interested in futures, I can share some of my personal experiences with you, in fact.
+Hatim: After the minor profit last time, I'm definitely making a killing this time! Mora Meat, Butter Chicken, and Pile 'Em Up. How about it, then? What'll your choice be?
+Hatim: Ah, Traveler! Thanks to you, I've made a small profit this time. Looks like the "Golden Dish" proved effective.
+Hatim: Ah, Traveler, you're back! Wonderful!
+Hatim: Ah, enough of that! Come, eat, eat! Eat up! I'll be asking for your help more often in the future.
+Hatim: Ah, hold on, I didn't notice earlier, but your hair... It's actually the color of gold! Dazzling! Dazzling, I say!
+Hatim: Ah, it's you guys... I... I'm fine. I'm great... Look. I'm not missing an arm or a leg or anything.
+Hatim: Also, the area around the Exchange is also where Mora gathers. If you spend lots of time in such places, you will be blessed with wealth!
+Hatim: And there's Butter Chicken too! Its sumptuous oil just conjures up the image of a full wallet.
+Hatim: Another example is Mondstadt's "Pile 'Em Up"! From the name itself, it is surely a symbol of rising wealth.
+Hatim: Basically, it's a future transaction, as opposed to a spot deal. Now, suppose I have a type of Slime Condensate in my hand, priced at 100 Mora a bottle.
+Hatim: But I've mentioned this before. If you want to trade in Slime Condensate futures, I'm afraid that all Slimes in the wild will go extinct.
+Hatim: But if you eat the "Golden Dish" that brings fortune before buying your futures, the situation will be different. The only question is... Which one should I eat today?
+Hatim: But the result is this drop...! This makes no sense! How is this market making any sense? Where's the fairness!?
+Hatim: But then again... I have a suspicion that this is a sign that the market's about to take off.
+Hatim: But you can't be sure that you will make this same purchase every day, and I can't ensure that I can supply you all the time either, yes?
+Hatim: Come, friend, help me out one more time, will you? Please choose another "Golden Dish"!
+Hatim: Come, let's go to Lambad's Tavern, and you can order whatever you want. It'll be my treat! I must thank you, after all.
+(The Traveler is teleported into Lambad's Tavern)
+Hatim: Come, make the choice for me, then. Mora Meat, Butter Chicken, or "Pile 'Em Up", which one is the real Golden Dish?
+Hatim: Even if I don't have any Mora on hand, I still have working capital and assets elsewhere.
+Hatim: Fortune is like that too. Eating all of them will only be counterproductive, so we must choose the most effective "Golden Dish" to consume!
+Hatim: Gold is a symbol of wealth, and so the dish *you* choose will surely bring me lots of fortune!
+Hatim: Good! A dish of excellent quality! I'm sure the futures I bought will surge this time!
+Hatim: Great! This is the good stuff indeed. It shall surely bring about a shift in the market!
+Hatim: Ha! You really are a Child of Fortune. Straight to asking about the key to wealth.
+Hatim: Haha, come, there is much you do not know.
+Hatim: Hahaha! Alright, then! Let's suppose I have a type of Slime Condensate in my hand, priced at 100 Mora a bottle.
+Hatim: Hahaha! Don't worry, I, the exceptionally rich Hatim of Kalimi, hereby declare that you shall get a share of any profits and that all losses will be fully borne by me, so you can rest assured.
+Hatim: Hahaha! Strange or not, nonsense or not, any theory that makes me Mora is a good one.
+Hatim: Hahaha! Then, little Paimon, what do you like?
+Hatim: Hahaha, a clever little brain you have! That's right. I'm about to pick one Golden Dish to rule all futures markets!
+Hatim: Hahaha, how could I not know of him, when I even know about "Pile 'Em Up"?
+Hatim: He owns a tavern where they sell something wonderful known as Apple Cider. If I down some of that, I believe I shall imbibe some of his affinity for wealth as well!
+Hatim: Here! Try this Shawarma Wrap. It's Sumeru's special dish. You really must try it, hahaha...
+Hatim: Hm... Not bad at all...
+Hatim: Hm... Wait, no! Since we're going bargain-hunting, I need a dish that is extra special to turn the tide on the market.
+Hatim: Hmph, it doesn't matter. I still have plenty of backup funds.
+Hatim: How's about it, then? Mora Meat, Butter Chicken, or Pile 'Em Up? Let me hear your choice.
+Hatim: However! The futures market is ever-changing, and even a seasoned veteran such as I cannot guarantee that the futures I buy will profit.
+Hatim: However, it's not much different from what I usually earn from normal trades...
+Hatim: I ate the "Golden Dish" you prepared the last time and made a killing on the Exchange!
+Hatim: I came here today to check and sure enough, I have made great gains on all the futures I bought!
+Hatim: I can't really say that I "came up with" it, but I can say that I learned about these "Golden Dishes" during my long career in futures trading.
+Hatim: I can't thank you enough, Traveler! Hope we'll meet again.
+Hatim: I heard that Mondstadt has a tycoon who runs a super profitable alcohol business...
+Hatim: I just lost my deposit... Ahem...
+Hatim: I went to the "Wealth Spot" and even ate the "Golden Dish"...
+Hatim: I won't forget the help you two have given me! I'll see you around!
+Hatim: I'll be honest, my wallet has been rendered half empty.
+Hatim: I'll give you extra perks too if I make Mora off this. How about it?
+Hatim: If you buy 500 bottles of Slime Condensate from me for 50,000 Mora today, that would be considered a spot deal.
+Hatim: In other words, now is the best time to go bargain-hunting!
+Hatim: It is a good sum by a normal person's measure, but compared to the assets that I, Hatim, possess, it is but a mere ripple.
+Hatim: It makes no sense! It doesn't follow rules! It just goes down like that, and goes up like... like... Well, it didn't go up...
+Hatim: It's like how people have to bend down before they can leap high.
+Hatim: Just as always, please pick one from among Mora Meat, Butter Chicken, and Pile 'Em Up.
+Hatim: Just you wait, Kalimi Exchange! I, Hatim, shall be back!
+Hatim: Let me think... Which should I pick?
+Hatim: Let's take Liyue's Mora Meat as an example. This renowed dish was named after money, and this of course strongly implies an association with financial fortune.
+Hatim: Let's take Liyue's Mora Meat as an example. This renowned dish was named after money, and this of course strongly implies an association with financial fortune.
+Hatim: Mix up all the good ingredients, and you shall end up with a dish most dubious. This happens distressingly often, does it not?
+Hatim: Never bought 'em, have you? Hmm... Let me explain it to you. It's a kind of futures trading that corresponds to spot trading. For example, this little one next to you...
+Hatim: Never mind, I simply cannot believe it... I cannot believe that I, Hatim the exceptionally rich from Kalimi, still cannot conquer futures trading!
+Hatim: No! This is not your fault. Don't take it to heart.
+Hatim: No, it's a great dish that will increase the affinity of those who consume it for Mora!
+Hatim: No. I am pretty sure this is a once-in-a-lifetime chance, and Hatim never misses any chance to gain wealth.
+Hatim: Of course, it's certainly not my fault either. What's truly to blame is this market for being bad.
+Hatim: Of course, this is just an analogy. If Slime Condensate was really traded on the futures market, all wild slimes would now be extinct.
+Hatim: Oh, I can smell it! This dish smells like... wealth! Yes, it smells like gold! I shall make a killing this time, yes indeed!
+Hatim: Oh, I'm wondering what today's "Golden Dish" is going to be.
+Hatim: Oh, nonsense! You shall have a share of the Mora too, of course. But compared to that, my advice is what is truly of value!
+Hatim: Oh... It's you guys.
+Hatim: Okay, I'm ready to embrace my fortune. Wait for good news from me, Traveler!
+Hatim: Only commodities in circulation can become futures, so if there is as much Slime Condensate as flour and milk on the market, then it's possible for tradable Slime Condensate futures to be created.
+Hatim: Plus, institutions or individuals who specialize in raising slimes may arise, and they may continuously produce large quantities of Slime Condensate.
+Hatim: Really, argh... I really...
+Hatim: Say you buy 500 bottles of Slime Condensate from me for 50,000 Mora. This is a spot deal.
+Hatim: See the city gate over there? Countless merchants carry their goods and Mora through it every day... That place must be teeming with fortunes.
+Hatim: So if you eat this kind of dish, then go to the Kalimi Exchange to buy some futures contracts, you'd be sure to make a killing!
+Hatim: So please, help me get a bottle of Apple Cider!
+Hatim: So, help me out again, would you?
+Hatim: So, please make your choice for the sake of my "futures trading" venture. Which will it be? Mora Meat, Butter Chicken, or Pile 'Em Up?
+Hatim: So, this is when futures come into play. Futures are not your run-of-the-mill-face-to-face trading, but a "trading agreement."
+Hatim: So, this is where futures come into play. Futures are not your run-of-the-mill, face-to-face trading, but a "trading agreement."
+Hatim: Strange... This isn't how things should have gone...
+Hatim: Thank you so much, Traveler. I shall eat this "Golden Dish" at my "Wealth Spot" later. Wait to hear good news from me, you two!
+Hatim: Thank you so much. Now, I shall go to my "Wealth Spot" later and eat this "Golden Dish." Just wait to hear good news from me, you two!
+Hatim: That would be worthy of my name as Kalimi's exceptionally wealthy Hatim!
+Hatim: That's right! It's been a pleasure working with you. Please make your choice then... Mora Meat, Butter Chicken, or Pile 'Em Up — which one is the real Golden Dish?
+Hatim: That's right, and I for my part can't guarantee that I will be able to supply you with that much Slime Condensate whenever you want.
+Hatim: The futures trading market is treacherous... But as long as I have my "Golden Dishes," piloting this investment ship shall be a cinch!
+Hatim: The same goes for the futures trading market. The entire market just fell to an all-time low and it's about to bottom out!
+Hatim: This dish looks a little strange... Oh well, it matters not. Work calls me.
+Hatim: This dish seems a little strange, but I... believe in you!
+Hatim: This dish seems quite excellent indeed. Ah, it fills me with confidence!
+Hatim: This is all thanks to your help, so please, order whatever you'd like to eat today! Haha!
+Hatim: This is another one of my secret ways to get rich, and like the "Golden Dish," this is a good location that can bring me fortune.
+Hatim: This is just an analogy... Suppose you buy 500 bottles today. However, you can't guarantee that you will buy that much Slime Condensate from me every day, right?
+Hatim: This is not how a "Golden Dish" should work. Did I eat the wrong dish...?
+Hatim: This is that tycoon's apple cider, yes? Ah, what an extraordinary aroma. It truly clears the mind!
+Hatim: This looks to be of good quality. Will I be able to make a fine profit this time?
+Hatim: Traveler! Ah, I mean, wondrous child of fortune and luck! You're here!
+Hatim: Traveler, let's try this once more. Can you please help me choose a "Golden Dish" again?
+Hatim: Uh...
+Hatim: We agreed the last time that you shall gain additional benefits, so please, ask me anything.
+Hatim: We shall earn back what was lost, and with interest to boot!
+Hatim: Well, I guess you can tell from my expression, no?
+Hatim: What about you, Child of Fortune? Do you have any questions?
+Hatim: When I can supply Slime Condensate, I will submit a "trading agreement" to the Futures Exchange to sell that condensate.
+Hatim: When that time comes, the price of Slime Condensate might also go up...
+Hatim: When you need the Slime Condensate, you can go to the Futures Exchange and check the "trading agreements" to see who's selling it.
+Hatim: Why don't you help me choose a "Golden Dish"? I will repay you well.
+Paimon: A "Golden Dish"? Is that... food that's made of gold?
+Paimon: Ah! There's Hatim now!
+Paimon: Ah, Hatim isn't here... Now, Paimon remembers he mentioned somewhere near the city gate and the exchange when he talked about "Wealth Spots"...
+Paimon: But how did you know about...
+Paimon: Hatim, we've been looking for you for a long time. Are you okay?
+Paimon: He talked about some special "Wealth Spots" of him, didn't he? If Paimon's memory serves... these places are near the city gate and the exchange.
+Paimon: He's gotta be at one of those places, so let's try again.
+Paimon: Heh. Y'know, this additional benefit doesn't feel all that different from not having any!
+Paimon: Hi! Hatim, how have you been?
+Paimon: Huh? Paimon likes... Um... Slimes!
+Paimon: Huh? Why isn't Hatim here...? Weird.
+Paimon: Looks like you really did make a lot of Mora!
+Paimon: Master Diluc?
+Paimon: N—Not that Paimon wants to profit, of course! Just asking...
+Paimon: Paimon is Paimon! Not some "little one"!
+Paimon: Paimon wants to eat it too! Wait... But how can there be such a thing?
+Paimon: P—Paimon'll just stick to getting (Traveler) to beat those Slimes up...
+Paimon: Still from the original options?
+Paimon: The explanation sounds sort of contrived...
+Paimon: Then Paimon has a question... Will there really be slime futures?
+Paimon: Th—That's too many! Paimon can't eat all of that!
+Paimon: Um... Well, Paimon's not gonna buy any if she's too full.
+Paimon: What!? It's just buying some Slime Condensate, how can things get so complicated...?
+Paimon: Why don't we go to these places to look for him?
+Paimon: Wow... Amazing...
+Paimon: You have so many strange theories.
+Paimon: You're not picking a Golden Dish again, are you?
+You enjoy the delicious food with Hatim...

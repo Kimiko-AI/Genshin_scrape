@@ -1,0 +1,20 @@
+ About the Sumeru Roses...
+Kourosh: Ah, are you here to deliver the Sumeru Roses? I need to see those gorgeous flowers for a change.
+Kourosh: So, do you have all ten Sumeru Roses? You can give them to me if you do.
+ Here are the Sumeru Roses you wanted.
+(Give Sumeru Roses)
+Kourosh: Thank you. They're perfect. It would be nice if my next performance could be as impeccable as they are.
+ Not yet.
+Kourosh: Argh, even roses have abandoned me. Life is harsh.
+ Here are the Sumeru Roses you wanted.
+(Give Sumeru Roses)
+Kourosh: Thank you. They're perfect. It would be nice if my next performance could be as impeccable as they are.
+ Not yet.
+Kourosh: Argh, even roses have abandoned me. Life is harsh.
+ Quest DescriptionKourosh from Grand Bazaar needs ten Sumeru Roses.
+(Give Sumeru Roses)
+Kourosh: *sob* The manager scolded me again today...
+Kourosh: Ah, are you here to deliver the Sumeru Roses? I need to see those gorgeous flowers for a change.
+Kourosh: Argh, even roses have abandoned me. Life is harsh.
+Kourosh: So, do you have all ten Sumeru Roses? You can give them to me if you do.
+Kourosh: Thank you. They're perfect. It would be nice if my next performance could be as impeccable as they are.

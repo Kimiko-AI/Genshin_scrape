@@ -1,0 +1,56 @@
+ And if I hadn't been there...?
+ I'm watching you.
+ No sudden moves.
+ Quest DescriptionTo heal Uwe, you accompany Barbara to search the Whispering Woods for Small Lamp Grass.
+ What if you'd been on your own?
+ Why did you choose to heal that guy even though you knew he was suspicious?
+Barbara starts to heal Uwe...
+Media:vo bblcop001 1900801 barbara 01.ogg Barbara: Don't look so serious, I know what you're thinking.
+Media:vo bblcop001 1900801 barbara 02.ogg Barbara: I've heard a lot about the criminal methods of the Treasure Hoarders around Mondstadt.
+Media:vo bblcop001 1900801 barbara 03.ogg Barbara: Usually, if I come across a person like this, I'd simply ask them to seek help from somebody at the Church.
+Media:vo bblcop001 1900801 barbara 04.ogg Barbara: But this fellow is in serious condition, he needs urgent healing...
+Media:vo bblcop001 1900801 barbara 05.ogg Barbara: After all, I've got an Honorary Knight at my side to protect me, right?
+Media:vo bblcop001 1900801 barbara 06.ogg Barbara: Hmm, let's gather the Small Lamp Grass and head back so we can heal him.
+Media:vo bblcop001 1900801 barbara 07.ogg Barbara: This should do the trick, hold on a moment...
+Media:vo bblcop001 1900801 barbara 08.ogg Barbara: Alright, that should do it. But just to be safe, you should probably pay a visit to the Church.
+Media:vo bblcop001 1900801 barbara 09.ogg Barbara: Um... It crossed my mind.
+Media:vo bblcop001 1900801 barbara 10.ogg Barbara: The fact was, you needed healing, right?
+Media:vo bblcop001 1900801 barbara 11.ogg Barbara: And you hadn't done anything wrong. You just asked me for help.
+Media:vo bblcop001 1900801 barbara 12.ogg Barbara: Whatever your true identity, in my eyes, you were merely a person in need of healing.
+Media:vo bblcop001 1900801 barbara 13.ogg Barbara: Oh... Well, the best thing would be for you to come back to Mondstadt with us. The Church can help with your treatment, you're not fully healed yet...
+Media:vo bblcop001 1900801 barbara 14.ogg Barbara: Hehe, what a strange character... but I hope his wounds will be okay.
+Media:vo bblcop001 1900801 barbara 15.ogg Barbara: At least we got a hold of some Sweet Flowers! We were running out of time for me to whip you up some Chilibrew.
+Media:vo bblcop001 1900801 barbara 16.ogg Barbara: Wow... this is a great batch! That's everything we need. It's getting late, let's get back to Mondstadt.
+Media:vo bblcop001 1900801 uwe 01.ogg Uwe: Sister Deaconess... you're back!
+Media:vo bblcop001 1900801 uwe 02.ogg Uwe: You adventurers... really are jumpy these days.
+Media:vo bblcop001 1900801 uwe 03.ogg Uwe: Haha... no need. I should be able to recover by myself.
+Media:vo bblcop001 1900801 uwe 04.ogg Uwe: Uh... S—Sister Deaconess...
+Media:vo bblcop001 1900801 uwe 05.ogg Uwe: Why... weren't you suspicious of me? Like the adventurer here?
+Media:vo bblcop001 1900801 uwe 06.ogg Uwe: Surely you've heard about the Treasure Hoarders and their methods... haha...
+Media:vo bblcop001 1900801 uwe 07.ogg Uwe: Feigning injury by the roadside, begging for healing to get close to travelers, then striking at the opportune moment... Y'know, stuff like that...
+Media:vo bblcop001 1900801 uwe 08.ogg Uwe: And... that's just one of their methods. Weren't you... worried that I might've been looking to harm you?
+Media:vo bblcop001 1900801 uwe 09.ogg Uwe: And yet... Why did you still help me?
+Media:vo bblcop001 1900801 uwe 10.ogg Uwe: Sister Deaconess...
+Media:vo bblcop001 1900801 uwe 11.ogg Uwe: The truth is... I am a Treasure Hoarder. My plan was to feign injury in order to take advantage of the situation...
+Media:vo bblcop001 1900801 uwe 12.ogg Uwe: But I ran into a group of monsters — I barely made it out. Then I realized I actually had to seek help from someone, anyone...
+Media:vo bblcop001 1900801 uwe 13.ogg Uwe: But travelers all kept their distance, none of them believed me... Until you showed up.
+Media:vo bblcop001 1900801 uwe 14.ogg Uwe: I—I can't thank you enough for healing me. I feel strong enough to carry on now... I won't trouble you anymore.
+Media:vo bblcop001 1900801 uwe 15.ogg Uwe: Please! I've taken up enough of your time.
+Media:vo bblcop001 1900801 uwe 16.ogg Uwe: Oh, these are for you. I'm afraid I have nothing of value to give, but... I picked these Sweet Flowers from nearby.
+Media:vo bblcop001 1900801 uwe 17.ogg Uwe: Take them, as thanks for healing me. I will remember your kindness.
+Media:vo bblcop001 1900801 uwe 18.ogg Uwe: In the future, if you have any trouble with... Treasure Hoarders... just mention my name, Uwe. I guarantee, they won't dare touch the hem of your jacket!
+Media:vo bblcop001 1900801 uwe 19.ogg Uwe: I must go. Farewell.
+Media:vo bblcop001 1900801 uwe 20.ogg Uwe: Y—You got a problem? Stop looking at me like that...
+Media:vo bblcop001 1900802 barbara 01.ogg Barbara: Well, we're back. Whew... that was pretty tiring.
+Media:vo bblcop001 1900802 barbara 02.ogg Barbara: I'm a deaconess, healing the wounded is something I must do.
+Media:vo bblcop001 1900802 barbara 03.ogg Barbara: Besides... I have a Vision. Even if he did try anything, I'd have been able to handle it.
+Media:vo bblcop001 1900802 barbara 04.ogg Barbara: Not to mention, I had the Honorary Knight with me. If there'd been any danger... you would definitely have protected me, right?
+Media:vo bblcop001 1900802 barbara 05.ogg Barbara: If I was alone... Mm...
+Media:vo bblcop001 1900802 barbara 06.ogg Barbara: Well, for a Vision-bearer, I'm more adept at healing. If there were too many enemies, I guess I would've been defeated after a while...
+Media:vo bblcop001 1900802 barbara 07.ogg Barbara: However, because I would've been alone... I wouldn't have risked an ambush by stopping to heal him myself. I would've just left some herbs with him instead.
+Media:vo bblcop001 1900802 barbara 08.ogg Barbara: I'm good at remembering self-defense tactics like that.
+Media:vo bblcop001 1900802 barbara 09.ogg Barbara: After all, as Sister Victoria always says... don't go around healing people in the wild...
+Media:vo bblcop001 1900802 barbara 10.ogg Barbara: Then again... What's the point of having a Vision if I can't stretch the rules once in a while? Hehe...
+Media:vo bblcop001 1900802 barbara 11.ogg Barbara: Oh — the Chilibrew! It shouldn't take long to make... Why don't you wait for me in the garden next to the Adventurers' Guild?
+Media:vo bblcop001 1900802 barbara 12.ogg Barbara: I'll bring it straight over when it's ready.
+(Continue to Home-Made Chilibrew)

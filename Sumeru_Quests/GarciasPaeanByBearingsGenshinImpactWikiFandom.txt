@@ -1,0 +1,38 @@
+ How are the modifications to his machine going?
+ I do have the time, but...
+ I hope you will succeed this time.
+ Quest DescriptionLooks like Garcia and Ahangar are arguing about something...
+ What are you arguing about?
+ What are you doing here?
+Ahangar swings his hammer so fiercely that Garcia has to back away from him...
+Ahangar: (What a nuisance... This deal takes much longer than any other orders...)
+Ahangar: But he doesn't think that's enough, he wants even more gears.
+Ahangar: I'm already using up all my Iron Chunks to forge these... things for him!
+Ahangar: Now that we have the Iron Chunks, I'm going back to work. You, back off!
+Ahangar: Okay! Okay! I'll just forge the gears for you! Just... stop talking!
+Ahangar: This man asked me to forge lots of iron tubes and gears, with different requirements for each and every one of them.
+Ahangar: Too small last time, and too big now! You're going to use up all my Iron Chunks!
+Ahangar: What do you want all those gears and tubes for? Are you building an iron house or something?
+Garcia: (I need to get this problem solved! But... no, never mind... no buts...)
+Garcia: A sketch might help you understand. Do you happen to have some paper on you? No? Never mind, I'll draw on my clothes. That should make things clearer...
+Garcia: But I haven't finished my explanation...
+Garcia: I have named the area containing some of the gears the "Storage," while the bearings and the rest of the gears make up the "Numberbase."
+Garcia: Pass me the coal, will you? Many thanks, please look at this...
+Garcia: Please allow me to explain my work again, I'm sure you will understand...
+Garcia: The gears in Storage are used for recording and storing numbers, and those in Numberbase for calculation.
+Garcia: This bearing is too large. It wouldn't fit...
+Garcia: True enough, sir! A house it is, a house filled with gears — that is what I am building.
+Lutong: (Uh, regardless, there'll always be a way...)
+Lutong: About that... We have encountered some challenges, which were expected. Mr. Garcia is still pondering a solution.
+Lutong: But before that, please bring some Iron Chunks back here.
+Lutong: But if you ask me, the machine that Mr. Garcia envisions requires more than just one "genius."
+Lutong: Did you bring the Iron Chunks?
+Lutong: I am... cautiously pessimistic about this.
+Lutong: I fear that no one really understands the exact mechanisms behind the machine, save him.
+Lutong: If this should interest you at some point in the future, feel free to ask Mr. Garcia for more information.
+Lutong: In fact, we are also about to use up all our Mora.
+Lutong: Just let Mr. Garcia explain all this to Mr. Ahangar.
+Lutong: Let's leave Mr. Ahangar to his work. Here's your payment.
+Lutong: Mr. Garcia is a genius with machines. That much is beyond doubt.
+Lutong: That means so much. Thank you, Traveler.
+Lutong: Traveler, I... Well, Mr. Garcia needs a favor. Will you collect some Iron Chunks for us?

@@ -1,0 +1,17 @@
+ Quest DescriptionSome scoundrels are plotting ill, threatening the safety of the surrounding area. If you can sneak into their encampment and filch their supplies, you are sure to greatly reduce their strength.
+Initial enemies:  Fatui Anemoboxer Vanguard ×1 Fatui Cryogunner Legionnaire ×1
+Initial enemies:  Fatui Anemoboxer Vanguard ×1 Fatui Geochanter Bracer ×1
+Initial enemies:  Nobushi: Hitsukeban ×1 Nobushi: Jintouban ×1
+Initial enemies:  Nobushi: Jintouban ×3
+Initial enemies:  Treasure Hoarders: Crusher ×1 Treasure Hoarders: Gravedigger ×1 Treasure Hoarders: Handyman ×1 Treasure Hoarders: Pugilist ×1
+Initial enemies:  Treasure Hoarders: Scout ×3
+Initial enemies:  Wooden Shield Hilichurl Guard ×2 Electro Abyss Mage ×1
+Initial enemies:  Wooden Shield Hilichurl Guard ×2 Pyro Hilichurl Shooter ×1
+Reinforcements:  Electro Hilichurl Grenadier ×1 Hilichurl Grenadier ×1 Crackling Axe Mitachurl ×1
+Reinforcements:  Electro Hilichurl Shooter ×1 Pyro Hilichurl Shooter ×1 Blazing Axe Mitachurl ×1
+Reinforcements:  Fatui Electrohammer Vanguard ×1 Fatui Pyroslinger Bracer ×1
+Reinforcements:  Fatui Hydrogunner Legionnaire ×1 Fatui Geochanter Bracer ×1
+Reinforcements:  Nobushi: Kikouban ×1 Kairagi: Dancing Thunder ×1
+Reinforcements:  Nobushi: Kikouban ×1 Nobushi: Hitsukeban ×1
+Reinforcements:  Treasure Hoarders: Crusher ×2 Treasure Hoarders: Handyman ×1 Treasure Hoarders: Pugilist ×1
+Reinforcements:  Treasure Hoarders: Cryo Potioneer ×1 Treasure Hoarders: Electro Potioneer ×1 Treasure Hoarders: Hydro Potioneer ×1 Treasure Hoarders: Pyro Potioneer ×1

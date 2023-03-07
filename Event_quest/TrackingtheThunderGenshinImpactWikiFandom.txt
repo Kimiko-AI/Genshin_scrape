@@ -1,0 +1,35 @@
+ How's the view from the shore?
+Muzhen: You mean from here? Well, it's certainly wider than it was below deck. It's not bad.
+Muzhen: Still, I'm not very fond of the air here. It's just missing that little "something" that I usually have below deck. I swear it's making my brain work slower.
+Muzhen: The shore's good for a view, but not great for thinking.
+ How's your research coming along?
+Muzhen: Not great. Well, I'm stuck, to be honest.
+ It is rather complicated...
+ Quest DescriptionPrevious findings have caused Muzhen's research to make progress, but research is an ongoing process...
+An Electrogranum can absorb the DMG dealt by a Thunder Shock hit.
+During the Lightning Round challenge, you will encounter the special Thunder Dwelling. Characters in proximity to the Thunder Dwelling who are carrying Electrograna, are affected by Electro, or use an Electro attack on it will charge the dwelling's energy.
+During the Thunder Sojourn event, Travelers can activate mechanisms to enter the Lightning Round challenge. After starting the challenge, Travelers will need to defeat all opponents within the time limit.
+Lightning Round — Gameplay Tutorial
+During the Thunder Sojourn event, Travelers can activate mechanisms to enter the Lightning Round challenge. After starting the challenge, Travelers will need to defeat all opponents within the time limit.
+During the Lightning Round challenge, you will encounter the special Thunder Dwelling. Characters in proximity to the Thunder Dwelling who are carrying Electrograna, are affected by Electro, or use an Electro attack on it will charge the dwelling's energy.
+Once the Thunder Dwelling is fully charged, it will release a Thunder Shock, dealing Electro DMG to all characters and opponents present on the battlefield. If the Thunder Shock hits an opponent, it will cause them take more DMG for a period of time. The Thunder Dwelling will be unable to recharge for a brief period after unleashing its Thunder Shock.
+An Electrogranum can absorb the DMG dealt by a Thunder Shock hit.
+Muzhen: At this point, we've got enough to determine the general area in which these Ruin machines are located. But we still can't pinpoint their precise location.
+Muzhen: By that, I mean that they come from rather recent elemental crystallizations... To strike a comparison, this is but a slightly deeper footprint recently left in the snow.
+Muzhen: Hehe~
+Muzhen: I had a look at the crystals you brought back earlier. They seem rather... "young."
+Muzhen: If we are able to obtain sufficient samples of that for comparison, we should be able to draw a general route map.
+Muzhen: Not great. Well, I'm stuck, to be honest.
+Muzhen: So this time, I'd like you to look for footprints that are more "shallow"... and follow them to their source!
+Muzhen: Still, I'm not very fond of the air here. It's just missing that little "something" that I usually have below deck. I swear it's making my brain work slower.
+Muzhen: The shore's good for a view, but not great for thinking.
+Muzhen: Traveler, you've returned!
+Muzhen: Well, guess that's all for the chit-chat. Time to get moving!
+Muzhen: Well, maybe my analogy wasn't the best, but I think you'll figure it out just fine once you're there!
+Muzhen: When I say "shallow footprints," I mean deposits of Electro elements that have condensed to a certain extent near the ground.
+Muzhen: Which is why I'm just wringing my hands over here. Guess the rest is up to you!
+Muzhen: You mean from here? Well, it's certainly wider than it was below deck. It's not bad.
+Once the Thunder Dwelling is fully charged, it will release a Thunder Shock, dealing Electro DMG to all characters and opponents present on the battlefield. If the Thunder Shock hits an opponent, it will cause them take more DMG for a period of time. The Thunder Dwelling will be unable to recharge for a brief period after unleashing its Thunder Shock.
+Paimon: Gee, this lady couldn't beg and plead to save her life!
+Paimon: Shallow and deep footprints... route maps... Paimon's got no idea what you're on about.
+Paimon: This should be the place Muzhen was talking about...

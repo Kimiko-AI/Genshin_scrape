@@ -1,0 +1,461 @@
+ ...Huh?
+ ...I'm really sorry.
+Media:vo xmaq302 11 tighnari 03b 1.ogg Tighnari: Why are you sorry?
+ I might have triggered the thunder and lightning...
+Media:vo xmaq302 11 tighnari 03b 2.ogg Tighnari: Huh... It's alright, I'm sure you also never expected this to happen. Don't blame yourself.
+ ...Thank you, Dehya.
+ ...You wouldn't understand.
+ And our actions will bring change to many things tomorrow.
+ Are we sure he's not planning something...?
+ But there's nobody around us.
+ But why?
+ Do you think he'll just give up on her?
+ Everything's fine. She's sound asleep.
+ For now, I'm still not really sure.
+ Have you ever met The Doctor?
+ I want to know where he is.
+ Haypasia once connected her consciousness to The Balladeer...
+ He's become... milder, but somehow, even more deranged.
+(Multiple violent lightning bolts strike)
+ Her consciousness connected to The Balladeer, and she has seen his past...
+ Hmm... let me think...
+ I can't believe he is actually leaving Sumeru...
+ I didn't expect that, either...
+ I didn't expect you to become my bodyguard.
+ I just remembered...
+ I might have triggered the thunder and lightning...
+ I think The Balladeer is the reason why The Doctor is targeting Haypasia.
+ I want to know where he is.
+ It can't be... Is The Balladeer using the Gnosis to change the weather?
+ It's hard to believe everything that has happened till now...
+ Just get a good night's sleep, everyone!
+ Let's go with "The Balladeer."
+ Long time no see!
+ Paimon, please stay quiet for now...
+ Quest DescriptionAs your plan progresses, more and more preparations have been done for the important day. However, this does not mean the process is as smooth as can be...
+ See you later!
+(The player is teleported out of Pardis Dhyai)
+ She asked for a smile as her payment.
+ She's okay for now, but I want to tell you something.
+ So, what should we do?
+ Sorry, the situation was a bit tricky.
+ Step DescriptionSomething unexpected has caught you off guard, resulting in you hurrying back to Pardis Dhyai. There, you are greeted by...
+ Thank you for sharing the information with us, Tighnari.
+ That's right, so...
+ Just get a good night's sleep, everyone!
+ The Balladeer!?
+ Thunder!? Could it be The Balladeer?
+ Tighnari and Dehya are over there!
+ Tighnari, we want to ask you about something.
+ Uh-oh!
+ What did you do to Haypasia?
+ What is he after?
+ What's the matter?
+ Yeah, and I also have a theory.
+ I think The Balladeer is the reason why The Doctor is targeting Haypasia.
+ Her consciousness connected to The Balladeer, and she has seen his past...
+ Yeah. Tomorrow, we are going to save a god.
+ Yes, please do get some rest.
+ Your wound...
+Media:vo xmaq302 11 tighnari 03a 1.ogg Tighnari: It's alright.
+(Traveler):  (Phew, she's just sleeping.)
+(Traveler):  (She appears unharmed, but why is she so still?)
+(The Traveler checks on Haypasia)
+(Traveler): (...But, are you really okay with all this?)
+(Traveler): (...Doesn't that make you mad?)
+(Traveler): (...If that's truly what you believe, why did you keep your connection with Haypasia? Surely, with the power you've come to possess, you can cut her off with just a thought.)
+(Traveler): (...Is that so?)
+(Traveler): (Even if it means losing yourself, would you still want to become a god?)
+(Traveler): (Even if the Akademiya's theories are correct, and you manage to gain the wisdom of a god...)
+(Traveler): (If you can hear my thoughts, I want to ask you a question.)
+(Traveler): (If you truly cherish your follower, you should protect her from harm.)
+(Traveler): (Is it because I made physical contact with Haypasia? Is The Balladeer in her consciousness?)
+(Traveler): (It seems that The Doctor does not wish for her to stay in Sumeru and continue receiving treatment here. Isn't that a little suspicious?)
+(Traveler): (Paimon can't see him! So is he... a spirit? A ghost? Wait...)
+(Traveler): (So The Doctor didn't lie about leaving Sumeru... But, could it really be that simple?)
+(Traveler): (That look on your face... What are you planning?)
+(Traveler): (That voice...)
+(Traveler): (The Akademiya acted even faster than we thought...)
+(Traveler): (The Akademiya plans to infuse your consciousness with Divine Knowledge Capsules... this is extremely risky.)
+(Traveler): (You would probably no longer remain yourself. You will become the new "Greater Lord Rukkhadevata" for the Akademiya.)
+(Traveler): (You're acting more friendly than usual, or am I mistaken?)
+(Traveler): ...
+(Traveler): ...!
+Alhaitham tells Nilou of the plan on Jnagarbha Day...
+Media:Vo xmaq302 9 paimon 02.ogg Paimon: Yeah Tighnari, beat him up!
+Media:vo dialog xmaq302 tighnari 01.ogg Tighnari: "Sooner or later, everyone must pay the price for what they've learned"... Hmph, what an arrogant statement.
+Media:vo dialog xmaq302 tighnari 02.ogg Tighnari: Oh, don't mind me, I was just thinking about his words. Be sure to take extra care of yourselves.
+Media:vo dialog xmaq302 tighnari 03.ogg Tighnari: You can just focus on your plan. Leave Haypasia to me.
+Media:vo dialog xmaq302 tighnari 04.ogg Tighnari: My wound isn't going to get in the way... Argh! Okay... Guess I'll sit still for a little while longer.
+Media:vo xmaq302 1 dehya 01.ogg Dehya: It's about time! Didn't you say our part of the plan is the most important of all? Tsk, and here you come rolling in late.
+Media:vo xmaq302 1 dehya 02.ogg Dehya: In the time it took you to get here, I already did five laps around the place, downed seven drinks, and even did some clothes shopping.
+Media:vo xmaq302 1 dehya 03.ogg Dehya: Heh, I just wanted to fix your attitude and rub it in a little. After all, you took your sweet time getting here, and we've got important stuff to take care of.
+Media:vo xmaq302 1 dehya 04.ogg Dehya: ...Haha, I just like seeing that serious look on your face. Alright, I'll stop.
+Media:vo xmaq302 1 dehya 05.ogg Dehya: All joking aside, I'm glad you're here. Let's get moving and take care of this as soon as possible.
+Media:vo xmaq302 1 dehya 06.ogg Dehya: Our responsibility is to get a status update on the Fatui Harbinger known as The Doctor. We need to make sure he won't get in our way when we rescue Lesser Lord Kusanali.
+Media:vo xmaq302 1 dehya 07.ogg Dehya: Dealing with an institution that controls all of Sumeru is already hard enough... If The Doctor were to crash the party, it would be next to impossible for us to achieve our goals.
+Media:vo xmaq302 1 dehya 08.ogg Dehya: Right, hearing his name just reminds me of those stuffy old geezers in the Akademiya. I'd rather not have to deal with someone like that.
+Media:vo xmaq302 1 dehya 09.ogg Dehya: According to the plan, we should first go to Pardis Dhyai, and ask for Forest Watcher Tighnari.
+Media:vo xmaq302 1 dehya 10.ogg Dehya: If Alhaitham and Cyno's sources are solid, then we can be sure that Tighnari still has the Akademiya's trust.
+Media:vo xmaq302 1 dehya 11.ogg Dehya: So, we'll find Tighnari, and convince him to get us the latest intel on The Doctor. Then, depending on what we learn, we'll make any necessary adjustments to our plan.
+Media:vo xmaq302 1 dehya 12.ogg Dehya: The sages have placed spies everywhere on the other side of the Wall. I'll follow you as a bodyguard.
+Media:vo xmaq302 1 dehya 13.ogg Dehya: Haha, you should be honored. I don't offer my services to just anyone, you know.
+Media:vo xmaq302 1 dehya 14.ogg Dehya: That's certainly true, but when multiple employers are vying for your services, you should always go with the best offer. Hmm, let's see. If I were to charge you a bill... I guess I can apply a discount.
+Media:vo xmaq302 1 dehya 15.ogg Dehya: Hmm, how much do I want...? Hey, how about paying me with a smile, whaddya say?
+Media:vo xmaq302 1 dehya 16.ogg Dehya: I haven't seen you smiling much recently. If you ask me, someone like you must look lovely when they smile.
+Media:vo xmaq302 1 dehya 17.ogg Dehya: Come on, give me a smile so that I can be less worried.
+Media:vo xmaq302 1 dehya 18.ogg Dehya: Looking good! I hope this pretty smile will become our lucky charm.
+Media:vo xmaq302 1 dehya 19.ogg Dehya: There are many kinds of smiles, but only a truly joyous one can bring blessings to others. Let's consider this smile a down payment for our future victory.
+Media:vo xmaq302 1 dehya 20.ogg Dehya: Let's go! It's time to pay a visit to Pardis Dhyai.
+Media:vo xmaq302 1 paimon 01.ogg Paimon: Dehya~! We're here!
+Media:vo xmaq302 1 paimon 02.ogg Paimon: Uh, sorry... We didn't mean to keep you waiting...
+Media:vo xmaq302 1 paimon 03.ogg Paimon: Uh, but where should we start?
+Media:vo xmaq302 1 paimon 04.ogg Paimon: Yeah, we sure don't want him showing up... Ugh, he really gives Paimon the creeps!
+Media:vo xmaq302 1 paimon 06.ogg Paimon: But Paimon thought mercenaries would do anything for Mora!
+Media:vo xmaq302 1 paimon 07.ogg Paimon: H—How much Mora do you want? Paimon's not sure we can afford it...
+Media:vo xmaq302 10 paimon 01.ogg Paimon: Got it!
+(The Traveler and Paimon approach Haypasia in the greenhouse)
+Media:vo xmaq302 10 paimon 02.ogg Paimon: Haypasia's still here. Doesn't look like anyone's broken in...
+Media:vo xmaq302 10 paimon 03.ogg Paimon: Well, how is she?
+Media:vo xmaq302 10 paimon 04.ogg Paimon: Oh, that's good...
+(The Traveler enters a state where everything else is desaturated)
+Media:vo xmaq302 10 paimon 05.ogg Paimon: What! The Balladeer is here!?
+Media:vo xmaq302 10 paimon 06.ogg Paimon: But uh, where is he?
+Media:vo xmaq302 10 paimon 07.ogg Paimon: Uh, who are you talking to? ...It can't be The Balladeer, right? Hehe, that's impossible...
+Media:vo xmaq302 10 paimon 08.ogg Paimon: Hey, (Traveler)! Wh—What are you doing...
+Media:vo xmaq302 10 paimon 09.ogg Paimon: Waaah!? Paimon hears thunder!
+Media:vo xmaq302 10 paimon 10.ogg Paimon: That person Paimon couldn't see was The Balladeer? He sure chatted with you for a while!
+Media:vo xmaq302 10 paimon 11.ogg Paimon: Uh? Where is the storm headed!?
+Media:vo xmaq302 10 paimon 12.ogg Paimon: That means anyone outside is in danger! Let's go, Tighnari and Dehya still must be fighting!
+Media:vo xmaq302 10 scaramouche 01.ogg ???: So, you think this is over.
+(The Balladeer appears behind the Traveler in grayscale)
+Media:vo xmaq302 10 scaramouche 02.ogg ???: Haha, I've missed that look of abject horror. You've given me that look every time we meet.
+Media:vo xmaq302 10 scaramouche 03.ogg The Balladeer: I can hear all of your thoughts, you know.
+Media:vo xmaq302 10 scaramouche 04.ogg The Balladeer: Don't you remember? I already "saw" you the first time you came to Pardis Dhyai and made contact with Haypasia.
+Media:vo xmaq302 10 scaramouche 05.ogg The Balladeer: I didn't need to do anything. It is her honor to be able to connect her consciousness with me.
+Media:vo xmaq302 10 scaramouche 06.ogg The Balladeer: I know you must be curious. I might as well tell you that I decided to enter Haypasia's consciousness the moment I sensed your touch.
+Media:vo xmaq302 10 scaramouche 07.ogg The Balladeer: I wanted to observe you on a fool's errand.
+Media:vo xmaq302 10 scaramouche 08.ogg The Balladeer: My deification is nearly complete. All that's left now are just some final details.
+(Lightning bolts strike at the Traveler's position)
+Media:vo xmaq302 10 scaramouche 09.ogg The Balladeer: Do you understand? Even if you manage to rescue Lesser Lord Kusanali, it will be impossible for you to defeat a bona fide god like me.
+Media:vo xmaq302 10 scaramouche 10.ogg The Balladeer: Is it wise to force that childlike god into a divine battle against me?
+Media:vo xmaq302 10 scaramouche 11.ogg The Balladeer: Scholars consider the God of Wisdom to be the sum total of their faith. It's how they can justify reverence for a god as they construct it.
+Media:vo xmaq302 10 scaramouche 12.ogg The Balladeer: But this also shows that humanity's worship of gods is a combination of blasphemy and exaltation. It's truly laughable.
+Media:vo xmaq302 10 scaramouche 13.ogg The Balladeer: Yes, what is it?
+Media:vo xmaq302 10 scaramouche 14.ogg The Balladeer: Yeah, I'm in a good mood, which is why I'm talking to you like this.
+Media:vo xmaq302 10 scaramouche 15.ogg The Balladeer: What do you mean?
+Media:vo xmaq302 10 scaramouche 16.ogg The Balladeer: Hmph, those words almost make you sound like a friend who actually cares.
+Media:vo xmaq302 10 scaramouche 17.ogg The Balladeer: But you're wrong. I'm different from all of you.
+Media:vo xmaq302 10 scaramouche 18.ogg The Balladeer: I was born to become a god. My entire life up until this point has just been a meaningless routine.
+Media:vo xmaq302 10 scaramouche 19.ogg The Balladeer: Just think about a sheet of paper... By itself, it holds no meaning. The content recorded on it is what gives it value.
+Media:vo xmaq302 10 scaramouche 20.ogg The Balladeer: All "I" had recorded down before were some painful memories and boring human feelings. Such senseless drivel should have been erased a long time ago.
+Media:vo xmaq302 10 scaramouche 21.ogg The Balladeer: Indeed, to me, the sight of you fools and your futile struggles is far more amusing. Tell me, just what has this world done for you to protect it with such zest and conviction?
+Media:vo xmaq302 10 scaramouche 22.ogg The Balladeer: I'm connected to your consciousness, so I can hear what you're thinking and sense the depth of your determination.
+Media:vo xmaq302 10 scaramouche 23.ogg The Balladeer: This is a good conversation we're having, so here's a word of advice... Let go of your misguided guardian complex. You know nothing about the truth.
+Media:vo xmaq302 10 scaramouche 24.ogg The Balladeer: It'll be for your own good, as well as everyone else's. Humans are a species that can only find bliss in ignorance.
+Media:vo xmaq302 10 scaramouche 25.ogg The Balladeer: Ah, you've seen my affection for her. If you were in my position, I think you'd feel the same way.
+Media:vo xmaq302 10 scaramouche 26.ogg The Balladeer: She peered into my consciousness and saw my past. Someone like that is qualified to become my first follower.
+Media:vo xmaq302 10 scaramouche 27.ogg The Balladeer: All gods need followers, so Haypasia has been chosen. Her appearance heralds my imminent arrival at the throne of divinity, while her worship shall become my glory.
+Media:vo xmaq302 10 scaramouche 28.ogg The Balladeer: You're doubting me again? No matter. Soon, you'll know what kind of authority you're challenging.
+Media:vo xmaq302 10 scaramouche 29.ogg The Balladeer: Who wants to hurt my devout follower?
+Media:vo xmaq302 10 scaramouche 30.ogg The Balladeer: The Doctor wants to hurt my first follower?
+Media:vo xmaq302 10 scaramouche 31.ogg The Balladeer: Hehehe...
+Media:vo xmaq302 10 scaramouche 32.ogg The Balladeer: ...Hahahaha. How very amusing. Has anyone ever told you that you're not good at sowing discord?
+Media:vo xmaq302 10 scaramouche 33.ogg The Balladeer: The Doctor has never known his place. Even now, the puny human thinks himself capable of interfering in the business of the new god.
+Media:vo xmaq302 10 scaramouche 34.ogg The Balladeer: You're still too naive if you think a few words will be enough to convince me to destroy The Doctor, but I'm willing to give you a gift, just like my expression of affection towards Haypasia...
+Media:vo xmaq302 10 scaramouche 35.ogg The Balladeer: It is an honor for you to be able to stand here and speak with me. As my listener, you will be rewarded.
+Media:vo xmaq302 10 scaramouche 36.ogg The Balladeer: Both good things and bad things can be called gifts. After all, gods have never needed to be reasonable.
+(The Balladeer exits with a flash of lightning)
+(The weather changes to a lightning storm)
+Media:vo xmaq302 10 tighnari 01.ogg Tighnari: We're not getting anywhere... (Traveler), Paimon, please go to Haypasia. We need to make sure they don't try to sneak around and attack from behind.
+Media:vo xmaq302 11 dehya 01.ogg Dehya: He's hurt.
+Media:vo xmaq302 11 dehya 02.ogg Dehya: Don't move. I've seen Eremites get struck by lightning before. You need to rest.
+Media:vo xmaq302 11 dehya 03.ogg Dehya: We were fighting, and just as things started looking grim, the weather suddenly became extremely strange. Lightning started attacking everyone, almost as if it were alive.
+Media:vo xmaq302 11 dehya 04.ogg Dehya: Luckily, there were only two of us, and both of us were nimble enough to dodge most of the strikes. There were a lot of Fatui, though, and they were being torn to shreds by the bolts of lightning.
+Media:vo xmaq302 11 dehya 05.ogg Dehya: Hey! Didn't I tell you not to move?
+Media:vo xmaq302 11 paimon 01.ogg Paimon: Oh, have the Fatui retreated?
+Media:vo xmaq302 11 paimon 02.ogg Paimon: Hey! What happened to you!?
+Media:vo xmaq302 11 paimon 03.ogg Paimon: Struck by lightning!?
+Media:vo xmaq302 11 tighnari 01.ogg Tighnari: I'm fine... Ugh!
+Media:vo xmaq302 11 tighnari 02.ogg Tighnari: With that, all the Fatui soldiers were forced to retreat...
+Media:vo xmaq302 11 tighnari 03a 1.ogg Tighnari: It's alright.
+Media:vo xmaq302 11 tighnari 03b 1.ogg Tighnari: Why are you sorry?
+Media:vo xmaq302 11 tighnari 03b 2.ogg Tighnari: Huh... It's alright, I'm sure you also never expected this to happen. Don't blame yourself.
+Media:vo xmaq302 11 tighnari 04.ogg Tighnari: My wound aside, you look like... you've seen something unpleasant. Is Haypasia alright?
+Media:vo xmaq302 11 tighnari 05.ogg Tighnari: Ugh...!
+Media:vo xmaq302 11 tighnari 06.ogg Tighnari: Just in case... Ugh! Let's... go to Haypasia's place, and talk about things there.
+Media:vo xmaq302 12 dehya 01.ogg Dehya: I know. They always think they can push through the pain.
+Media:vo xmaq302 12 dehya 02.ogg Dehya: That sounds, uh... ambitious, I guess? Anyway, this is all way beyond me.
+Media:vo xmaq302 12 dehya 03.ogg Dehya: As long as I can enjoy every day with a drink in my hand, tasty food in my stomach, and a good night's rest, that's enough. I'll only work when I have to.
+Media:vo xmaq302 12 dehya 04.ogg Dehya: Ahaha, I must be the least ambitious person who's ever set foot in Pardis Dhyai.
+Media:vo xmaq302 12 dehya 05.ogg Dehya: Don't mention it.
+Media:vo xmaq302 12 dehya 06.ogg Dehya: Well, if nothing else, all this proves that The Doctor really did have some urgent matter to attend to, and left Sumeru in a hurry.
+Media:vo xmaq302 12 dehya 07.ogg Dehya: Hmm. Maybe the Fatui want to cover up some secret of The Balladeer? Is that why they tried to seize Haypasia?
+Media:vo xmaq302 12 dehya 08.ogg Dehya: Have you noticed? The Balladeer is not happy with The Doctor's actions. He thinks The Doctor has no right to consider himself as his equal.
+Media:vo xmaq302 12 dehya 09a.ogg Dehya: Based on what (Traveler) has said, I think he would. Having The Doctor gone benefits him as well as us.
+Media:vo xmaq302 12 dehya 10.ogg Dehya: In other words, we've successfully completed this stage of the plan! The Doctor is out of the picture now.
+Media:vo xmaq302 12 dehya 11.ogg Dehya: Thank you for the help, Tighnari. Make sure you rest up for now.
+Media:vo xmaq302 12 dehya 12.ogg Dehya: Okay, that wraps things up for us here at Pardis Dhyai. (Traveler), it's about time we rendezvous with the others at the Grand Bazaar.
+Media:vo xmaq302 12 dehya 13.ogg Dehya: Let's continue to keep a low profile. You can head there once you're ready.
+Media:vo xmaq302 12 paimon 01.ogg Paimon: Hey, how about taking care of yourself first?
+Media:vo xmaq302 12 paimon 02.ogg Paimon: Ugh, the more you understand medicine, the worse of a patient you become...
+Media:vo xmaq302 12 paimon 03.ogg Paimon: Oh, he sat down!
+Media:vo xmaq302 12 paimon 04.ogg Paimon: So that's what you were talking to The Balladeer about? Paimon can't believe what he's thinking...
+Media:vo xmaq302 12 paimon 05.ogg Paimon: You said The Balladeer claimed that Haypasia has seen his past... So what could be there?
+Media:vo xmaq302 12 paimon 06.ogg Paimon: So, if The Doctor was to show up again, would The Balladeer zap him with lightning?
+Media:vo xmaq302 12 paimon 07.ogg Paimon: Yay, that's a big accomplishment!
+Media:vo xmaq302 12 tighnari 01.ogg Tighnari: ...
+Media:vo xmaq302 12 tighnari 02.ogg Tighnari: Thank goodness, she's fine.
+Media:vo xmaq302 12 tighnari 03.ogg Tighnari: I understand my condition... *grimace* The wound is not fatal. I'll be alright.
+Media:vo xmaq302 12 tighnari 04.ogg Tighnari: Ugh... agh!
+Media:vo xmaq302 12 tighnari 05.ogg Tighnari: Let me rest for a bit... *exhale* Sorry, (Traveler), now you may start.
+Media:vo xmaq302 12 tighnari 06.ogg Tighnari: The Akademiya's... god creation plan... How ridiculous.
+Media:vo xmaq302 12 tighnari 07.ogg Tighnari: Don't say that. I haven't even thanked you for your help back there.
+Media:vo xmaq302 12 tighnari 08.ogg Tighnari: Ugh! I'm... also happy for you.
+Media:vo xmaq302 12 tighnari 09.ogg Tighnari: Yeah, yeah... alright.
+Media:vo xmaq302 13 alhaitham 01.ogg Alhaitham: Alright, everyone is here.
+Media:vo xmaq302 13 alhaitham 02.ogg Alhaitham: Let's each report back one by one. I'll start first.
+Media:vo xmaq302 13 alhaitham 03.ogg Alhaitham: We have made the necessary modifications to the Akasha Terminal. In addition, the props required are also ready.
+Media:vo xmaq302 13 alhaitham 04.ogg Alhaitham: Good.
+Media:vo xmaq302 13 alhaitham 05.ogg Alhaitham: It appears to have been very effective. I'm glad to hear it.
+Media:vo xmaq302 13 alhaitham 06.ogg Alhaitham: Well, is that everything? Okay, this meeting is adjourned.
+Media:vo xmaq302 13 alhaitham 07.ogg Alhaitham: Well, what else is there to discuss?
+Media:vo xmaq302 13 alhaitham 08.ogg Alhaitham: Personally, I'd rather we all go home and get some rest.
+Media:vo xmaq302 13 alhaitham 09.ogg Alhaitham: Oh, and if you wanted someone to say something to that effect, then I must reiterate that I'm here to strategize, not to lead.
+Media:vo xmaq302 13 alhaitham 10.ogg Alhaitham: So you should find someone more suitable to do that.
+Media:vo xmaq302 13 alhaitham 11.ogg Alhaitham: Then I should remind you that I'm the Scribe.
+Media:vo xmaq302 13 alhaitham 12.ogg Alhaitham: A Scribe is responsible for recording meetings, not speaking.
+Media:vo xmaq302 13 alhaitham 13.ogg Alhaitham: Welcome, Nilou. Would you like to join us?
+Media:vo xmaq302 13 alhaitham 14.ogg Alhaitham: Yes, something very important.
+Media:vo xmaq302 13 alhaitham 15.ogg Alhaitham: Nilou, are there any breaks in your performance schedule in the upcoming days?
+Media:vo xmaq302 13 alhaitham 16.ogg Alhaitham: All the preparations are done. Now, can we finally conclude this meeting?
+Media:vo xmaq302 13 alhaitham 17.ogg Alhaitham: ...Thankfully, I've had my place to myself recently. It's been nice and quiet.
+Media:vo xmaq302 13 alhaitham 18.ogg Alhaitham: Oh, huh, nothing.
+Media:vo xmaq302 13 cyno 01.ogg Cyno: ...Who was behind it?
+Media:vo xmaq302 13 cyno 02.ogg Cyno: ...
+Media:vo xmaq302 13 cyno 03.ogg Cyno: Alright... I'll remember that.
+Media:vo xmaq302 13 cyno 04.ogg Cyno: Everything also went smoothly on my side. The Eremites should have arrived at their destination by now.
+Media:vo xmaq302 13 cyno 05.ogg Cyno: To avoid alerting the quarry, they will stay there for now.
+Media:vo xmaq302 13 cyno 06.ogg Cyno: It's all thanks to Rahman and his brave team, as well as their bold strategy.
+Media:vo xmaq302 13 cyno 07.ogg Cyno: ...
+Media:vo xmaq302 13 cyno 08.ogg Cyno: Employer?
+Media:vo xmaq302 13 cyno 09.ogg Cyno: Remember, believe in yourself.
+Media:vo xmaq302 13 cyno 10.ogg Cyno: Well said. A good night's rest before an operation can be the difference between success and failure.
+Media:vo xmaq302 13 dehya 01.ogg Dehya: How did everything go? Any luck with your missions?
+Media:vo xmaq302 13 dehya 02.ogg Dehya: I'll go next. (Traveler) and I went to Pardis Dhyai. The situation was a bit complicated, but we found Tighnari. Unfortunately, he was wounded during a fight.
+Media:vo xmaq302 13 dehya 03.ogg Dehya: Uh... Well, that's the tough part... What should I say, (Traveler)? "The Fatui" or "The Balladeer"?
+Media:vo xmaq302 13 dehya 04.ogg Dehya: After some back-and-forth, we confirmed that The Doctor has left Sumeru by boat. He has something urgent to attend to back in Snezhnaya.
+Media:vo xmaq302 13 dehya 05.ogg Dehya: So, we've successfully removed The Doctor from the picture. Also, Tighnari's already resting, so he'll be okay.
+Media:vo xmaq302 13 dehya 06.ogg Dehya: I can't believe you actually got so many Eremites into Sumeru City!
+Media:vo xmaq302 13 dehya 07.ogg Dehya: Huh? Wait, you mean that's it?
+Media:vo xmaq302 13 dehya 08.ogg Dehya: Shouldn't you end with some words of encouragement? You know, to fire us up now?
+Media:vo xmaq302 13 dehya 09.ogg Dehya: Alhaitham, you... *sigh*
+Media:vo xmaq302 13 dehya 10.ogg Dehya: But I thought all of you Akademiya big-shots were great speakers?
+Media:vo xmaq302 13 dehya 11.ogg Dehya: I know that, so what?
+Media:vo xmaq302 13 dehya 12.ogg Dehya: ...Fine, whatever.
+Media:vo xmaq302 13 dehya 13.ogg Dehya: Well, Cyno doesn't seem to be much of a talker, either. I guess that leaves it to my "employer."
+Media:vo xmaq302 13 dehya 14.ogg Dehya: Yep, (Traveler) hired me.
+Media:vo xmaq302 13 dehya 15.ogg Dehya: Haha, that's right. So c'mon, boss! What do you have to say for the team?
+Media:vo xmaq302 13 dehya 16.ogg Dehya: Not at all. I was actually just about to go find you.
+Media:vo xmaq302 13 dehya 17.ogg Dehya: Just remember not to say too much. Be discreet.
+Media:vo xmaq302 13 dehya 18.ogg Dehya: So, have you thought up what you'd like to say, boss?
+Media:vo xmaq302 13 dehya 19.ogg Dehya: Hahaha!
+Media:vo xmaq302 13 dehya 20.ogg Dehya: ...Huh?
+Media:vo xmaq302 13 nilou 01.ogg ???: Huh? What are you all doing here?
+Media:vo xmaq302 13 nilou 02.ogg Nilou: Hey everyone! I'm not disturbing you, am I?
+Media:vo xmaq302 13 nilou 03.ogg Nilou: Heehee. Uh, judging from the group and all your serious faces, you were discussing something important, weren't you?
+Media:vo xmaq302 13 nilou 04.ogg Nilou: But you also look like you're up to no good... Haha, seems pretty interesting.
+Media:vo xmaq302 13 nilou 05.ogg Nilou: Huh? Join you?
+Media:vo xmaq302 13 nilou 06.ogg Nilou: You mean... you also want to discuss something important... with me?
+Media:vo xmaq302 13 nilou 07.ogg Nilou: Huh? Wait, you're seriously inviting me?
+Media:vo xmaq302 13 nilou 08.ogg Nilou: I... I can't believe my ears! You are truly the bravest and most passionate people of Sumeru, well, that... I've ever met!
+Media:vo xmaq302 13 nilou 09.ogg Nilou: Oh right, (Traveler) and Paimon are not from Sumeru, but you are awesome as well!
+Media:vo xmaq302 13 nilou 10.ogg Nilou: I... I must admit that I'm a little scared.
+Media:vo xmaq302 13 nilou 11.ogg Nilou: But I'll try my best for Lesser Lord Kusanali. If I can somehow use my abilities to help you, then count me in.
+Media:vo xmaq302 13 nilou 12.ogg Nilou: ...Okay! I'll get my friends at the Grand Bazaar to help us tomorrow!
+Media:vo xmaq302 13 nilou 13.ogg Nilou: Yep, you got it!
+Media:vo xmaq302 13 nilou 14.ogg Nilou: Okay, so I guess that means it's time to say goodnight now.
+Media:vo xmaq302 13 paimon 01.ogg Paimon: Oh, Tighnari also asked us to tell you this message! "Trust your own senses and experiences."
+Media:vo xmaq302 13 paimon 02.ogg Paimon: Yeah! Say something to boost morale!
+Media:vo xmaq302 13 paimon 03.ogg Paimon: Oh, it's Nilou!
+Media:vo xmaq302 13 paimon 04.ogg Paimon: Ahem!
+Media:vo xmaq302 13 paimon 05.ogg Paimon: Hehe, that's right!
+Media:vo xmaq302 13 paimon 06.ogg Paimon: Yep yep! It's a grand plan, and we're all super awesome!
+Media:vo xmaq302 13 paimon 07.ogg Paimon: Alright, let's all go home and get a good night's sleep, so we can be up early tomorrow!
+Media:vo xmaq302 13 paimon 08.ogg Paimon: Yep! Goodnight, everyone.
+Media:vo xmaq302 2 paimon 01.ogg Paimon: He's over there! Let's go say hi.
+Media:vo xmaq302 3 cyno 01.ogg Cyno: Hasn't he already asked you several times before?
+Media:vo xmaq302 3 cyno 02.ogg Cyno: I get it. Since you are always at Gandharva Ville, you would like me — someone already working at the Akademiya — to investigate this matter, right?
+Media:vo xmaq302 3 cyno 03.ogg Cyno: I can do that, but I have a feeling it won't be that simple.
+Media:vo xmaq302 3 cyno 04.ogg Cyno: The Akademiya has been working on a big project. I'm not quite sure what it is, but your master might be involved with it.
+Media:vo xmaq302 3 cyno 05.ogg Cyno: If the higher-ups really are hiding something, then it will be difficult to remove myself from the situation once the investigation starts.
+Media:vo xmaq302 3 cyno 06.ogg Cyno: If the situation becomes critical, I'll leave the Akademiya. If you don't see me there for an extended period, that's your cue.
+Media:vo xmaq302 3 cyno 07.ogg Cyno: If that scenario comes to pass, you must be extra vigilant, and be wary of any messages or direct requests from the Akademiya.
+Media:vo xmaq302 3 cyno 08.ogg Cyno: Being loyal to the Akademiya doesn't mean blindly doing whatever the sages say. I know what I'm doing.
+Media:vo xmaq302 3 cyno 09.ogg Cyno: On that note, aren't you also being quite distrustful of your alma mater?
+Media:vo xmaq302 3 dehya 01.ogg Dehya: Hey there...
+Media:vo xmaq302 3 dehya 02.ogg Dehya: He left already?
+Media:vo xmaq302 3 dehya 03.ogg Dehya: Can I ask what it was about?
+Media:vo xmaq302 3 dehya 04.ogg Dehya: Sorry to ask you like this after having just met, but your answer is very important to us.
+Media:vo xmaq302 3 dehya 05.ogg Dehya: For now, all we can share with you is that... your friend Cyno is working with us.
+Media:vo xmaq302 3 dehya 06.ogg Dehya: Hahaha, Cyno's name really does work wonders. You're not even a little worried that we might've made it all up?
+Media:vo xmaq302 3 dehya 07.ogg Dehya: And what do you mean by "take away"? Is he planning to leave Sumeru?
+Media:vo xmaq302 3 dehya 08.ogg Dehya: ...
+Media:vo xmaq302 3 dehya 09.ogg Dehya: I can barely believe it myself. But if that's true, the situation will be in our favor.
+Media:vo xmaq302 3 dehya 10.ogg Dehya: Sorry we can't tell you everything. We appreciate that you helped us anyway. I won't forget your kindness.
+Media:vo xmaq302 3 dehya 11.ogg Dehya: I see... so you noticed something was up with the Akademiya from the very beginning.
+Media:vo xmaq302 3 dehya 12.ogg Dehya: Right, now let's go hunt down this Harbinger...
+Media:vo xmaq302 3 dehya 13.ogg Dehya: Oh, by the way, which way did The Doctor go when he left Pardis Dhyai?
+Media:vo xmaq302 3 dehya 14.ogg Dehya: Gotcha, thanks so much. We'll be on our way.
+Media:vo xmaq302 3 dehya 15.ogg Dehya: According to Tighnari, The Doctor is leaving Sumeru soon. I want to check if The Doctor was actually telling the truth.
+Media:vo xmaq302 3 dehya 16.ogg Dehya: He also said that he will "take care of everything" before he leaves. What did he mean by that? We need to be extra careful when dealing with a person like him.
+Media:vo xmaq302 3 dehya 17.ogg Dehya: Just to be safe, let's chase him and see what we find.
+Media:vo xmaq302 3 dehya 18.ogg Dehya: We'll do it the mercenary way. I'll find leads as we go, all you have to do is just follow me.
+Media:vo xmaq302 3 dottore 01.ogg The Doctor: Indeed. Otherwise, we could have perhaps talked a little more.
+Media:vo xmaq302 3 dottore 02.ogg The Doctor: I was just about to set out when I remembered something important. To that end, I made a final trip to Pardis Dhyai.
+Media:vo xmaq302 3 dottore 03.ogg The Doctor: Let me ask... have you been taking care of a scholar by the name of Haypasia?
+Media:vo xmaq302 3 dottore 04.ogg The Doctor: Forgive me for asking, but how's the treatment coming along?
+Media:vo xmaq302 3 dottore 05.ogg The Doctor: Since you asked, I'll be frank: I would like to take Haypasia to Snezhnaya.
+Media:vo xmaq302 3 dottore 06.ogg The Doctor: Oh? I can't believe your utter lack of faith in me, to the point of even questioning my general level of knowledge. How unbefitting.
+Media:vo xmaq302 3 dottore 07.ogg The Doctor: I have my ways of keeping her safe during the journey. In addition, I can also promise that under my care, Haypasia will receive the most advanced and effective treatment.
+Media:vo xmaq302 3 dottore 08.ogg The Doctor: I will personally supervise her treatment and see to her recovery. Would that be agreeable to you?
+Media:vo xmaq302 3 dottore 09.ogg The Doctor: ...Hehe.
+Media:vo xmaq302 3 dottore 10.ogg The Doctor: I see, I see. Of course, your opinion makes perfect sense.
+Media:vo xmaq302 3 dottore 11.ogg The Doctor: Hehe... You're still young, but already quite stubborn. I must say, you are not like what I had expected...
+Media:vo xmaq302 3 dottore 12.ogg The Doctor: Under normal circumstances, I wouldn't just let you off the hook like this, but unfortunately, I'm in a hurry today — what with Her Most Noble Majesty, the Tsaritsa, calling for our return.
+Media:vo xmaq302 3 dottore 13.ogg The Doctor: Luckily, there is still some time left for me to take care of everything before I leave.
+Media:vo xmaq302 3 dottore 14.ogg The Doctor: It's just as the Akademiya said — you're a responsible and gifted scholar. Sadly, even with all of that, you're still lacking a bit of shrewdness.
+Media:vo xmaq302 3 dottore 15.ogg The Doctor: And that's also why people like you can never realize that sooner or later, everyone must pay the price for what they've learned.
+(The Doctor walks away)
+(Flashback ends)
+Media:vo xmaq302 3 paimon 01.ogg Paimon: Tighnari!
+Media:vo xmaq302 3 paimon 02.ogg Paimon: This is our friend, Dehya. She's an Eremite mercenary!
+Media:vo xmaq302 3 paimon 03.ogg Paimon: It's something really important! Please help us out.
+Media:vo xmaq302 3 paimon 04.ogg Paimon: He's that strange-looking Fatui Harbinger with a mask! Paimon thinks he has blue hair.
+Media:vo xmaq302 3 paimon 05.ogg Paimon: Haypasia!? Why would he want her?
+Media:vo xmaq302 3 paimon 06.ogg Paimon: Uh... Paimon can't help but feel like he's hinting at something unpleasant...
+Media:vo xmaq302 3 paimon 07.ogg Paimon: Okay, we'll find a chance to tell him!
+Media:vo xmaq302 3 paimon 08.ogg Paimon: But we have no idea where he went. How can we start chasing him?
+Media:vo xmaq302 3 tighnari 01.ogg Tighnari: Ah, (Traveler), Paimon, and you are...?
+Media:vo xmaq302 3 tighnari 02.ogg Tighnari: A mercenary... Hmm, you must have some big news for me.
+Media:vo xmaq302 3 tighnari 03.ogg Tighnari: Alright, then follow me.
+(The group relocates)
+Media:vo xmaq302 3 tighnari 04.ogg Tighnari: This place is better. We won't be disturbed by any passerby.
+Media:vo xmaq302 3 tighnari 05.ogg Tighnari: Okay, what is this important thing you want to ask me?
+Media:vo xmaq302 3 tighnari 06.ogg Tighnari: The Doctor, huh...
+Media:vo xmaq302 3 tighnari 07.ogg Tighnari: Yes, I know him.
+Media:vo xmaq302 3 tighnari 08.ogg Tighnari: Actually, he left Pardis Dhyai just a little while ago.
+Media:vo xmaq302 3 tighnari 09.ogg Tighnari: Yeah, he came looking for me.
+Media:vo xmaq302 3 tighnari 10.ogg Tighnari: Cyno, you say?
+Media:vo xmaq302 3 tighnari 11.ogg Tighnari: ...
+Media:vo xmaq302 3 tighnari 12.ogg Tighnari: ...I see, so that's why he hasn't been at the Akademiya.
+Media:vo xmaq302 3 tighnari 13.ogg Tighnari: Okay, I will answer your questions and will assist you any way I can. Youdon't have to tell me everything that's happened.
+Media:vo xmaq302 3 tighnari 14.ogg Tighnari: Despite having just met you, I can sense that you're the serious type. Between you, (Traveler), and Cyno, none of you strike me as the type that would conspire to deceive me.
+Media:vo xmaq302 3 tighnari 15.ogg Tighnari: You don't need to tell me anything you don't want to. I'll also get straight to the point.
+Media:vo xmaq302 3 tighnari 16.ogg Tighnari: The Harbinger you mentioned came to me because he wanted to take the scholar Haypasia away with him.
+Media:vo xmaq302 3 tighnari 17.ogg Tighnari: Yes, he told me his return to Snezhnaya is imminent.
+(A flashback begins)
+Media:vo xmaq302 3 tighnari 18.ogg Tighnari: Hmph... so you mean, you're leaving this place soon?
+Media:vo xmaq302 3 tighnari 19.ogg Tighnari: Your sources are accurate, no doubt because you have recruited many informants, but you are right, Haypasia has indeed been receiving treatment from me.
+Media:vo xmaq302 3 tighnari 20.ogg Tighnari: Given the way you're asking, I assume you have something to say?
+Media:vo xmaq302 3 tighnari 21.ogg Tighnari: ...
+Media:vo xmaq302 3 tighnari 22.ogg Tighnari: It's incredibly difficult to transfer a patient. As a scholar yourself, shouldn't you at least be aware of this?
+Media:vo xmaq302 3 tighnari 23.ogg Tighnari: Well, you're the only one who's ever made such a request.
+Media:vo xmaq302 3 tighnari 24.ogg Tighnari: Haypasia was born in Sumeru, and remains a scholar of the Akademiya. Her situation has not become dire enough to necessitate her transfer to another nation.
+Media:vo xmaq302 3 tighnari 25.ogg Tighnari: Transporting her to Snezhnaya is risky, and the potential benefits are unknown. As the person currently responsible for her treatment, I cannot possibly sign off on this transfer.
+Media:vo xmaq302 3 tighnari 26.ogg Tighnari: Your suggestion is rude and reckless. I'll pass.
+(Flashback ends)
+Media:vo xmaq302 3 tighnari 27.ogg Tighnari: I don't know much about The Doctor. But after talking with him, I realized that... just like many other scholars, he possesses an aura of arrogance that I've come to detest.
+Media:vo xmaq302 3 tighnari 28.ogg Tighnari: It's not so much that he's looking down on others, but more that he's so confident in himself and his abilities to a point of near insanity.
+Media:vo xmaq302 3 tighnari 29.ogg Tighnari: I would never refer a patient to someone like him.
+Media:vo xmaq302 3 tighnari 30.ogg Tighnari: I prepared myself for a protracted battle of wits, and was really surprised to see him just give up on the topic. Still, his reaction really concerned me...
+(A flashback begins)
+Media:vo xmaq302 3 tighnari 31.ogg Tighnari: ...
+Media:vo xmaq302 3 tighnari 32.ogg Tighnari: He asked a question, yet didn't care for my answer. Perhaps I'm nothing but a talking rock in his eyes.
+Media:vo xmaq302 3 tighnari 33.ogg Tighnari: He never came off as malicious, but an utter lack of compassion permeated throughout our conversation. From his tone, I can sense that he's always looked down on others.
+Media:vo xmaq302 3 tighnari 34.ogg Tighnari: I don't think I missed any details. Frankly speaking, I don't want you to do anything too risky. Now that you know a little more, it should be easier for you to stay safe.
+Media:vo xmaq302 3 tighnari 35.ogg Tighnari: It's okay, I have an obligation to do so. To be perfectly honest... all of this may have started because of me.
+(A flashback begins)
+Media:vo xmaq302 3 tighnari 36.ogg Tighnari: Recently, my master wrote several letters to me, asking me to return to the Akademiya and assist him with his research.
+Media:vo xmaq302 3 tighnari 37.ogg Tighnari: Yes, but there's something off about this most recent batch of letters. The handwriting and tone are both familiar, but some details have been omitted...
+Media:vo xmaq302 3 tighnari 38.ogg Tighnari: My master will occasionally leave a few dots on the back of the letter. One dot means that he wrote the letter on a sunny day, and three dots stand for a rainy day.
+Media:vo xmaq302 3 tighnari 39.ogg Tighnari: This has been a habit of his for many years. But I didn't find any dots in his recent letters. I believe... something may have happened to him.
+Media:vo xmaq302 3 tighnari 40.ogg Tighnari: I'd like to ask you to do that for me, if you can keep yourself safe. Please withdraw immediately at the first hint of danger.
+Media:vo xmaq302 3 tighnari 41.ogg Tighnari: ...
+Media:vo xmaq302 3 tighnari 42.ogg Tighnari: Alright, we've got a plan. I'll stay at Gandharva Ville to support you.
+Media:vo xmaq302 3 tighnari 43.ogg Tighnari: I must say, I didn't expect a warning like this from the General Mahamatra.
+Media:vo xmaq302 3 tighnari 44.ogg Tighnari: The Akademiya, yes. But my master is a man of integrity. Even when I was a student, I was worried that he'd get in trouble for sticking to his beliefs.
+Media:vo xmaq302 3 tighnari 45.ogg Tighnari: I suppose he's lucky to have lasted so long... but in the end, it still caught up to him.
+(Flashback ends)
+Media:vo xmaq302 3 tighnari 46.ogg Tighnari: This may well be how Cyno became involved in all of this. In that case, I must keep my promise, and help you however I can.
+Media:vo xmaq302 3 tighnari 47.ogg Tighnari: Also, if you run into Cyno again, please help me pass on a message to him: "Trust your own senses and experiences."
+Media:vo xmaq302 3 tighnari 48.ogg Tighnari: I think this may be something he needs to hear right now.
+Media:vo xmaq302 3 tighnari 49.ogg Tighnari: Thanks.
+Media:vo xmaq302 3 tighnari 50.ogg Tighnari: That way.
+Media:vo xmaq302 4 dehya 01.ogg Dehya: Heh, that Harbinger may have tried to cover his trail, but he still left some traces.
+Media:vo xmaq302 4 dehya 02.ogg Dehya: Or perhaps, he never even thought about concealing his whereabouts. Maybe that's just how arrogant he really is...
+Media:vo xmaq302 5 dehya 01.ogg Dehya: Yep, we're headed in the right direction.
+Media:vo xmaq302 5 dehya 02.ogg Dehya: The traces are still fresh, but there's no sign of his entourage. Clearly, they're in a hurry.
+Media:vo xmaq302 5 dehya 03.ogg Dehya: Hmm, it's just as I thought...
+Media:vo xmaq302 5 dehya 04.ogg Dehya: We can stop here. I think I know where The Doctor went.
+Media:vo xmaq302 5 dehya 05.ogg Dehya: To the south of here is Port Ormos, which seems to be where they're headed.
+Media:vo xmaq302 5 dehya 06.ogg Dehya: That's right. Let's go to the port and have a look for ourselves.
+Media:vo xmaq302 5 paimon 01.ogg Paimon: Port Ormos... they're going to leave by boat?
+Media:vo xmaq302 6 dehya 01.ogg Dehya: Shh, don't draw their attention.
+Media:vo xmaq302 6 dehya 02.ogg Dehya: The port is crawling with Fatui soldiers...
+Media:vo xmaq302 6 dehya 03.ogg Dehya: The Doctor is on that boat.
+Media:vo xmaq302 6 dehya 04.ogg Dehya: Hmph, so he told the truth after all. He is actually leaving Sumeru.
+Media:vo xmaq302 6 dehya 05.ogg Dehya: Let's get closer and find a place to hide so we can observe him.
+Media:vo xmaq302 6 paimon 01.ogg Paimon: Look, Fatui soldiers!
+Media:vo xmaq302 6 paimon 02.ogg Paimon: Thanks to Dehya's tracking skills, seems we've found the right place!
+Media:vo xmaq302 6 paimon 03.ogg Paimon: Let's keep going and see what we can find!
+Media:vo xmaq302 6 skirmisha 01.ogg Fatui Sergeant: Now, THIS is a proper farewell ceremony for a Snezhnayan Harbinger!
+Media:vo xmaq302 6 skirmisha 02.ogg Fatui Sergeant: I used to hold a position in our homeland, and back then, The Doctor spoke in a very different way from the way he speaks now. Maybe the way people talk in Sumeru has rubbed off on him?
+Media:vo xmaq302 6 skirmisha 03.ogg Fatui Sergeant: It's always like that when you spend too long away from home. When he gets back to Snezhnaya, perhaps it will also take him some time to get used to the life there again.
+Media:vo xmaq302 6 skirmisha 04.ogg Fatui Sergeant: No, no, I remember it like it was yesterday! Both his expressions and tones are now very different.
+Media:vo xmaq302 6 skirmisha 05.ogg Fatui Sergeant: Also, for some reason, he seems like he's... all smiles now.
+Media:vo xmaq302 6 skirmishb 01.ogg Fatui Soldier: The Lord Harbinger is leaving... *sigh* I've still only seen him once or twice...
+Media:vo xmaq302 6 skirmishb 02.ogg Fatui Soldier: Huh? But Sir, that... That can't be right.
+Media:vo xmaq302 6 skirmishb 03.ogg Fatui Soldier: You must be mistaken... Nobody's supposed to look happy when they're on a business trip.
+Media:vo xmaq302 7 dehya 01.ogg Dehya: This place will do. We can hide here while we keep an eye on the boat.
+Media:vo xmaq302 7 dehya 02.ogg Dehya: ...!?
+Media:vo xmaq302 7 dehya 03.ogg Dehya: Huh, is he waving at us?
+Media:vo xmaq302 7 dehya 04.ogg Dehya: Wait, is he the only person on the boat?
+Media:vo xmaq302 7 dehya 05.ogg Dehya: ...And where are all the soldiers we saw in the port just now?
+Media:vo xmaq302 7 dehya 06.ogg Dehya: So this was a trap...
+Media:vo xmaq302 7 dehya 07.ogg Dehya: Wait, don't tell me that...
+Media:vo xmaq302 7 dehya 08.ogg Dehya: Oh no...
+Media:vo xmaq302 7 dehya 09.ogg Dehya: They might be after Haypasia. Let's get back to Pardis Dhyai!
+Media:vo xmaq302 7 dehya 10.ogg Dehya: I'm afraid that she's seen something that she wasn't supposed to see. If I were the Fatui, I would also try to take her away. And if I couldn't...
+Media:vo xmaq302 7 dehya 11.ogg Dehya: Let's go!
+Media:vo xmaq302 7 dottore 01.ogg The Doctor: It's time to say goodbye.
+Media:vo xmaq302 7 dottore 02.ogg The Doctor: "Luckily, there is still time left for me to take care of everything before I leave."
+Media:vo xmaq302 7 paimon 01.ogg Paimon: Uh oh!
+Media:vo xmaq302 7 paimon 02.ogg Paimon: He... he saw us...
+Media:vo xmaq302 7 paimon 03.ogg Paimon: Huh? You mean there's nobody with him?
+Media:vo xmaq302 7 paimon 04.ogg Paimon: They were all here just a few minutes ago, but now, they've vanished...
+Media:vo xmaq302 7 paimon 05.ogg Paimon: Huh? What do you mean?
+Media:vo xmaq302 7 paimon 06.ogg Paimon: Oh no! Are you saying they're going to kill her!?
+Media:vo xmaq302 8 skirmishsoldier 01.ogg Fatui Sergeant: I believe we've already made ourselves quite clear. Our superior gave us permission to search for and collect medicinal herbs in Pardis Dhyai for research purposes.
+Media:vo xmaq302 8 skirmishsoldier 02.ogg Fatui Sergeant: Even the Grand Sage himself may not have the right to question our research, much less an ordinary scholar like yourself.
+Media:vo xmaq302 8 skirmishsoldier 03.ogg Fatui Sergeant: I've done my duty to inform you. Don't make things difficult for yourself.
+Media:vo xmaq302 8 skirmishsoldier 04.ogg Fatui Sergeant: With all due respect, your baseless speculations will only lead to unnecessary trouble.
+Media:vo xmaq302 8 skirmishsoldier 05.ogg Fatui Sergeant: Then it seems our conversation has hit an impasse.
+Media:vo xmaq302 8 tighnari 01.ogg Tighnari: Pardis Dhyai is not a place you Fatui can just show up and do as you please.
+Media:vo xmaq302 8 tighnari 02.ogg Tighnari: But you've been in Sumeru for some time already. I find it coincidental that you chose to only come here today.
+Media:vo xmaq302 8 tighnari 03.ogg Tighnari: It would seem that my words have fallen on deaf ears.
+Media:vo xmaq302 8 tighnari 04.ogg Tighnari: You can keep trying to deny it, but coming to Pardis Dhyai now? I'm pretty sure you're not just looking for herbs.
+Media:vo xmaq302 8 tighnari 05.ogg Tighnari: Well, you only have your Harbinger to blame. He knows nothing about keeping a low profile.
+Media:vo xmaq302 8 tighnari 06.ogg Tighnari: I may be staying at Pardis Dhyai as a scholar, but that doesn't mean I'm no longer a Forest Watcher.
+Media:vo xmaq302 8 tighnari 07.ogg Tighnari: It is still my duty to protect the peace and safety of the scholars who have contributed so much to Sumeru.
+Media:vo xmaq302 8 tighnari 08.ogg Tighnari: No one will lay a hand on you, Haypasia... Not on my watch!
+Media:vo xmaq302 9 dehya 01.ogg Dehya: These Fatui have really crossed the line! Time to teach them a lesson!
+Media:vo xmaq302 9 dehya 02.ogg Dehya: Yeah? You've been someone's lapdog for so long that you don't know anything else now!
+Media:vo xmaq302 9 paimon 01.ogg Paimon: Tighnari! Are you alright?
+Media:vo xmaq302 9 skirmishb 01.ogg Fatui Soldier: There's no use resisting! Give us Haypasia!
+Media:vo xmaq302 9 skirmishb 02.ogg Fatui Soldier: The Doctor's orders are absolute.
+Media:vo xmaq302 9 tighnari 01.ogg Tighnari: I'm fine!
+Media:vo xmaq302 9 tighnari 02.ogg Tighnari: Keep dreaming!
+Nilou is shocked at first, but it isn't long before she's bubbling with excitement and anticipation.
+The boat carrying The Doctor sails out of the harbor...
+You recount everything from "meeting" The Doctor at Port Ormos to your encounter with The Balladeer while checking up on Haypasia.

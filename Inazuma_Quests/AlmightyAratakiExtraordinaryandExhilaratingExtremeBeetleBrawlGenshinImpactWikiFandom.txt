@@ -1,0 +1,174 @@
+ "Bona-Fide Beetle Battle King"?
+ "Extraordinary and Exhilarating Beetle Battle Brawl"?
+ ...But you didn't exactly make a name for yourself back then, did you?
+ ...His opponent simply ran out of patience?
+ Actually, I reckon they get along pretty well...
+ Did you finally land a lucrative gig?
+ I think I understand the situation now...
+ I want to show my stuff too.
+ I'm sure you had your fighting spirit...
+ It sure does have a unique aura...
+ It's as if it's imbued with Pyro...
+ Or a Defense-Type Paimon?
+ Quest DescriptionYou and Paimon have been feeling pretty good recently, so you're thinking about taking on some more commissions from the Adventurers' Guild! Little did you expect, however, to run into some Arataki Gang members openly scheming nearby...
+ Signature ramen, here we come!
+ We should let them catch up for a bit first...
+ We'll be pro-nikabutos in no time!
+ Why are you being so generous?
+ Why do I get the feeling that...
+ Will it be a Speed-Type Paimon?
+ You still haven't seen me in action.
+ You're so strong, Paimon!
+ Your opponent was weak!
+After dealing with the Tenryou Commission's pesky paperwork, you head to the venue that Itto mentioned...
+Media:vo gdceq001 1 akira 01.ogg Akira: Yeah! That little punk must have used some underhanded trick to catch you off guard, I just know it!
+Media:vo gdceq001 1 akira 02.ogg Akira: But we don't know when Shinobu's coming back. Where do we even start with organizing the Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl?
+Media:vo gdceq001 1 akira 03.ogg Akira: Based on our experience with the Almighty Arataki Great and Glorious Drumalong Festival, we'll need to register the event with the Tenryou Commission and obtain a permit... and I think we also need proof of a venue rental.
+Media:vo gdceq001 1 akira 04.ogg Akira: We're going to need to pay for all of that stuff somehow. If we want the Extreme Brawl to be even more extravagant than the Drumalong Festival, we'll need to spend at least three times the Mora...
+Media:vo gdceq001 1 akira 05.ogg Akira: Amazing, Boss! Then all we need to figure out is how to make up the numbers for our team! And it doesn't matter who we pick, because you're practically a one-man army!
+Media:vo gdceq001 1 akira 06.ogg Akira: Hahaha! That's the result of Boss's hard-won victory.
+Media:vo gdceq001 1 akira 07.ogg Akira: Some little phony was going around calling himself the "Bona-Fide Beetle Battle King," and Boss couldn't put up with that. So Boss challenged him and said whoever wins gets the title.
+Media:vo gdceq001 1 akira 08.ogg Akira: After 92 brutal rounds of beetle-battling that lasted one full day and night, the Boss finally emerged victorious!
+Media:vo gdceq001 1 itto 01.ogg Arataki Itto: Hey, hey, chill, boys, chill. Relax!
+Media:vo gdceq001 1 itto 02.ogg Arataki Itto: I just underestimated my opponent. And can you blame me, with how boring the kid looked? So yeah, no worries, that fight didn't count!
+Media:vo gdceq001 1 itto 03.ogg Arataki Itto: Anyway, enough about that. We're gonna stick to the plan, alright? The "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl" is going ahead. Then, we'll bring out "Crimson Staff." Y'know, the one I've been training for years!
+Media:vo gdceq001 1 itto 04.ogg Arataki Itto: Just imagine it. The whole audience cheering me on as Crimson Staff gets ready to crush its opponent...
+Media:vo gdceq001 1 itto 05.ogg Arataki Itto: That kiddo will be trembling with fear. No tricks this time, no sir — just an easy win for Itto! Ahahahahahaha!
+Media:vo gdceq001 1 itto 06.ogg Arataki Itto: Stop, stop, stop! We don't say "Tenryou Commission," out loud, okay? It gives me migraines!
+Media:vo gdceq001 1 itto 07.ogg Arataki Itto: So we need some funds, huh... Easy — just need to tweak our three-day weekend policy. As well as our one-day week policy. Let's work flat out and do two days on, four days off! That way, we work an extra four days between us, which means we'll earn four times as much. We'll be raking in the Mora!
+Media:vo gdceq001 1 itto 08.ogg Arataki Itto: Come on, you two! It's a little early to be getting cold feet. You're thinking too many steps ahead.
+Media:vo gdceq001 1 itto 09.ogg Arataki Itto: Where's your Arataki Gang attitude? Come on, I'll find a way to deal with this, easy-peasy lavender-melon-squeezy!
+Media:vo gdceq001 1 itto 10.ogg Arataki Itto: Maybe I can hit up my usual beetle-fighting crowd... Or maybe I can visit Naganohara Fireworks and see if I can rope that gal into it...
+Media:vo gdceq001 1 itto 11.ogg Arataki Itto: ...Scratch that. If I did that, then news of me losing to that brat would spread around Hanamizaka! Ugh. My reputation would never recover...
+Media:vo gdceq001 1 itto 12.ogg Arataki Itto: Gah! You scared me! When'd you get here?
+Media:vo gdceq001 1 itto 13.ogg Arataki Itto: Hey, hey, hey! Don't forget the "Extreme" part. Can't do without the coolest bit of the name, y'know?
+Media:vo gdceq001 1 itto 14.ogg Arataki Itto: Compadre, you'll understand my passion for beetle fighting eventually. You just need more practice!
+Media:vo gdceq001 1 itto 15.ogg Arataki Itto: What? No! Come on, it's not like that! I was ambushed! Ambushed, I'm tellin' ya!
+Media:vo gdceq001 1 itto 16.ogg Arataki Itto: Mamoeu [sic], Mamoru! Easy on the details, my dude!
+Media:vo gdceq001 1 itto 17.ogg Arataki Itto: Anyway, compadre, I've heard that you're talented at pretty much everything. You pick up new skills almost instantly, and before you know it, you're a pro...
+Media:vo gdceq001 1 itto 18.ogg Arataki Itto: For free? Flying Lavender Melon, do you really think that I, Arataki Itto, have no code of honor?
+Media:vo gdceq001 1 itto 19.ogg Arataki Itto: Listen, compadre. If you do this for me, I'll buy you both lunch for the next two months. One bowl of signature ramen every day for two whole months! How's that sound?
+Media:vo gdceq001 1 itto 20.ogg Arataki Itto: Ahem! Shh! Shh! Don't sweat the details! Anyway, compadre, Flying Lavender Melon, that's my offer! All that ramen, just for you!
+Media:vo gdceq001 1 itto 21.ogg Arataki Itto: I've already challenged this "Grandmaster" kid, and he accepted. He's going to bring some reinforcements with him to face off against us.
+Media:vo gdceq001 1 itto 22.ogg Arataki Itto: As for the venue, I think I have an idea. But first, compadre, Imma need you to do me a solid and sort out all the pesky paperwork at the Tenryou Commission!
+Media:vo gdceq001 1 itto 23.ogg Arataki Itto: Sound good? Good. Alright then, my compadre and melon duo, let's hop to it!
+Media:vo gdceq001 1 mamoru 01.ogg Mamoru: C'mon, Boss, you can't just let this one slide!
+Media:vo gdceq001 1 mamoru 02.ogg Mamoru: You've painstakingly built up a reputation as the "Bona-Fide Beetle Battle King." You can't let that brat get away scot-free!
+Media:vo gdceq001 1 mamoru 03.ogg Mamoru: Alright, boss, way to go!
+Media:vo gdceq001 1 mamoru 04.ogg Mamoru: ...Shoot, that's right! That brat said that he'll be bringing five of his top guys to fight us fair and square. But Boss, you're the only one in our gang who's any good at beetle fighting...
+Media:vo gdceq001 1 mamoru 05.ogg Mamoru: If they come at you in waves, you're gonna have a hard time no matter how good you are!
+Media:vo gdceq001 1 mamoru 06.ogg Mamoru: That's right. Some poser calling himself "Grandmaster Hanakado" challenged the Boss in a brief moment of exhaustion after an intense beetle battling session.
+Media:vo gdceq001 1 mamoru 07.ogg Mamoru: He used a ridiculously huge Onikabuto and flipped Boss's beetle over in a matter of seconds.
+Media:vo gdceq001 1 mamoru 08.ogg Mamoru: And then he said something like, "Welcome to the world of real beetle-fighters"...
+Media:vo gdceq001 1 mamoru 09.ogg Mamoru: But the kid offered Boss a "One Free Bowl of Ramen Daily" coupon from his family's ramen stall in exchange for giving the title back in two months.
+Media:vo gdceq001 1 mamoru 10.ogg Mamoru: We don't know how good his family's ramen is, but the sheer quantity being offered made it too good to refuse.
+Media:vo gdceq001 1 mamoru 11.ogg Mamoru: Besides, Boss's beetle-fighting techniques are improving so fast that he'll easily have won a more impressive title by two months from now. It's a great deal!
+Media:vo gdceq001 1 mamoru 12.ogg Mamoru: The only slight snag is, we forgot to ask him where the ramen stall is...
+Media:vo gdceq001 1 paimon 01.ogg Paimon: We've been on a hot streak lately, haven't we? Let's grab some new commissions to keep our momentum up!
+Media:vo gdceq001 1 paimon 02.ogg Paimon: Off to the Adventurers' Guild we go, (Traveler). Who knows, maybe Katheryne already has something lined up.
+Media:vo gdceq001 1 paimon 03.ogg Paimon: True! So, Bull-Chucker, what are you up to this time?
+Media:vo gdceq001 1 paimon 04.ogg Paimon: Seriously? We've been standing here for ages!
+Media:vo gdceq001 1 paimon 05.ogg Paimon: We were heading to the Adventurers' Guild, but then we saw you causing a commotion and talking about your next hair-brained event idea...
+Media:vo gdceq001 1 paimon 06.ogg Paimon: Ahh, so you're looking for a way to recover your pride after a humiliating defeat, are you?
+Media:vo gdceq001 1 paimon 07.ogg Paimon: Paimon knows what you're going to say next, Bull-Chucker!
+Media:vo gdceq001 1 paimon 08.ogg Paimon: You're going to ask us to avenge you and defeat that "Grandmaster Hanakado" for free, aren't you?
+Media:vo gdceq001 1 paimon 09.ogg Paimon: One bowl every day? Ooh, now that's an offer worth considering...
+Media:vo gdceq001 1 paimon 10.ogg Paimon: Wait! We haven't agreed yet!
+Media:vo gdceq001 1 paimon 11.ogg Paimon: Sheesh. Itto sure seems excited about all this. Guess there's no backing out now, huh... We might as well go along with this.
+Media:vo gdceq001 1 paimon 12.ogg Paimon: We just have to learn how to beetle fight and help him beat his opponents, right? Sounds simple enough!
+Media:vo gdceq001 1 paimon 13.ogg Paimon: Ugh, listen to you! Is Bull-Chucker's childishness really that infectious? Because one Itto is more than enough!
+Media:vo gdceq001 2 akira 01.ogg Akira: Great carpentry, (Traveler)! And great artwork, Boss!
+Media:vo gdceq001 2 akira 02.ogg Akira: It's Grandmaster Hanakado! He's here!
+Media:vo gdceq001 2 akira 03.ogg Akira: Boss! Are we seriously going to fight them right now?
+Media:vo gdceq001 2 hanakadogyokushou 01.ogg Grandmaster Hanakado: This your venue? Not bad... bigger than I expected.
+Media:vo gdceq001 2 hanakadogyokushou 02.ogg Grandmaster Hanakado: Aren't you forgetting something, Bona-Fide Beetle Battle King? We elite beetle fighters can sense each other's presence... or how else would we have crossed paths last time?
+Media:vo gdceq001 2 hanakadogyokushou 03.ogg Grandmaster Hanakado: Looks to me like you're still busy frantically preparing... is that because you don't have a clue how to beat us?
+Media:vo gdceq001 2 hanakadogyokushou 04.ogg Grandmaster Hanakado: Good, you seem more confident this time. And it sounds like you actually have a game plan.
+Media:vo gdceq001 2 hanakadogyokushou 05.ogg Grandmaster Hanakado: But if I crushed you right away, I'd miss out on all the fun... so, I'll let my subordinates play with you first.
+Media:vo gdceq001 2 itto 01.ogg Arataki Itto: Not bad! Mamoru and Akira have delivered the goods. Let's start setting this baby up!
+Media:vo gdceq001 2 itto 02.ogg Arataki Itto: Hahahahahaha! Now this is what I call an arena! Lookin' prett-ay good!
+Media:vo gdceq001 2 itto 03.ogg Arataki Itto: Boo yeah, compadre! I didn't know you were so handy with this kind of thing!
+Media:vo gdceq001 2 itto 04.ogg Arataki Itto: And this awesome poster I made is the cherry on top! It captures the mood perfectly! Ahahahahahaha!
+Media:vo gdceq001 2 itto 05.ogg Arataki Itto: You bet they will! When you're as famous as I am, people will flock to watch you!
+Media:vo gdceq001 2 itto 06.ogg Arataki Itto: I heard this is the spot where they held the sword-fighting contest during the Irodori Festival. That makes this the ideal venue for Onikabuto duels!
+Media:vo gdceq001 2 itto 07.ogg Arataki Itto: Next up, time to show you my invincible Onikabuto, "Crimson Staff."
+Media:vo gdceq001 2 itto 08.ogg Arataki Itto: Haha! Go ahead, feast your eyes! But I'm afraid I can't tell you what makes Crimson Staff such a special specimen. That's my little secret!
+Media:vo gdceq001 2 itto 09.ogg Arataki Itto: What! You're imagining things! You must be, like, super hungry, or something!
+Media:vo gdceq001 2 itto 10.ogg Arataki Itto: Don't worry! The "Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl" hasn't started yet. There's still time to give Crimson Staff one last layer of protective coating.
+Media:vo gdceq001 2 itto 11.ogg Arataki Itto: Alright, you guys go grab some flyers and start bringing in the crowds. In the meantime, I'll be helping my compadre and Flying Lavender Melon here get up to speed.
+Media:vo gdceq001 2 itto 12.ogg Arataki Itto: After that, we'll celebrate over a meal. Ah, so much going on, I've really got my work cut out for me today, whew...
+Media:vo gdceq001 2 itto 13.ogg Arataki Itto: Wait, what? You're not supposed to know about this place yet!
+Media:vo gdceq001 2 itto 14.ogg Arataki Itto: Pff! N—No...! Uh... In case you didn't know, me and my Onikabuto gotta get our brainwaves in sync before a battle, and until we're ready to roll, I always conserve my energy and keep a low profile!
+Media:vo gdceq001 2 itto 15.ogg Arataki Itto: I just underestimated the strength of your beetle-battler sixth sense is all!
+Media:vo gdceq001 2 itto 16.ogg Arataki Itto: Grandmaster Hanakado! You did well to track me down, I'm impressed. Looks like this Bona-Fide Beetle Battle King needs to watch out for pretenders to the throne.
+Media:vo gdceq001 2 itto 17.ogg Arataki Itto: But you're about to regret showing up here uninvited, because you have just earned yourselves a pre-beetle-brawl trouncing!
+Media:vo gdceq001 2 itto 18.ogg Arataki Itto: Hmph! Using your minions to size up the competition now?
+Media:vo gdceq001 2 itto 19.ogg Arataki Itto: Then we'll send out Flying Lavender...
+Media:vo gdceq001 2 itto 20.ogg Arataki Itto: Ahem! Nope, if Flying Lavender Melon's representing the Arataki Gang, we gotta rise to the occasion! We'll need a better title...
+Media:vo gdceq001 2 itto 21.ogg Arataki Itto: Got it, we'll send Skycleaving White-Iron Lavender Melon out to teach you a lesson!
+Media:vo gdceq001 2 itto 22.ogg Arataki Itto: You make a good point! But the fact is, the kid's here now, and I ain't about to back down! We'll have to put the publicity side of things on hold for now.
+Media:vo gdceq001 2 itto 23.ogg Arataki Itto: As for beetle-fighting techniques, I'll be mentoring Flying Lavender Melon... No, no, Skycleaving White-Iron Lavender Melon, from the side! Battling's the best way to learn! Doesn't matter if you lose!
+Media:vo gdceq001 2 itto 24.ogg Arataki Itto: Go, White-Iron Lavender Melon! Show 'em the might of the Arataki Gang!
+Media:vo gdceq001 2 itto 25.ogg Arataki Itto: Sending you out first is part of my elaborate strategy, y'know! I got my inspiration from a Liyue tale that Shinobu told me!
+Media:vo gdceq001 2 itto 26.ogg Arataki Itto: "Face their strongest with your weakest, their weakest with your average, and their average with your strongest. Then you're guaranteed to win two out of three rounds!"
+Media:vo gdceq001 2 itto 27.ogg Arataki Itto: You may be talented, but you lack practical battle experience. With all the elite beetle battlers here, I'm afraid to say you're a small fry.
+Media:vo gdceq001 2 itto 28.ogg Arataki Itto: By sending a dopey little melon up first, we can get one of their best fighters to waste all their strength on the low-flying fruit, hahaha! We'll make short work of them this time!
+Media:vo gdceq001 2 itto 29.ogg Arataki Itto: Huh!? That can't be right...
+(Akira and Mamoru nod, then shake their heads)
+Media:vo gdceq001 2 itto 30.ogg Arataki Itto: Gah... you little twerp! I never said my strategy was EXACTLY the same as the one in the story!
+Media:vo gdceq001 2 mamoru 01.ogg Mamoru: Speaking of which, Boss, you haven't applied a protective coating on top of the war paint yet, right? If it rains, then the 9,000 Mora we spent on the imported jam is gonna go to waste...
+Media:vo gdceq001 2 mamoru 02.ogg Mamoru: We haven't had time to spread the news about the match yet. Also, your compadre and your compadre's melon haven't even tried beetle fighting before.
+Media:vo gdceq001 2 paimon 01.ogg Paimon: This place seems pretty far from Inazuma City. You sure anyone's gonna show up to watch?
+Media:vo gdceq001 2 paimon 02.ogg Paimon: Oh, it really is a red Onikabuto! Amazing!
+Media:vo gdceq001 2 paimon 03.ogg Paimon: Huh. Paimon didn't expect you to put in this much effort. Where did you find this Onikabuto, anyway?
+Media:vo gdceq001 2 paimon 04.ogg Paimon: Can Paimon take a closer look?
+Media:vo gdceq001 2 paimon 05.ogg Paimon: Huh? That smells so familiar, what is that... wait, Valberry Jam?
+Media:vo gdceq001 2 paimon 06.ogg Paimon: Huh? So that's the kid Itto lost to? Yeah, he does look pretty normal...
+Media:vo gdceq001 2 paimon 07.ogg Paimon: But the way he talks is pretty unique. It almost feels like... he was born to be Bull-Chucker's archnemesis!
+Media:vo gdceq001 2 paimon 08.ogg Paimon: Huh!? Why Paimon?
+Media:vo gdceq001 2 paimon 09.ogg Paimon: Hey! Why are you assuming that Paimon will lose before it's even started?
+Media:vo gdceq001 2 paimon 10.ogg Paimon: Um. But according to your logic, if you're planning to face their leader, Grandmaster Hanakado... doesn't that make YOU our weakest fighter?
+Media:vo gdceq001 2 paimon 11.ogg Paimon: Fine, fine, fine, Paimon'll do it already. But prepare to eat your words, mister!
+Media:vo gdceq001 2 paimon 12.ogg Paimon: Low-flying fruit, hm? Paimon'll show you!
+Media:vo gdceq001 3 denkishoushi 01.ogg Elyctra: What a puny opponent... And what a garish Onikabuto...
+Media:vo gdceq001 3 denkishoushi 02.ogg Elyctra: Pathetic! You can paint your Onikabuto any color you want... the only thing that counts in battle is their Electro affinity — the source of their power.
+Media:vo gdceq001 3 denkishoushi 03.ogg Elyctra: Being able to pick out a prize Onikabuto from the crowd is all that matters. That's what makes or breaks every beetle-fighter!
+Media:vo gdceq001 3 denkishoushi 04.ogg Elyctra: Enough talk. Put your Onikabuto on the table and show me what you've got!
+Media:vo gdceq001 3 denkishoushi 05.ogg Elyctra: Are you seriously learning beetle fighting right before a match? You underestimate who you're up against!
+Media:vo gdceq001 3 itto 01.ogg Arataki Itto: That's exactly right, mini melon!
+Media:vo gdceq001 3 itto 02.ogg Arataki Itto: Nice-sounding theory, but it ain't gonna help you if you don't know how to fight!
+Media:vo gdceq001 3 itto 03.ogg Arataki Itto: Listen up, White-Iron Lavender Melon. You need to watch your opponent's Onikabuto closely, so you can dodge its attacks. Then, in the opening right afterward, you strike back!
+Media:vo gdceq001 3 itto 04.ogg Arataki Itto: As long as the opponent is in range, Crimson Staff will hit 'em hard!
+Media:vo gdceq001 3 paimon 01.ogg Paimon: That's a strange theory... Even Paimon knows that performance in battle matters the most. Honing your beetle-fighting skills is the most important thing!
+Media:vo gdceq001 3 paimon 02.ogg Paimon: Got it! So when the opponent attacks, we get our Onikabuto to retreat, and when there's an opening, we move it forward and strike while they're still recovering!
+Media:vo gdceq001 3 paimon 03.ogg Paimon: Sounds simple enough. Paimon will give it a go! (Traveler) heard the explanation too, so Paimon bets we're both ready for battle!
+Media:vo gdceq001 4 akira 01.ogg Mamoru and Akira: Amazing, mini melon!
+Media:vo gdceq001 4 akira 02.ogg Akira: The Boss got brutally beaten...
+Media:vo gdceq001 4 denkishoushi 01.ogg Elyctra: Ah, "Grandmaster Hanakado," I lost to a complete novice... I have let you down!
+Media:vo gdceq001 4 hanakadogyokushou 01.ogg Grandmaster Hanakado: Don't worry. It seems that they are a force to be reckoned with... We should inform the other generals to prepare for battle.
+Media:vo gdceq001 4 hanakadogyokushou 02.ogg Grandmaster Hanakado: You defy my expectations once again, Bona-Fide Beetle Battle King... I didn't expect you to find such formidable warriors so quickly.
+Media:vo gdceq001 4 hanakadogyokushou 03.ogg Grandmaster Hanakado: From today onward, I will send one of my generals here daily to face you.
+Media:vo gdceq001 4 hanakadogyokushou 04.ogg Grandmaster Hanakado: Be sure that you survive until the final battle. Otherwise, your declaration of war will become the laughingstock of the entire beetle-fighting world.
+(Elyctra and Grandmaster Hanakado leave)
+Media:vo gdceq001 4 itto 01.ogg Arataki Itto: Whoa! Who-ho-ho-hoa! Pretty talented, ain'cha? You sure showed them who's boss!
+Media:vo gdceq001 4 itto 02.ogg Arataki Itto: You, my little friend, have earned yourself an Egg Roll later today.
+Media:vo gdceq001 4 itto 03.ogg Arataki Itto: Wait just a minute. Leaving so soon? What are you, scared?
+Media:vo gdceq001 4 itto 04.ogg Arataki Itto: Gah, he's so annoying. Turning up here uninvited, talking to us in that smug tone, then taking off before we're done with him...
+Media:vo gdceq001 4 itto 05.ogg Arataki Itto: That's right. Looks like we won't have time to make the Almighty Arataki Extraordinary and Exhilarating Extreme Beetle Brawl the grandest event ever organized by the Arataki Gang...
+Media:vo gdceq001 4 itto 06.ogg Arataki Itto: Meh, works for me! An audience would've been sweet, but at the end of the day, we came here to battle, and battling is what we're gonna do!
+Media:vo gdceq001 4 itto 07.ogg Arataki Itto: Look at you, Flying... ahem! Skycleaving White-Iron Lavender Melon... defeating your first powerful enemy, starting to make a name for yourself as a fighter... Really gets me into the fighting spirit!
+Media:vo gdceq001 4 itto 08.ogg Arataki Itto: Gets me thinking about myself, back in the day, when I first entered the Hanamizaka beetle-battling scene... taking on the pros for the first time...
+Media:vo gdceq001 4 itto 09.ogg Arataki Itto: C'mon, that's all in the past now! Spilled milk! Water under the bridge!
+Media:vo gdceq001 4 itto 10.ogg Arataki Itto: It's up to the three of us now. Me, the Bona-Fide Beetle Battle King, Paimon, the Skycleaving White-Iron Lavender Melon, and (Traveler), the... the Oni King's Right Hand!
+Media:vo gdceq001 4 itto 11.ogg Arataki Itto: The three of us have to unite to take down Grandmaster Hanakado and all his minions!
+Media:vo gdceq001 4 itto 12.ogg Arataki Itto: Before we face each opponent, we need to talk strategy. As long as we win more matches than we lose, Grandmaster Hanakado will have to face me personally!
+Media:vo gdceq001 4 itto 13.ogg Arataki Itto: Hahahahahaha! That's what I'm talkin' about! Just follow my lead and give your all in battle. Grandmaster Hanakado's about to get more than he bargained for!
+Media:vo gdceq001 4 mamoru 01.ogg Mamoru: I think Boss is saying he was inspired by White-Iron Lavender Melon's performance because he himself was defeated back in the day.
+Media:vo gdceq001 4 paimon 01.ogg Paimon: Hehe, piece of cake! You don't mess with this White-Iron Lavender Melon!
+Media:vo gdceq001 4 paimon 02.ogg Paimon: From what Grandmaster Hanakado said, seems like he's gonna send some of his minions to challenge us. Guess we'll have another battle before too long, huh?
+Media:vo gdceq001 4 paimon 03.ogg Paimon: Ooh, so did you also take down an expert when you first started, Bull-Chucker?
+Media:vo gdceq001 4 paimon 04.ogg Paimon: Bull-Chucker seems to be taking this all pretty seriously...
+Media:vo gdceq001 4 paimon 05.ogg Paimon: Still, that beetle fight was pretty fun, and we do get two months' worth of free ramen if we help him win this. Let's go along with it and do our best!
+The Beetle Brawl is about to begin...
+The highly experienced construction crew builds the arena...
+The winner has been decided. The duel is over...

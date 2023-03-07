@@ -1,0 +1,16 @@
+ I'll handle it.
+Dr. Edith: Luckily I have you to help. I am very grateful.
+ Quest DescriptionHelp Dr. Edith take something to Dr. Livingstone
+ Sorry, I'm dealing with something else right now.
+Dr. Edith: Okay then. To be fair, you do seem to be getting more on your plate each day!
+(Does not accept the quest)
+ You must be waiting for these.
+Dr. Edith: But I just need a moment of your time. Could you give this to Dr. Livingstone for me?
+Dr. Edith: I was planning to deliver it myself but something else came up...
+Dr. Edith: Luckily I have you to help. I am very grateful.
+Dr. Edith: Okay then. To be fair, you do seem to be getting more on your plate each day!
+Dr. Edith: Traveler! Fancy meeting you here. I'm sure you are very busy, as always.
+Dr. Livingstone: Hmm, I wonder why my delivery hasn't arrived...
+Dr. Livingstone: Oh! I never expected you to be the one delivering this!
+Dr. Livingstone: This is a huge help. Please, take these.
+Dr. Livingstone: Traveler! How can I help?

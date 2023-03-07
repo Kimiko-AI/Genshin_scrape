@@ -1,0 +1,55 @@
+ Because... You still need more strength!
+ Because... You still need more strength!
+(Go to Branch 2)
+ I use my sword for mining all over Teyvat.
+ Is it because you lack real-world fighting experience?
+ Is it because you lack real-world fighting experience?
+(Go to Branch 1)
+ Noelle, you rarely leave Mondstadt for training, right?
+ Noelle, you've always worked as a maid in Mondstadt, right?
+ Nothing left...?
+ Prepare yourself, mining isn't as easy as you think.
+ Quest DescriptionNoelle, who aims to become a Knight of Favonius, has shared her troubles with you and hopes that you'll be able to help her with her chivalric training. To display the fruits of her daily training to her, Noelle takes you to the Knights' training ground...
+ Really? This won't be too difficult for her?
+ Right? Surely it's too much.
+ Slimes are a good starting point.
+ Such incredible strength...
+ You could start by training in the areas around Mondstadt.
+Media:vo noecop001 1906401 ellin 01.ogg Ellin: Hi, Noelle! Are you here for the training too?
+Media:vo noecop001 1906401 ellin 02.ogg Ellin: Oh? Our Honorary Knight has come too.
+Media:vo noecop001 1906401 ellin 03.ogg Ellin: Oh, Noelle's basic skills, huh? Then the normal dummies won't do...
+Media:vo noecop001 1906401 ellin 04.ogg Ellin: Doesn't matter how we set them up, there'll be nothing left by the time Noelle's done with them.
+Media:vo noecop001 1906401 ellin 05.ogg Ellin: It is Noelle after all! Let me think... How should I arrange them...?
+Media:vo noecop001 1906401 ellin 06.ogg Ellin: Ah! I've got it. One moment!
+(14 training dummies are set up)
+Media:vo noecop001 1906401 ellin 07.ogg Ellin: This will work much better for Noelle!
+Media:vo noecop001 1906401 ellin 08.ogg Ellin: Go, Noelle! You can do it!
+Media:vo noecop001 1906401 ellin 09.ogg Ellin: *sigh* What a pity... So close! Wanna try again?
+Media:vo noecop001 1906401 noelle 01.ogg Noelle: Hi, Ellin! I was just asking the Honorary Knight for training advice.
+Media:vo noecop001 1906401 noelle 02.ogg Noelle: They want to see my basic skills first...
+Media:vo noecop001 1906401 noelle 03.ogg Noelle: Do you still have spare training dummies here?
+Media:vo noecop001 1906401 noelle 04.ogg Noelle: Hmm... Could be a problem... There sure are a lot...
+Media:vo noecop001 1906401 noelle 05.ogg Noelle: It'll certainly require one heck of a clean-up.
+Media:vo noecop001 1906401 paimon 01.ogg Paimon: Why is Noelle... Is she planning to destroy them all in one go?
+Media:vo noecop001 1906401 paimon 02.ogg Paimon: ...She really got all of them!
+Media:vo noecop001 1906402 noelle 01.ogg Noelle: Whew! Finally, clean-up over!
+Media:vo noecop001 1906402 noelle 02.ogg Noelle: Y—You're... too kind! Praise from the Honorary Knight is high praise indeed...
+Media:vo noecop001 1906402 noelle 03.ogg Noelle: But sadly I'm afraid that... my strength is the only thing I truly am confident in...
+Media:vo noecop001 1906402 noelle 04.ogg Noelle: Every time I train and compete with the knights, I can't figure out how to use it.
+Media:vo noecop001 1906402 noelle 05.ogg Noelle: Even though I swing my blade with greater force than my opponent, I always seem to lose in the final moments.
+Media:vo noecop001 1906402 noelle 06.ogg Noelle: No matter how hard I train, I can never pass the selection trials.
+Media:vo noecop001 1906402 noelle 07.ogg Noelle: Why? I just can't figure it out...
+Media:vo noecop001 1906402 noelle 08.ogg Noelle: Real-world fighting experience?
+Media:vo noecop001 1906402 noelle 09.ogg Noelle: I guess... That's true.
+Media:vo noecop001 1906402 noelle 10.ogg Noelle: After all, if I were to leave the city, I wouldn't be there when people needed me...
+Media:vo noecop001 1906402 noelle 11.ogg Noelle: But you're right, I haven't had much real-world fighting experience... Where can I get some?
+Media:vo noecop001 1906402 noelle 12.ogg Noelle: Areas around Mondstadt... Slimes... leave them to me!
+(Proceed to Live Practice)
+Media:vo noecop001 1906402 noelle 13.ogg Noelle: More... strength...?
+Media:vo noecop001 1906402 noelle 14.ogg Noelle: But of course... Compared the the Honorary Knight, who defeated Stormterror, I don't have nearly enough strength...
+Media:vo noecop001 1906402 noelle 15.ogg Noelle: Please teach me, Honorary Knight! How do you normally train?
+Media:vo noecop001 1906402 noelle 16.ogg Noelle: Mining? You use your sword for... mining?
+Media:vo noecop001 1906402 noelle 17.ogg Noelle: Then again... mining builds arm strength... and then there's the hiking between ore veins... perhaps even a monster or two to fight along the way...
+Media:vo noecop001 1906402 noelle 18.ogg Noelle: So this is the Honorary Knight's training method, right? I must try it!
+Media:vo noecop001 1906402 noelle 19.ogg Noelle: No problem! Leave it to me!
+(Proceed to Strength Training)

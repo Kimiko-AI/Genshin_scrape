@@ -1,0 +1,10 @@
+ Quest DescriptionSome scoundrels are up to no good, researching an object that possesses the power of Electro. Stop them, and quick!
+Wave 1  Crackling Axe Mitachurl ×1 Electro Samachurl ×1
+Wave 1  Fatui Pyroslinger Bracer ×1 Fatui Geochanter Bracer ×1 Fatui Pyro Agent ×1
+Wave 1  Kairagi: Dancing Thunder ×1 Nobushi: Hitsukeban ×1 Nobushi: Kikouban ×1
+Wave 1  Nobushi: Jintouban ×1 Nobushi: Hitsukeban ×1 Nobushi: Kikouban ×1
+Wave 2  Crackling Axe Mitachurl ×1 Electro Hilichurl Grenadier ×1 Hilichurl Grenadier ×1
+Wave 2  Fatui Anemoboxer Vanguard ×1 Fatui Electrohammer Vanguard ×1
+Wave 2  Kairagi: Dancing Thunder ×1
+Wave 2  Kairagi: Fiery Might ×1
+Wave 2  Kairagi: Fiery Might ×1 Nobushi: Jintouban ×2

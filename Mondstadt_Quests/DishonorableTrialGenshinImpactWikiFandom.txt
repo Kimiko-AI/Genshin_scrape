@@ -1,0 +1,182 @@
+ Aren't fluffy things cute?
+ Aren't you curious?
+ At least we stopped it this time.
+ Because they don't know you?
+ But we've done everything else together.
+ Come on, cheer up.
+ Could it shoot missiles?
+Media:vo szaq003 9 boreas 07b.ogg Boreas: "Missiles"? I do not know this strange word... As I said, I pay no attention to the contraptions of humans.
+Media:vo szaq003 9 boreas 07b 1.ogg Boreas: It could spin, leap high into the air, and even shoot fireballs. Although no match for a god, it was stronger than even many who wield visions.
+ Could it spin?
+Media:vo szaq003 9 boreas 07a.ogg Boreas: Yes. It could spin, leap high into the air, and even shoot fireballs. Although no match for a god, it was stronger than even many who wield Visions.
+ Don't worry, I will go to help as well.
+ I can kind of see where he's coming from.
+ I'll do it.
+ I'll stop this.
+ It sure ran away quickly.
+ It's not necessarily related to the tyrant...
+ It's not your fault, Razor.
+ Quest DescriptionTo investigate the plan that the Abyss Order's talisman speaks of, you decide to head to the Cathedral in Mondstadt to consult the members of the Church.
+ So bizarre.
+ That's... probably not it.
+ Time for another round with the Abyss Herald.
+ We should hurry and find Lupus Boreas.
+ When there's a lack of trust, it's best to just avoid the situation entirely...
+ Why is your opinion so contradictory?
+ You don't think you will be popular among the sisters?
+ You really despise The Seven, huh.
+Media:vo szaq003 6 dainsleif 06a.ogg Dainsleif: There's nothing special about gods anyway.
+ You really don't like social interaction, huh.
+Media:vo szaq003 6 dainsleif 06b.ogg Dainsleif: I have no problem interacting with people. But interacting with gods... that's a different story.
+Media:vo dialog szaq003 dainsleif 01.ogg Dainsleif: Go in the Cathedral and ask around. I'll be waiting out here.
+Media:vo szaq003 1 dainsleif 01.ogg Dainsleif: A huge statue, a grandiose Cathedral... The people of Mondstadt clearly spent a great deal of resources and energy to construct them.
+Media:vo szaq003 1 dainsleif 02.ogg Dainsleif: But how aware of this was the Anemo Archon on receiving this gift, and how much did he give back in return?
+Media:vo szaq003 1 dainsleif 03.ogg Dainsleif: Hmph, as long as the gods have a clear conscience about it all, there's nothing I can say about it.
+Media:vo szaq003 1 dainsleif 04.ogg Dainsleif: I never specifically said I would enter the Cathedral. I'll leave you two to mingle with the sisters.
+Media:vo szaq003 1 dainsleif 05.ogg Dainsleif: You are the Honorary Knight of Mondstadt. They will surely allow you to poke into these affairs with their utmost trust.
+Media:vo szaq003 1 dainsleif 06.ogg Dainsleif: Having me tag along would only make them suspicious.
+Media:vo szaq003 1 dainsleif 07.ogg Dainsleif: Correct, and just as our little friend said... I might say something bad about the Church at any time.
+Media:vo szaq003 1 dainsleif 08.ogg Dainsleif: When a non-believer steps onto holy ground, the result is never pretty.
+Media:vo szaq003 1 dainsleif 09.ogg Dainsleif: I have never received the favor of the gods in the past. I don't see any reason I would need it now or in the future, either.
+Media:vo szaq003 1 dainsleif 10.ogg Dainsleif: That's enough about that. While we've been chit-chatting, the Abyss Order continues to act.
+Media:vo szaq003 1 dainsleif 11.ogg Dainsleif: I should warn you about one thing. Don't go mentioning the Defiled Statue inside the Cathedral.
+Media:vo szaq003 1 dainsleif 12.ogg Dainsleif: The Church of Favonius wouldn't ignore the matter of the statue, but if they rashly tried anything against the Abyss Order, it would only ruin whatever element of surprise we may have.
+Media:vo szaq003 1 dainsleif 13.ogg Dainsleif: Also... Meddling in the affairs of the Abyss usually doesn't end well for anyone.
+Media:vo szaq003 1 paimon 01.ogg Paimon: Faith doesn't ask for anything in return though, does it?
+Media:vo szaq003 1 paimon 02.ogg Paimon: Shh! We're about to enter the Cathedral. Don't say anything bad about the Anemo Archon...
+Media:vo szaq003 1 paimon 03.ogg Paimon: And actually, the Anemo Archon is... Gah, never mind.
+Media:vo szaq003 1 paimon 04.ogg Paimon: Huh?
+Media:vo szaq003 1 paimon 05.ogg Paimon: Okay then, (Traveler), we'll just go in ourselves and ask around.
+Media:vo szaq003 10 paimon 01.ogg Paimon: Well that was some good intel, quick let's go tell Dain!
+Media:vo szaq003 3 barbara 01.ogg Barbara: Honorary Knight! Hi, how have you been? Do you need anything today?
+Media:vo szaq003 3 barbara 02.ogg Barbara: Agh... But I should first make it clear that if you want to borrow the Holy Lyre der Himmel again, we cannot oblige.
+Media:vo szaq003 3 barbara 03.ogg Barbara: Hmm... What's that? "Field Tiller"... What does it do?
+Media:vo szaq003 3 barbara 04.ogg Barbara: Huh?
+Media:vo szaq003 3 barbara 05.ogg Barbara: You're here to ask about that old story? Well, I didn't expect that... That was such a long time ago, barely anyone mentions it nowadays.
+Media:vo szaq003 3 barbara 06.ogg Barbara: A long time ago, there was indeed one Statue of The Seven that disappeared one night without a trace.
+Media:vo szaq003 3 barbara 07.ogg Barbara: Nearly every member of the Church joined the search for it, but it was never found.
+Media:vo szaq003 3 barbara 08.ogg Barbara: In the Church's records, as you might assume, this incident has been called "The Lost Statue of The Seven."
+Media:vo szaq003 3 barbara 09.ogg Barbara: Of course?
+Media:vo szaq003 3 barbara 10.ogg Barbara: Other strange stories? I'm not sure, let me think about what other unusual incidents are in the Church's records... Oh, "The Tyrant's Final Fury"? No, that's from another time, probably not related...
+Media:vo szaq003 3 barbara 11.ogg Barbara: Oh, this refers to a time of great danger that engulfed Old Mondstadt, the place now known as Stormterror's Lair.
+Media:vo szaq003 3 barbara 12.ogg Barbara: Many, many years ago, there was a time when balls of fire would rain from the sky when anyone approached Old Mondstadt.
+Media:vo szaq003 3 barbara 13.ogg Barbara: People at that time believe that it was a curse laid down by the God of Storms, so they referred to it as "The Tyrant's Final Fury."
+Media:vo szaq003 3 barbara 14.ogg Barbara: This strange phenomenon continued for about a year. No one was able to solve it, it just gradually ceased on its own.
+Media:vo szaq003 3 barbara 15.ogg Barbara: Right! Later, the theory of "The Tyrant's Final Fury" became less probable in the eyes of the Church. Common reasoning dictates that the God of Storms wouldn't shoot fireballs...
+Media:vo szaq003 3 barbara 16.ogg Barbara: Perhaps it was something else that caused the disaster.
+Media:vo szaq003 3 barbara 17.ogg Barbara: Anyway, this incident might not be related to "The Lost Statue of The Seven," but I just can't think of any other strange incidents that might be.
+Media:vo szaq003 3 barbara 18.ogg Barbara: Oh, Rosaria, It's you.
+Media:vo szaq003 3 barbara 19.ogg Barbara: "Those monsters"?
+Media:vo szaq003 3 barbara 20.ogg Barbara: Th—Then I will go as well!
+Media:vo szaq003 3 barbara 21.ogg Barbara: B—But... you're also a member of the clergy...
+Media:vo szaq003 3 barbara 22.ogg Barbara: Oh... Okay, if the Honorary Knight will be there, then...
+Media:vo szaq003 3 barbara 23.ogg Barbara: But please, everyone, be careful. May the Anemo Archon protect you all.
+Media:vo szaq003 3 paimon 01.ogg Paimon: (It seems she hasn't realized it's just an illusion...)
+Media:vo szaq003 3 paimon 02.ogg Paimon: We're here to ask some questions about something. Barbara, have you heard about "the first Field Tiller"?
+Media:vo szaq003 3 paimon 03.ogg Paimon: Ah, of course you wouldn't know anything about that, hehe... Okay, next question: Has the Church ever lost a Statue of the Seven?
+Media:vo szaq003 3 paimon 04.ogg Paimon: Hmm... of course.
+Media:vo szaq003 3 paimon 05.ogg Paimon: Uh, nothing! So, do you have any other clues— uh, Paimon means... any other strange stories?
+Media:vo szaq003 3 paimon 06.ogg Paimon: (Sorry, Barbara but we can't tell you about the statue we saw just yet... Like Dain said outside, it's for your own good...)
+Media:vo szaq003 3 paimon 07.ogg Paimon: "The Tyrant's Final Fury"?
+Media:vo szaq003 3 paimon 08.ogg Paimon: Balls of fire raining from the sky!? How terrifying...
+Media:vo szaq003 3 paimon 09.ogg Paimon: It's okay. Thanks anyway!
+Media:vo szaq003 3 paimon 10.ogg Paimon: Wasn't that the Abyss Order!? They're at it again?
+Media:vo szaq003 3 paimon 11.ogg Paimon: Right, we'll go give Master Jean a hand!
+Media:vo szaq003 3 rosaria 01.ogg Rosaria: There's that pointless word "thank you" again. I can never get used to hearing it...
+Media:vo szaq003 3 rosaria 02.ogg Rosaria: If you're looking for the Knights of Favonius, they're busy with those monsters again.
+Media:vo szaq003 3 rosaria 03.ogg Rosaria: Those monsters that tried to attack Mondstadt last time, during the Stormterror incident.
+Media:vo szaq003 3 rosaria 04.ogg Rosaria: Indeed. They are gathering in Wolvendom, causing great unrest among the wolves.
+Media:vo szaq003 3 rosaria 05.ogg Rosaria: Could it be... that the Abyss Order is targeting the spirit of Lupus Boreas? As for what purpose, I can't say for certain.
+Media:vo szaq003 3 rosaria 06.ogg Rosaria: Master Jean has already headed off to Wolvendom. I must also begin to make a move myself.
+Media:vo szaq003 3 rosaria 07.ogg Rosaria: Master Jean said you should stay at the church, and continue your work with the clergy.
+Media:vo szaq003 4 dainsleif 01.ogg Dainsleif: I see... Has the Abyss Order already launched a new operation...?
+Media:vo szaq003 4 dainsleif 02.ogg Dainsleif: This could very well have something to do with the Defiled Statue. We should go as well.
+Media:vo szaq003 4 dainsleif 03.ogg Dainsleif: No, that's not likely.
+Media:vo szaq003 4 dainsleif 04.ogg Dainsleif: Unlike Osial, who was just suppressed, Andrius died long ago.
+Media:vo szaq003 4 dainsleif 05.ogg Dainsleif: Today it is just his spirit that stands guard over Wolvendom.
+Media:vo szaq003 4 dainsleif 06.ogg Dainsleif: The Abyss Herald may just be targeting the spirit of Andrius in an attempt to garner some information from one of the Anemo Archon's old companions.
+Media:vo szaq003 4 paimon 01.ogg Paimon: But, what is the Abyss Order going to Wolvendom for anyway? Are they looking to do the same they did with Dvalin? Aaaah... Not again!
+Media:vo szaq003 5 dainsleif 01.ogg Dainsleif: Don't underestimate the enemy, let's take them now!
+Media:vo szaq003 5 paimon 01.ogg Paimon: Aaah! The Abyss Order!
+Media:vo szaq003 6 dainsleif 01.ogg Dainsleif: The closer we get to the target the more enemies there are. Hmph, fits the Abyss Order's style.
+Media:vo szaq003 6 dainsleif 02.ogg Dainsleif: I'm... not going any further.
+Media:vo szaq003 6 dainsleif 03.ogg Dainsleif: It has nothing to do with wolves. It's because Boreas was an ancient god, yet he willingly became a servant of The Seven.
+Media:vo szaq003 6 dainsleif 04.ogg Dainsleif: I cannot possibly agree with his actions. I don't desire any interaction with him.
+Media:vo szaq003 6 dainsleif 05.ogg Dainsleif: Besides, you're the one people like. I'm... less likable.
+Media:vo szaq003 6 dainsleif 06a.ogg Dainsleif: There's nothing special about gods anyway.
+Media:vo szaq003 6 dainsleif 06b.ogg Dainsleif: I have no problem interacting with people. But interacting with gods... that's a different story.
+Media:vo szaq003 6 dainsleif 07.ogg Dainsleif: It's just my opinion, but a word of advice: Always be on your guard when around gods.
+Media:vo szaq003 6 dainsleif 08.ogg Dainsleif: You shouldn't place too much trust in them. But at the same time, don't go too far in the opposite direction... Don't go trying to overthrow them, or hunt them down.
+Media:vo szaq003 6 dainsleif 09.ogg Dainsleif: Even if the god in question is your sworn enemy.
+Media:vo szaq003 6 dainsleif 10.ogg Dainsleif: ...
+Media:vo szaq003 6 dainsleif 11.ogg Dainsleif: Lest I repeat the failings of my forebears.
+Media:vo szaq003 6 dainsleif 12.ogg Dainsleif: I... will tell you one final fact.
+Media:vo szaq003 6 dainsleif 13.ogg Dainsleif: The destruction of the nation of Khaenri'ah by the gods... is the reason why the Abyss Order now seeks to destroy the nations watched over by The Seven.
+Media:vo szaq003 6 dainsleif 14.ogg Dainsleif: Well, enough chit-chat. We should get back to business. I will go take care of the remaining Abyss Order members in the area. Try and keep your visit with Boreas brief. Afterward, let's meet at the entrance to Wolvendom.
+Media:vo szaq003 6 paimon 01.ogg Paimon: Whew... there sure are a lot of enemies around here!
+Media:vo szaq003 6 paimon 02.ogg Paimon: Yeah! Let's go!
+Media:vo szaq003 6 paimon 03.ogg Paimon: Huh? Why not? Is it because you're afraid of fluffy animals?
+Media:vo szaq003 6 paimon 04.ogg Paimon: Don't trust them, and don't hunt them... That's some awkward advice. Does Dain hate The Seven, or is he protecting them?
+Media:vo szaq003 6 paimon 05.ogg Paimon: Huh? What fact?
+Media:vo szaq003 6 paimon 06.ogg Paimon: Oh... There he goes...
+Media:vo szaq003 6 paimon 07.ogg Paimon: What a strange man.
+Media:vo szaq003 6 paimon 08.ogg Paimon: Yeah, that's true. You also keep your guard up against unfamiliar gods.
+Media:vo szaq003 6 paimon 09.ogg Paimon: At the Rite of Descension in Liyue, your decision was very similar to what Dain would do...
+Media:vo szaq003 6 paimon 10.ogg Paimon: *sigh* Not the easiest situation...
+Media:vo szaq003 6 paimon 11.ogg Paimon: Oh, Master Jean! So glad we found you.
+Media:vo szaq003 6 paimon 12.ogg Paimon: Rosaria told us that you came here to fight the Abyss Order, so we came to help.
+Media:vo szaq003 6 paimon 13.ogg Paimon: They just like to cause trouble. Do they really need a reason?
+Media:vo szaq003 6 paimon 14.ogg Paimon: The Abyss Order already went after Dvalin, it's not too surprising that they would also go after another one of the Anemo Archon's buddies.
+Media:vo szaq003 6 qin 01.ogg Jean: Honorary Knight! Paimon! What are you two doing here?
+Media:vo szaq003 6 qin 02.ogg Jean: Then your help is greatly appreciated. The Abyss Order's sudden offensive is very strange, they have surrounded Wolvendom. I am preparing to send out some knights to fight back.
+Media:vo szaq003 6 qin 03.ogg Jean: I just scouted out all of Wolvendom... but I did not see you.
+Media:vo szaq003 6 qin 04.ogg Jean: Rosaria told me that the Abyss Order is going after Boreas.
+Media:vo szaq003 6 qin 05.ogg Jean: But the Abyss Order and Boreas... What is the connection between them?
+Media:vo szaq003 6 qin 06.ogg Jean: Hmm... That is true...
+Media:vo szaq003 6 qin 07.ogg Jean: Regardless, whether the reason behind the present threat is clear or not, I'll handle the situation.
+Media:vo szaq003 6 qin 08.ogg Jean: Honorary Knight, please go and check if Lupus Boreas is in any danger.
+Media:vo szaq003 6 qin 09.ogg Jean: This god's spirit... he does not often see people. But I hear that you have met him before.Maybe it is best that you are also the one to meet him this time.
+Media:vo szaq003 6 qin 10.ogg Jean: Okay, be careful. Thank you for your help, Honorary Knight of Favonius.
+Media:vo szaq003 7 paimon 01.ogg Paimon: *gasp* Look over there, it's Razor! And... the Abyss Herald!
+Media:vo szaq003 8 abyssinvoker 01.ogg Abyss Herald: Ahahaha... So, the wolf's wretched spirit likes to raise wild pups now?
+Media:vo szaq003 8 abyssinvoker 02.ogg Abyss Herald: You claim to be a guardian, yet your once-sharp claws have clearly dulled since your days of godly glory.
+Media:vo szaq003 8 abyssinvoker 03.ogg Abyss Herald: If you serve us, we can restore your divine powers you once held in the past.
+Media:vo szaq003 8 abyssinvoker 04.ogg Abyss Herald: No matter how many times you resist us, your efforts are all in vain...
+Media:vo szaq003 8 boreas 01.ogg Boreas: Lies... lies...
+Media:vo szaq003 8 paimon 01.ogg Paimon: What the heck is this ceremony? He looks like he's in a lot of pain.
+Media:vo szaq003 8 paimon 02.ogg Paimon: Oh no... Is this the same thing they did to corrupt Dvalin's mind?
+Media:vo szaq003 8 razor 01.ogg Razor: You... not welcome here!
+Media:vo szaq003 8 razor 02.ogg Razor: Wolves never surrender. But... this can't go on.
+Media:vo szaq003 9 abyssinvoker 01.ogg Abyss Herald: Hmph... The ceremony was interrupted. How fortunate for you.
+Media:vo szaq003 9 abyssinvoker 02.ogg Abyss Herald: How does an old spirit have such determined will...?
+Media:vo szaq003 9 abyssinvoker 03.ogg Abyss Herald: No matter. This is but a small unforeseen variable. Our grand scheme will not be affected.
+(The Abyss Herald summons a portal and disappears)
+Media:vo szaq003 9 boreas 01.ogg Boreas: Human Lupical... I am ashamed that you must see me in my present state.
+Media:vo szaq003 9 boreas 02.ogg Boreas: But still, the Abyss Herald underestimated my strength.
+Media:vo szaq003 9 boreas 03.ogg Boreas: I pay no heed to the contraptions of humans. I know not what this "Field Tiller" is, though there was indeed one human-made machine that I can never forget.
+Media:vo szaq003 9 boreas 04.ogg Boreas: It entered into my proving ground by accident, and I mistook it for a challenger.
+Media:vo szaq003 9 boreas 05.ogg Boreas: But it could not think, only fight. It was designed as a pure killing machine from top to bottom.
+Media:vo szaq003 9 boreas 06.ogg Boreas: I eventually damaged it greatly with one of my attacks. Before it fell to the ground, it fled the proving ground.
+Media:vo szaq003 9 boreas 07a.ogg Boreas: Yes. It could spin, leap high into the air, and even shoot fireballs. Although no match for a god, it was stronger than even many who wield Visions.
+Media:vo szaq003 9 boreas 07b 1.ogg Boreas: It could spin, leap high into the air, and even shoot fireballs. Although no match for a god, it was stronger than even many who wield visions.
+Media:vo szaq003 9 boreas 07b.ogg Boreas: "Missiles"? I do not know this strange word... As I said, I pay no attention to the contraptions of humans.
+Media:vo szaq003 9 paimon 01.ogg Paimon: It disappeared again...
+Media:vo szaq003 9 paimon 02.ogg Paimon: Wait... So you mean, the Abyss Order had everything prepared to corrupt Lupus Boreas' mind, then lured him out under the pretense of challenging him in a trial?
+Media:vo szaq003 9 paimon 03.ogg Paimon: No, we heard about the danger. Paimon's nose doesn't even know what danger smells like!
+Media:vo szaq003 9 paimon 04.ogg Paimon: Besides coming to help, we actually have something to ask you about, too.
+Media:vo szaq003 9 paimon 05.ogg Paimon: Uh... Excuse us, Mr. Wolf God, do you know anything about the first Field Tiller?
+Media:vo szaq003 9 paimon 06.ogg Paimon: Hmmm... By the sound of it, it's possible that could have been the very first Field Tiller, right?
+Media:vo szaq003 9 paimon 07.ogg Paimon: Fireballs...? Hey, didn't we hear this somewhere else recently as well?
+Media:vo szaq003 9 paimon 08.ogg Paimon: Anyway, this pretty much proves that the first Field Tiller came to Mondstadt, doesn't it?
+Media:vo szaq003 9 paimon 09.ogg Paimon: It sounds like the first one was way stronger than the mass-produced Ruin Guards that came after.
+Media:vo szaq003 9 paimon 10.ogg Paimon: But in this story, it was damaged at the proving ground while fighting the Wolf of the North...
+Media:vo szaq003 9 paimon 11.ogg Paimon: Yes, you were a big help! Thanks!
+Media:vo szaq003 9 paimon 12.ogg Paimon: We need to keep investigating something super important. The Abyss Herald may have left but the Abyss's forces are still attacking. You two be careful!
+Media:vo szaq003 9 razor 01.ogg Razor: Thank you, you came... just in time.
+Media:vo szaq003 9 razor 02.ogg Razor: Lupus Boreas never refused trial. But, scary outsider... not respect trial rules.
+Media:vo szaq003 9 razor 03.ogg Razor: I, too, didn't see... the trap...
+Media:vo szaq003 9 razor 04.ogg Razor: Thank you, (Traveler). In the future, my claws... must get sharper.
+Media:vo szaq003 9 razor 05.ogg Razor: You... smelled danger, and came here?
+Media:vo szaq003 9 razor 06.ogg Razor: Don't know... But, did we help?
+Media:vo szaq003 9 razor 07.ogg Razor: Yes. I smell... more danger. Bigger danger.
+Media:vo szaq003 9 razor 08.ogg Razor: You two, also be careful.

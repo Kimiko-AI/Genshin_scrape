@@ -1,0 +1,105 @@
+ ...
+ ... ...
+ Be right back.
+ Cleaned them up.
+ Have you ever thought about going back?
+ He's talking about himself, Paimon...
+ I understand.
+ I'm (Traveler). Pleased to meet you.
+ Is your wound better?
+ Piece of cake.
+ Quest Description A taciturn wounded soldier is hiding inside a damaged boat on Nazuchi Beach — just another one of the thousand other tragedies that plague Yashiori Island, where the war has reached a temporary standstill... 
+ So this isn't your ship, then?
+ So, who were those people?
+ Step Description Go to the location designated by the final testament.
+ Step Description Inaba Kyuuzou needs some Naku Weeds to decrease the inflammation of his wounds. These herbs are commonplace in Inazuma's wilds.
+ Step Description Inaba Kyuuzou seems to have a matter to entrust to you...
+ Step Description It's time to inform Inaba Kyuuzou that the pirate camp he was worried about has been cleared out.
+ Step DescriptionThe injured Shogunate samurai seems to have something to tell you...
+ Take care of your wounds.
+ Thank you.
+ They shall be no match for me.
+ This is something unique to samurai...
+ We're here to help.
+ Well, he seems alright, at least.
+ Well, his pride is certainly hurt.
+ What's next for you?
+ Why were you attacked?
+ Will these be enough?
+ You have a deal.
+ You look much better now.
+ You should have peace and quiet for a while.
+ You still owe us.
+ You're being a lot more polite than when we first met.
+ You're such a kid.
+(Traveler): (A lone sword stands erect here, silent and solemn.)
+Inaba Kyuuzou: *sigh* And who knows what might happen in the future?
+Inaba Kyuuzou: ...
+Inaba Kyuuzou: ...?
+Inaba Kyuuzou: ...And it seems that the rats nearby have begun scurrying about again.
+Inaba Kyuuzou: ...Inaba Tousaburou Kyuuzou. Just call me Kyuuzou.
+Inaba Kyuuzou: Ah, speaking of which, it's time for me to visit my old comrades in arms, who are still with me on this island.
+Inaba Kyuuzou: All thanks to you. Once again, I am in your debt.
+Inaba Kyuuzou: Also, you fought commendably.
+Inaba Kyuuzou: But please. You needn't worry about me. I can hold on.
+Inaba Kyuuzou: But until we have peace, there's no point deceiving myself. My memories assert that I am still that same wounded, bloodstained soldier...
+Inaba Kyuuzou: By the way, if you meet my old comrades in arms in your journey, please stop for a moment and get to know them.
+Inaba Kyuuzou: By the way, outlander...
+Inaba Kyuuzou: Come back after a while. It's good to have someone to chat with.
+Inaba Kyuuzou: Don't get too conceited. Miss a step, and you might break your leg.
+Inaba Kyuuzou: Don't look down your nose at me, outlander.
+Inaba Kyuuzou: Hah, it's been a long time since I spoke so much. How exhausting...
+Inaba Kyuuzou: Haha, again with the big talk...
+Inaba Kyuuzou: Haha, isn't it a pity that I've survived yet again?
+Inaba Kyuuzou: Hmph, how humiliating...
+Inaba Kyuuzou: Hmph. It seems you are fond of talking big...
+Inaba Kyuuzou: Hmph... You two...
+Inaba Kyuuzou: I am in your debt, outlander.
+Inaba Kyuuzou: I apologize. This is no place for guests.
+Inaba Kyuuzou: I cannot afford to get on the wrong side of him.
+Inaba Kyuuzou: I have run out of herbs to dress my wound, but it is still quite inflamed...
+Inaba Kyuuzou: I haven't made my mind up about what to do next, but I don't think I'll go back.
+Inaba Kyuuzou: I must apologize for asking you, an outsider, to do my dirty work.
+Inaba Kyuuzou: I need you to help me clear out the pirate camp that I mentioned earlier.
+Inaba Kyuuzou: I'm tired. Please forgive my lack of hospitality.
+Inaba Kyuuzou: I've used up all the medicinal herbs I had.
+Inaba Kyuuzou: If you do not mind, I need your help with something. Once my wound has healed, I will surely return the favor I owe...
+Inaba Kyuuzou: In Inazuma's tradition, we offer our fallen comrades a Dendrobium, a delicate and noble flower... A symbol of the fate of all samurai.
+Inaba Kyuuzou: In that case, please find some Naku weed for me. It can be found everywhere on this island. Full leaves are the best, the liquid can be squeezed out and applied to the wound to reduce inflammation...
+Inaba Kyuuzou: It will take a long time to mash the herbs into a paste. You can go now.
+Inaba Kyuuzou: It'll also let me see what you can do. How about it?
+Inaba Kyuuzou: Kujou Masahito is not a bad person, but his old man is calling for deserters to be caught and punished...
+Inaba Kyuuzou: Maybe I'll take off my armor. It's been nice, living alone here...
+Inaba Kyuuzou: No, don't get me wrong. I'm not driving you away...
+Inaba Kyuuzou: Only say that once you've finally gotten rid of them all!
+Inaba Kyuuzou: Outlander, how have you been?
+Inaba Kyuuzou: So I've stayed and lived in it like a hermit crab till now.
+Inaba Kyuuzou: Still... I'm glad you could come.
+Inaba Kyuuzou: Take care of your own business, go.
+Inaba Kyuuzou: Take care, outlander.
+Inaba Kyuuzou: That group of pirates just now came from the camp in the south, and they had their eyes on the cargo onboard.
+Inaba Kyuuzou: That's all. I'm going to take a nap now, so leave me alone.
+Inaba Kyuuzou: That's the only way to stop them from coming back here and bothering me like a pack of stray dogs. It might even send the other pirate camps a message, so they don't get ideas.
+Inaba Kyuuzou: The refugees from Tatarasuna and the mine fled in quick succession, and some of those rats scurried off to this place, swelling the ranks of these pirate gangs and making them more reckless.
+Inaba Kyuuzou: They're pirates. They have many strongholds around Nazuchi Beach.
+Inaba Kyuuzou: This thing? It belonged to the Sangonomiya rebels. I am not so sure myself... Either way, when I came, it was already deserted.
+Inaba Kyuuzou: Thugs, out-of-work miners and fishermen, fugitives running from the Vision Hunt Decree, deserters from both sides of the war... Sometimes, they gather into groups and degenerate into bandits and pirates. They try, in vain, to escape the control of Her Excellency.
+Inaba Kyuuzou: To think that I had to be rescued by outlanders, and was even reduced to being judged by them...
+Inaba Kyuuzou: Unfortunately for them, I ruined their plans... Hehe...
+Inaba Kyuuzou: Watch out for pirates if you wander around these parts, outlander.
+Inaba Kyuuzou: Well, as I was saying, I had never doubted the decisions of Her Excellency, so I think that even if I died, I would die with no regrets, right?
+Inaba Kyuuzou: What did you say?
+Inaba Kyuuzou: Whether you call them Vagrants or Kairagi, they are all lawless thugs... We had been suppressing them for a while until the rebels destroyed the ward on the island...
+Inaba Kyuuzou: Yes, that we do.
+Inaba Kyuuzou: You're back. Stay safe while you're on this island.
+Inaba Kyuuzou: You're welcome.
+Inaba Kyuuzou: You've returned.
+Paimon: And don't forget, Mr. Kyuuzou.
+Paimon: Hey! We saved your life! What do you mean, we're "humiliating"?
+Paimon: Huh, the atmosphere got weird all of a sudden...
+Paimon: Isn't that a good thing? Why's that a pity?
+Paimon: Oh... So, Mr. Samurai, are you alright?
+Paimon: Only kids do that.
+Paimon: We're talking about you. You're acting like a child.
+Paimon: Well, this conversation suddenly got heavy...
+Paimon: You're clearly in a really bad way, and you look like you're about to cry for help, but still, you're acting like a tough guy... You're not honest at all!

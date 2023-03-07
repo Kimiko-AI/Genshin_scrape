@@ -1,0 +1,68 @@
+ ...I can't smell anything.
+ It's the smell of burnt Pyro Slimes.
+ No doubt nothing more than a disorderly mob of creatures.
+Media:vo mdaq029 2 kaeya 06b.ogg Kaeya: Oh, ho-ho! You're quite the brave one, aren't you!
+ Not worth complimenting really...
+ Quest DescriptionKaeya will accompany you to explore the Temple of the Wolf.
+ Thanks, that's nice of you to say...
+ Will it be dangerous?
+Media:vo mdaq029 2 kaeya 06a.ogg Kaeya: As bustling as it may be — no, I can't imagine it will be dangerous at all.
+Cutscene's Travel Log summary:
+After finishing some "clean up" with Kaeya, he stays behind by himself to take care of the aftermath — that is to say, taking care of the Abyss Mage pulling strings behind the scenes. As the two confront one another, an unfamiliar red-headed man appears and disposes of the Abyss Mage with ease. Looks like another player has entered the fray...
+Media:vo dialog mdaq029 kaeya 01.ogg Kaeya: My first chance to fight beside you.
+Media:vo dialog mdaq029 kaeya 02.ogg Kaeya: Think we'll make a good team?
+Media:vo mdaq029 2 kaeya 01.ogg Kaeya: You've arrived.
+Media:vo mdaq029 2 kaeya 02.ogg Kaeya: Come closer. Can you smell that?
+Media:vo mdaq029 2 kaeya 03.ogg Kaeya: Something must have happened in the temple.
+Media:vo mdaq029 2 kaeya 04.ogg Kaeya: I imagine there will be slimes, hilichurls, and... whatever is giving Stormterror extra power.
+Media:vo mdaq029 2 kaeya 05.ogg Kaeya: Oh yes, it is going to be lively in there indeed!
+Media:vo mdaq029 2 kaeya 06a.ogg Kaeya: As bustling as it may be — no, I can't imagine it will be dangerous at all.
+Media:vo mdaq029 2 kaeya 06b.ogg Kaeya: Oh, ho-ho! You're quite the brave one, aren't you!
+Media:vo mdaq029 2 kaeya 07.ogg Kaeya: It's a pity that the Temple of the Wolf has been disturbed by such an atrocity.
+Media:vo mdaq029 2 kaeya 08a.ogg Kaeya: Let's head in, (Traveler).
+Media:vo mdaq029 2 kaeya 09.ogg Kaeya: No one makes offerings to The Four Winds anymore, yet the old winds never vanish...
+Media:vo mdaq029 2 kaeya 10.ogg Kaeya: We need to clear out the temples, for The Four Winds.
+Media:vo mdaq030 4 kaeya 01.ogg Kaeya: Let me show you how the Knights of Favonius conquer our adversaries!
+(Kaeya joins you as a trial character in the domain)
+Media:vo mdaq030 5 kaeya 01.ogg Kaeya: Hmm. If I'm not mistaken, the end of the temple should be up there.
+Media:vo mdaq030 5 kaeya 02.ogg Kaeya: Heh, experience.
+Media:vo mdaq030 5 kaeya 03.ogg Kaeya: ...The kind of experience you get after years of dealing with things like this for others.
+Media:vo mdaq030 5 kaeya 04.ogg Kaeya: Seems the path ends here. Let's use the wind currents to fly up.
+Media:vo mdaq030 5 kaeya 05.ogg Kaeya: Traveler... Unless I'm mistaken, you don't seem to have a Vision.
+Media:vo mdaq030 5 kaeya 06.ogg Kaeya: So how exactly is it that you're able to channel elemental energy?
+Media:vo mdaq030 5 kaeya 07.ogg Kaeya: Good idea. That's some keen observation.
+Media:vo mdaq030 5 kaeya 08.ogg Kaeya: We should get Jean to give you a title and make you a knight.
+Media:vo mdaq030 5 kaeya 09.ogg Kaeya: Speaking of, did you know?
+Media:vo mdaq030 5 kaeya 10.ogg Kaeya: Stormterror was once one of The Four Winds.
+Media:vo mdaq030 5 kaeya 11.ogg Kaeya: I'm not aware of the exact details. If you're interested, you can ask the Acting Grand Master about it.
+Media:vo mdaq030 5 paimon 01.ogg Paimon: Wait... How do you know?
+Media:vo mdaq030 5 paimon 02.ogg Paimon: Ugh, finally... we're here.
+Media:vo mdaq030 5 paimon 03.ogg Paimon: It was a very strange occurrence.
+Media:vo mdaq030 5 paimon 04.ogg Paimon: Water! We can use this to put out fire!
+Media:vo mdaq031 6 kaeya 01.ogg Kaeya: Seems probable. Let's deal with it.
+Media:vo mdaq031 6 kaeya 02.ogg Kaeya: Bravo! What a performance!
+Media:vo mdaq031 6 kaeya 03.ogg Kaeya: You are, to my surprise, a well-trained knight.
+Media:vo mdaq031 6 kaeya 04.ogg Kaeya: The battles you just fought were sights to behold.
+Media:vo mdaq031 6 kaeya 05.ogg Kaeya: Haha, I see you already have the knightly virtue of modesty.
+Media:vo mdaq031 6 kaeya 06.ogg Kaeya: Stories of your heroic deeds to save Mondstadt from destruction shall be known throughout the City of Freedom, well into the future.
+Media:vo mdaq031 6 kaeya 07.ogg Kaeya: Please do visit me at our headquarters when you have the time.
+Media:vo mdaq031 6 kaeya 08.ogg Kaeya: I also know a lovely tavern, if that's more your thing.
+Media:vo mdaq031 6 paimon 01.ogg Paimon: Is that the thing that Stormterror is using to gain its power?
+Media:vo mdaq031 7 cs abyss 02.ogg Hydro Abyss Mage: Gohus, Chiso Vonph.
+(A red-headed man defeats the Abyss Mage)
+Media:vo mdaq031 7 cs diluc 01.ogg ???: Knights of Favonius... Always so inefficient.
+Media:vo mdaq031 7 cs kaeya 01.ogg Kaeya: Quite rewarding, no?
+Media:vo mdaq031 7 cs kaeya 02.ogg Kaeya: I can take care of the rest here. You go take care of other things while I'm at it.
+Media:vo mdaq031 7 cs kaeya 03.ogg Kaeya: There's no way hilichurls organized an ambush like this themselves — not with their limited mental capacity...
+(A Hydro Abyss Mage reveals itself)
+Media:vo mdaq031 7 cs kaeya 04.ogg Kaeya: Thus YOU were behind this.
+Media:vo mdaq031 7 cs kaeya 05.ogg Kaeya: Agree to disagree. But, your involvement in this just made things a whole lot more interesting.
+Media:vo mdaq031 7 cs paimon 01.ogg Paimon: We've seized another temple from Stormterror's grasp!
+Media:vo mdaq031 7 cs paimon 02.ogg Paimon: See you later then, bye-bye~!
+(The Traveler and Paimon leave)
+Media:vo mdaq035 3b paimon 01.ogg Paimon: Phew, it's finally done.
+Media:vo mdaq035 3b paimon 02.ogg Paimon: Well, all that "ley flow" and "elemental lines" stuff Lisa was going on about should hopefully be back to normal.
+Media:vo mdaq035 3b paimon 03.ogg Paimon: Wanna go back and see how the Knights are doing?
+Media:vo mdaq035 3b paimon 04.ogg Paimon: But if you got anything more interesting to do, Paimon can come too!
+Media:vo mdaq035 3b paimon 05.ogg Paimon: By the way, we obtained another Anemoculus in one of The Four Winds' temples, right?
+Media:vo mdaq035 3b paimon 06.ogg Paimon: We might come across more of them in the future, so don't forget to offer them to the Statues!

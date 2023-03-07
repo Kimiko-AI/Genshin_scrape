@@ -1,0 +1,359 @@
+
+
+
+Quest Name
+
+Steins;Gate Chapter Name
+
+
+English Name
+
+Chinese Name
+
+
+The Coming of the Sabzeruz Festival
+
+终将到来的花神诞祭 The Eventual Coming of the Sabzeruz Festival
+
+始まりと終わりのプロローグ The Beginning and Ending of Prologue
+
+
+The Arrival of the Sabzeruz Festival
+
+已然来临的花神诞祭 The Already Arrival of the Sabzeruz Festival
+
+存在証明のパンドラ The Being Confirmation of Pandora
+
+
+The Continuation of the Sabzeruz Festival
+
+流转存续的花神诞祭 The Circulating Continuation of the Sabzeruz Festival
+
+亡失流転のソリチュード The Circulating Lost of Solitude
+
+
+The Samsara of the Sabzeruz Festival
+
+轮回意志的花神诞祭 The Reincarnated Will of the Sabzeruz Festival
+
+循環座標のアルタイル The Reincarnated Coordinates of Altair
+
+
+The Causality of the Sabzeruz Festival
+
+因果命运的花神诞祭 The Destined Causality of the Sabzeruz Festival
+
+因果律のメルト The Causality Law of Meltdown
+
+
+The Empty Illusions of the Sabzeruz Festival
+
+空幻回响的花神诞祭 The Void Echoes of the Sabzeruz Festival
+
+空理彷徨のランデヴー The Void Hesitation of Rendezvous
+
+
+The End of the Sabzeruz Festival
+
+终将结束的花神诞祭 The Eventual Ending of the Sabzeruz Festival
+
+終わりと始まりのプロローグ The Ending and Beginning of Prologue
+
+
+(Message box) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+Confirm Cancel
+
+(Overlay message) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+
+An Elegantly-Written Note
+
+After almost sixteen days, I was finally able to get these notes written before the Sabzeruz Festival.
+Once the festival ends, you and Paimon will probably continue your journey immediately, so I was hoping that I'd be able to give this to you before that.
+This is a compilation of folk legends concerning Lesser Lord Kusanali, created from a series of interviews that I conducted in succession and wrote down.
+I interviewed so many people, but I'm afraid that there are very few who know much about her...
+Still, I hope that this will be of use to you in your search for her.
+
+"Gandarva Ville's water supply was once contaminated, forcing everyone to go very far out to get water. But one day, people suddenly found that the water was drinkable again, and some said that a green light was seen near the water's source the previous night. Everyone believes that this was the divine power of Lesser Lord Kusanali at work."
+This sounds quite possible. The decontamination of water sources via natural means probably takes ages. Did Lesser Lord Kusanali appear in Gandharva Ville, then?
+
+"After Mama passed away, I was super afraid of the dark and couldn't sleep. But from one day on, I would hear a voice that would chat with me till I fell asleep. A nice lady told me that Lesser Lord Kusanali must've been watching over me."
+Poor child. I hope that the Sabzeruz Festival makes him a little happier. This is quite similar to something I experienced back then, as well. She is indeed a gentle god.
+
+"There was this one time when I'd had a wee bit too much to drink and couldn't find my way home to save my life. Then, when I turned a corner, I could've sworn I saw Lesser Lord Kusanali. She was very tall and had the most muscular arms, and she caught me when I slipped and fell. The next morning, I found myself sleeping under a tree. I reckon that must've been her looking out for me!"
+Hmm... I'm not sure this one has that much value as a reference. That was probably just a tree, right?"
+
+(These folk records, appended with Dunyarzad's references and opinions, leave every page densely packed.)
+
+Dunyarzad: I'd be lying if I said I had no regrets
+Dunyarzad: I would have loved to see Nilou's dance
+ (I guess...)
+ Thank you.
+ (I'll feel better if I say this out loud...)
+ Thank you.
+ ...
+ ...I can barely recall it now.
+ ...Where is Dunyarzad?
+ Ah yes. I'd forgotten all about that.
+ An unsuspecting host would be less likely to realize this is a dream.
+ At the end of the Dance of Sabzeruz, I think I saw...
+ Correct.
+ Dunyarzad...
+ Dunyarzad...?
+ Good morning, Paimon.
+ Hold on a moment...
+ How did you come to that conclusion?
+ I just feel so demoralized.
+ I remember now!
+ I'll teach them a lesson they won't forget.
+ I'm fine...
+ I'm just angry at myself.
+ I've been waiting a long time for this.
+ Imagine that the Grand Sage and his entourage are not here in front of you.
+ Imagine your wish coming true before your very eyes.
+ It still meant a lot to her.
+ Just like I thought...
+ Knowing the plan, they'd probably become aware that they were dreaming.
+ Leave these guys to me.
+ Leave.
+ Let's go to the usual spot!
+ Let's go, Paimon.
+ Maybe Farris, the Knight of Flowers?
+ Maybe it'll give us some clues.
+ My head hurts.
+ Nilou, close your eyes.
+ Not leave behind any regrets...
+ Now that Nilou is aware of it...
+ Please come true...
+ Please dance your heart out.
+ Quest DescriptionDiscovering the truth behind the samsara of the Sabzeruz Festival is not enough. You still need to find a way to break out of it. The good news is, you now see a glimmer of hope...
+ Quick, let's go see Dunyarzad!
+ She couldn't have...!?
+ Should we check out what the item is?
+ So we find the host — then what?
+ Take Dunyarzad and leave.
+ Thank you.
+ The one with the strange get-up?
+ They're puppets.
+ This dream should be over soon.
+ To watch the Dance of Sabzeruz.
+ Unlikely.
+ Knowing the plan, they'd probably become aware that they were dreaming.
+ An unsuspecting host would be less likely to realize this is a dream.
+ We were so close...
+ What's up with those flowers!?
+ Yes, I do remember that.
+ You are a kind archon.
+ You're wasting your breath.
+"After Mama passed away, I was super afraid of the dark and couldn't sleep. But from one day on, I would hear a voice that would chat with me till I fell asleep. A nice lady told me that Lesser Lord Kusanali must've been watching over me."
+"Gandarva Ville's water supply was once contaminated, forcing everyone to go very far out to get water. But one day, people suddenly found that the water was drinkable again, and some said that a green light was seen near the water's source the previous night. Everyone believes that this was the divine power of Lesser Lord Kusanali at work."
+"There was this one time when I'd had a wee bit too much to drink and couldn't find my way home to save my life. Then, when I turned a corner, I could've sworn I saw Lesser Lord Kusanali. She was very tall and had the most muscular arms, and she caught me when I slipped and fell. The next morning, I found myself sleeping under a tree. I reckon that must've been her looking out for me!"
+(Message box) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+(Overlay message) Note that leaving this area will interrupt your story experience. This may affect your current quest progress.
+(These folk records, appended with Dunyarzad's references and opinions, leave every page densely packed.)
+After almost sixteen days, I was finally able to get these notes written before the Sabzeruz Festival.
+An Elegantly-Written Note
+Azar: ...
+Confirm Cancel
+Cutscene's Travel Log summary:
+The music comes on, and Nilou performs the Dance of Sabzeruz before it all ends. Many people gather in front of the stage. While the performance continues, the oneiric world begins to fade. You seem to see Dunyarzad, who watches Nilou's dance with glee, a satisfied smile on her face.The merry music stops, and it is time to wake up from the dream.
+Nilou: The wait is over, everyone!
+Nilou: I dedicate this dance to our god... the Dance of Sabzeruz!
+(In the middle of the dance, a flashback briefly occurs)
+
+Dunyarzad: I'd be lying if I said I had no regrets
+Dunyarzad: I would have loved to see Nilou's dance
+(Cinematic ends)
+Despite all your efforts, you could not save Dunyarzad. You sit on the bench, seized by mixed feelings.
+Dunyarzad: I would have loved to see Nilou's dance
+Dunyarzad: I'd be lying if I said I had no regrets
+Hmm... I'm not sure this one has that much value as a reference. That was probably just a tree, right?"
+I interviewed so many people, but I'm afraid that there are very few who know much about her...
+Media:vo dialog xmaq008 guard 01.ogg Media:vo dialog xmaq008 guard 02.ogg Guard: Hey! Stop right there! No one is allowed to enter or leave Sumeru City right now. Go away!
+Media:vo dialog xmaq008 merchant 01.ogg Merchant: *sigh* How am I supposed to conduct business when I'm not allowed to leave the city?
+Media:vo dialog xmaq008 paimon 01.ogg Media:vo dialog xmaq008 paimon 02.ogg Paimon: Whoa... Ugh, okay.
+(The player is teleported a few steps back into the city)
+Media:vo xmaq014 1 nahida 01.ogg Nahida: ...
+Media:vo xmaq014 1 nahida 02.ogg Nahida: ...I'm afraid that what you're thinking right now is correct...
+Media:vo xmaq014 1 nahida 03.ogg Nahida: The real Dunyarzad's consciousness has indeed disappeared. It can no longer endure the constant dream harvesting.
+Media:vo xmaq014 1 nahida 04.ogg Nahida: She's actually something like a puppet, but not completely.
+Media:vo xmaq014 1 nahida 05.ogg Nahida: The real Dunyarzad's consciousness could no longer keep playing her role in this dream...
+Media:vo xmaq014 1 nahida 06.ogg Nahida: So, another Dunyarzad appeared to replace her in the dream. Just like the grass and the trees, that Dunyarzad is just a building block of the dream that helps to keep it going.
+Media:vo xmaq014 1 nahida 07.ogg Nahida: Puppets are stiff and can't copy a living person's vitality. After all, they're just there as filler.
+Media:vo xmaq014 1 nahida 08.ogg Nahida: You know, speaking of which... The old Dunyarzad might not have been too different from a puppet.
+Media:vo xmaq014 1 nahida 09.ogg Nahida: Yes. Back then, her family was overly protective of her. No one cared about her personality or thoughts. It was as if she only lived to stall her Eleazar.
+Media:vo xmaq014 1 nahida 10.ogg Nahida: I just gave her a little wisdom so she could look at life in a new way... So that she could be her own person. But even so, she still...
+Media:vo xmaq014 1 nahida 11.ogg Nahida: ...Far from it. I'm still a long way off from being a real archon.
+Media:vo xmaq014 1 nahida 12.ogg Nahida: I couldn't even save her. If I were a competent archon, I wouldn't have let my most faithful follower die at the Sabzeruz Festival with so many regrets...
+Media:vo xmaq014 1 nahida 13.ogg Nahida: I... I'm not beating myself up. All I did was to rationally observe the distance between myself and a real archon.
+Media:vo xmaq014 1 nahida 14.ogg Nahida: To prevent more tragedies like this, we must end the samsara as soon as possible.
+Media:vo xmaq014 1 nahida 15.ogg Nahida: Although this Sabzeruz Festival dream is under the Akasha's control, only humans can dream. Even the Akasha is unable to create them.
+Media:vo xmaq014 1 nahida 16.ogg Nahida: That means this dream belongs to a host who created it.
+Media:vo xmaq014 1 nahida 17.ogg Nahida: Well, if this is someone's dream, then everything here must come from deep within their consciousness ...
+Media:vo xmaq014 1 nahida 18.ogg Nahida: ...Which means, with the power of imagination, they can change anything in this dream.
+Media:vo xmaq014 1 nahida 19.ogg Nahida: Imagination means breaking through what you perceive as normal.
+Media:vo xmaq014 1 nahida 20.ogg Nahida: Like when a server at a tavern brings a plate to you, you'd naturally assume that food is on it.
+Media:vo xmaq014 1 nahida 21.ogg Nahida: However, if you're the dream's host and you become aware that you're dreaming, when you imagine gold and Mora on the plate...
+Media:vo xmaq014 1 nahida 22.ogg Nahida: ...The dream will respond in kind, and the server really will bring you gold and Mora.
+Media:vo xmaq014 1 nahida 23.ogg Nahida: But right now, our host is unaware that this is a dream. No matter how many times they're served, it will always be food.
+Media:vo xmaq014 1 nahida 24.ogg Nahida: Find some way to make that person realize that they're dreaming. Usually, once that happens, the person will wake up and the dream's samsara will be broken.
+Media:vo xmaq014 1 nahida 25.ogg Nahida: It's extremely difficult, yes. But the only ones who can do it are you two. Remember, everything you've achieved up to this point has all been for the sake of finding the host and ending the samsara.
+Media:vo xmaq014 1 nahida 26.ogg Nahida: As for me... during this time, I'll be out of town.
+Media:vo xmaq014 1 nahida 27.ogg Nahida: Yes, I want to try something. There must still be a small wisp of possibility...
+Media:vo xmaq014 1 nahida 28.ogg Nahida: Hurry and go. Dreams are supposed to be fantastical, romantic, and full of pleasant surprises. Unnecessary things like this samsara... need to end.
+Media:vo xmaq014 1 paimon 01.ogg Paimon: Good morning, Nahida! Wait... Now that Paimon remembers everything, should we instead say, "Good morning, Lesser Lord Kusanali"?
+Media:vo xmaq014 1 paimon 02.ogg Paimon: Hey, what's wrong, Nahida? You don't look too good...
+Media:vo xmaq014 1 paimon 03.ogg Paimon: Did Dunyarzad already disappear? No way! Are... Are we too late?
+Media:vo xmaq014 1 paimon 04.ogg Paimon: Paimon can't believe it... Wait, so what about that other Dunyarzad? Just what is she? Is she also going to disappear?
+Media:vo xmaq014 1 paimon 05.ogg Paimon: But personality-wise, she's nothing like the real Dunyarzad...
+Media:vo xmaq014 1 paimon 06.ogg Paimon: Dunyarzad truly believed that she met you within her consciousness, and it was you who inspired her... So you do remember her after all!
+Media:vo xmaq014 1 paimon 07.ogg Paimon: Please don't beat yourself up over it, Nahida! It's the Sages' fault, and theirs alone!
+Media:vo xmaq014 1 paimon 08.ogg Paimon: Don't be like that, Nahida. Even real archons are still allowed to be sad...
+Media:vo xmaq014 1 paimon 09.ogg Paimon: Great! But how do we do that?
+Media:vo xmaq014 1 paimon 10.ogg Paimon: Huh... So how should we find that person?
+Media:vo xmaq014 1 paimon 11.ogg Paimon: Imagination? What do you mean by that?
+Media:vo xmaq014 1 paimon 12.ogg Paimon: How are we going to find them, though? If it could be anyone, it'd be like looking for a needle in a haystack!
+Media:vo xmaq014 1 paimon 13.ogg Paimon: And even if we did find them, how are we supposed to make them realize they're dreaming?
+Media:vo xmaq014 1 paimon 14.ogg Paimon: After all, like you said... "Don't wake a sleepwalker."
+Media:vo xmaq014 1 paimon 15.ogg Paimon: "Out of town"? Are you going to that place full of dreams where the Traveler went?
+Media:vo xmaq014 1 paimon 16.ogg Paimon: *sigh* Paimon's still a little upset that we've come this far, only for Dunyarzad to...
+Media:vo xmaq014 1 paimon 17.ogg Paimon: She was such a good person with such a simple wish, but fate was against her.
+Media:vo xmaq014 1 paimon 18.ogg Paimon: Yeah... Saving Dunyarzad is what kept us going this whole time.
+Media:vo xmaq014 1 paimon 19.ogg Paimon: But we mustn't lose hope, Traveler! Dunyarzad would definitely want to see us save everyone else. So let's break this samsara for her sake!
+Media:vo xmaq014 1 paimon 20.ogg Paimon: Paimon's wondering... Do you think the sages would get one of their own to be the host of this dream? Feels like it would be easier to control it that way, no?
+Media:vo xmaq014 1 paimon 21.ogg Paimon: Huh, that's true. Plus, the sages probably weren't counting on there being other factors beyond their control — like Nahida and us.
+Media:vo xmaq014 1 paimon 22.ogg Paimon: So, who do you think the host of the dream is?
+Media:vo xmaq014 1 paimon 23.ogg Paimon: Ooh! That would make sense! Farris, the Knight of Flowers, is a symbol of the whole Sabzeruz Festival, right? Pretty core character.
+Media:vo xmaq014 1 paimon 24.ogg Paimon: Let's go ask him some questions, shall we?
+Media:vo xmaq014 2 dehya 01.ogg Dehya: My lady, step back!
+Media:vo xmaq014 2 paimon 01.ogg Paimon: Everything's fine, just... Umm, it's a little hard to explain. Uh, would you mind taking part in a little experiment with us?
+Media:vo xmaq014 2 paimon 02.ogg Paimon: Could you... make a wish?
+Media:vo xmaq014 2 paimon 03.ogg Paimon: Less questions, more wishing!
+Media:vo xmaq014 2 paimon 04.ogg Paimon: Oh...
+Media:vo xmaq014 2 paimon 05.ogg Paimon: So... you have a crush on Dunyarzad?
+Media:vo xmaq014 2 paimon 06.ogg Paimon: Please come true...
+Media:vo xmaq014 2 paimon 07.ogg Paimon: What!?
+Media:vo xmaq014 2 paimon 08.ogg Paimon: *sigh* Guess he isn't the host of this dream after all. Should've expected it wouldn't be this easy.
+Media:vo xmaq014 2 paimon 09.ogg Paimon: It seems like everyone who knows Dunyarzad loves her, but none of them has any idea that she...
+Media:vo xmaq014 2 paimon 10.ogg Paimon: That sounds like Dehya! Oh, right, this is when Dunyarzad bumps into the kidnappers.
+Media:vo xmaq014 2 paimon 11.ogg Paimon: Huh? But Dehya can handle them... Hey, Traveler!
+Media:vo xmaq014 2 vihar 01.ogg Vihar: Hm? You're back. You left in a hurry last time. Is everything okay?
+Media:vo xmaq014 2 vihar 02.ogg Vihar: An experiment? That came out of nowhere... I'm listening, though. What do you need me to do?
+Media:vo xmaq014 2 vihar 03.ogg Vihar: You want me to make a wish? Is that a new Sabzeruz Festival tradition or something?
+Media:vo xmaq014 2 vihar 04.ogg Vihar: Okay, okay...
+Media:vo xmaq014 2 vihar 05.ogg Vihar: My wish, my wish... Um, okay, I'm a little nervous saying this out loud, but... I want Miss Dunyarzad to be happy.
+Media:vo xmaq014 2 vihar 06.ogg Vihar: I noticed earlier that she looked a bit down, and she wasn't really talking to anyone.
+Media:vo xmaq014 2 vihar 07.ogg Vihar: She just doesn't seem like herself. She's always so gentle and kind, and all the kids love her...
+Media:vo xmaq014 2 vihar 08.ogg Vihar: I've also wondered if the reason she asked me to be Farris, Knight of Flowers is because I'm special to her, or something...
+Media:vo xmaq014 2 vihar 09.ogg Vihar: Uh, heh... Haha... Is it that obvious? Hmm, after what I just said, I guess it is.
+Media:vo xmaq014 2 vihar 10.ogg Vihar: When she placed the hat of the Knight of Flowers onto my head, she said to me, "I want everyone to have a happy Sabzeruz Festival."
+Media:vo xmaq014 2 vihar 11.ogg Vihar: What she didn't realize was that I'm not that interested in how everyone else feels... In that moment, I just wanted to be her Knight of Flowers for the rest of my life. Fifty years, a hundred years... I'll serve her till the end of time.
+Media:vo xmaq014 2 vihar 12.ogg Vihar: ...Okay, yeah, that was a bit much. Felt like the right moment to get it off my chest, but... ahem, that was pretty embarrassing.
+Media:vo xmaq014 2 vihar 13.ogg Vihar: Okay, I'm ready to make my wish: I would like Miss Dunyarzad to appear in front of me right now, with a smile on her face... Here goes...
+Media:vo xmaq014 2 vihar 14.ogg Vihar: I'm gonna open my eyes, ho-ho!
+Media:vo xmaq014 2 vihar 15.ogg Vihar: Oh... You're...!
+Media:vo xmaq014 2 vihar 16.ogg Vihar: ...Phaki? Sorry, but only one portion of Yalda Candies per person. Back home you go.
+Media:vo xmaq014 2 vihar 17.ogg Vihar: Hahaha... Nice try, you two. Anyway, never mind, I don't need to see her appear right in front of me. As long as she's happy, hahaha...
+Media:vo xmaq014 3 badis 01.ogg Badis: So you got yourself some back-up? Hmph, suit yourself! You're goin' down!
+Media:vo xmaq014 3 dehya 01.ogg Dehya: ...Oh? It's you. Great timing! Please take—
+Media:vo xmaq014 3 dehya 02.ogg Dehya: Hey, this is my job. The Homayanis pay me, not you.
+Media:vo xmaq014 3 dehya 03.ogg Dehya: You... Ugh, alright fine, knock yourself out. Why are you so worked up anyway? It's not like I don't trust your fighting skills...
+Media:vo xmaq014 3 dehya 04.ogg Dehya: ...Anyway, watch yourself.
+Media:vo xmaq014 4 paimon 01.ogg Paimon: Traveler... Were you just taking your anger out on those guys?
+Media:vo xmaq014 4 paimon 02.ogg Paimon: *sigh* You and Nahida both... Dunyarzad wouldn't want to see you two like this.
+Media:vo xmaq014 4 paimon 03.ogg Paimon: Oh, and speaking of her... Paimon just remembered something.
+Media:vo xmaq014 4 paimon 04.ogg Paimon: Remember how during the first Sabzeruz Festival, before the samsara started, we came here with Dunyarzad because she wanted to pick something up?
+Media:vo xmaq014 4 paimon 05.ogg Paimon: She said it was because she had forgotten something.
+Media:vo xmaq014 4 paimon 06.ogg Paimon: Okay, so Paimon's memory is working so far... Anyway, Paimon also remembers that she's staying somewhere around here. She pointed it out to us the night before the Sabzeruz Festival.
+Media:vo xmaq014 4 paimon 07.ogg Paimon: Yeah, even if it's only a tiny clue, it'll probably still help us more than this needle-in-a-haystack search...
+Media:vo xmaq014 4 paimon 08.ogg Paimon: This is the place. It's rude to enter other people's spaces without permission, but desperate times call for desperate measures!
+Media:vo xmaq014 4 paimon 09.ogg Paimon: Hey, the windows are unlocked. Okay, Paimon's gonna take a peek inside.
+Media:vo xmaq014 4 paimon 10.ogg Paimon: This was only a temporary residence, so there was pretty much nothing inside except this book on the table.
+Media:vo xmaq014 4 paimon 11.ogg Paimon: Should we open it?
+Media:vo xmaq014 4 paimon 12.ogg Paimon: Wow... Dunyarzad wrote all of this. Sounds like she was always thinking of us, even while we were away...
+Media:vo xmaq014 4 paimon 13.ogg Paimon: Even though she was also busy preparing for the Sabzeruz Festival, and had all her health problems to worry about...
+Media:vo xmaq014 4 paimon 14.ogg Paimon: She must have wanted to give this to us as a gift on the day of the Sabzeruz Festival, right?
+Media:vo xmaq014 4 paimon 15.ogg Paimon: If we hadn't found this book, we never would have known...
+Media:vo xmaq014 4 paimon 16.ogg Paimon: But now that we know, we can't even thank her...
+Media:vo xmaq014 4 paimon 17.ogg Paimon: Hey, where are you off to now?
+Media:vo xmaq014 5 dunyarzad 01.ogg Dunyarzad: ...There will always be frustrations in life, but I know that the point of living is to not leave behind any regrets.
+Media:vo xmaq014 5 dunyarzad 02.ogg Dunyarzad: Yes, Traveler? What is it?
+Media:vo xmaq014 5 paimon 01.ogg Paimon: It's Dunyarzad's puppet...
+Media:vo xmaq014 5 paimon 02.ogg Paimon: Traveler...
+Media:vo xmaq014 5 paimon 03.ogg Paimon: You must be exhausted.
+Media:vo xmaq014 5 paimon 04.ogg Paimon: Come to think of it, we've been stuck in this place for a really, really long time. Heck, even the last time we were chatting happily with Dunyarzad feels like an eternity ago...
+Media:vo xmaq014 5 paimon 05.ogg Paimon: Paimon still remembers when we were sitting here, and the way her eyes sparkled when she talked about Nilou's Dance of Sabzeruz...
+Media:vo xmaq014 5 paimon 06.ogg Paimon: That was what the real Dunyarzad said, wasn't it? Does that mean...!?
+Media:vo xmaq014 5 paimon 07.ogg Paimon: Oh... So she's still just a puppet. But just now... How come...
+Media:vo xmaq014 5 paimon 08.ogg Paimon: What? Where are we going this time?
+Media:vo xmaq014 6 azar 01.ogg Azar: ...Traveler?
+Media:vo xmaq014 6 dunyarzad 01.ogg Dunyarzad: Yes. The Greater Lord brought forth new Padisarahs in memory of the Goddess of Flowers, but she ultimately could never truly replicate that beautiful shade of purple.
+Media:vo xmaq014 6 nilou 01.ogg Nilou: How... How did things turn out like this...
+Media:vo xmaq014 6 nilou 02.ogg Nilou: Ahh... Traveler? You don't have to get involved. He's a sage from the Akademiya. I don't want to drag you into this...
+Media:vo xmaq014 6 nilou 03.ogg Nilou: What is this? What happened to the Grand Sage and his entourage?
+Media:vo xmaq014 6 nilou 04.ogg Nilou: Hehe, like I said, they symbolize the Goddess of Flowers, after all. It's just a shame that all the real Padisarahs went extinct after her death.
+Media:vo xmaq014 6 nilou 05.ogg Nilou: Ahh, "that beautiful shade of purple"... Aren't these flowers real Padisarahs, just like the ones from the legend? I didn't even notice! Dunyarzad, did you find these?
+Media:vo xmaq014 6 nilou 06.ogg Nilou: Yeah. What's going on here...?
+Media:vo xmaq014 6 nilou 07.ogg Nilou: Huh?
+Media:vo xmaq014 6 nilou 08.ogg Nilou: You guys are acting weird... But okay, I'll try.
+Media:vo xmaq014 6 nilou 09.ogg Nilou: Mmm...
+Media:vo xmaq014 6 nilou 10.ogg Nilou: Hey~
+Media:vo xmaq014 6 nilou 11.ogg Nilou: Am I dreaming?
+Media:vo xmaq014 6 nilou 12.ogg Nilou: Hehe, so I'm right? Is this Lesser Lord Kusanali responding to our celebration of the Sabzeruz Festival?
+Media:vo xmaq014 6 nilou 13.ogg Nilou: Yeah, but have you heard the tale of the First Sage? To prevent a calamity, he went on a journey to find the Dendro Archon.
+Media:vo xmaq014 6 nilou 14.ogg Nilou: Yep, but in the part you heard, he hadn't become the First Sage yet. There's more to the story...
+Media:vo xmaq014 6 nilou 15.ogg Nilou: His piety and wisdom were acknowledged by the Dendro Archon, and she finally gave her blessing to him.
+Media:vo xmaq014 6 nilou 16.ogg Nilou: All kinds of spectacular scenes appeared in front of the First Sage, as if all the knowledge in the world was being painted onto a canvas right before him. He was captivated.
+Media:vo xmaq014 6 nilou 17.ogg Nilou: After who knows how long, he mastered all the knowledge he could comprehend.
+Media:vo xmaq014 6 nilou 18.ogg Nilou: Afterward, he said to the Dendro Archon, "I miss my parents, my wife, and my children. I've been away from home for far too long. They must be worried."
+Media:vo xmaq014 6 nilou 19.ogg Nilou: The Dendro Archon smiled. The next second, the sage found himself lying in his bed, as if he had just woken up from a dream.
+Media:vo xmaq014 6 nilou 20.ogg Nilou: His wife, lying next to him, said: "You're off to search for the Dendro Archon today, aren't you? Have a safe journey, my love."
+Media:vo xmaq014 6 nilou 21.ogg Nilou: In the end, the First Sage took care of many disasters in Sumeru City and founded the Akademiya. What a happy ending!
+Media:vo xmaq014 6 nilou 22.ogg Nilou: Yes, but his faith and determination were conveyed to the Dendro Archon, so she blessed him in the form of a dream.
+Media:vo xmaq014 6 nilou 23.ogg Nilou: I see. Well, it just so happens that today's Sabzeruz Festival is almost over, too.
+Media:vo xmaq014 6 nilou 24.ogg Nilou: Since we're in a dream, let's make this final Dance of Sabzeruz as beautiful as we can!
+Media:vo xmaq014 6 paimon 01.ogg Paimon: Traveler, what the heck are you doing!? If you get arrested by the Akademiya, that's another day gone to waste!
+Media:vo xmaq014 6 paimon 02.ogg Paimon: Wait... They're not reacting! Have they been scared stiff...?
+Media:vo xmaq014 6 paimon 03.ogg Paimon: Oh, of course! If this is the sages' plan, they wouldn't put themselves through this...
+Media:vo xmaq014 6 paimon 04.ogg Paimon: So they're just substitutes.
+Media:vo xmaq014 6 paimon 05.ogg Paimon: But didn't you just say all the real flowers went extinct after the Goddess of Flowers passed away? So how...
+Media:vo xmaq014 6 paimon 06.ogg Paimon: Th—They disappeared! So Nilou's the host. What a surprise!
+Media:vo xmaq014 6 paimon 07.ogg Paimon: Purple Padisarahs don't exist in the real world anymore, but in Nilou's subconscious, they can appear as decorations on the stage.
+Media:vo xmaq014 6 paimon 08.ogg Paimon: It's just like the example Nahida told us. People assume there will be food on a plate, and Nilou assumed there would be real Padisarahs in the flower pots.
+Media:vo xmaq014 6 paimon 09.ogg Paimon: So when you saw the flowers, you instantly knew it was Nilou?
+Media:vo xmaq014 6 paimon 10.ogg Paimon: But if we want to end the samsara, we need the host to become aware that they're dreaming.
+Media:vo xmaq014 6 paimon 11.ogg Paimon: How should we make Nilou realize that...
+Media:vo xmaq014 6 paimon 12.ogg Paimon: Huh!?
+Media:vo xmaq014 6 paimon 13.ogg Paimon: Wrong guess, but you aren't completely wrong, either... The point is, what made you think this is a dream?
+Media:vo xmaq014 6 paimon 14.ogg Paimon: As far as you know, people in Sumeru don't dream, right?
+Media:vo xmaq014 6 paimon 15.ogg Paimon: Ooh, sounds familiar! Dunyarzad told us a story like that when we first arrived in Sumeru City. So it was about the First Sage, huh?
+Media:vo xmaq014 6 paimon 16.ogg Paimon: So... The First Sage was dreaming ever since the beginning of the story? He never went on his journey?
+Media:vo xmaq014 6 paimon 17.ogg Paimon: Paimon understands where you're coming from now. That's a really interesting connection... But we really gotta wake up soon, like the sage in the story.
+Media:vo xmaq014 6 setare 01.ogg Setaria: If you continue to resist, we will have to order an investigation into every single event organizer...
+Media:vo xmaq014 6 setare 02.ogg Setaria: The Grand Sage has already granted you much leniency. I advise that you exercise tact.
+Media:vo xmaq014 7 paimon 01.ogg Paimon: *yawn* Good morning, Traveler. Paimon feels like she's been asleep for the longest time...
+Media:vo xmaq014 7 paimon 02.ogg Paimon: ...Paimon's head feels super heavy. Did we oversleep? ...Do you even remember going to sleep last night?
+Media:vo xmaq014 7 paimon 03.ogg Paimon: Paimon thinks it was... after the Sabzeruz Festival...
+Media:vo xmaq014 7 paimon 04.ogg Paimon: *gasp* The Sabzeruz Festival!
+Media:vo xmaq014 7 paimon 05.ogg Paimon: Have we finally escaped from the Sabzeruz samsara?
+Media:vo xmaq014 7 paimon 06.ogg Paimon: Quick, take off your Akasha Terminal!
+Media:vo xmaq014 7 paimon 07.ogg Paimon: She's not in her room. What happened?
+Media:vo xmaq014 7 paimon 08.ogg Paimon: Huh? What usual spot?
+Media:vo xmaq014 8 dunyarzad 01.ogg Dunyarzad: I'm sorry, who are—
+Media:vo xmaq014 8 dunyarzad 02.ogg Dunyarzad: Oh! Traveler, Paimon! I have something amazing to tell you!
+Media:vo xmaq014 8 dunyarzad 03.ogg Dunyarzad: I just had a dream... and I saw Nilou performing the Dance of Sabzeruz!
+Media:vo xmaq014 8 nahida 01.ogg Katheryne?: Well done, Traveler and Paimon.
+Media:vo xmaq014 8 nahida 02.ogg Katheryne?: And... Thank you, Dunyarzad, for organizing the Sabzeruz Festival for me.
+Media:vo xmaq014 8 paimon 01.ogg Paimon: Dunyarzad! *sniff* *sniff* You're okay! Oh, don't scare us like that...
+Nahida: ...
+Nilou: I dedicate this dance to our god... the Dance of Sabzeruz!
+Nilou: The wait is over, everyone!
+Once the festival ends, you and Paimon will probably continue your journey immediately, so I was hoping that I'd be able to give this to you before that.
+Paimon enters the room and returns a while later, carrying something...
+Poor child. I hope that the Sabzeruz Festival makes him a little happier. This is quite similar to something I experienced back then, as well. She is indeed a gentle god.
+Setaria: ...
+Still, I hope that this will be of use to you in your search for her.
+This is a compilation of folk legends concerning Lesser Lord Kusanali, created from a series of interviews that I conducted in succession and wrote down.
+This sounds quite possible. The decontamination of water sources via natural means probably takes ages. Did Lesser Lord Kusanali appear in Gandharva Ville, then?
+You notice the purple Padisarahs on the stage.
+You stand in front of Nilou
+ !?

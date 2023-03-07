@@ -1,0 +1,109 @@
+ A storm...
+ And where did you two pop out from?
+Eiko: Well, you were all making such a racket, so of course we'd come over.
+Eiko: Still, there's something that I think you must know.
+Eiko: Taisuke, if you'd do the honors.
+Taisuke: Ah right, of course, Miss Eiko. So what we're going to say... concerns Seirai Island.
+ Do you know something?
+ Eh?
+ How have the people at the shrine been doing?
+Neko: I can see that they are all good folk. They have put much Mora in the Offering Box.
+Neko: The green human is always frowning, always muttering, always worried about... disappointing some guild or another...
+Neko: The green, taller human is... Ohh, he is most terrifying. He knows too much about the weaknesses of cats, meow meow...
+Neko: That knock-knocking human seems very concerned about his... salary, but he is a noble, loyal soul. He has even made wooden cats.
+Neko: They are all good people. Hibiki will surely become friends with them when she returns. Meow, meow...
+ I look forward to it.
+ It turned into the shape of a cat...
+ Neko...
+ Quest DescriptionNeko, "Provisional Head Priestess of the Asase Shrine," seems to have business with you...
+ See you.
+Neko: Goodbye, meow meow.
+ So, about the shrine...
+Neko: Thanks to your help, the shrine is regaining its former self. Hibiki will surely be pleased when she returns.
+Neko: Still, I have discovered something strange...
+Neko: On a stroll, I discovered that the surrounding villages have not a soul within them...
+Neko: Meow meow... How strange, where did all those humans go?
+ That was very thoughtful of you.
+ Trouble is, we don't know where she is...
+ What in the world...
+ You know, Paimon, you should probably get a statue of food made.
+Eiko: ...Eh, I say forget it. The record states that Domeki went missing — well, that's what it says anyway, but if he was hit by that storm, he probably...
+Eiko: ...Just trying to finish our commissions more efficiently. C'mon, let's get to work.
+Eiko: Although Ako Domeki's fleet was also hit by the storm and was nearly wiped out as a result, the fleet that the Shogunate sent was also all but lost with all hands, with the remnants being forced to retreat to Narukami Island. It would be quite some time before the fleet was ready again.
+Eiko: And once we sealed them again, the storm on the island became calm once more.
+Eiko: I'll pick things up from there. The biggest mystery here, of course, is the sudden emergence of that storm.
+Eiko: I'm not going to jump to conclusions immediately, but my gut says that those incidents are definitely related.
+Eiko: I'm sure you remember the Warding Stones on this island. Those had been intentionally unsealed.
+Eiko: Indeed, "Hibiki," "Asase Shrine," "Domeki"... these names are all quite concerning, actually.
+Eiko: It's a real happy camper right now. No need for you to be a wet blanket.
+Eiko: Just remember to refrain from saying anything you shouldn't.
+Eiko: Seirai Island... It seems that this place is still full of many mysteries...
+Eiko: So the timing of that storm was just too good. Almost as if... someone was specifically controlling it.
+Eiko: Still, there's something that I think you must know.
+Eiko: Taisuke, if you'd do the honors.
+Eiko: The feeling's mutual.
+Eiko: We'll continue exploring this island and collecting more information about this incident for a while, and then we'll report back to the Guild.
+Eiko: Well, Taisuke, let's ready up. We've got some exploring to do.
+Eiko: Well, you were all making such a racket, so of course we'd come over.
+Eiko: Who knows? Maybe we'll have the pleasure of working together again some time.
+Eiko: You can keep treating that cat just as you did before, of course.
+Neko: And Domeki, Janome, and all of Hibiki's friends, too! They'll come back with her for sure!
+Neko: And there are all these other matters that must be settled first...
+Neko: Come with me. The stone human is just over there.
+Neko: Goodbye, meow meow.
+Neko: Hibiki will be back any time, after all. Also, she and Domeki said that something good would happen once the stone was complete.
+Neko: How is it? Is the statue complete?
+Neko: I can see that they are all good folk. They have put much Mora in the Offering Box.
+Neko: I must call all those little rascals together and make plans for her return. And... yes, of course, of course, the many people who will come to visit the shrine. I will need to give instructions concerning that as well...
+Neko: I only wish that Hibiki can look upon this statue should she return and be unable to find her way here.
+Neko: It's Hibiki.
+Neko: It's just like she said, it's just like she told me! A good thing would happen if that stone was completed!
+Neko: Meow meow meow! It must've been Hibiki! A good thing happened, just like she said it would!
+Neko: Meow meow, is knocking on stone such an important thing?
+Neko: Meow meow... How strange, where did all those humans go?
+Neko: No, no, this isn't some "memorial to eternity."
+Neko: Oh, Hibiki... meow meow, meow! This is wonderful, wonderful!
+Neko: On a stroll, I discovered that the surrounding villages have not a soul within them...
+Neko: So... you make statues of good things, you mean?
+Neko: Still, I have discovered something strange...
+Neko: Thanks to your help, the shrine is regaining its former self. Hibiki will surely be pleased when she returns.
+Neko: That knock-knocking human seems very concerned about his... salary, but he is a noble, loyal soul. He has even made wooden cats.
+Neko: That way, she will know where to go and not get lost.
+Neko: The Offering Box has been repaired.
+Neko: The Prayer Rack has been fixed.
+Neko: The green human is always frowning, always muttering, always worried about... disappointing some guild or another...
+Neko: The green, taller human is... Ohh, he is most terrifying. He knows too much about the weaknesses of cats, meow meow...
+Neko: The shrine looks better and better, and my fur has also grown supple, meow meow.
+Neko: The stone has been built, too! Now, Hibiki will definitely return, won't she?
+Neko: They are all good people. Hibiki will surely become friends with them when she returns. Meow, meow...
+Neko: Well then, stone human. Do you require me to do anything else?
+Neko: With your help, the shrine is beautiful again.
+Neko: Wonderful, this is wonderful! What she said was true!
+Neko: Yes, she will certainly return!
+Neko: You're here. The stone human says that he's just about done.
+Neko: You... you are a good person! Better than that meal! Hibiki will like you for sure!
+Ooshima Junpei: Haha, the Lady Priestess is so overjoyed. This "Hibiki" must really have been someone of great importance to it.
+Ooshima Junpei: Hahaha! Well, I'd say that they're better than just "good"! Statues are what you'd call "memorials to eternity," after all!
+Ooshima Junpei: Hibiki?
+Ooshima Junpei: Hoo... Hooray! Hahaha, I don't know what's going on exactly, but given how pleased the Lady Priestess looks, this must indeed be a good thing.
+Ooshima Junpei: Oh, it's you, and the Lady Priestess too.
+Ooshima Junpei: O—Oh, I see. Lady Priestess, you really do care a lot about this "Hibiki," huh.
+Ooshima Junpei: Phew, we're almost done here. This was a big job if I've ever done one...
+Ooshima Junpei: Three... two... one!
+Ooshima Junpei: Well, how should I say this... Usually, things that we make into statues are all very important.
+Ooshima Junpei: Well, not really... Well, since you're here, Lady Priestess, I can chisel that last bit of stone off now!
+Ooshima Junpei: Well, of course. Shrine statues must be treated with the utmost formality, after all.
+Ooshima Junpei: Wh—What's with this cloud...
+Ooshima Junpei: Yes it is, as you can see, hehe! I actually left a little extra stone here — I was just waiting for the Lady Priestess to return before I chipped it off.
+Paimon: Hey! That's rude!
+Taisuke: According to that same information we have, this Ako Domeki led his pirate fleet in a naval battle against the Shogunate.
+Taisuke: According to what information we did manage to get, this was a gathering place for pirates several centuries ago. Then, it was the Shogunate who cleared all the pirates out and moved the inhabitants to other places...
+Taisuke: Ah right, of course, Miss Eiko. So what we're going to say... concerns Seirai Island.
+Taisuke: Ako Domeki's fleet and the Shogunate's were both caught in the ensuing storm... and they were all lost.
+Taisuke: But as the Shogunate fleet pursued him, a sudden storm erupted on Seirai Island.
+Taisuke: I got it. Haha, Miss Eiko, you really are...
+Taisuke: The history of this place is very obscure, and while the Guild has attempted to specifically search for information regarding it, we've found very little...
+Taisuke: They were quickly suppressed and forced to flee back to Seirai Island...
+Taisuke: Uh, so Miss Eiko, about Lady Neko...
+Taisuke: Unless I'm mistaken, this "Domeki" we speak of may well have been the pirate leader "Ako Domeki," who chose to fight the Shogunate head-on. The records do clearly record his name.
+Taisuke: Well, we could ask Lady Neko...

@@ -1,0 +1,60 @@
+ About those flowers...
+ Got 'em right here.
+ I have them.
+ I'll do it.
+Flora: I'm counting on you, then. I recall that there are lots of dandelions just outside Mondstadt.
+ Leave it to me.
+Flora: Great! Still, you might need to pick quite a few...
+Flora: Let me see... First, please help me pick one sweet flower and one small lamp grass from the Whispering Woods.
+Flora: Then go to Windrise, and get me one windwheel aster.
+Flora: Finally, help me pick a Cecilia from Starsnatch Cliff.
+Flora: Please come back as soon as possible once you have them. If they wilt, they can't be displayed at the storefront.
+ Quest DescriptionFlora from the flower shop in Mondstadt is quite upset... It seems that many of her flowers have suddenly been blown away by the wind. She's looking for someone who could help her...
+ So, about those dandelions..
+ So, about those dandelions...
+ Sorry, I'm busy right now...
+Flora: Alright then. I'll go get some myself once I can find the time.
+(Cancels quest)
+ What's the matter?
+ Where should I start looking?
+Flora: There are lots of dandelions outside the city. You should be able to get them easily.
+Donna: Hey! Miss Flora set out those flowers, you can't just pick any you want!
+Flora: ...Along with those flowers that you found for me earlier.
+Flora: A lot of the flowers in my shop were blown away by that huge wind from before.
+Flora: Ah, I really hope they grow up soon...
+Flora: Ah, yes. I have to thank you, don't I? This is a little token, please take it.
+Flora: Alright then. I'll go get some myself once I can find the time.
+(Cancels quest)
+Flora: Although dandelions being carried away by the wind isn't a bad thing...
+Flora: And we're done. Hehe, doesn't this look like a proper florist's now?
+Flora: But it still seems strange for a florist's in Mondstadt to not have dandelions.
+Flora: Dandelions can be found just outside Mondstadt, but I have to clean up the shop, and simply don't have time to leave...
+Flora: Dandelions can't just be plucked and brought back — they have to be regrown from scratch.
+Flora: Did you finish getting the flowers?
+Flora: Finally, help me pick a Cecilia from Starsnatch Cliff.
+Flora: Great! Still, you might need to pick quite a few...
+Flora: Have you managed to get the dandelions?
+Flora: Hey! Those flowers are for display only! If you want to buy flowers, come look over here.
+Flora: Hey! Those flowers are for display only! If you want to buy flowers, come look over here.
+Donna: Hey! Miss Flora set out those flowers, you can't just pick any you want!
+Flora: I still have a fair bit of stock, but the flowers put on display are the prettiest ones. A lot of customers are attracted by them.
+Flora: I'm counting on you, then. I recall that there are lots of dandelions just outside Mondstadt.
+Flora: If I could make another small request... the wind also blew all the dandelions we had away.
+Flora: Let me see... First, please help me pick one sweet flower and one small lamp grass from the Whispering Woods.
+Flora: Not only were the flowers on display outside blown away, but so were some that I had left near the storefront.
+Flora: Now, I have to quickly put these flowers inside these pots here. Then the dandelion seeds go there...
+Flora: Now, these flowers have been blown away, and I still need to clean up the store, so I won't be able to find time to pick new ones...
+Flora: Oh, right. The Dandelion Seeds have only just been sown, so there's nothing in the pot... I guess I'll have to take them off display for the time being.
+Flora: Once you've finished picking them, please bring them back to me as quickly as possible.
+Flora: Please come back as soon as possible once you have them. If they wilt, they can't be displayed at the storefront.
+Flora: So could you help fetch a batch of Dandelion Seeds for me?
+Flora: So please, help me gather a batch of Dandelion Seeds.
+Flora: Thank you. This should be enough. I'll sow the seeds into these pots...
+Flora: Then go to Windrise, and get me one windwheel aster.
+Flora: There are lots of dandelions outside the city. You should be able to get them easily.
+Flora: These are all so fresh... Thank you. With these flowers out at the storefront, we're sure to attract a lot of customers.
+Flora: Traveler, if you're willing, could you help me pick some fresh flowers?
+Flora: Welcome to Floral Whisper. Do you need anything?
+Flora: Would you like to buy some flowers?  I'm afraid you've come at a bad time...
+Flora: You can definitely get the freshest flowers from these areas.
+Flora: You can find small lamp grass and sweet flowers in the Whispering Woods. Windrise is where you'll find windwheel asters, and you can find cecilias on Starsnatch Cliff.

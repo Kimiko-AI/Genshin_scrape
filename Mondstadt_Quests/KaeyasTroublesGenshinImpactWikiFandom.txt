@@ -1,0 +1,136 @@
+ (Now she's done it...)
+ ...
+Media:vo kylq001 2 kaeya 21.ogg Kaeya: These incredibly thrilling adventures are romances that could only be told by pirates.
+ Can't say I don't have time...
+Media:vo kylq001 1 kaeya 04.ogg Kaeya: Marvelous!
+ Eight-headed hydras, silver-haired banshees... Do they really exist?
+Media:vo kylq001 2 kaeya 20.ogg Kaeya: The world we live in is fascinating, full of unknown and inexplicable wonders.
+ How surprising.
+ I never knew you could inherit eye patches.
+Media:vo kylq001 2 kaeya 07.ogg Kaeya: My! (Traveler), how could you not know such common knowledge!
+Media:vo kylq001 2 kaeya 08.ogg Kaeya: This is no different from children inheriting their hairstyle from their parents!
+ I'd like to ask...
+ Is it really, really true?
+ Is it true?
+ It's eight-headed hydras and silver-haired banshees...
+Media:vo kylq001 4 paimon 04a.ogg Paimon: That's what Paimon said! It's a super epic sword!
+Media:vo kylq001 4 paimon 04a 1.ogg Paimon: Anyway, it's fine as long as Paimon doesn't tell them the treasure's location!
+ It's not ideal for Kaeya to show his face.
+Media:vo kylq001 7 kaeya 08.ogg Kaeya: That's right. You read my mind.
+Media:vo kylq001 7 kaeya 09.ogg Kaeya: I am a knight... so I shouldn't have any dealing with the black market.
+ No. We're here for...
+ Quest DescriptionYou bump into Kaeya, whom you first met during Stormterror's attack, at the Knights of Favonius headquarters.
+ Tell me about the Arcadian Ruins
+ Tell me what happened.
+ We'll get the intel back to you.
+ We're looking for...
+ What's wrong, Kaeya?
+ You don't usually lose your chill.
+ You've said too much.
+Media:vo kylq001 4 paimon 04b.ogg Paimon: It's fine! As long as Paimon doesn't tell them the treasure's location!
+???: ...
+As the conversation ends, a suspicious character quietly slinks away from the scene...
+Media:vo dialog kylq001 cyrus 01.ogg Cyrus: I am interested in your search, but I just don't have any intel for you.
+Media:vo dialog kylq001 jack 01.ogg Jack: Should I go look for it as well? Oh, I'm just joking. I hope you guys find it.
+Media:vo dialog kylq001 kaeya 01.ogg Kaeya: I'm a bit busy right now. Do try to find more... clues... You know what I mean.
+Media:vo dialog kylq001 stanley 01.ogg Stanley: If you are not here for my stories, we have nothing to talk about.
+Media:vo kylq001 1 kaeya 01.ogg Kaeya: This is bad... Such a hassle... What am I going to do...
+Media:vo kylq001 1 kaeya 02.ogg Kaeya: Oh, thank the Thousand Winds! (Traveler), your arrival must be the grace of the gods!
+Media:vo kylq001 1 kaeya 03.ogg Kaeya: If I may ask — envoy sent by the Anemo God to save this mere mortal — could you spare a moment?
+Media:vo kylq001 1 kaeya 04.ogg Kaeya: Marvelous!
+Media:vo kylq001 1 kaeya 05.ogg Kaeya: I cannot let my peers hear about this! I cannot seek help from anyone else but you.
+Media:vo kylq001 1 kaeya 06.ogg Kaeya: Please, let us move to somewhere more fit for such conversations...
+Media:vo kylq001 1 kaeya 07.ogg Kaeya: Let's talk in the courtyard just outside the headquarters. Come with me.
+Media:vo kylq001 1 paimon 01.ogg Paimon: Ewwww, cut it out!
+Media:vo kylq001 1 paimon 02.ogg Paimon: What's with the sneakiness...
+Media:vo kylq001 2 kaeya 01.ogg Kaeya: This place will do.
+Media:vo kylq001 2 kaeya 02.ogg Kaeya: How should I begin... Oh, right, let me tell you a secret first.
+Media:vo kylq001 2 kaeya 03.ogg Kaeya: It's a secret of my past, and I confide in you to keep it.
+Media:vo kylq001 2 kaeya 04.ogg Kaeya: As a matter of fact, my grandfather was a pirate!
+Media:vo kylq001 2 kaeya 05.ogg Kaeya: ...Wait, why do you sound so blithe? Do you think I'm making it up?
+Media:vo kylq001 2 kaeya 06.ogg Kaeya: Look at my eye patch! I inherited it from my grandfather and this is solid proof that we are related by blood!
+Media:vo kylq001 2 kaeya 07.ogg Kaeya: My! (Traveler), how could you not know such common knowledge!
+Media:vo kylq001 2 kaeya 08.ogg Kaeya: This is no different from children inheriting their hairstyle from their parents!
+Media:vo kylq001 2 kaeya 09.ogg Kaeya: Yesterday I was glancing through the notes my grandfather left and stumbled upon records that spoke of a treasure...
+Media:vo kylq001 2 kaeya 10.ogg Kaeya: According to his notes, the treasure is buried in the "Lost Arcadian Ruins."
+Media:vo kylq001 2 kaeya 11.ogg Kaeya: But the location of the ruins is currently unknown. I've tried searching for clues...
+Media:vo kylq001 2 kaeya 12.ogg Kaeya: Hmph! Treasures that consist of nothing but gold and gems are third-rate treasures...
+Media:vo kylq001 2 kaeya 13.ogg Kaeya: My grandfather's treasure is a sword!
+Media:vo kylq001 2 kaeya 14.ogg Kaeya: A magic sword that grants the wielder unrivaled power!
+Media:vo kylq001 2 kaeya 15.ogg Kaeya: The sword was dropped from Celestia into the sea by a god. It was later salvaged by my grandfather's crew by pure coincidence.
+Media:vo kylq001 2 kaeya 16.ogg Kaeya: The moment he gripped the sword, thunder roared, billows hollowed, and the clear skies were suddenly swallowed by raging winds...
+Media:vo kylq001 2 kaeya 17.ogg Kaeya: With the might of the magic sword, my grandfather went on to defeat a hydra, a silver-haired banshee, a wicked abyss dragon...
+Media:vo kylq001 2 kaeya 18.ogg Kaeya: But the immense power of the sword enticed many more greedy pirates.
+Media:vo kylq001 2 kaeya 19.ogg Kaeya: To avoid meaningless conflicts, my grandfather hid the magic sword.
+Media:vo kylq001 2 kaeya 20.ogg Kaeya: The world we live in is fascinating, full of unknown and inexplicable wonders.
+Media:vo kylq001 2 kaeya 21.ogg Kaeya: These incredibly thrilling adventures are romances that could only be told by pirates.
+Media:vo kylq001 2 kaeya 22.ogg Kaeya: A gang of Treasure Hoarders has been very active lately and many ruins have had their relics stolen by them.
+Media:vo kylq001 2 kaeya 23.ogg Kaeya: I'm afraid that they will soon discover the Arcadian Ruins and the magic sword will be lost...
+Media:vo kylq001 2 kaeya 24.ogg Kaeya: Wow~
+Media:vo kylq001 2 kaeya 25.ogg Kaeya: Great! Please keep it a secret. I'll wait for your good news!
+Media:vo kylq001 2 paimon 01.ogg Paimon: Tell us what it's about already!
+Media:vo kylq001 2 paimon 02.ogg Paimon: Don't worry, Paimon's lips are sealed.
+Media:vo kylq001 2 paimon 03.ogg Paimon: Oh.
+Media:vo kylq001 2 paimon 04.ogg Paimon: ...Treasure!?
+Media:vo kylq001 2 paimon 05.ogg Paimon: Treasure...
+Media:vo kylq001 2 paimon 06.ogg Paimon: Treasure!
+Media:vo kylq001 2 paimon 07.ogg Paimon: Kaeya! What kind of treasure is it? Gold? Or better yet, gems!?
+Media:vo kylq001 2 paimon 08.ogg Paimon: Oh wowwwww!
+Media:vo kylq001 2 paimon 09.ogg Paimon: Holy moley! That's just insane!
+Media:vo kylq001 2 paimon 10.ogg Paimon: We won't let it fall into the wrong hands! We must get the sword before them.
+Media:vo kylq001 2 paimon 11.ogg Paimon: You just rest assured that Paimon and (Traveler) are here to help!
+Media:vo kylq001 3 paimon 01.ogg Paimon: Hey! So whatcha think, (Traveler)? Isn't it exciting? We're talking about a super-duper powerful sword!
+Media:vo kylq001 3 paimon 02.ogg Paimon: Well... let's go to the Adventurers' Guild and see if we can find out more.
+Media:vo kylq001 3 paimon 03.ogg Paimon: The adventurers should know more about the ruins, right?
+Media:vo kylq001 4 cyrus 03.ogg Cyrus: Arcadian Ruins... Never heard of them.
+Media:vo kylq001 4 cyrus 04.ogg Cyrus: Thanks for your intel anyway. If you do find these ruins, I'd love to see them.
+Media:vo kylq001 4 cyrus 05.ogg Cyrus: Hey, kiddo! Welcome to the Adventurers' Guild!
+Media:vo kylq001 4 paimon 01.ogg Paimon: Hmph! We're not here for something that boring!
+Media:vo kylq001 4 paimon 02.ogg Paimon: We're looking for a sword that fell from Celestia... One that can kill eight-headed banshees and silver-haired hydras.
+Media:vo kylq001 4 paimon 03.ogg Paimon: It's super, mega, uber powerful!
+Media:vo kylq001 4 paimon 04a 1.ogg Paimon: Anyway, it's fine as long as Paimon doesn't tell them the treasure's location!
+Media:vo kylq001 4 paimon 04a.ogg Paimon: That's what Paimon said! It's a super epic sword!
+Media:vo kylq001 4 paimon 04b.ogg Paimon: It's fine! As long as Paimon doesn't tell them the treasure's location!
+Media:vo kylq001 4 paimon 05.ogg Paimon: So, Cyrus, do you know where the Lost Arcadian Ruins are supposed to be?
+Media:vo kylq001 4 paimon 06.ogg Paimon: Uh... my... intel...?
+Media:vo kylq001 5 paimon 01.ogg Paimon: Nope. We just want to know if you've been to the Arcadian Ruins?
+Media:vo kylq001 5 paimon 02.ogg Paimon: Oh? Even the great Stanley doesn't know?
+Media:vo kylq001 5 paimon 03.ogg Paimon: We don't have time for your stories. Think hard, please. We need clues.
+Media:vo kylq001 5 paimon 04.ogg Paimon: Gosh...
+Media:vo kylq001 5 paimon 05.ogg Paimon: When we find the Arcadian treasure, our story will definitely be better than your stupid stories!
+Media:vo kylq001 5 paimon 06.ogg Paimon: Hmph! It's a waste of time talking to him. Let's go already.
+Media:vo kylq001 5 stanley 02.ogg Stanley: Arcadian Ruins? Imagine that... So there are places that I haven't been to...
+Media:vo kylq001 5 stanley 03.ogg Stanley: Never mind this Arcadia... You need to know what happened to me on the Mare Jivari and in the Geyser Realm...
+Media:vo kylq001 5 stanley 04.ogg Stanley:The Mare Jivari... It was a place of death...
+Media:vo kylq001 5 stanley 05.ogg Stanley: Treasure...? Even Tales too?
+Media:vo kylq001 5 stanley 06.ogg Stanley: I'm Stanley. Remember my name. You're also here for my stories, aren't you?
+Media:vo kylq001 6 jack 02.ogg Jack: Arcadian... Can't say I've heard of it. Sorry, I'm still new here, so...
+Media:vo kylq001 6 jack 03.ogg Jack: But you can try posting a commission and see if there are any adventurers who know about it.
+Media:vo kylq001 6 jack 04.ogg Jack: Really!?
+Media:vo kylq001 6 jack 05.ogg Jack: Well then, I'll keep a lookout for your treasure — I mean, your Arcadian Ruins.
+Media:vo kylq001 6 jack 06.ogg Jack: Hey! Are you a new adventurer? Wanna join my adventure team?
+Media:vo kylq001 6 paimon 01.ogg Paimon: Hey! Do you have any intel on the Arcadian Ruins?
+Media:vo kylq001 6 paimon 02.ogg Paimon: Really...
+Media:vo kylq001 6 paimon 03.ogg Paimon: That's a no-no! No way.
+Media:vo kylq001 6 paimon 04.ogg Paimon: We can't afford them beating us to the treasure!
+Media:vo kylq001 6 paimon 05.ogg Paimon: Great! Thanks!
+Media:vo kylq001 6 paimon 06.ogg Paimon: Still no clues...
+Media:vo kylq001 6 paimon 07.ogg Paimon: Well, it's not like it's gonna be easy! Come one, it's the hiding place of the super amazing sword!
+Media:vo kylq001 6 paimon 08.ogg Paimon: Anyway, we should go meet up with Kaeya first.
+Media:vo kylq001 7 kaeya 01.ogg Kaeya: Oh, you're back. Do you have news for me?
+Media:vo kylq001 7 kaeya 02.ogg Kaeya: Haha... That much is expected.
+Media:vo kylq001 7 kaeya 03.ogg Kaeya: Oh, I only mean that, what's the fun in finding it without the hard work?
+Media:vo kylq001 7 kaeya 04.ogg Kaeya: However, I do have some clues.
+Media:vo kylq001 7 kaeya 05.ogg Kaeya: I sent someone to collect black market intel. It seems that someone does know about the Arcadian Ruins.
+Media:vo kylq001 7 kaeya 06.ogg Kaeya: Now, now, as per the black market's rules, they will send someone to meet us to prevent leaks.
+Media:vo kylq001 7 kaeya 07.ogg Kaeya: We will be meeting the informant at the Whispering Woods.
+Media:vo kylq001 7 kaeya 08.ogg Kaeya: That's right. You read my mind.
+Media:vo kylq001 7 kaeya 09.ogg Kaeya: I am a knight... so I shouldn't have any dealing with the black market.
+Media:vo kylq001 7 kaeya 10.ogg Kaeya: You have my thanks.
+Media:vo kylq001 7 kaeya 11.ogg Kaeya: Of course, you'll be compensated for your troubles... by the Knights.
+Media:vo kylq001 7 paimon 01.ogg Paimon: Listen, we asked around the Adventurers' Guild and found... Well, nothing.
+Media:vo kylq001 7 paimon 02.ogg Paimon: Why is that?
+Media:vo kylq001 7 paimon 03.ogg Paimon: Really? Where's the guy?
+Media:vo kylq001 7 paimon 04.ogg Paimon: Then, what are we waiting for?
+Media:vo kylq001 7 paimon 05.ogg Paimon: Ooh, no problemo!
+Talk to Paimon

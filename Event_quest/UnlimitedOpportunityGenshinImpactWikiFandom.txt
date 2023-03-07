@@ -1,0 +1,143 @@
+ Are you sure you can find matching ornaments?
+Ivanovich: Oh, don't worry about that. I will find them one way or another.
+Ivanovich: Silver, gold, precious stones... I should be able to get any of those easily.
+(Friendship level is unchanged)
+ But the people who buy those ornaments will...
+Ivanovich: Agh, you're right... Even if I'm able to skirt the issue with machinery, those ornaments need to be worn, won't they?
+Ivanovich: If my customers are rendered unconscious, that... might reflect poorly upon me.
+Ivanovich: Well, we could fashion it into a decoration that could be displayed far from anyone. But wouldn't that reduce the price significantly?
+Ivanovich: Hmm, this is tricky...
+(Friendship Improved, +1 heart)
+ Did you find something new in Liyue's legal codices?
+Ivanovich: Um, honestly, Liyue's laws are very well written indeed. One can hardly find a single loophole in them.
+Ivanovich: *cough* But—But that's not the point! I always make sure to follow the law!
+ Got it...
+Ivanovich: Thank you. I simply cannot let such an opportunity slip by.
+ I did.
+Ivanovich: Wonderful! Let me see!
+Ivanovich: Ah, a fresh Sweet Flower. Not bad at all. It is indeed abnormal. This must be the influence of the meteorites...
+ I'm not sure there's a relation there...
+ I'm sure others have had this idea...
+Ivanovich: Why, of course — and that's precisely why we should make haste.
+Ivanovich: If you're willing to help, Traveler, let's set out at once.
+Ivanovich: Every second we spend shooting the breeze is Mora we could stand to lose!
+Paimon: Wow, we're not getting through to him at all, are we?
+Paimon: Paimon: Maybe we can convince him that his scheme won't make money, or that the meteorites are really dangerous...
+(Friendship Deteriorated, -1 heart)
+ Is this what merchants are like?
+Ivanovich: Haha. I'll take that as a compliment. I'm counting on you, then.
+ Isn't that because they also find those meteorites dangerous?
+ Perhaps you could go to the Adventurers' Guild...
+Ivanovich: Ha! They rejected my commission, saying that "you shouldn't touch those meteorites."
+Ivanovich: Adventurers' Guild, my foot! There's hardly any spirit of adventure there.
+ Isn't that because they also find those meteorites dangerous?
+Ivanovich: Hmm... When you put it that way, it does make sense. But surely they can't be that dangerous...
+(Friendship Improved, +1 heart)
+ Quest DescriptionIvanovich is getting ideas about what business might be done regarding those fallen meteorites...
+ That might be problematic.
+Ivanovich: Hmm? What do you mean?
+Ivanovich: You were attacked while gathering flowers by... flowers? There are flowers that attack people?
+Ivanovich: Aha, that must be the meteorites' influence! That would explain why those flowers are so special.
+ I'm not sure there's a relation there...
+Paimon: That's right! What do meteorites have to do with flowers, anyway?
+Ivanovich: No, no, no, believe me. This flower is most certainly special in some way.
+ There's nothing special about this flower, though...
+Ivanovich: No, comrades, no. It was found beside one of those meteorites, so of course there's something special about it.
+Paimon: But this Sweet Flower doesn't look, smell, or feel any different from ordinary ones.
+Ivanovich: Well, as for that... that's not something you need to worry about.
+Ivanovich: Here's your compensation, as we agreed. It was a pleasure doing business with you.
+Ivanovich: Now, how to use this Sweet Flower... In a perfume, or as a bookmark? Perhaps it might even be good dried...
+ The Northland Bank is a maximum-security facility, you know.
+Ivanovich: Well, of course it is. Why, even the guards are from Snezhnaya. So... Wait, what? What were you even thinking about?
+ There will be a lot of monsters, you know.
+Ivanovich: I do, and that's what I'll need you for, Traveler.
+(Friendship level is unchanged)
+ There's nothing special about this flower, though...
+ Those meteorites are very heavy.
+Ivanovich: Ah, that's a small issue. I have already chartered us a vehicle. Surely those meteorites cannot cause even hot air balloons to stop moving.
+(Friendship level is unchanged)
+ What problem might that be?
+ Will the Millelith even let you go?
+Ivanovich: Oh, come now, dear comrade. We're not doing anything illegal.
+Ivanovich: Understand this: this shower of meteorites is a disaster indeed, but I plan to turn it into opportunity!
+(Friendship Deteriorated, -1)
+ You shouldn't go near those meteorites.
+ You'll faint if you touch those meteorites.
+Ivanovich: Hmm? Ah, yes, I'd heard that humor [sic]. This could certainly pose a problem.
+Ivanovich: But I believe that there are machines that can resolve this issue... There should be, right?
+Paimon: Ooh, he's starting to come around. Is he... weighing the profits and losses of this scheme?
+Paimon: Let's keep it up. We've got to convince him that this venture won't make money and that the meteorites are super dangerous.
+(Friendship Improved, +1 heart)
+ You're doing pretty well for yourself. There's no need to take risks.
+Ivanovich: Risks? Comrade, do you know what we say in Snezhnaya?
+Ivanovich: Pursue perfection, comrade, persue perfection! We must never rest on our laurels.
+Ivanovich: Use ever more refined techniques, earn ever more Mora — that is how one should behave as a merchant.
+(Friendship Deteriorated, -1 heart)
+Ivanovich: *cough* But—But that's not the point! I always make sure to follow the law!
+Ivanovich: ...a wonderful, mysterious, never-before-seen, surefire-profit of a business proposition?
+Ivanovich: Adventurers' Guild, my foot! There's hardly any spirit of adventure there.
+Ivanovich: Afterwards, we will hire an able craftsman to carve them into jewelry and ornaments...
+Ivanovich: Agh, you're right... Even if I'm able to skirt the issue with machinery, those ornaments need to be worn, won't they?
+Ivanovich: Ah, a fresh Sweet Flower. Not bad at all. It is indeed abnormal. This must be the influence of the meteorites...
+Ivanovich: Ah, that's a small issue. I have already chartered us a vehicle. Surely those meteorites cannot cause even hot air balloons to stop moving.
+Ivanovich: Aha, that must be the meteorites' influence! That would explain why those flowers are so special.
+Ivanovich: Alright, alright. I understand. You mean to dissuade me from touching those meteorites, don't you?
+Ivanovich: But I believe that there are machines that can resolve this issue... There should be, right?
+Ivanovich: But I won't give up! Even if I can't get my hands on a meteorite, I won't give this opportunity up so easily!
+Ivanovich: But my business proposition is one that is both realistic and down-to-earth.
+Ivanovich: Eh? Oh, Traveler, it's you. You've come at just the right moment! Might I interest you in a... Let's call it a...
+Ivanovich: Every second we spend shooting the breeze is Mora we could stand to lose!
+Ivanovich: Ha! They rejected my commission, saying that "you shouldn't touch those meteorites."
+Ivanovich: Haha. I'll take that as a compliment. I'm counting on you, then.
+Ivanovich: Have you found anything?
+Ivanovich: Here's your compensation, as we agreed. It was a pleasure doing business with you.
+Ivanovich: Hmm, no, that's not right. If they turn back into normal rocks, there'd be no profit to be made...
+Ivanovich: Hmm, this is tricky...
+Ivanovich: Hmm... Not bad. I could make quite a pile off this. But there's just one problem...
+Ivanovich: Hmm... When you put it that way, it does make sense. But surely they can't be that dangerous...
+Ivanovich: Hmm? Ah, yes, I'd heard that humor [sic]. This could certainly pose a problem.
+Ivanovich: Hmm? What do you mean?
+Ivanovich: How about it? Do we have a deal?
+Ivanovich: I do, and that's what I'll need you for, Traveler.
+Ivanovich: I don't think you'll accept this commission either, will you? Well, if you don't want to, it's fine.
+Ivanovich: I just need a little help from you, and we will both reap great rewards from it.
+Ivanovich: I suppose you know of those meteorites that fell from the sky?
+Ivanovich: I want to find one of those meteorites, hack a few pieces off it, and bring them back.
+Ivanovich: I wonder if there's any way to turn these meteorites that render people unconscious into normal rock...
+Ivanovich: If my customers are rendered unconscious, that... might reflect poorly upon me.
+Ivanovich: If those meteorites really are so fascina— I mean, dangerous, that they can cause those who touch them to faint...
+Ivanovich: If you're willing to help, Traveler, let's set out at once.
+Ivanovich: It seems as though your travels have broadened your horizons — your thoughts are truly imaginative.
+Ivanovich: It'll be difficult to hire more guards on short notice, yes.
+Ivanovich: No, comrades, no. It was found beside one of those meteorites, so of course there's something special about it.
+Ivanovich: No, no, no, believe me. This flower is most certainly special in some way.
+Ivanovich: Now, how to use this Sweet Flower... In a perfume, or as a bookmark? Perhaps it might even be good dried...
+Ivanovich: Oh, come now, dear comrade. We're not doing anything illegal.
+Ivanovich: Oh, don't worry about that. I will find them one way or another.
+Ivanovich: Pursue perfection, comrade, persue perfection! We must never rest on our laurels.
+Ivanovich: Risks? Comrade, do you know what we say in Snezhnaya?
+Ivanovich: Silver, gold, precious stones... I should be able to get any of those easily.
+Ivanovich: Thank you. I simply cannot let such an opportunity slip by.
+Ivanovich: Then the things around those fallen meteorites must also have been affected.
+Ivanovich: Think about it. Ornaments made from a meteorite. Rings, necklaces, bracelets and earrings... Sure to fetch a fine price with the rich and wealthy.
+Ivanovich: Traveler, can you look for something in the area where they fell that you can bring back here? Plants, flowers... anything will do.
+Ivanovich: Um, honestly, Liyue's laws are very well written indeed. One can hardly find a single loophole in them.
+Ivanovich: Understand this: this shower of meteorites is a disaster indeed, but I plan to turn it into opportunity!
+Ivanovich: Use ever more refined techniques, earn ever more Mora — that is how one should behave as a merchant.
+Ivanovich: Well, Traveler, I may not be going to get a meteorite, but I'll need you to help me with something else.
+Ivanovich: Well, as for that... that's not something you need to worry about.
+Ivanovich: Well, of course it is. Why, even the guards are from Snezhnaya. So... Wait, what? What were you even thinking about?
+Ivanovich: Well, we could fashion it into a decoration that could be displayed far from anyone. But wouldn't that reduce the price significantly?
+Ivanovich: What? Why not? I'm not letting this business opportunity pass me by.
+Ivanovich: Why, of course — and that's precisely why we should make haste.
+Ivanovich: Wonderful! Let me see!
+Ivanovich: You were attacked while gathering flowers by... flowers? There are flowers that attack people?
+Ivanovich: Your part in this is simple, Traveler. You just need to make sure that my work remains undisturbed by monsters.
+Paimon: But this Sweet Flower doesn't look, smell, or feel any different from ordinary ones.
+Paimon: Let's keep it up. We've got to convince him that this venture won't make money and that the meteorites are super dangerous.
+Paimon: Ooh, he's starting to come around. Is he... weighing the profits and losses of this scheme?
+Paimon: Paimon: Maybe we can convince him that his scheme won't make money, or that the meteorites are really dangerous...
+Paimon: That's right! What do meteorites have to do with flowers, anyway?
+Paimon: There's something over there! Watch out!
+Paimon: We found the Sweet Flowers! But wait... Why does Paimon have a strange feeling about this place?
+Paimon: Wow, we're not getting through to him at all, are we?

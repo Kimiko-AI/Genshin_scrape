@@ -1,0 +1,268 @@
+
+Ishikawa: Huh, this person you speak of seems rather strange. I've never encountered such a person.
+Ishikawa: That said, there's been an arrest warrant out for some reckless fool who actually dared to take the Shogun on. That certainly sounds a little like the person you're talking about.
+Ishikawa: What does the wanted fugitive look like, you ask? Uh... How did I forget that? Really, now...
+Ishikawa: But I'd stay away from that guy if I were you. What if they're the wanted fugitive? I'd focus on keeping my head on my shoulders if I were you.
+
+Ishikawa: I've never heard of some strange guy like that. You're barking up the wrong tree here.
+
+Matsudaira: This is a military camp, after all, and there's been an arrest warrant out and about lately. Things are really tight right now.
+Matsudaira: Strangers like yourself would be wise not to stay here long, or some people might get the wrong idea.
+
+Matsudaira: This is a military encampment, after all. If you tarry here too long, people might get the wrong idea.
+ ...
+ And where did you learn yours?
+ And where's that place?
+ Are you... okay?
+ Do you know of a nameless samurai?
+ Give me a second.
+Nameless: I will let you prepare. Takatsuki Dougire and I will be here, no matter how long we must wait.
+Nameless: Use your full strength against me once you are ready.
+(Ends dialogue, does not advance)
+ Hahah, I'm still a little afraid of you.
+ Have you awakened?
+ Have you looked in all your pockets?
+Nameless: I already have, it isn't on my person.
+Nameless: Even though I don't remember what I was after, I can tell when something's not what I'm looking for. Whatever it is, it's not on me.
+Nameless: Come on, what is it, what am I looking for...
+ How would I know?
+Nameless: Ugh, I just can't think...
+ Huh? I—I'm sure we've never met, good sir!
+ I am no samurai.
+Nameless: You have not sought out a master despite your abilities? Folly.
+ I can try to help you.
+ I can.
+ I don't do that kind of thing.
+ I just need the wine that he drank in the past.
+ I understand.
+ I'd like to know about his past.
+Matsudaira: His past? As far as I'm aware, it's nothing particular happy...
+ I'll head home immediately.
+ I'll help you find that sword.
+ I'll help you remember.
+ I'm just a traveler.
+ I've told you, I'm a traveler.
+ It'll pop into your mind eventually.
+Nameless: That won't do. I can't wait that long.
+Nameless: Whatever it is that I'm looking for, it's definitely of the utmost importance to me. I need it back as soon as possible.
+Nameless: I have an inexplicable feeling that the reason I am here in this place is to find that very thing. Failing to find it is not an option.
+Nameless: I will strike down anyone that tries to interrupt me or stand in my way...
+Nameless: Strike down... Wait, that's right! Brandishing a sword and executing people... it feels familiar, pleasing, hahaha, the surge of blood, like a river of red.
+ It's a fine name.
+ Let me think about it.
+"Masanori": What? What are you waiting for?
+(Ends dialogue, does not advance)
+ Maybe it's for the best that you don't know.
+ No, I have not.
+ Perhaps you'll remember if you drank the same wine from back then.
+ Please help him regain his memory.
+Matsudaira: Eh? You know, I wouldn't necessarily call losing your memories of the battlefield a bad thing, exactly.
+ Quest DescriptionA nameless samurai stands atop the windy sea cliffs, seemingly searching for something...
+ So that's your name. Masanori.
+ So we're not going to spar again?
+ Step DescriptionThe nameless samurai has asked you to help him find the blade that appears in his memories, but he could only remember a vague location. He tells you of a hut beneath the cliffs on an island in the north, and behind the hut, he says, is a hill...
+ Step DescriptionThe nameless samurai has asked you to help him find the wine that features in his memories, but he could only remember drinking it with someone else in a military camp. According to the observations you've made along the way, the camp could be located in the east...
+ Step DescriptionThe samurai seems to be named "Masanori". He vaguely remembers seeing a blade on a Tidal Flat in the southwest. That could perhaps be the most critical part of his memory...
+ The feeling is mutual.
+ Think back to when you arrived here.
+Nameless: When I got here? All I remember doing here is wielding my sword. As for why I was wielding it...
+Nameless: Haha, yes, now that I do remember. I was executing someone!
+Nameless: If you strike your enemy with your sword, blood surges like a river of red. It gives you a real rush, hahaha.
+ Well then, have at it.
+"Masanori": Let us cross swords.
+(Proceeds to battle)
+ Well, if you're ready to lose...
+Nameless: Many have said this before Takatsuki Dougire cut them down. How many blows will you withstand?
+(Proceeds to battle)
+ What are you looking for?
+ What's come over you?
+ Where did they live again?
+ Where did you drink?
+ Who did you learn the sword from?
+ You probably need to ask yourself that question.
+ You should really just stop.
+ You've remembered!
+Nameless: I remember now! I remember drinking wine together with people... it was a long time ago.
+ Your sword can't speak.
+"Masanori": But I want to know. I must know. Please, I want to know... I want to...
+"Masanori": But there was just this once, when he said something that... led to an argument, and so he left.
+"Masanori": But where is he? Where did he go? We agreed to go home together!
+"Masanori": Defeated by the same person thrice. How am I this weak? I have honed my martial arts ability from childhood to today... How am I so useless?
+"Masanori": Hah, you are indeed straightforward.
+"Masanori": He was my brother-in-arms, through thick and thin. Why would he just leave like that... Why?
+"Masanori": I and Takatsuki Dougire will remain here, watching the sea and listening to the wind. We will be here any time to speak to you, should you wish it.
+"Masanori": I doubt I will gain much from becoming obsessed with it, so it is best that I put it down.
+"Masanori": I feared that fallen sword, and I fled from there, and ended up here.
+"Masanori": I fought you to my heart's content four times, and discovered some shattered memories, obtained two swords, and a bottle of wine. I am satisfied.
+"Masanori": I put everything on the line to wield my sword, but the martial arts that I so worshiped... they have been truly and pathetically beaten.
+"Masanori": I saw a sword fall from someone's hands, and it wasn't Takatsuki Dougire. The sight of that sword sent me trembling all over, and my courage failed me...
+"Masanori": I shall also be frank. I may be to you as a defeated foe, but if you are willing, I still wish to exchange pointers with you.
+"Masanori": I... I fled here from the tidal flats in the northwest. That was where the battle took place.
+"Masanori": I... I have truly been defeated.
+"Masanori": Let us cross swords.
+"Masanori": Moreover, the more I remember, the more I feel anger and a deep pain rise up from within me. Perhaps my past is indeed far from a beautiful story.
+"Masanori": My head... It hurts... Please, I beg of you, fight me once more. Use your blade to help me remember. Help me remember everything!
+"Masanori": Nonetheless, I believe it to be greatly fortuitous that we met. I do not regret it.
+"Masanori": Remember, I have to remember, that sword... that sword...
+"Masanori": Remember, I have to remember, that sword... that sword...
+(Give A Masterless Blade)
+"Masanori": This is that sword. Yes, that was his sword.
+"Masanori": Useless... useless... I'm a useless samurai... Wait, I remember now.
+"Masanori": Warriors make friends best when their swords clash, rather than when they talk around a table.
+"Masanori": What did I do wrong? Do you know, samurai?
+"Masanori": What? What are you waiting for?
+"Masanori": Why was I so afraid of that sword? What happened there?
+"Masanori": Why wasn't he there!? Argh... How can this be!!!
+"Masanori": Yes, yes, I remember! I would often drink with the same person. He and I were like brothers, and we would talk often.
+"Masanori": You need not worry. I lost control earlier... Never again will I raise my hand against you of my own will.
+Ishikawa: But I'd stay away from that guy if I were you. What if they're the wanted fugitive? I'd focus on keeping my head on my shoulders if I were you.
+Ishikawa: Huh, this person you speak of seems rather strange. I've never encountered such a person.
+Ishikawa: I hope this fragile peace will hold out a little longer...
+Ishikawa: I've never heard of some strange guy like that. You're barking up the wrong tree here.
+Ishikawa: That said, there's been an arrest warrant out for some reckless fool who actually dared to take the Shogun on. That certainly sounds a little like the person you're talking about.
+Ishikawa: What does the wanted fugitive look like, you ask? Uh... How did I forget that? Really, now...
+Kujou Masahito: ...Mm, fair enough.
+Kujou Masahito: Are you just here to look for someone? If you are, please leave as soon as possible.
+Kujou Masahito: Besides, order is valued above all here in a military encampment. This is no place for civilians to walk in and out of as they please. Please leave quickly.
+(After completing Amidst Stormy Judgment, while Traveler has an arrest warrant)
+Kujou Masahito: Are you just here to look for someone? If you are, please leave as soon as possible.
+Kujou Masahito: I've received word that some scoundrel infiltrated the city and attempted to ambush our Almighty Shogun. My forces have also received an arrest warrant for this criminal.
+Kujou Masahito: Well, you've also got blond hair. Best you leave, or you might be mistaken for that wanted fugitive.
+Kujou Masahito: Looking at your thin build, forget surviving a battle with the Shogun — I personally doubt you'd be able to parry my spear even once. I have no wish to involve commoners in these struggles unnecessarily.
+Kujou Masahito: Still, you do look quite familiar.
+ Huh? I—I'm sure we've never met, good sir!
+ I'll head home immediately.
+Kujou Masahito: ...Mm, fair enough.
+Kujou Masahito: Hmm? Why is a civilian like you wandering around in the military camp?
+Kujou Masahito: I've received word that some scoundrel infiltrated the city and attempted to ambush our Almighty Shogun. My forces have also received an arrest warrant for this criminal.
+Kujou Masahito: Looking at your thin build, forget surviving a battle with the Shogun — I personally doubt you'd be able to parry my spear even once. I have no wish to involve commoners in these struggles unnecessarily.
+Kujou Masahito: Serving no master, and slaying no foe on the battlefield. The person you speak of must be a ronin.
+Kujou Masahito: Still, you do look quite familiar.
+Kujou Masahito: There is no place in my army for such a person.
+Kujou Masahito: Well, you've also got blond hair. Best you leave, or you might be mistaken for that wanted fugitive.
+Matsudaira: *sigh* I always come to back to something awful whenever I think about the past. There's no point in nattering on, so I shan't.
+Matsudaira: After that last battle ended, a lot of folks went missing in action, that guy included.
+Matsudaira: As an old friend of his, I would like to help, but...
+Matsudaira: As you can see, I have my duties here, and I cannot leave.
+Matsudaira: Back when he was still in the army, he, a friend from his hometown, and I would drink together.
+Matsudaira: But during that battle...
+Matsudaira: But that guy? With his skills, I don't think any of those riff-raff from Sangonomiya could have beaten him. I thought he'd fled.
+Matsudaira: But you look like a good person. I mean, you came all this way just to help him out.
+Matsudaira: Eh? You know, I wouldn't necessarily call losing your memories of the battlefield a bad thing, exactly.
+Matsudaira: He was a rough man who didn't care a whit about being excluded. He just threw himself into battle all the same...
+Matsudaira: His past? As far as I'm aware, it's nothing particular happy...
+Matsudaira: Hmm. Born into a fishing village, joined the army, and that manner of speech... I think I know who you're talking about.
+Matsudaira: I never would've imagined that he'd lost his memories and become a madman who only knows how to wield a sword.
+Matsudaira: I've got it. I'll give you my personal bottle of it, in fact.
+Matsudaira: Strangers like yourself would be wise not to stay here long, or some people might get the wrong idea.
+Matsudaira: The General at the time quite liked him, and raised both him and his hometown friend to the rank of Hatamoto.
+Matsudaira: The Sangonomiya rebels are just riff-raff.
+Matsudaira: They were both of lowly birth, and would often be ostracized by those fools from richer families.
+Matsudaira: This is a military camp, after all, and there's been an arrest warrant out and about lately. Things are really tight right now.
+Matsudaira: This is a military encampment, after all. If you tarry here too long, people might get the wrong idea.
+Matsudaira: Usually, people who end up unaccounted for have either deserted or... you know, bought the farm.
+Matsudaira: Well then, were you here to ask about him, or did you want to do something else?
+Matsudaira: Well, you have the wine. If there's nothing else, best you take your leave.
+Matsudaira: Wine... That's all you need, then?
+Nameless: "Masanori"... "Masanori"... is that my name?
+Nameless: ...
+Nameless: A samurai's word is his bond. I will wait here for you until you have brought me those swords.
+Nameless: Again! We will go again! I will not lose this time!
+Nameless: Ah, it's been a while since I brandished my blade. I can hear Takatsuki Dougire complaining.
+Nameless: And this bottle, I remember it. It has to be...
+Nameless: Aw, listen, she's calling out because she wants to cut you into pieces, hahaha. Having a duel with you would make her very happy indeed.
+Nameless: But not knowing even my own name, I cannot do anything but wander the world like a ghost. How can you help me?
+Nameless: But who were "they"? Ugh, my head hurts. I can't... remember...
+Nameless: But... I cannot die. No matter how many swordsmen or ronin came to challenge me, I was never defeated.
+Nameless: Come on, what is it, what am I looking for...
+Nameless: Come, draw your weapon and try your chances against me.
+Nameless: Curses! Curses! CURSES!
+Nameless: Curses, curses! Why can't I remember?
+Nameless: Did you find the wine?
+(Give the A Jug of Wine)
+Nameless: Didn't you say that you would help me? Then please, help me find those two sword-wielding children, and bring me their swords. I... I think their swords may be related to me somehow.
+Nameless: Do all true masters hide their true selves like this? Never mind. I shall not pry.
+Nameless: Even if one begins training hard from an early age, they cannot receive accurate instruction if they cannot pay a master to tutor them. They will have to go through many more twists and turns than the average person.
+Nameless: Even though I don't remember what I was after, I can tell when something's not what I'm looking for. Whatever it is, it's not on me.
+Nameless: For now, let's leave aside the question of what I was looking for. I've tired myself out thinking about it for so long, and now I need to relax.
+Nameless: Hah. I say, as long as it can slay foes in battle, it is a good blade.
+Nameless: Haha! I draw my sword to kill. You do not?
+Nameless: Haha, yes, now that I do remember. I was executing someone!
+Nameless: Have you found the swords?
+(Give A Discarded Blade)
+Nameless: He would take this bottle, and he would say: "Come on, Masanori, have another!"
+Nameless: Heh, unwilling to say, are you? It matters little. I remember nothing at all, so even had you mentioned your school of swordsmanship, I would not recognize it.
+Nameless: Hey, do you know what I'm supposed to be looking for?
+Nameless: Hmm, it must have been a few days by now. Well, at least you're here today.
+Nameless: How strange... My body remembers this refreshing feeling as well.
+Nameless: I already have, it isn't on my person.
+Nameless: I am defeated.
+Nameless: I do not know if I have family, or where my hometown is. There is nowhere for me to go but here.
+Nameless: I have an inexplicable feeling that the reason I am here in this place is to find that very thing. Failing to find it is not an option.
+Nameless: I have cut countless people down, and have never once lost. Now that I have tasted defeat at your hands... I have bet and lost. I shall have no regrets even if it has cost me my life.
+Nameless: I only feel familiarity and peace with my sword in hand. Someone as lost as I must be doomed to wander this wasteland.
+Nameless: I remember how I felt then. Mora and honor could all be gained by the sword. As long as I had the last laugh at the end of the raging battle, what did anything else matter? To the victor go the spoils!
+Nameless: I remember now! I remember drinking wine together with people... it was a long time ago.
+Nameless: I remember now, they would be mocked by others for not being able to afford swords made by famous smiths, and for using junk.
+Nameless: I remember that the wine we drank before wasn't like this. It only had the taste of excitement and joy.
+Nameless: I remember that we were inside a great encampment. Men armed and dressed in armor were all around us.
+Nameless: I remember. This... one of the two children used this sword.
+Nameless: I think... I think I remember something. Two children wielding swords and sparring, next to their family homes... a hut...
+Nameless: I will let you prepare. Takatsuki Dougire and I will be here, no matter how long we must wait.
+Nameless: I will strike down anyone that tries to interrupt me or stand in my way...
+Nameless: I'm looking for... for... I've forgotten. Each time I think I'm about to remember it, it disappears from my mind.
+Nameless: I... I am in your debt. Perhaps I shall indeed remember my past if I drank the same wine that I did back then.
+Nameless: If you strike your enemy with your sword, blood surges like a river of red. It gives you a real rush, hahaha.
+Nameless: It has been so long since I felt this fulfilled. Discarding all pointless thought and giving myself over to the blade.
+Nameless: It's almost like... I could gain acceptance, own everything in this world... when I was wielding my sword, when my all was focused on winning victory.
+Nameless: Let us duel once more, you and I.
+Nameless: Many have said this before Takatsuki Dougire cut them down. How many blows will you withstand?
+Nameless: My lineage... I no longer recall it, but it could not have come from nowhere.
+Nameless: On this path, there is little hope for those who have no background at all.
+Nameless: Samurai, have you ever been on the battlefield?
+Nameless: Strike down... Wait, that's right! Brandishing a sword and executing people... it feels familiar, pleasing, hahaha, the surge of blood, like a river of red.
+Nameless: That child, he and his friend sneaked off to the smelting plant to obtain two identical swords that the smiths had discarded.
+Nameless: That won't do. I can't wait that long.
+Nameless: The finest of blades were made there, but these two were of an inferior make, so those two children...
+Nameless: The only connection I have to that past is my swordsmanship.
+Nameless: The spoils, the glory... So, I had such moments of satisfaction in my time, did I? When I was crowned with honor, acknowledged by my superiors, when the wine flowed freely...
+Nameless: They would take the steps behind the house to the slope to spar... Their blades might still be there.
+Nameless: They would train with every ounce of sweat in their body, and after many wounds and much persistence, they would gain a foundation... and yet they would still be mocked.
+Nameless: This wine... it's bitter. That's not right.
+Nameless: Those who are only swordsmen in name... They fled, or they were all cut down. Hahah!
+Nameless: Those who live by the sword know to listen to the voice of their blade. ...Hehe, she's nagging me to get on with it again.
+Nameless: Though it be inferior, they would cherish it, and even give the blade a name.
+Nameless: Ugh, I just can't think...
+Nameless: Use your full strength against me once you are ready.
+Nameless: Wait... Why... Why does this all feel so familiar?
+Nameless: We said something then... No, I can't remember it.
+Nameless: We took names and won glory... Should we not have been pleased with ourselves? And yet, why does this wine go down my throat so bitterly?
+Nameless: Whatever it is that I'm looking for, it's definitely of the utmost importance to me. I need it back as soon as possible.
+Nameless: When I got here? All I remember doing here is wielding my sword. As for why I was wielding it...
+Nameless: When was my sword last stained red?
+Nameless: Which school do you belong to?
+Nameless: Who did I drink with... what did we say...
+Nameless: Who in this world is born bearing gold and jade? Nor does the battlefield distinguish between the noble and the lowly.
+Nameless: Who was I? What did I do before drifting here? I... no longer remember any of these things.
+Nameless: Who were those two children? Ugh, my head hurts. I can't... remember...
+Nameless: Why? Why can't I find it?
+Nameless: Will you not tell me where you learned your swordsmanship from?
+Nameless: Wine... wine... How could I forget the wine I drank under the moonlight with my companions? I miss that taste.
+Nameless: Without a friend by their side, they would not be able to go on...
+Nameless: Without a good sword, they can only go to the smelting plant to look for a discarded, inferior blade.
+Nameless: Yes, that's right. I once wielded this sword to sunder many armored bodies.
+Nameless: Yes... they lived in a hut in the fishing village to the north... the hut was under a cliff, and surrounded by sea on all sides.
+Nameless: You are the only one who has managed to defeat me... Curses. Curses! How did I lose?
+Nameless: You can't hear Takatsuki Dougire's voice? What a pity.
+Nameless: You fight strangely, and your bearing is far from normal. Not at all like those who I cut down.
+Nameless: You have defeated me... again.
+Nameless: You have not sought out a master despite your abilities? Folly.
+Nameless: You should. One strike, and one strike only, is all it takes for someone to fall, whether they be a mighty general or a lowly ashigaru! Hahaha.
+Nameless: You'll... you'll help me find that wine?
+Paimon: Armored and armed men... does he mean soldiers from an army camp?
+Paimon: Do you really think the kids that the weird samurai mentioned live here?
+Paimon: Hmm... Paimon's got no idea what happened here. Let's just take this sword back to him, shall we?
+Paimon: If we head east from here, we'll reach some land that's mostly flat. Maybe that's where the camp is.
+Paimon: That samurai said that there'd be two kids here, so there should be two swords. But we've only found one... was the other one taken away?
+Paimon: This place sure looks abandoned...
+Paimon: We haven't seen any sword-wielding kids at all. All we've got is this sword stuck in the ground, all by itself.

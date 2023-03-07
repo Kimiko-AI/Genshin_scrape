@@ -1,0 +1,275 @@
+
+
+(If this is the player's first time entering the room)
+Paimon: Ugh, that door closed just like that. Guess this is how that Wolfgang guy got trapped in here...
+Paimon: Let's look around, (Traveler). Maybe we can find some way to open the door!
+(If the player has previously entered the room)
+Paimon: So this is where we were locked up previously...
+Paimon: Still remember how to open it?
+
+(If this is the player's first time entering the room)
+Paimon: Well, that door closed, just as expected.
+Paimon: This is the second chamber to trap Wolfgang. Let's see how we can get outta here.
+(If the player has previously entered the room)
+Paimon: Oh, so this is the place...
+Paimon: Isn't this where we got blocked the previous time, and Wolfgang before us?
+
+Etchings: "Haha, to think that I'd find a Sweet Madame here — and still warm, too! It's practically a miracle."
+
+Old Notes
+(An old notebook. Someone has written in it with neat handwriting.)
+Good grief, this really is a dangerous island... I never expected that casually fumbling into a room carried the risk of being locked in a secret chamber.
+Whoever reads this note — that's right, I'm talking about you — you must surely have been trapped in this secret chamber too. Bet you've got this frown on your face and a chronic case of uncontrollable sighing.
+But your reliable ol' senior — that's me — discovered a hint that someone etched into the wall! While I don't know which kindhearted soul left it there, it is indeed a means of escaping this secret chamber.
+After careful analysis, I've deduced that it means that one must "light the torches in a certain order"...
+I finally succeeded after many attempts, and hurriedly left the method to unlock the chamber behind for the next adventurer who gets stuck in here — looks like that's you!
+
+So, if you succeed, don't forget to thank me.
+Your run-of-the-mill adventurers wouldn't have been so attentive as to notice the etchings in the wall like I did.
+
+This island seems to conceal many secrets, so I'll be going ahead of you to the ruins in the mountains!
+
+Wolfgang
+
+Old Notes
+(An old notebook. Someone has written in it with neat handwriting.)
+I don't know if anyone will ever read this, but...
+Jackpot! Congratulations! You've discovered a posthumous testament!
+Yeesh, but is that really something worth celebrating? Well, whatever. I suppose I should be pleased that someone has found my last words, so I'll just pretend that I'm the one being congratulated.
+To briefly summarize, I got trapped in this room when I was adventuring on this island. Try as I might, I couldn't find a way out.
+I ran out of food, and then I ran out of ideas. I'm about to be done for.
+
+And that's when I thought of my dear sweet Linda in Mondstadt... Hah, as if! Agh, I never would have become an adventurer if I'd had a girlfriend.
+No, what I thought about was what my aunt said before I set off. She said I'd always been sickly, knew nothing of hard work, and was scatter-brained and gullible, and that sooner or later, I'd get myself into a pickle that I couldn't get out of.
+I was so mad then, but when I think back on it now, her voice was nasal, like she was forcing back tears... or maybe that was just from the cold she had caught the day before, hahaha.
+
+...Is it too late to regret having become an adventurer now?
+At first, it was the thirst for adventure that made me take my first steps. But now, all these years later, I still haven't seen any amazing sights and I barely make enough Mora to make ends meet.
+That is to say, it was only after becoming an adventurer that I discovered that real life isn't anything like the exciting and glamorous life imagined by a layman.
+"There are no shortcuts in this life. Everyone will have some pains that are left unspoken of."
+
+Speaking of regrets... there's really no point regretting things. Everyone, no matter which path they take in life, will have their own pain and obtain their own happiness because of it.
+You could say that I'm happy now... Actually, never mind. It's way too cold for me to be happy right now.
+Oof... Well, I think this is it. I'm starting to lose consciousness. Heh, I really wish I could eat some Sweet Madame from Mondstadt... Just let me have one Sweet Madame...
+
+Wolfgang
+
+Old Notes
+(An old notebook. Someone has written in it with neat handwriting.)
+I don't know if anyone will ever read this, but...
+Unfortunately, this is my last testament!
+To sum things up, I got trapped in this room while adventuring on this island. Actually, there are loads of rooms on this island that can lock people up. I thought I could rely on my wits to break myself out of here like what I did in the last secret chamber, but alas.
+But when I really think about it, I was only able to unlock the mechanism last time thanks to some notes that were left behind. It had nothing to do with my wits, really. Looks like I'm just not cut out to be an adventurer...
+I ran out of food, and then I ran out of ideas. I'm about to be done for.
+
+That's when I thought of that little tuxedo cat from Mondstadt, Bella... Oh, sweet Bella! Whenever I'd go out to eat, you'd always step all over my plate, tipping it over. I'm afraid I won't be able to go to the restaurant anymore... I wonder if you will feel lonely without me around...?
+"That human whose plate I always stepped on hasn't come by in a while, meow..."
+Is that what you're thinking, Bella? ...*sigh* Probably not, huh? Haha.
+
+Speaking of restaurants, the last time I went to one, I had Sweet Madame.
+I've been to so many places and eaten so many great dishes, but might I be so bold as to say that Mondstadt's Sweet Madame is the best in the world?
+Saying that, my stomach is grumbling so much it's practically singing a tenor solo.
+*sigh* If only I could have another bite of Sweet Madame... Just one bite would do...
+
+Wolfgang
+
+Old Notes
+(An old notebook. Someone has written in it with neat handwriting.)
+Now, you might find it strange that a notebook has been put in front of the door, yes? Well, I'd say it's more conspicuous that way.
+I do hope you aren't flipping through this notebook as you walk into the room behind that door, because then there won't be anything I can do for you.
+If you haven't entered yet, then definitely don't enter! It's a trap that locks you inside!
+See the etchings at the entrance? They're markings left for us by a senior adventurer. It's the second time I've seen them, and judging from the handwriting, they must have been the work of the same person...
+I haven't met this senior, but they've already saved me twice by my count.
+Thank you so much, whoever you are!
+
+Well, even if I was in the secret chamber, it surely would have been a cinch for someone as exceptionally clever as me to find their way out of it, but as they say, "truly smart adventurers never put themselves in real danger"...
+So I shan't test my luck.
+
+So, let me guess: you didn't notice the etchings, and my notebook saved you. Don't forget to thank me!
+Hehe, I'll be going to the ruins up there next, so I can get a panoramic view of the sea. I'm sure it'll be a great view. Can't wait to brag about it to my friends if I do manage to see it.
+
+Wolfgang
+ Didn't learn his lesson, I suppose?
+ Even if we did solve it once...
+ Everybody's looking for that something...
+ He did escape the secret chamber, you know.
+ He really does sound like he's getting more and more full of himself...
+ How about we just make him not enter this place at all?
+ It's been a really long time since, Paimon...
+ It's only gonna work within the confines of the Mirage...
+ Let's go have a look, then...
+Paimon: Yup, let's try to save this Wolfgang guy, shall we?
+ Let's leave a message outside the door.
+ Oh, joy. Stuck again, is he?
+ Paimon, what we change in the Mirage will not change the past...
+ Quest DescriptionBy chance, you discover notes left by an adventurer who was left stranded by Minacious Isle's traps. However, all that seems to have happened well in the now-unchangeable past. Might there be some way to help him, even if only in a Mirage?
+ So he hasn't been here...
+ That the island within the lake is the island as it once looked?
+ That won't change what happened in reality...
+ That's a little overboard...
+Paimon: Eh? U—Um, Paimon just means that he'd be in deep trouble if he went to Dragonspine.
+ The Sweet Madame's gonna spoil, you know.
+ The buildings within the lake might be...
+ The buildings within the lake reflect their original appearance...
+ This happened a long time ago, Paimon...
+ This notebook is very, very old...
+ This solution...
+ Well yes, I suppose you're right.
+Paimon: Hehe! Paimon knew you'd agree, (Traveler)!
+ Well, he's going to get in trouble for sure.
+Paimon: Exactly! Dragonspine's super cold and is filled with hilichurls... Not to mention The Great Snowboar King!
+ Well, if that device can be triggered multiple times...
+ Well, it's because he believes he resolved the crisis.
+ Well, it's only because people like him exist...
+ Well, let's leave him another message, shall we...
+ Without the use of elemental powers...
+ Wolfgang will never make it to Dragonspine...
+"That human whose plate I always stepped on hasn't come by in a while, meow..."
+"There are no shortcuts in this life. Everyone will have some pains that are left unspoken of."
+(An old notebook. Someone has written in it with neat handwriting.)
+*sigh* If only I could have another bite of Sweet Madame... Just one bite would do...
+...Is it too late to regret having become an adventurer now?
+After careful analysis, I've deduced that it means that one must "light the torches in a certain order"...
+And that's when I thought of my dear sweet Linda in Mondstadt... Hah, as if! Agh, I never would have become an adventurer if I'd had a girlfriend.
+At first, it was the thirst for adventure that made me take my first steps. But now, all these years later, I still haven't seen any amazing sights and I barely make enough Mora to make ends meet.
+But when I really think about it, I was only able to unlock the mechanism last time thanks to some notes that were left behind. It had nothing to do with my wits, really. Looks like I'm just not cut out to be an adventurer...
+But your reliable ol' senior — that's me — discovered a hint that someone etched into the wall! While I don't know which kindhearted soul left it there, it is indeed a means of escaping this secret chamber.
+Etchings: "Do not go to Dragonspine. It is a perilous place..."
+Etchings: "Haha, to think that I'd find a Sweet Madame here — and still warm, too! It's practically a miracle."
+Etchings: "I wonder if anyone will come after me to see these same sights."
+Etchings: "Now that I've cleared this particular trial... Next stop, Dragonspine!"
+Etchings: "The sunrise here is beautiful indeed. It fills my heart with satisfaction to have braved many dangers to get here."
+Etchings: "The wind is very strong here, so I'm not going to use a notebook."
+Etchings: "This truly is a lovely place. The only thing it's missing is some Sweet Madame..."
+Etchings: "Wolfgang."
+Etchings: (These etchings are fresh...)
+Etchings: (These etchings are old. They have been written as such...)
+Etchings: (These etchings are old...)
+Etchings: (They describe how one may light the torches up in the right order...)
+Etchings: (They speak of how this place is a perilous secret chamber...)
+Good grief, this really is a dangerous island... I never expected that casually fumbling into a room carried the risk of being locked in a secret chamber.
+Hehe, I'll be going to the ruins up there next, so I can get a panoramic view of the sea. I'm sure it'll be a great view. Can't wait to brag about it to my friends if I do manage to see it.
+I do hope you aren't flipping through this notebook as you walk into the room behind that door, because then there won't be anything I can do for you.
+I don't know if anyone will ever read this, but...
+I finally succeeded after many attempts, and hurriedly left the method to unlock the chamber behind for the next adventurer who gets stuck in here — looks like that's you!
+I haven't met this senior, but they've already saved me twice by my count.
+I ran out of food, and then I ran out of ideas. I'm about to be done for.
+I was so mad then, but when I think back on it now, her voice was nasal, like she was forcing back tears... or maybe that was just from the cold she had caught the day before, hahaha.
+I've been to so many places and eaten so many great dishes, but might I be so bold as to say that Mondstadt's Sweet Madame is the best in the world?
+If you haven't entered yet, then definitely don't enter! It's a trap that locks you inside!
+Is that what you're thinking, Bella? ...*sigh* Probably not, huh? Haha.
+Jackpot! Congratulations! You've discovered a posthumous testament!
+No, what I thought about was what my aunt said before I set off. She said I'd always been sickly, knew nothing of hard work, and was scatter-brained and gullible, and that sooner or later, I'd get myself into a pickle that I couldn't get out of.
+Now, you might find it strange that a notebook has been put in front of the door, yes? Well, I'd say it's more conspicuous that way.
+Old Etchings: "And thank you. I do know that Dragonspine is very dangerous... and I know my limits as well. But I must go."
+Old Etchings: "But if someone else can avoid that danger and get further than I did, that to me would be something even more precious than a Sweet Madame."
+Old Etchings: "Dearest Regards, Wolfgang."
+Old Etchings: "I don't know who left that Sweet Madame there or how they knew that I wanted to have some. It's all very strange... But I'm very thankful all the same."
+Old Etchings: "Thank you, person who left the etchings behind! Your Sweet Madame was the best I've ever tasted."
+Old Etchings: "Thank you, whoever you are who left those etchings. But we adventurers exist precisely because of perils like Dragonspine."
+Old Etchings: "The wind is very strong here, so I'm not going to use a notebook."
+Old Etchings: "Who knows, a sign that says 'here be traps' might be all that shall be left of my journey to Dragonspine."
+Old Etchings: (These etchings are old. They have been written as such...)
+Old Notes
+Oof... Well, I think this is it. I'm starting to lose consciousness. Heh, I really wish I could eat some Sweet Madame from Mondstadt... Just let me have one Sweet Madame...
+Paimon: (Traveler), do you think...
+Paimon: (Traveler)...
+Paimon: *sigh* He didn't go back after getting out of that chamber. He actually wants to continue adventuring...
+Paimon: Ah... Right, that's true. Wolfgang is only "here" at all because the Golden Apple Archipelago is under the effects of that device...
+Paimon: Also, how many notebooks does this guy carry around!?
+Paimon: Also, look... We can save this guy if we find where that secret chamber used to be, can't we?
+Paimon: But still, this Wolfgang is really... annoying! We helped him so much, but he still thinks that it would be nice if he could "pave the way" for others...
+Paimon: C'mon, let's do it, quick!
+Paimon: Couldn't he at least value his life a little more?
+Paimon: Did it collapse and then fall into the sea, then? Paimon's pretty sure that we saw some similar buildings outside in the ocean...
+Paimon: Eh, come on, it's the thought that counts. Right?
+Paimon: Eh? U—Um, Paimon just means that he'd be in deep trouble if he went to Dragonspine.
+Paimon: Exactly! Dragonspine's super cold and is filled with hilichurls... Not to mention The Great Snowboar King!
+Paimon: Gah. If only there were some way to see what the order should be...
+Paimon: He should have gone into the secret chamber by the time he sees this message. Paimon thinks it won't be of that much use here...
+Paimon: He's pretty much gonna be Chilled Meat if he goes to Dragonspine!
+Paimon: Hehe! Paimon knew you'd agree, (Traveler)!
+Paimon: Hehe, Sweet Madame really is delicious.
+Paimon: Hey, it looks like he got out of that secret chamber after all! ... And he... credited his sharp eyes for his escape!? C'mon, we left the clue in such an obvious spot!
+Paimon: Huh, looks like Wolfgang hasn't written any notes here yet, (Traveler)...
+Paimon: I guess some people need some punishment before they'll learn anything...
+Paimon: Isn't this where we got blocked the previous time, and Wolfgang before us?
+Paimon: Let's explore the nearby sea regions when we've got the time!
+Paimon: Let's go back and have a look. Maybe his notes might have changed this time, too!
+Paimon: Let's go back to the island outside the lake. Maybe the notes might already be gone!
+Paimon: Let's go have a look. Honestly, who knows if he was able to climb that high up safely...
+Paimon: Let's go to the ruins we were at previously once we get out through the lake. Maybe we'll find some sign of him changing his mind!
+Paimon: Let's have a look at the island that's inside the lake.
+Paimon: Let's hope Wolfgang does see it, and doesn't go running around the secret chambers in these ruins anymore...
+Paimon: Let's leave a few words here, he should be able to see 'em!
+Paimon: Let's leave him some hints on how to open this secret chamber again, shall we?
+Paimon: Let's leave our message here — and a Sweet Madame too!
+Paimon: Let's look around, (Traveler). Maybe we can find some way to open the door!
+Paimon: Let's try etching our message into someplace obvious. We'll tell him how to decipher the mechanism!
+Paimon: Maybe he'll start missing the warmth of Mondstadt once he's had a bite, and he'll give up on going to Dragonspine!
+Paimon: Oh yeah, that's true. If Wolfgang can't make use of the elements...
+Paimon: Oh, so this is the place...
+Paimon: Ooh, so there weren't any notes here because he carved a message on the pillar. Huh, so he made it all the way here.
+Paimon: Ooh, that's right! We can just leave a hint outside saying that there's a secret chamber here.
+Paimon: Paimon really gets why this Wolfgang guy misses it!
+Paimon: Paimon really hopes that Wolfgang can give that notion of going to Dragonspine a rest...
+Paimon: Poor guy, trapped in here without any chance of having Sweet Madame just one last time...
+Paimon: Right, that's right! Paimon thought so too... And y'know what, let's leave him some Sweet Madame this time too!
+Paimon: Should we really leave the message here? Shouldn't we look for a place closer to the door?
+Paimon: So this is where we were locked up previously...
+Paimon: Still remember how to open it?
+Paimon: Still, his annoyingly arrogant attitude is really ticking Paimon off!
+Paimon: Still, if only they could have come to better ends. You know, like returning to Mondstadt, becoming great adventurers, maybe going to the tavern to play with cats, eat Sweet Madame to their heart's content...
+Paimon: That said, the highland ruins he mentioned should be near the submerged ruins...
+Paimon: That said, the mountain ruins that he mentioned can't be seen in the island outside the lake at all.
+Paimon: That's very likely! The buildings on the island inside might just be the original form of the ruins outside!
+Paimon: That's why Paimon thought that he was rescued... But in the end, he really was just stuck in that very first secret chamber, wasn't he...
+Paimon: That's... That's true. The secret chamber that would trap him forever has now become an obstacle that he easily overcame...
+Paimon: The buildings on the current island look like ruins in comparison...
+Paimon: The buildings on the island inside the lake do look way more complete than the ones outside it.
+Paimon: The door opened! Whew, that was kinda tricky.
+Paimon: The torches all went out. Do we need to light them in some specific order?
+Paimon: Then he won't come in, and he won't get trapped in these ruins!
+Paimon: Then the solution's useless to him. What should we do...
+Paimon: These underwater buildings... They should be the mountain ruins that we saw on the island on the other side of the lake. Let's go inside again to make sure, (Traveler).
+Paimon: This is bad. We've got to get to Dragonspine and...
+Paimon: This is the second chamber to trap Wolfgang. Let's see how we can get outta here.
+Paimon: This notebook... Oh, it's "Wolfgang."
+Paimon: This place should be eye-catching enough!
+Paimon: Transcription missing
+Paimon: Ugh, that door closed just like that. Guess this is how that Wolfgang guy got trapped in here...
+Paimon: Ugh... Paimon gets it!
+Paimon: Uh oh, the door's closed. Why did it do that? ... This place is kinda dangerous...
+Paimon: Wait, then... Um, why don't we leave him a message?
+Paimon: We did open the chamber for him back then... This means he won't get stuck now, right?
+Paimon: We need to tell him not to go, and quick!
+Paimon: Well, he didn't go in again. That's a relief.
+Paimon: Well, that door closed, just as expected.
+Paimon: What the... This guy's saying some pretty glib stuff, huh?
+Paimon: Where does his confidence come from, though... If we hadn't helped him out, he'd still be stuck in the secret chamber!
+Paimon: Why doesn't it ever end well for them?
+Paimon: Wolfgang hasn't left his notebook here either. Looks like he hasn't arrived yet.
+Paimon: Yeah!
+Paimon: Yeah, but... Do you remember how we crossed through something like a lake on an island to reach another island on the other side, (Traveler)?
+Paimon: Yeah, but... Even if it's all fake, and this adventurer doesn't even exist... Shouldn't we at least try to save him? His fate was so sad...
+Paimon: Yup, let's try to save this Wolfgang guy, shall we?
+Saying that, my stomach is grumbling so much it's practically singing a tenor solo.
+See the etchings at the entrance? They're markings left for us by a senior adventurer. It's the second time I've seen them, and judging from the handwriting, they must have been the work of the same person...
+So I shan't test my luck.
+So, if you succeed, don't forget to thank me.
+So, let me guess: you didn't notice the etchings, and my notebook saved you. Don't forget to thank me!
+Speaking of regrets... there's really no point regretting things. Everyone, no matter which path they take in life, will have their own pain and obtain their own happiness because of it.
+Speaking of restaurants, the last time I went to one, I had Sweet Madame.
+Thank you so much, whoever you are!
+That is to say, it was only after becoming an adventurer that I discovered that real life isn't anything like the exciting and glamorous life imagined by a layman.
+That's when I thought of that little tuxedo cat from Mondstadt, Bella... Oh, sweet Bella! Whenever I'd go out to eat, you'd always step all over my plate, tipping it over. I'm afraid I won't be able to go to the restaurant anymore... I wonder if you will feel lonely without me around...?
+This island seems to conceal many secrets, so I'll be going ahead of you to the ruins in the mountains!
+To briefly summarize, I got trapped in this room when I was adventuring on this island. Try as I might, I couldn't find a way out.
+To sum things up, I got trapped in this room while adventuring on this island. Actually, there are loads of rooms on this island that can lock people up. I thought I could rely on my wits to break myself out of here like what I did in the last secret chamber, but alas.
+Unfortunately, this is my last testament!
+Well, even if I was in the secret chamber, it surely would have been a cinch for someone as exceptionally clever as me to find their way out of it, but as they say, "truly smart adventurers never put themselves in real danger"...
+Whoever reads this note — that's right, I'm talking about you — you must surely have been trapped in this secret chamber too. Bet you've got this frown on your face and a chronic case of uncontrollable sighing.
+Wolfgang
+Yeesh, but is that really something worth celebrating? Well, whatever. I suppose I should be pleased that someone has found my last words, so I'll just pretend that I'm the one being congratulated.
+You could say that I'm happy now... Actually, never mind. It's way too cold for me to be happy right now.
+Your run-of-the-mill adventurers wouldn't have been so attentive as to notice the etchings in the wall like I did.

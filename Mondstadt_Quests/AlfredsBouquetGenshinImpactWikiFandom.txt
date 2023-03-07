@@ -1,0 +1,21 @@
+ Here they are.
+(After submitting the flowers)
+Alfred: I'm sure my daughter will love them.
+Alfred: Thank you very much. Here's a little something for your trouble.
+ Here they are.
+(After submitting the flowers)
+Alfred: I'm sure my daughter will love these Cecilias.
+Alfred: Thank you very much. Here's a little something for your trouble.
+ Not yet.
+Alfred: Well, please pass them to me once you've gathered them — do hurry, or they might wilt.
+ Quest DescriptionAlfred from Mondstadt needs three Cecilias.
+(Traveler): Heard you need Cecilias...
+(Traveler): I believe you needed some Windwheel Asters...
+Alfred: Ah, you must have seen my commission, then. Thanks for coming all this way.
+Alfred: I'm sure my daughter will love them.
+Alfred: I'm sure my daughter will love these Cecilias.
+Alfred: So, do you have three Windwheel Asters ready?
+Alfred: So, have you already gathered those three Cecilias?
+Alfred: Thank you very much. Here's a little something for your trouble.
+Alfred: Well, please pass them to me once you've gathered them — do hurry, or they might wilt.
+Alfred: You saw my commission, I presume? Thank you for coming all this way...

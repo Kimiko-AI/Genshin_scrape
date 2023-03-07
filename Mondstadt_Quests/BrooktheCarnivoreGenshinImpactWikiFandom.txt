@@ -1,0 +1,28 @@
+ Do you need some Fowl?
+ Do you need some Raw Meat?
+ Here they are.
+(After giving the Fowl)
+Brook: The quality of these meats is quite good...
+Brook: Thank you. Here, take these.
+Brook: Come on over when I'm done with my research — you'll be the first to try my new dish, I promise.
+ Not yet...
+Brook: Well, I'll be making some food, so do bring them me once you've got them all.
+ Not yet...
+Brook: Well, I'll need them to research new recipes, so please pass them to me once you've gathered them all.
+ Of course.
+(After giving the Raw Meat)
+Brook: Oh my, these cuts are very good indeed.
+Brook: Thank you very much for your help. Here's a little something in return.
+Brook: Come on over when I'm done with my research — you'll be the first to try my new dish, I promise.
+ Quest DescriptionSpringvale's Brook requires six servings of Fowl/Raw Meat.
+Brook: Come on over when I'm done with my research — you'll be the first to try my new dish, I promise.
+Brook: Do you have those six servings of Fowl?
+Brook: I guess you saw my commission, huh? Well, you're just in time.
+Brook: Oh my, these cuts are very good indeed.
+Brook: Oh, you must have seen that commission of mine.
+Brook: Thank you very much for your help. Here's a little something in return.
+Brook: Thank you. Here, take these.
+Brook: The quality of these meats is quite good...
+Brook: Well, I'll be making some food, so do bring them me once you've got them all.
+Brook: Well, I'll need them to research new recipes, so please pass them to me once you've gathered them all.
+Brook: Well, do you have six servings of Raw Meat with you?

@@ -1,0 +1,14 @@
+ A letter for me?
+ It might tell us what happened.
+ Quest DescriptionMaryam from Gilded Journey appears to want a word with you...
+ Where is he now?
+ Why did he leave a letter for me?
+ Why don't we read the letter first?
+Maryam: Beats me. All I know is that he dropped by in a hurry the other day and left this letter.
+Maryam: He wanted me to make sure to give it to you. He even offered to pay.
+Maryam: Traveler, please wait. Here's a letter for you.
+Maryam: Yeah, Xudong left it for you. You know, the guy from Liyue.
+Paimon: Did that bad guy cause trouble again?
+Paimon: Okay... Let's see what he wrote.
+(Obtain Xudong's Letter)
+Paimon: Xudong came here... in a hurry? Something must've happened to him, huh.

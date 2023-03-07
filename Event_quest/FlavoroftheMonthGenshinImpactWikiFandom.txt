@@ -1,0 +1,74 @@
+ Are you alright?
+ Back with the meat, yes.
+ Got it right here.
+ I could do that, no problem.
+ I've got you covered.
+ Is something wrong?
+ No, he should be alright.
+ Quest DescriptionBrook from Springvale wants to create a new dish during the Windblume Festival.
+ So, about the ingredients Brook wants...
+ So, what're you going to do about Brook's commission?
+ Sure thing.
+ Sure.
+ What's the matter?
+ You can count on me.
+Allan: *sigh* Ah, Draff is going to give me an earful again, I just know it...
+(Obtain Fresh Raw Meat ×1)
+Allan: But I got careless while pursuing the boar and alerted the nearby monsters by mistake.
+Allan: Could you deliver the meat to Brook, Traveler? I need to go into the city and get my wounds treated at the Cathedral first...
+Allan: I got what I came for, but I was also surrounded by monsters...
+Allan: I never thought that hunting one forest boar could get this hairy...
+Allan: I... I'm saved... Thank you so much.
+Allan: Oh, did Brook send you? Well, I do have the fresh Raw Meat she wants with me.
+Brook: Actually, I was planning to create a new dish based on the theme of the Windblume Festival — specifically, the "taste of the wind," and I'm currently preparing the necessary ingredients.
+Brook: Ah, right. This is for you. Please consider it my thanks for your help.
+Brook: Ah, yes, here's something. Take it as thanks for your help.
+Brook: Ah, you're back. Have you brought the Raw Meat with you?
+Brook: And when we're talking about that... We can only be speaking of "Dandelion Seeds."
+Brook: At this rate, my ingredients won't be fresh any longer. Could you help me go to Brightcrown Canyon to see what the situation's like?
+Brook: But how should we prepare this food such that it will take up the "taste of the wind"?
+Brook: But if we only do that, I feel that the result wouldn't be much different from any normal meat-based cuisine. We need some sort of decisive condiment.
+Brook: Cooking, frying... Hmm, no, perhaps we should place the original flavor of the ingredients front and center, before scattering the Dandelion Seeds on once the dish is ready...
+Brook: Could you help me gather some Dandelion Seeds, Traveler?
+Brook: Do you have the Dandelion Seeds ready?
+(Opens the submission screen)
+Brook: Great! I'll leave it to you then. I'm going to prepare this meat in the meantime. Once you've gathered those Dandelion Seeds, just bring them straight back to me.
+Brook: Great, I'm counting on you, then. I'll continue to ponder my recipe here.
+Brook: Have you gotten the Slime Condensate and Dandelion Seeds ready?
+(Opens the submission screen)
+Brook: Hmm, let me see... It does seem very fresh indeed. I think this will do. This meat will serve as our main ingredient... Now we just need some condiment that brings out the "taste of the wind"...
+Brook: However, that adventurer ─ Schuster was his name, I think ─ has yet to return...
+Brook: I commissioned Allan to help me go to Brightcrown Canyon to hunt for the freshest meat, but he hasn't returned yet, even after so long...
+Brook: I may have lost to her the last time, but this time, I will create a dish that has the "taste of the wind." Then I'll take it and ask her for a rematch!
+Brook: I specially commissioned an adventurer to help me go to Dragonspine and obtain some Chilled Meat for this dish.
+Brook: I've heard of Chilled Meat from other chefs as well. It's said that this type of meat has a unique flavor...
+Brook: I've heard that Dragonspine is a very dangerous place. I wonder if he might have run into some trouble... Could you help me search for him?
+Brook: I've never used such strange and curious ingredients before... However amazing dishes require equally unique ingredients.
+Brook: Oh right! That's it! In truth, I've actually met Xiangling a few more times since our contest, and I heard about a dish known as Mushroom Slime Stew from her.
+Brook: Oh, that's great! Wait... what about Schuster? He isn't in trouble, is he?
+Brook: Oh, you're back.
+Brook: Speaking of that, this Chilled Meat really is different from normal meat. Perhaps a dish made from it really will have that certain... boom shaka-laka...
+Brook: Still, I think that Dandelion Seeds will be needed to make something that bears the "taste of the wind".
+Brook: Thank you. Everything's ready now.
+Brook: Thanks for your willingness to help. Make sure to light some fires to keep warm. Dragonspine is very cold, after all.
+Brook: Thanks! I'll let you try out my new dish once you return!
+Brook: That's good. It's good that nothing serious happened. Once I've finished this dish, I should bring him a serving too, I think.
+Brook: The memories of our culinary duel are still fresh in my mind.
+Brook: This dish must evoke the Windblume Festival somehow...
+Brook: Traveler, if I might trouble you again, could you help me look for some Slime Condensate and some Dandelion Seeds?
+Brook: Why isn't he here yet...
+Brook: With these ingredients, I hope to make a dish that has some of that boom-shaka-laka...
+Brook: With this Chilled Meat and these two ingredients, I will surely be able to make a dish with true boom-shaka-laka!
+Brook: Wonderful. Now we can truly begin. Thank you so much.
+Brook: You're... Oh, I remember you. You were Xiangling's assistant, weren't you?
+Terrified Schuster: A little warmer, that's for sure. I'll be fine... I was originally commissioned to come here to obtain some Chilled Meat...
+Terrified Schuster: Ah, so Brook sent you to find me, huh... *sigh* She must be beside herself right now, I imagine. But as it stands I haven't the energy to travel all the way to give her this meat...
+Terrified Schuster: C—Can someone... Can someone help me make a fire?
+Terrified Schuster: C—Cold... Why is it s—so cold...
+Terrified Schuster: I started out trying to look for some on the outskirts of Dragonspine, but as I walked, I misplaced my tinder — and that was before I also got lost by mistake...
+Terrified Schuster: I'm so sorry to ask this of you, Traveler, but could you help me deliver this Chilled Meat to her?
+Terrified Schuster: If you hadn't arrived, I don't know what I would've done. You have my thanks.
+Terrified Schuster: I—I've been revived...
+Terrified Schuster: Thank you so much. As for me, I need to head down that campsite in the foothills to get a bowl of hot soup...
+(Obtain High-Quality Chilled Meat)
+Terrified Schuster: Y—You lit the fire... Th—Thank you, good-hearted traveler... Thank you...

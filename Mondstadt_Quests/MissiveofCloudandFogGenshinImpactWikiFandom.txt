@@ -1,0 +1,199 @@
+
+(If the player has not met Rosaria yet, an introductory note appears on screen)
+Rosaria - Thorny Benevolence
+Rosaria is a sister of the Church of Favonius, but you wouldn't know it except for her attire.
+You certainly won't find her saying prayers or attending Church gatherings. If you need to find this elusive sister for anything, then you might be looking for quite a while.
+Check the hidden corners in the shadows, and you might just find Rosaria quietly observing the rapid changes around Mondstadt. This mysterious sister is in fact guarding Mondstadt, just in her own way.
+ (I think I know the answer too.)
+ Good luck, Kaeya.
+ I'll consider it part of my Windblume experience.
+ Is this a prank?
+ Is this just someone's way of getting your attention?
+ Nice work, you learned a lot, I see.
+ Quest DescriptionAs Venti's all-important assistant, you are to go out with him to collect the love poetry written by the people of Mondstadt. However, the citizenry has various troubles of their own, even during such a festive time as this.
+ Ridiculous. Where's the romance?
+ So what is the thing most precious to you?
+ What are you two doing here?
+"Dear Barbara,
+"Mi muhe ye
+Check the hidden corners in the shadows, and you might just find Rosaria quietly observing the rapid changes around Mondstadt. This mysterious sister is in fact guarding Mondstadt, just in her own way.
+I've stolen the thing most precious to you and buried it."
+In the language of the hilichurls."
+Means I love you
+Media:vo dialog eqfh002 kaeya 01.ogg Kaeya: Feel free to take your time... I need to channel my inner poet.
+Media:vo dialog eqfh002 nimrod 01.ogg Nimrod: ...I haven't done any carpentry for a long time now. I hope everything goes to plan!
+Media:vo eqfh002 1 athos 01.ogg Athos: Halt! Citizens, what noble errand brings you?
+Media:vo eqfh002 1 athos 02.ogg Athos: Captain Kaeya? He's on duty in Jean's office.
+Media:vo eqfh002 1 athos 03.ogg Athos: The Windblume Festival celebrations have always been hosted by the Knights of Favonius. During the festivities, Master Jean personally goes out on patrol.
+Media:vo eqfh002 1 athos 04.ogg Athos: Captain Kaeya takes over her administrative duties during that period.
+Media:vo eqfh002 1 paimon 01.ogg Paimon: Venti might be here already, let's take a look inside!
+Media:vo eqfh002 1 paimon 02.ogg Paimon: Is Kaeya here? We need him for something.
+Media:vo eqfh002 1 paimon 03.ogg Paimon: Eh? Why is he in Jean's office?
+Media:vo eqfh002 1 paimon 04.ogg Paimon: Huh, is that right...
+Media:vo eqfh002 10 barbara 01.ogg Barbara: It looks like there's something on the ground...
+Media:vo eqfh002 11 barbara 01.ogg Barbara: I... I...
+Media:vo eqfh002 11 barbara 02.ogg Barbara: ...Huh!?
+Media:vo eqfh002 11 paimon 01.ogg Paimon: What is this? Hmm... quick, let's open it!
+Media:vo eqfh002 11 paimon 02.ogg Paimon: Wow, what a beautiful Windwheel Aster Wreath! And so many paper stars!
+Media:vo eqfh002 11 paimon 03.ogg Paimon: There's a note! What does it say? Hmm, let's see...
+Media:vo eqfh002 11 paimon 04.ogg Paimon: "So sorry to get your attention this way. Please accept this Windblume as a sign of my sincere admiration for your virtue and sweetness."
+Media:vo eqfh002 11 paimon 05.ogg Paimon: Huh? So it's... fraudulent intimidation, then?
+Media:vo eqfh002 11 paimon 06.ogg Paimon: Heh... laying it on a little thick, aren't we? Still seems like someone with a few screws loose to Paimon...
+Media:vo eqfh002 11 paimon 07.ogg Paimon: Who? Who?
+Media:vo eqfh002 11 paimon 08.ogg Paimon: Ah!? You're so annoying!
+Media:vo eqfh002 11 venti 01.ogg Venti: ...Interesting... such an exquisite gift box. What's it doing out here in the wilderness?
+Media:vo eqfh002 11 venti 02.ogg Venti: Hmm... looks like our "perpetrator" is really just one of Barbara's fans.
+Media:vo eqfh002 11 venti 03.ogg Venti: Be it for the gods or that special someone, flowers should be offered in utmost sincerity. It's the most important ceremony of the Windblume Festival.
+Media:vo eqfh002 11 venti 04.ogg Venti: Flowers of love and blessing, sent on such a special occasion... No effort should be wasted to make it spectacular.
+Media:vo eqfh002 11 venti 05.ogg Venti: Behind the questionable methodology... here we have a meticulously thought-out and heartfelt gift.
+Media:vo eqfh002 11 venti 06.ogg Venti: Hahaha, maybe you're right. I think I have a suspect in mind who fits that description...
+Media:vo eqfh002 11 venti 07.ogg Venti: Shh! No telling, now... I'd like Paimon to make a few guesses.
+Media:vo eqfh002 2 kaeya 01.ogg Kaeya: I was just thinking about you two, and now here you are. How fortuitous!
+Media:vo eqfh002 2 kaeya 02.ogg Kaeya: I'm afraid I must disappoint you... I haven't even started writing it yet.
+Media:vo eqfh002 2 kaeya 03.ogg Kaeya: Well, as you can see, I'm helping Master Jean take care of various matters.
+Media:vo eqfh002 2 kaeya 04.ogg Kaeya: Mondstadt is a hive of activity over the festive period. Accordingly, there's a multitude of things that need sorting. *sigh* I've been at it for a good while now.
+Media:vo eqfh002 2 kaeya 05.ogg Kaeya: Traveler... can I ask for a favor?
+Media:vo eqfh002 2 kaeya 06.ogg Kaeya: I have a drinking buddy that wants me to help him with something, but I'm much too busy. Can I entrust this matter to you?
+Media:vo eqfh002 2 kaeya 07.ogg Kaeya: That's right. I often go to the tavern when not on duty. Somehow, I seem to have made quite a few acquaintances that way.
+Media:vo eqfh002 2 kaeya 08.ogg Kaeya: His name is Nimrod, he's never far from the tavern. He should be free right now.
+Media:vo eqfh002 2 kaeya 09.ogg Kaeya: Thanks for the help. I'd better stay behind and get started on my homework.
+Media:vo eqfh002 2 paimon 01.ogg Paimon: Hiya!
+Media:vo eqfh002 2 paimon 02.ogg Paimon: Kaeya, did you do your homework?
+Media:vo eqfh002 2 paimon 03.ogg Paimon: And what excuse does Kaeya have for not handing in his homework?
+Media:vo eqfh002 2 venti 01.ogg Venti: Traveler, Paimon, you're here!
+Media:vo eqfh002 2 venti 02.ogg Venti: Hmm, students that don't hand in their homework on time aren't exactly model students now, are they?
+Media:vo eqfh002 2 venti 03.ogg Venti: A drinking buddy? A friend you met at the tavern?
+Media:vo eqfh002 3 nimrod 01.ogg Nimrod: *sigh* What should I do...
+Media:vo eqfh002 3 nimrod 02.ogg Nimrod: ...Huh? Oh, Traveler... I didn't realize it was you.
+Media:vo eqfh002 3 nimrod 03.ogg Nimrod: ...It's like this: I'm planning to give a gift to my wife for the Windblume Festival, and I wanted my drinking buddy, Kaeya, to come up with a gift idea.
+Media:vo eqfh002 3 nimrod 04.ogg Nimrod: ...I—I'm afraid I'm a bit of a drunkard, I'm nearly always in the tavern. My wife hates me drinking, so we're constantly arguing.
+Media:vo eqfh002 3 nimrod 05.ogg Nimrod: I know... She's right, of course. I feel like I have to make it up to her.
+Media:vo eqfh002 3 nimrod 06.ogg Nimrod: ...Traveler, can you help me gather some materials? I want to make a gift for her myself.
+Media:vo eqfh002 3 nimrod 07.ogg Nimrod: ...I should have made preparations in advance, but I've barely been sober these last few days. I fell asleep, and when I woke up the celebrations had already begun! Now I'll never have time to finish it by myself...
+Media:vo eqfh002 3 nimrod 08.ogg Nimrod: Uh-huh... you're telling me... *sigh* I'm sorry... Here I am making a fool of myself in front of all of you.
+Media:vo eqfh002 3 nimrod 09.ogg Nimrod: I'm going to look for wood in the city, and we'll need plants to place inside. Those only grow in the wild, could I ask you to retrieve them? I need two stems of Small Lamp Grass.
+Media:vo eqfh002 3 nimrod 10.ogg Nimrod: I want to make her a little wooden house, with glowing flowers and handmade furniture inside...
+Media:vo eqfh002 3 nimrod 11.ogg Nimrod: A token of my love, haha. ...Back when I'd only just gotten to know her, I used to make handmade gifts for her all the time... She love them, she even used to say that...
+Media:vo eqfh002 3 nimrod 12.ogg Nimrod: Oh! Uh — ahem, excuse me. Let's put the past aside for the moment. Thank you all for your help.
+Media:vo eqfh002 3 paimon 01.ogg Paimon: You must be Nimrod! Kaeya mentioned there was something you wanted him to take care of. He's busy right now, but we can help.
+Media:vo eqfh002 3 paimon 02.ogg Paimon: Another day, another drunkard...
+Media:vo eqfh002 3 paimon 03.ogg Paimon: Yeesh, this guy is a mess...
+Media:vo eqfh002 3 paimon 04.ogg Paimon: *sigh* What's done is done. Spit it out then, how can we help?
+Media:vo eqfh002 3 paimon 05.ogg Paimon: Small Lamp Grass and wood... what are you making exactly?
+Media:vo eqfh002 3 paimon 06.ogg Paimon: Lucky you came across such kind-hearted assistants, hmm?
+Media:vo eqfh002 3 paimon 07.ogg Paimon: Alright, let's go and find those materials!
+Media:vo eqfh002 3 venti 01.ogg Venti: I can empathize, I don't mind a drink or two myself! Then again, and I'm not one to judge, but by the looks of your drinking habits... hmm...
+Media:vo eqfh002 3 venti 02.ogg Venti: ...Single folks in Mondstadt would never dare get others to help them during the festive period. It's lucky you're already married, Nimrod.
+Media:vo eqfh002 3 venti 03.ogg Venti: Aww, such a thoughtful gift!
+Media:vo eqfh002 4 nimrod 01.ogg Nimrod: ...Thank you, thank you so much! With these materials, I can get to work straight away.
+Media:vo eqfh002 4 nimrod 02.ogg Nimrod: I will, I will!
+Media:vo eqfh002 4 nimrod 03.ogg Nimrod: *sigh* I do hope she likes my gift, though...
+Media:vo eqfh002 4 paimon 01.ogg Paimon: Remember, a gift can't solve everything! You need to start being fair to your wife, too!
+Media:vo eqfh002 4 paimon 02.ogg Paimon: Make it a good one! Don't go wasting those materials, they weren't easy to find y'know!
+Media:vo eqfh002 4 venti 01.ogg Venti: Everyone likes a gift given with love, don't worry.
+Media:vo eqfh002 5 kaeya 01.ogg Kaeya: Welcome back, I'm just finishing up.
+Media:vo eqfh002 5 kaeya 02.ogg Kaeya: Alright, alright... Now then, no hurting my feelings.
+Media:vo eqfh002 5 kaeya 03.ogg Kaeya: Feel free.
+Media:vo eqfh002 5 kaeya 04.ogg Kaeya: Coherent and too the point. Plus, the length seems about right.
+Media:vo eqfh002 5 kaeya 05.ogg Kaeya: Hahaha, a love poem has to convey the style of its author, you know?
+Media:vo eqfh002 5 kaeya 06.ogg Kaeya: Haha, don't underestimate the hidden knowledge of the Knights of Favonius' Cavalry Captain!
+Media:vo eqfh002 5 kaeya 07.ogg Kaeya: ...!
+Media:vo eqfh002 5 kaeya 08.ogg Kaeya: I just caught sight of a suspicious figure, I must go and investigate. Traveler, I have another small task for you.
+Media:vo eqfh002 5 kaeya 09.ogg Kaeya: The Church has applied to us for a hunting license. Please take these official documents to the Cathedral.
+Media:vo eqfh002 5 paimon 01.ogg Paimon: We're back! Kaeya, have you finished?
+Media:vo eqfh002 5 paimon 02.ogg Paimon: Go, go, go, hand it in, hand it in!
+Media:vo eqfh002 5 paimon 03.ogg Paimon: Tone-Deaf Bard, what grade did he get?
+Media:vo eqfh002 5 paimon 04.ogg Paimon: Eh? Ehh!?
+Media:vo eqfh002 5 paimon 05.ogg Paimon: That's it!?
+Media:vo eqfh002 5 paimon 06.ogg Paimon: What!? Are you writing a Hilichurlian phrase book!?
+Media:vo eqfh002 5 paimon 07.ogg Paimon: Wait... so we're just gonna gloss over the fact that Kaeya can speak Hilichurlian? Weird.
+Media:vo eqfh002 5 paimon 08.ogg Paimon: *sigh* Running errands again...!
+Media:vo eqfh002 5 venti 01.ogg Venti: Time to hand in your homework!
+Media:vo eqfh002 5 venti 02.ogg Venti: Hmmm.. Mm? Ooooh...
+Media:vo eqfh002 5 venti 03.ogg Venti: Kaeya, may I read this out loud?
+Media:vo eqfh002 5 venti 04.ogg Venti: *clears throat*
+Media:vo eqfh002 5 venti 05.ogg Venti:
+"Mi muhe ye
+Means I love you
+In the language of the hilichurls."
+Media:vo eqfh002 5 venti 06.ogg Venti: That's it.
+Media:vo eqfh002 5 venti 07.ogg Venti: I'm not sure you took the exercise seriously.
+Media:vo eqfh002 5 venti 08.ogg Venti: Alright then, time to collect the next student's homework...
+Media:vo eqfh002 6 lisa 01.ogg Lisa: Oh Jean, you misunderstand me. That intoxicated fellow you witnessed last time was practically begging me to be shocked. It makes me wonder if some people don't actually quite enjoy getting—
+Media:vo eqfh002 6 lisa 02.ogg Lisa: *sigh* Very well then, if you insist.
+Media:vo eqfh002 6 lisa 03a.ogg Lisa: Aww, it's cutie and friends. Did you see any suspicious people on the way here? If you do see anything, report straight to the Knights.
+Media:vo eqfh002 6 lisa 04.ogg Lisa: Rarely, but this is the Windblume Festival, and they need all hands on deck. Even the humble clerical staff, like me.
+Media:vo eqfh002 6 lisa 05.ogg Lisa: If you don't like it, I can happily refrain.
+Media:vo eqfh002 6 paimon 01.ogg Paimon: Jean, Lisa!
+Media:vo eqfh002 6 paimon 02.ogg Paimon: Since when do librarians go out on patrol?
+Media:vo eqfh002 6 paimon 03.ogg Paimon: Paimon never knew being on patrol could be so exciting!
+Media:vo eqfh002 6 qin 01.ogg Jean: Lisa, we need to establish some ground rules... If we do end up apprehending any drunken troublemakers, no electrocutions. Okay?
+Media:vo eqfh002 6 qin 02.ogg Jean: Lisa!
+Media:vo eqfh002 6 qin 03.ogg Jean: A while indeed. As you can see, Lisa and I are on duty.
+Media:vo eqfh002 6 qin 04.ogg Jean: Lisa, "humble clerical staff" do not wield Electro the way you do.
+Media:vo eqfh002 6 qin 05.ogg Jean: *sigh* Please do not be alarmed, I will keep my eyes on Lisa. Especially since she seems to enjoy electrocuting people just to break up a scuffle. Not to mention shocking drunkards until they beg for mercy...
+Media:vo eqfh002 6 qin 06.ogg Jean: Is that a promise? Good. Otherwise, I'm going to have to reconsider whether I want a librarian on patrol with me.
+Media:vo eqfh002 6 venti 01.ogg Venti: Greetings, ladies! It's been a while.
+Media:vo eqfh002 7 barbara 01.ogg Barbara: How could somebody do this...
+Media:vo eqfh002 7 barbara 02.ogg Barbara: I... *sniff* I—I received a letter... *sniff* It says... I—It says...
+Media:vo eqfh002 7 barbara 03.ogg Barbara: I've never received a letter like this before.
+Media:vo eqfh002 7 barbara 04.ogg Barbara: ...But... what if it's real...?
+Media:vo eqfh002 7 barbara 05.ogg Barbara: I can't think straight right now, nothing makes sense... *whimpers*
+Media:vo eqfh002 7 barbara 06.ogg Barbara: The thing most precious to me... W—Wait, could it be? Oh no!
+Media:vo eqfh002 7 bennett 01.ogg Bennett: How dare they! This is sheer intimidation!
+Media:vo eqfh002 7 bennett 02.ogg Bennett: Let me. I just came back from the wilderness. As usual, I came by the Cathedral to ask the sisters to patch me up. That's when I saw Barbara running out, white as a sheet. She was holding a letter.
+Media:vo eqfh002 7 bennett 03.ogg Bennett: It's awful... is it a joke? If so, we don't need to worry. But...
+Media:vo eqfh002 7 bennett 04.ogg Bennett: Hmm... the thing most precious to you...
+Media:vo eqfh002 7 bennett 05.ogg Bennett: Huh... that location on the map is familiar, I've definitely been there before.
+Media:vo eqfh002 7 bennett 06.ogg Bennett: It's coming to me... It's coming to me...
+Media:vo eqfh002 7 bennett 07.ogg Bennett: Aha! I've got it! The Thousand Winds Temple!
+Media:vo eqfh002 7 paimon 01.ogg Paimon: Barbara, Kaeya sent us to deliver the—
+Media:vo eqfh002 7 paimon 02.ogg Paimon: Huh!?
+Media:vo eqfh002 7 paimon 03.ogg Paimon: There's a map on the back, isn't that out in the wilderness?    Map on the back  
+Media:vo eqfh002 7 paimon 04.ogg Paimon: Barbara! Hey! Slow down!
+Media:vo eqfh002 7 paimon 05.ogg Paimon: Why are they in such a hurry? Let's catch up with them!
+Media:vo eqfh002 7 venti 01.ogg Venti: What's happened?
+Media:vo eqfh002 7 venti 02.ogg Venti: Can I take a look?
+Watch Out!    Watch Out!  
+"Dear Barbara,
+I've stolen the thing most precious to you and buried it."
+Media:vo eqfh002 7 venti 03.ogg Venti: Hm... "Dear Barbara, I've stolen the thing most precious to you and buried it." Huh... Could this be an attempt at intimidation?
+Media:vo eqfh002 7 venti 04.ogg Venti: Hm, buried...
+Media:vo eqfh002 7 venti 05.ogg Venti: Bennett — hey!
+Media:vo eqfh002 8 barbara 01.ogg Barbara: ...My sister!
+Media:vo eqfh002 8 barbara 02.ogg Barbara: Rosaria! I just—
+Media:vo eqfh002 8 barbara 03.ogg Barbara: *gasp* R—Really? A—Are you sure?
+Media:vo eqfh002 8 barbara 04.ogg Barbara: Whew...
+Media:vo eqfh002 8 barbara 05.ogg Barbara: ...If they're not talking about Jean in the letter... then what are they talking about?
+Media:vo eqfh002 8 barbara 06.ogg Barbara: ...
+Media:vo eqfh002 8 barbara 07.ogg Barbara: ...You're right, it's just...
+Media:vo eqfh002 8 barbara 08.ogg Barbara: Uh? Th—That's very kind...
+Media:vo eqfh002 8 barbara 09.ogg Barbara: Mm-hmm! I'm... I'm okay.
+Media:vo eqfh002 8 barbara 10.ogg Barbara: Rosaria is right, better to know the of the enemy than stand here scaring myself.
+Media:vo eqfh002 8 barbara 11.ogg Barbara: Thank you, all of you. Let's get to the location and see what we find.
+Media:vo eqfh002 8 paimon 01.ogg Paimon: Did you really think they'd buried Jean underground!? What a horrible thought!
+Media:vo eqfh002 8 paimon 02.ogg Paimon: Nice work! How'd you figure that out so quickly?
+Media:vo eqfh002 8 paimon 03.ogg Paimon: Although... Dawn Winery? That's not the place we were thinking...
+Media:vo eqfh002 8 paimon 04.ogg Paimon: Eh? And what does that mean?
+Media:vo eqfh002 8 paimon 05.ogg Paimon: That's right! Let's get moving!
+Media:vo eqfh002 8 paimon 06.ogg Paimon: Yup, yup! Go, Barbara, go!
+Media:vo eqfh002 8 rosaria 01.ogg Rosaria: Slow down.
+Media:vo eqfh002 8 rosaria 02.ogg Rosaria: Calm down.
+Media:vo eqfh002 8 rosaria 03.ogg Rosaria: I ran into Jean a moment ago, Lisa was with her. She's fine.
+Media:vo eqfh002 8 rosaria 04.ogg Rosaria: ...
+Media:vo eqfh002 8 rosaria 05.ogg Rosaria: That letter. Give it to me.
+Media:vo eqfh002 8 rosaria 06.ogg Rosaria: Looking at the map, the perpetrator seems to have marked out an area around Dawn Winery.
+Media:vo eqfh002 8 rosaria 07.ogg Rosaria: That's open land, so hiding something there... Hmm, what could it be?
+Media:vo eqfh002 8 rosaria 08.ogg Rosaria: Barbara, rather than letting your imagination get the better of you, stand up and face this head-on.
+Media:vo eqfh002 8 rosaria 09.ogg Rosaria: No need... I knew straight away there was nothing to worry about.
+Media:vo eqfh002 8 rosaria 10.ogg Rosaria: ...Nothing. Get going, then.
+Media:vo eqfh002 8 venti 01.ogg Venti: Sure...
+Media:vo eqfh002 8 venti 02.ogg Venti: So, sister, have you found any leads?
+Media:vo eqfh002 8 venti 03.ogg Venti: Hehe, it's a little scary, right? That's why we're going with you. What do you say?
+Media:vo eqfh002 8 venti 04.ogg Venti: And you, Sister? Will you be accompanying us?
+Media:vo eqfh002 8 venti 05.ogg Venti: Barbara, are you feeling a bit better now?
+Media:vo eqfh002 9 paimon 01.ogg Paimon: Huh? Why are there Treasure Hoarders here?
+Rosaria - Thorny Benevolence
+Rosaria is a sister of the Church of Favonius, but you wouldn't know it except for her attire.
+Watch Out!    Watch Out!  
+You certainly won't find her saying prayers or attending Church gatherings. If you need to find this elusive sister for anything, then you might be looking for quite a while.

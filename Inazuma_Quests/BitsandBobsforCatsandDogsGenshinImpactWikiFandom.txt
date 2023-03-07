@@ -1,0 +1,45 @@
+ As soon as you've done your knitting!
+ Most of them look great.
+ Nice job.
+ Quest DescriptionYou meet up with Thoma again, and he brings the finished sweater.
+ Some things even Thoma can't fix, huh?
+ They're a pain in the butt.
+Media:vo tmcop001 1911802 thoma 05.ogg Thoma: Haha, you mean because they won't keep still?
+Media:vo tmcop001 1911802 thoma 06.ogg Thoma: In their defense, they've not really had proper training. It's natural for them to want to move around.
+ They're super cute.
+Media:vo tmcop001 1911802 thoma 03.ogg Thoma: I'll have to think carefully about what kind of sweaters to knit for each of them.
+Media:vo tmcop001 1911802 thoma 04.ogg Thoma: The colors should be complementary... Hmm... Well you know what? Let's buy some yarn from the next store we pass.
+ Yep, see you next time!
+Media:vo tmcop001 1911602 thoma 23.ogg Thoma: Ahh, they're so cute... Come on, let's take some photos, (Traveler).
+Media:vo tmcop001 1911801 thoma 01.ogg Thoma: *yawn* So sleepy...
+Media:vo tmcop001 1911801 thoma 02.ogg Thoma: I had some things I needed to do, so I ended up burning the midnight oil to get those sweaters knitted.
+Media:vo tmcop001 1911801 thoma 03.ogg Thoma: I wonder if they'll actually suit them though... Hmm, let's start by testing them out on the friendlier ones, (Traveler).
+Media:vo tmcop001 1911801 thoma 04.ogg Thoma: This one's for Petal, this one's for Darko, and this one's for Goldilocks...
+Media:vo tmcop001 1911801 thoma 05.ogg Thoma: With any luck, that should see them through the winter.
+Media:vo tmcop001 1911801 thoma 06.ogg Thoma: Then, come the spring, a new year will begin...
+Media:vo tmcop001 1911801 thoma 07.ogg Thoma: ...and they'll be free to roam the wilds once again.
+Media:vo tmcop001 1911801 thoma 08.ogg Thoma: You know, if you take one day at a time and be kind to the world, good things will come your way eventually.
+Media:vo tmcop001 1911801 thoma 09.ogg Thoma: That might sound a bit naive, but I really do believe it.
+Media:vo tmcop001 1911801 thoma 10.ogg Thoma: At least... it seems to have worked for me, you know?
+Media:vo tmcop001 1911802 thoma 01.ogg Thoma: Well, I think we've got enough photos now.
+Media:vo tmcop001 1911802 thoma 02.ogg Thoma: I can't get over how cute they are! They're just adorable, aren't they, (Traveler)?
+Media:vo tmcop001 1911802 thoma 03.ogg Thoma: I'll have to think carefully about what kind of sweaters to knit for each of them.
+Media:vo tmcop001 1911802 thoma 04.ogg Thoma: The colors should be complementary... Hmm... Well you know what? Let's buy some yarn from the next store we pass.
+Media:vo tmcop001 1911802 thoma 05.ogg Thoma: Haha, you mean because they won't keep still?
+Media:vo tmcop001 1911802 thoma 06.ogg Thoma: In their defense, they've not really had proper training. It's natural for them to want to move around.
+Media:vo tmcop001 1911802 thoma 07.ogg Thoma: You know, the first time I came here, there was just one stray dog on its own.
+Media:vo tmcop001 1911802 thoma 08.ogg Thoma: I still remember the first time I fed it. It was a rainy day.
+Media:vo tmcop001 1911802 thoma 09.ogg Thoma: The Kamisato Clan had just introduced a series of new policies, but a few of the more stubborn clan elders were extremely resistant to the changes.
+Media:vo tmcop001 1911802 thoma 10.ogg Thoma: I was holding my umbrella, on my way to visit one such gentleman of senior status. The plan was to talk him into supporting the clan's decision.
+Media:vo tmcop001 1911802 thoma 11.ogg Thoma: Sadly, he wasn't interested in having a conversation — he didn't even let me in. As soon as he saw me coming, he got his samurai to send me away.
+Media:vo tmcop001 1911802 thoma 12.ogg Thoma: I mean, I fixed it in the end of course. It's just that the first few visits didn't go so smoothly.
+Media:vo tmcop001 1911802 thoma 13.ogg Thoma: So anyway, after they turned me away, the weather went from bad to worse. The wind was so strong it rendered my umbrella completely useless... Before long, I was drenched from head to toe — I must have looked like a real mess.
+Media:vo tmcop001 1911802 thoma 14.ogg Thoma: I decided to take shelter under a tree, and found a stray dog sitting there who had the same idea as me.
+Media:vo tmcop001 1911802 thoma 15.ogg Thoma: It saw me and moved a little further in, like it was trying to make room for me.
+Media:vo tmcop001 1911802 thoma 16.ogg Thoma: So, we sat there together. I shared my Onigiri with it — stone cold by this point, but still edible — and we ended up huddling together, waiting for the rain to stop.
+Media:vo tmcop001 1911802 thoma 17.ogg Thoma: As far as the big shots are concerned, I'm just an expendable servant boy. I always have to be mindful about what they might want, and what I can do for them in return.
+Media:vo tmcop001 1911802 thoma 18.ogg Thoma: But when I'm with these little guys and gals, everything's so much simpler. One stone-cold Onigiri, and hey presto. We're friends for life.
+Media:vo tmcop001 1911802 thoma 19.ogg Thoma: Even when I show up empty-handed, they still come to me. When it comes down to it, I think it's these simple and straightforward connections that I value the most.
+Media:vo tmcop001 1911802 thoma 20.ogg Thoma: Sorry, ended up giving you the unabridged version! Shall we come visit this place again some other time?
+Media:vo tmcop001 1911802 thoma 21.ogg Thoma: Great. I'll see you soon!
+You dress the stray cats and dogs in sweaters with Thoma.
